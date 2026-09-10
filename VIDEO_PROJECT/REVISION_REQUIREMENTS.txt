@@ -1,0 +1,990 @@
+The current video is NOT acceptable yet.
+
+Do not continue forward as if the existing edit is finished.
+
+Review the entire current project from beginning to end and CORRECT the existing mistakes before considering this video complete.
+
+The problems below are not suggestions. They are production requirements.
+
+# 1. REMOVE THE GENERIC AI DOCUMENTARY LOOK
+
+The current edit still looks too much like a generic AI-generated documentary.
+
+Do NOT repeatedly use:
+
+- black/dark backgrounds
+- condensed all-caps white text
+- tiny metadata
+- red accent lines
+- centered quote cards
+- identical chapter cards
+- repeated monospace labels
+- identical source labels
+- repeated lower thirds
+- the same animation for every piece of information
+
+The video must feel HAND-DESIGNED.
+
+Maintain consistent ART DIRECTION, not consistent layouts.
+
+A coherent video can have completely different compositions from scene to scene while still feeling like one production.
+
+Every important idea should receive its own visual treatment.
+
+Do not think:
+
+"What template should I use?"
+
+Think:
+
+"What is the most interesting and clear thing the viewer could SEE while hearing this?"
+
+---
+
+# 2. REMOVE PERMANENT BOTTOM TEXT
+
+There must NOT be a permanent caption/source/metadata strip at the bottom of the screen.
+
+Remove recurring elements such as:
+
+"P.T. © Konami / via..."
+"Source: ..."
+"Archive / 2014"
+"01 / DON'T DELETE IT"
+chapter numbers
+file names
+decorative metadata
+constant attribution bars
+
+Do not leave decorative text on screen simply because it looks documentary-like.
+
+Source information should primarily be tracked internally in the project source/license files.
+
+Only place identifying text on screen when it genuinely helps the viewer understand something.
+
+Examples where temporary lower thirds are acceptable:
+
+- identifying a person
+- identifying a location
+- showing an important date
+- identifying an interview
+- clarifying the source of a specific piece of evidence
+
+Then REMOVE the text.
+
+No permanent metadata overlays.
+
+---
+
+# 3. STOP REPEATING THE NARRATION AS TEXT
+
+Do not display the same information that is already being spoken.
+
+BAD:
+
+VOICE:
+"The game was removed from the PlayStation Store."
+
+SCREEN:
+"THE GAME WAS REMOVED FROM THE PLAYSTATION STORE"
+
+Instead, visually demonstrate the statement.
+
+Example:
+
+VOICE:
+"The game was removed from the PlayStation Store."
+
+VISUAL:
+actual or recreated PlayStation Store interface
+→ search/open game
+→ listing unavailable
+→ small relevant date appears
+→ transition to original source/article
+
+Narration and visuals should complement each other.
+
+Text should ADD information, not duplicate it.
+
+---
+
+# 4. ALL IMAGES AND CLIPS MUST ACTUALLY MATCH THE NARRATION
+
+The current edit contains images/clips that are only vaguely connected to the subject.
+
+This is not acceptable.
+
+Every visual must answer:
+
+"Why is THIS exact visual on screen during THIS exact sentence?"
+
+Use this priority order:
+
+1. Exact event being discussed
+2. Exact game/person/character/object/location
+3. Original source/evidence
+4. Closely related contextual material
+5. Purpose-built graphic
+6. Useful visual metaphor
+7. Generic B-roll only as a last resort
+
+Do NOT use a random horror hallway merely because the subject is P.T.
+
+Do NOT use generic gaming footage when specific P.T. footage is available.
+
+Do NOT use vaguely similar imagery simply to fill time.
+
+Context is more important than atmosphere.
+
+---
+
+# 5. SOURCE IMPORTANT MEDIA BEFORE FINALIZING SCRIPT TIMING
+
+Do NOT rigidly use:
+
+SCRIPT
+→ VOICEOVER
+→ FORCE RANDOM VISUALS UNDER IT.
+
+For sections that depend heavily on visual material, use:
+
+RESEARCH
+→ FIND THE REAL VISUAL SOURCES
+→ INSPECT THE CLIPS
+→ DETERMINE THE USEFUL MOMENTS
+→ ADJUST THE SCRIPT
+→ RECORD/REGENERATE VOICE
+→ EDIT
+
+The visuals and script should influence each other.
+
+It is completely acceptable — and often preferable — to source footage BEFORE the final script for that section is locked.
+
+If a good clip requires changing narration timing, change the narration.
+
+If the script is too long for the useful footage, rewrite it.
+
+If there is excellent footage that improves the story, allow the script to adapt to it.
+
+The final video is more important than preserving an earlier script draft.
+
+---
+
+# 6. DO NOT LOCK TIMING UNTIL THE MEDIA IS KNOWN
+
+Use an iterative workflow:
+
+SCRIPT DRAFT
+↕
+MEDIA SOURCING
+↕
+VOICE PERFORMANCE
+↕
+EDIT
+
+Each stage can modify the others.
+
+Examples:
+
+If an excellent archival clip naturally lasts 11 seconds:
+allow the narration/edit to use those 11 seconds if it improves the video.
+
+If the only useful portion of a clip is 2.5 seconds:
+do not stretch it to 8 seconds.
+
+If the important event happens at the end of the clip:
+do not cut away before it happens.
+
+If a visual reveal works better before narration:
+move the narration.
+
+If the voice timing creates an awkward edit:
+regenerate/re-record that section.
+
+Do not protect the script at the expense of the final viewing experience.
+
+---
+
+# 7. EVERY CLIP MUST HAVE THE CORRECT LENGTH
+
+There is NO universal clip duration.
+
+Do not automatically cut clips to:
+
+2 seconds
+3 seconds
+5 seconds
+7 seconds
+10 seconds
+
+Inspect every clip.
+
+Use it for exactly as long as needed for the viewer to understand the useful visual information.
+
+Every shot should have:
+
+A CLEAN ENTRY
+A USEFUL MIDDLE
+A CLEAN EXIT
+
+Do not:
+
+- enter too late
+- leave before the important action finishes
+- hold footage after the useful action is over
+- artificially extend footage to match narration
+- cut simply because a timer says so
+
+EDIT AROUND VISUAL EVENTS, NOT ARBITRARY DURATIONS.
+
+A great 10-second shot is better than five unrelated 2-second shots.
+
+A 1.5-second shot is fine when that is genuinely all that is needed.
+
+---
+
+# 8. NO ACCIDENTAL LOOPING
+
+Never loop footage simply because the narration is longer than the source clip.
+
+PROHIBITED:
+
+clip plays
+→ reaches the end
+→ jumps back to beginning
+→ plays again
+
+Also avoid:
+
+- immediately replaying the same motion
+- ping-ponging forward and backward
+- reversing footage to extend it
+- excessively slowing a clip to fill time
+- freezing the last frame for several seconds
+- repeating the same reaction/action twice without an intentional storytelling reason
+
+If footage runs out:
+
+- find another relevant clip
+- use another angle
+- use a screenshot
+- use original evidence
+- move into another related source
+- create a relevant graphic
+- rewrite the narration
+- shorten the section
+- rearrange the edit
+
+Never make the viewer notice that the editor ran out of footage.
+
+---
+
+# 9. REMOVE CHOPPY EDITING
+
+Fast pacing does NOT mean constant random cuts.
+
+Cuts must be motivated.
+
+Good cut reasons:
+
+- an action finishes
+- narration moves to a new idea
+- new evidence appears
+- the viewer has absorbed the current visual
+- a music beat supports it
+- movement creates a natural match cut
+- emphasis requires interruption
+- pacing intentionally accelerates
+
+Do not do:
+
+1-second clip
+CUT
+1.5-second clip
+CUT
+2-second clip
+CUT
+1-second clip
+CUT
+
+for no reason.
+
+If something interesting is happening, LET THE VIEWER WATCH IT.
+
+Do not interrupt an important visual halfway through its action.
+
+The timeline should feel fluid rather than machine-timed.
+
+---
+
+# 10. FIX ALL VOICEOVER GAPS
+
+The narration must sound like ONE CONTINUOUS HUMAN PERFORMANCE.
+
+The current output must NOT contain unnatural AI gaps between words, phrases, sentences or separately generated chunks.
+
+Unacceptable example:
+
+"The game disappeared...      and nobody knew why."
+
+or:
+
+"He opened the door.        But then..."
+
+Ordinary speech should flow naturally.
+
+Do not leave obvious silence simply because punctuation exists in the script.
+
+The voiceover must use natural connected speech.
+
+Generate narration in longer sections whenever technically possible.
+
+Prefer:
+
+paragraph-level
+scene-level
+multi-sentence generation
+
+over:
+
+one sentence at a time.
+
+---
+
+# 11. REMOVE AI TTS JOIN ARTIFACTS
+
+When separate voice generations must be combined:
+
+- trim unnecessary leading silence
+- trim unnecessary trailing silence
+- remove artificial gaps
+- match cadence
+- match volume
+- match tone
+- match energy
+- match pacing
+- match pronunciation
+- use micro-crossfades where helpful
+- ensure word endings are not cut
+- ensure word beginnings are not cut
+
+The edit point between two generations should be inaudible.
+
+The viewer should never be able to tell where one TTS generation ended and another began.
+
+---
+
+# 12. NATURAL PAUSES ARE NOT EMPTY SILENCE
+
+Do not misinterpret "natural pacing" as "add long pauses."
+
+Normal speech contains small timing variations, not constant dramatic silence.
+
+Do NOT automatically create long pauses after:
+
+- commas
+- periods
+- paragraph breaks
+- scene transitions
+- every dramatic sentence
+
+Long silence should only be used intentionally for:
+
+- a major reveal
+- emotional impact
+- joke timing
+- suspense
+- a major transition
+- intentional atmospheric silence
+
+Most ordinary sentences should flow directly into the next thought.
+
+---
+
+# 13. REMOVE BREATHS WITHOUT CREATING GAPS
+
+Remove or strongly reduce distracting:
+
+- breathing
+- inhalations
+- gasps
+- mouth clicks
+- saliva sounds
+- lip noise
+- obvious synthetic artifacts
+
+BUT:
+
+Do not remove a breath and leave a large empty gap where it used to be.
+
+Use timing adjustments, room tone or micro-crossfades so the speech remains fluid.
+
+Remove BREATH SOUNDS.
+
+Do not remove NATURAL RHYTHM.
+
+---
+
+# 14. AUDIO-ONLY QUALITY TEST
+
+Before approving the corrected voiceover:
+
+Listen to the entire narration WITHOUT WATCHING THE VIDEO.
+
+Ask:
+
+"Does this sound like one human recorded the narration in a coherent session?"
+
+Check for:
+
+- unnatural gaps
+- sentence-by-sentence TTS joins
+- repeated rhythm
+- robotic cadence
+- random pitch changes
+- sudden speed changes
+- different energy between chunks
+- mispronunciations
+- clipped beginnings
+- clipped endings
+- volume changes
+- fake dramatic pauses
+- excessive breaths
+- mouth sounds
+
+Fix all noticeable problems BEFORE finalizing visual timing.
+
+---
+
+# 15. VISUAL VARIETY
+
+Do not repeat the same visual grammar throughout the video.
+
+Use presentation styles appropriate to the story, including when useful:
+
+- gameplay
+- cinematic footage
+- archival material
+- websites
+- old web interfaces
+- console UI
+- screenshots
+- original documents
+- articles
+- interviews
+- maps
+- timelines
+- forums
+- desktop/file-system sequences
+- comic panels
+- motion graphics
+- diagrams
+- source highlighting
+- collages
+- split screen
+- 2.5D scenes
+- environmental typography
+- generated illustrative material
+- minimal sequences with no text
+
+Do not use these randomly.
+
+Choose the best style for the information being communicated.
+
+---
+
+# 16. TYPOGRAPHY MUST NOT BE PREDICTABLE
+
+Do not use one headline font for everything.
+
+Build a small coherent type system.
+
+Possible roles:
+
+- display font
+- readable sans serif
+- editorial serif
+- document/typewriter font
+- occasional subject-specific accent font
+
+Do NOT make every scene:
+
+WHITE
+CONDENSED
+ALL CAPS
+CENTERED
+
+Text can sometimes be:
+
+- large
+- tiny
+- left aligned
+- right aligned
+- integrated into UI
+- attached to an object
+- behind imagery
+- inside a document
+- used as an annotation
+- animated
+- absent entirely
+
+Some scenes should contain NO text.
+
+---
+
+# 17. SOURCE-BASED DESIGN
+
+Whenever original evidence exists, let the source itself influence the visual presentation.
+
+If discussing an article:
+
+show the article.
+
+If discussing a website:
+
+show/navigate the website.
+
+If discussing a forum post:
+
+show the forum.
+
+If discussing a game interface:
+
+show the actual interface.
+
+If discussing an announcement:
+
+show the original announcement.
+
+Do not constantly extract quotes and put them on generic cards.
+
+Guide the viewer's eye toward:
+
+- headline
+- author
+- date
+- relevant paragraph
+- screenshot detail
+- important quote
+- UI element
+
+Make the viewer feel as though they are discovering the evidence themselves.
+
+---
+
+# 18. MOTION SHOULD COMMUNICATE MEANING
+
+Do not rely constantly on:
+
+- slow zoom
+- fade
+- slide
+- tiny scale-up
+- generic push-in
+
+Use motion that reflects the story.
+
+Examples:
+
+A file is deleted:
+visually delete/remove it.
+
+Something disappears:
+remove it from the composition.
+
+A character is replaced:
+visually replace the portrait.
+
+A claim is contradicted:
+place new evidence over the old claim.
+
+A location changes:
+move through a map.
+
+Time passes:
+move through a timeline.
+
+A system shuts down:
+allow UI elements to disappear.
+
+Motion should communicate information whenever possible.
+
+---
+
+# 19. NO SLIDESHOW SEQUENCES
+
+Avoid sequences that feel like:
+
+IMAGE
++
+TEXT
++
+ZOOM
++
+CUT
++
+IMAGE
++
+TEXT
++
+ZOOM
+
+If the video starts feeling like a slideshow for more than a short period, redesign it.
+
+Introduce:
+
+- real motion
+- footage
+- interaction
+- layered design
+- UI
+- source discovery
+- visual metaphor
+- animation
+- timeline movement
+- environmental scenes
+- meaningful camera movement
+
+---
+
+# 20. DO NOT OVEREDIT
+
+These rules do NOT mean everything must constantly move.
+
+Use restraint.
+
+Sometimes the strongest visual is:
+
+one image
+no text
+slow movement
+quiet music
+
+or even:
+
+complete silence.
+
+Visual contrast is important.
+
+BUSY → SIMPLE
+FAST → SLOW
+TEXT → NO TEXT
+FOOTAGE → GRAPHIC
+LOUD → QUIET
+DARK → BRIGHT
+
+If everything is visually intense, nothing feels important.
+
+---
+
+# 21. EVERY VIDEO GETS ITS OWN VISUAL IDENTITY
+
+Do not automatically reuse the same:
+
+black
+dark green
+beige
+red
+monospace
+condensed typography
+
+look for every future video.
+
+Build the art direction from the subject.
+
+For P.T., the visual identity may draw from:
+
+- actual P.T. imagery
+- PS4 UI
+- Silent Hills promotional material
+- 2014 web design
+- Konami material
+- horror lighting
+- dirty beige
+- deep green-black
+- subtle PlayStation blue
+- restrained red/orange accents
+
+For another subject, build a DIFFERENT identity.
+
+Maintain consistency inside a project without creating a reusable AI template.
+
+---
+
+# 22. REPETITION DETECTION
+
+Before export, scan the timeline for repeated patterns.
+
+Flag and redesign areas where:
+
+- the same text layout appears repeatedly
+- the same lower third keeps returning
+- the same title-card composition appears several times
+- every image gets the same zoom
+- every transition uses the same effect
+- text is constantly centered
+- the same color background dominates without reason
+- multiple scenes use the same crop
+- visuals repeatedly follow TEXT → IMAGE → TEXT → IMAGE
+
+The viewer should not be able to predict exactly what the next graphic looks like.
+
+---
+
+# 23. VISUAL RELEVANCE REVIEW
+
+Review the entire video sentence by sentence.
+
+For every shot ask:
+
+"What exact line of narration does this visual support?"
+
+If the answer is weak, replace the visual.
+
+Do not accept:
+
+"It has the same mood."
+"It is also horror-related."
+"It is also about games."
+"It looks cool."
+
+The visual must either:
+
+- directly illustrate
+- provide evidence
+- establish necessary context
+- create a meaningful visual metaphor
+- intentionally establish atmosphere
+
+If it does none of these, remove it.
+
+---
+
+# 24. CLIP CONTINUITY REVIEW
+
+Review every source clip for:
+
+- accidental loops
+- repeated frames
+- reverse playback
+- freeze frames
+- awkward entry points
+- cuts before actions finish
+- unnecessary slow motion
+- repeated shots too close together
+- source footage replayed simply to fill time
+
+Fix every instance.
+
+No accidental visual looping should remain.
+
+---
+
+# 25. COMPLETE VIDEO REVIEW
+
+Watch the complete corrected video from START TO FINISH.
+
+Not just the timeline.
+
+Not just individual scenes.
+
+Watch the final render as a viewer.
+
+Check for:
+
+- boring sections
+- unrelated footage
+- choppy cuts
+- looping
+- repeated visuals
+- generic AI layouts
+- permanent bottom text
+- repeated fonts
+- fake-looking graphics
+- bad source presentation
+- low-resolution images
+- watermarks
+- incorrect dates
+- incorrect clips
+- subtitle mistakes
+- unnatural narration
+- gaps between phrases
+- breaths
+- audio pops
+- bad TTS joins
+- music overpowering narration
+- awkward silence
+- black frames
+- broken animations
+- stretched images
+- visual repetition
+
+If any of these exist, FIX THEM.
+
+Do not merely list the problem in a report.
+
+Correct the actual project.
+
+---
+
+# 26. HUMAN EDITOR TEST
+
+Before approval, ask:
+
+"If I were not told AI made this video, would anything about the edit make me suspect it?"
+
+If YES:
+
+identify the patterns causing that impression and redesign them.
+
+Then ask:
+
+"Does this feel like an editor deliberately chose every visual?"
+
+If NO:
+
+continue revising.
+
+Then ask:
+
+"Does the narration sound like a human speaking continuously rather than TTS clips stitched together?"
+
+If NO:
+
+continue correcting the voiceover.
+
+Then ask:
+
+"Is every clip shown for the correct duration based on what actually happens in the clip?"
+
+If NO:
+
+retime it.
+
+Then ask:
+
+"Is every image or clip genuinely connected to what is being discussed?"
+
+If NO:
+
+replace it.
+
+---
+
+# 27. DO NOT JUST TELL ME WHAT IS WRONG
+
+This is important:
+
+Do NOT respond with only:
+
+"I found these issues..."
+
+Do NOT only create a quality-control report.
+
+Do NOT simply explain what should be fixed.
+
+Actually modify the project.
+
+Replace bad clips.
+
+Retiming clips.
+
+Remove looping.
+
+Replace unrelated images.
+
+Rewrite narration where required.
+
+Regenerate voiceover sections.
+
+Remove pauses.
+
+Remove breaths.
+
+Fix audio joins.
+
+Remove permanent lower-third text.
+
+Redesign repetitive title cards.
+
+Replace generic visuals.
+
+Change typography where needed.
+
+Rebuild weak sequences.
+
+Rerender the video.
+
+Then inspect the corrected render again.
+
+Repeat this process until it passes the requirements.
+
+---
+
+# 28. CORRECTION WORKFLOW
+
+Use this exact process:
+
+1. Review the existing full video.
+2. Create an internal issue list with timestamps.
+3. Prioritize severe viewer-retention and quality problems.
+4. Fix narration first where timing is fundamentally wrong.
+5. Source better footage where existing material is inadequate.
+6. Rewrite affected narration if the new visuals require it.
+7. Correct clip entry/exit timing.
+8. Eliminate all accidental loops.
+9. Replace irrelevant footage.
+10. Remove unnecessary permanent text overlays.
+11. Redesign repeated template-like scenes.
+12. Improve typography variety.
+13. Fix transitions and choppy cuts.
+14. Clean voiceover gaps, breaths and TTS joins.
+15. Rebalance music and SFX.
+16. Rerender.
+17. Watch the ENTIRE new render.
+18. Identify remaining problems.
+19. Fix them.
+20. Only then produce the final export.
+
+Do not assume one correction pass will be enough.
+
+---
+
+# FINAL NON-NEGOTIABLE PRINCIPLES
+
+THE FINISHED VIDEO IS THE MASTER.
+
+Not the original script.
+Not the first voiceover.
+Not the first storyboard.
+Not the initial source list.
+
+If changing an earlier decision improves the final video, change it.
+
+Never force footage to fit arbitrary narration timing.
+
+Never force narration to preserve a bad visual sequence.
+
+Never loop footage because you ran out of material.
+
+Never use unrelated media because it is convenient.
+
+Never leave AI-style narration gaps.
+
+Never use permanent decorative source bars.
+
+Never rely on one repeated typography/layout template.
+
+Never treat "natural pauses" as random silence.
+
+Never hide quality problems in a production report instead of fixing them.
+
+The final output should feel like a skilled human WRITER, NARRATOR, RESEARCHER, MOTION DESIGNER and VIDEO EDITOR worked together on one coherent production.
+
+The goal is not:
+
+"good enough for an AI-generated video."
+
+The goal is:
+
+"good enough that the viewer does not care or suspect how it was produced."

@@ -1,0 +1,13 @@
+{
+  "duration_seconds": 622.2364791666666,
+  "shots": 53,
+  "real_video_seconds": 311.0198541666666,
+  "web_evidence_seconds": 100.77402083333334,
+  "ai_images": 0,
+  "permanent_source_footers": 0,
+  "voice_takes": 10,
+  "removed_measured_silence_seconds": 5.435532600000025,
+  "intentional_title_reveal_hold_seconds": 12,
+  "unintentional_overlapping_source_ranges": 0,
+  "hyperframes_version": "0.8.32"
+}

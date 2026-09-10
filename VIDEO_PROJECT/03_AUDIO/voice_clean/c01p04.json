@@ -1,0 +1,197 @@
+{
+  "id": "c01p04",
+  "text": "To understand why people cared this much about a free download, we need to go back to the night it was pretending to be something else.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c01p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c01p04.wav",
+  "duration": 8.256,
+  "words": [
+    {
+      "id": "w0",
+      "text": "To",
+      "start": 0.106375,
+      "end": 0.186166
+    },
+    {
+      "id": "w1",
+      "text": "understand",
+      "start": 0.199458,
+      "end": 0.877666
+    },
+    {
+      "id": "w2",
+      "text": "why",
+      "start": 1.050541,
+      "end": 1.382957
+    },
+    {
+      "id": "w3",
+      "text": "people",
+      "start": 1.382958,
+      "end": 1.808499
+    },
+    {
+      "id": "w4",
+      "text": "cared",
+      "start": 1.821791,
+      "end": 2.194124
+    },
+    {
+      "id": "w5",
+      "text": "this",
+      "start": 2.194166,
+      "end": 2.393624
+    },
+    {
+      "id": "w6",
+      "text": "much",
+      "start": 2.393625,
+      "end": 2.712791
+    },
+    {
+      "id": "w7",
+      "text": "about",
+      "start": 2.726083,
+      "end": 3.031916
+    },
+    {
+      "id": "w8",
+      "text": "a",
+      "start": 3.031916,
+      "end": 3.058499
+    },
+    {
+      "id": "w9",
+      "text": "free",
+      "start": 3.0585,
+      "end": 3.444125
+    },
+    {
+      "id": "w10",
+      "text": "download,",
+      "start": 3.457458,
+      "end": 4.109041
+    },
+    {
+      "id": "w11",
+      "text": "we",
+      "start": 4.58775,
+      "end": 4.694125
+    },
+    {
+      "id": "w12",
+      "text": "need",
+      "start": 4.707458,
+      "end": 4.827124
+    },
+    {
+      "id": "w13",
+      "text": "to",
+      "start": 4.827125,
+      "end": 4.867
+    },
+    {
+      "id": "w14",
+      "text": "go",
+      "start": 4.867041,
+      "end": 5.013291
+    },
+    {
+      "id": "w15",
+      "text": "back",
+      "start": 5.013291,
+      "end": 5.265957
+    },
+    {
+      "id": "w16",
+      "text": "to",
+      "start": 5.265958,
+      "end": 5.332458
+    },
+    {
+      "id": "w17",
+      "text": "the",
+      "start": 5.332458,
+      "end": 5.412249
+    },
+    {
+      "id": "w18",
+      "text": "night",
+      "start": 5.425541,
+      "end": 5.824457
+    },
+    {
+      "id": "w19",
+      "text": "it",
+      "start": 6.010625,
+      "end": 6.090416
+    },
+    {
+      "id": "w20",
+      "text": "was",
+      "start": 6.103708,
+      "end": 6.236666
+    },
+    {
+      "id": "w21",
+      "text": "pretending",
+      "start": 6.25,
+      "end": 6.848416
+    },
+    {
+      "id": "w22",
+      "text": "to",
+      "start": 6.848416,
+      "end": 6.914874
+    },
+    {
+      "id": "w23",
+      "text": "be",
+      "start": 6.914875,
+      "end": 7.02125
+    },
+    {
+      "id": "w24",
+      "text": "something",
+      "start": 7.021291,
+      "end": 7.353707
+    },
+    {
+      "id": "w25",
+      "text": "else.",
+      "start": 7.353708,
+      "end": 7.885624
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-23.59",
+      "input_tp": "-5.37",
+      "input_lra": "5.20",
+      "input_thresh": "-33.83",
+      "output_i": "-17.21",
+      "output_tp": "-1.50",
+      "output_lra": "1.50",
+      "output_thresh": "-27.43",
+      "normalization_type": "dynamic",
+      "target_offset": "1.21"
+    },
+    "output": {
+      "input_i": "-23.59",
+      "input_tp": "-5.37",
+      "input_lra": "5.20",
+      "input_thresh": "-33.83",
+      "output_i": "-16.37",
+      "output_tp": "-1.50",
+      "output_lra": "1.50",
+      "output_thresh": "-26.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.37"
+    }
+  },
+  "fingerprint": "66ae2eb59a603a79c8b037868de79bf72075ff1493506bec1b7b45c8c4a842da"
+}

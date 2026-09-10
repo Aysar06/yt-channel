@@ -1,0 +1,341 @@
+{
+  "id": "c08p02",
+  "text": "Notice how neatly that reverses the original game. In the hallway, you wanted to leave. Outside it, people wanted a way back. The thing you couldn't escape became the thing you might never get to enter. There is a pretty good horror story in that, without adding a single ghost.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c08p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c08p02.wav",
+  "duration": 16.752,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Notice",
+      "start": 0.067916,
+      "end": 0.366832
+    },
+    {
+      "id": "w1",
+      "text": "how",
+      "start": 0.366833,
+      "end": 0.543458
+    },
+    {
+      "id": "w2",
+      "text": "neatly",
+      "start": 0.543458,
+      "end": 1.141291
+    },
+    {
+      "id": "w3",
+      "text": "that",
+      "start": 1.154875,
+      "end": 1.3315
+    },
+    {
+      "id": "w4",
+      "text": "reverses",
+      "start": 1.331541,
+      "end": 1.929332
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 1.929333,
+      "end": 2.024458
+    },
+    {
+      "id": "w6",
+      "text": "original",
+      "start": 2.024458,
+      "end": 2.459249
+    },
+    {
+      "id": "w7",
+      "text": "game.",
+      "start": 2.472833,
+      "end": 2.853249
+    },
+    {
+      "id": "w8",
+      "text": "In",
+      "start": 3.288041,
+      "end": 3.355957
+    },
+    {
+      "id": "w9",
+      "text": "the",
+      "start": 3.355958,
+      "end": 3.410291
+    },
+    {
+      "id": "w10",
+      "text": "hallway,",
+      "start": 3.410333,
+      "end": 4.048916
+    },
+    {
+      "id": "w11",
+      "text": "you",
+      "start": 4.307083,
+      "end": 4.429333
+    },
+    {
+      "id": "w12",
+      "text": "wanted",
+      "start": 4.429333,
+      "end": 4.605958
+    },
+    {
+      "id": "w13",
+      "text": "to",
+      "start": 4.605958,
+      "end": 4.660291
+    },
+    {
+      "id": "w14",
+      "text": "leave.",
+      "start": 4.673916,
+      "end": 5.203791
+    },
+    {
+      "id": "w15",
+      "text": "Outside",
+      "start": 5.652166,
+      "end": 6.141291
+    },
+    {
+      "id": "w16",
+      "text": "it,",
+      "start": 6.154875,
+      "end": 6.317916
+    },
+    {
+      "id": "w17",
+      "text": "people",
+      "start": 6.535333,
+      "end": 6.834249
+    },
+    {
+      "id": "w18",
+      "text": "wanted",
+      "start": 6.847833,
+      "end": 7.038041
+    },
+    {
+      "id": "w19",
+      "text": "a",
+      "start": 7.038041,
+      "end": 7.078791
+    },
+    {
+      "id": "w20",
+      "text": "way",
+      "start": 7.078791,
+      "end": 7.255416
+    },
+    {
+      "id": "w21",
+      "text": "back.",
+      "start": 7.269041,
+      "end": 7.771749
+    },
+    {
+      "id": "w22",
+      "text": "The",
+      "start": 8.220125,
+      "end": 8.301666
+    },
+    {
+      "id": "w23",
+      "text": "thing",
+      "start": 8.315208,
+      "end": 8.586958
+    },
+    {
+      "id": "w24",
+      "text": "you",
+      "start": 8.586958,
+      "end": 8.777166
+    },
+    {
+      "id": "w25",
+      "text": "couldn't",
+      "start": 8.79075,
+      "end": 9.116833
+    },
+    {
+      "id": "w26",
+      "text": "escape",
+      "start": 9.116833,
+      "end": 9.687499
+    },
+    {
+      "id": "w27",
+      "text": "became",
+      "start": 9.72825,
+      "end": 10.122291
+    },
+    {
+      "id": "w28",
+      "text": "the",
+      "start": 10.122291,
+      "end": 10.203791
+    },
+    {
+      "id": "w29",
+      "text": "thing",
+      "start": 10.203791,
+      "end": 10.570624
+    },
+    {
+      "id": "w30",
+      "text": "you",
+      "start": 10.58425,
+      "end": 10.706541
+    },
+    {
+      "id": "w31",
+      "text": "might",
+      "start": 10.720125,
+      "end": 11.005416
+    },
+    {
+      "id": "w32",
+      "text": "never",
+      "start": 11.005416,
+      "end": 11.317916
+    },
+    {
+      "id": "w33",
+      "text": "get",
+      "start": 11.331541,
+      "end": 11.494582
+    },
+    {
+      "id": "w34",
+      "text": "to",
+      "start": 11.494583,
+      "end": 11.603249
+    },
+    {
+      "id": "w35",
+      "text": "enter.",
+      "start": 11.60325,
+      "end": 12.065208
+    },
+    {
+      "id": "w36",
+      "text": "There",
+      "start": 12.486416,
+      "end": 12.554332
+    },
+    {
+      "id": "w37",
+      "text": "is",
+      "start": 12.554333,
+      "end": 12.622249
+    },
+    {
+      "id": "w38",
+      "text": "a",
+      "start": 12.635875,
+      "end": 12.703791
+    },
+    {
+      "id": "w39",
+      "text": "pretty",
+      "start": 12.703791,
+      "end": 12.989124
+    },
+    {
+      "id": "w40",
+      "text": "good",
+      "start": 12.989125,
+      "end": 13.152166
+    },
+    {
+      "id": "w41",
+      "text": "horror",
+      "start": 13.152166,
+      "end": 13.573374
+    },
+    {
+      "id": "w42",
+      "text": "story",
+      "start": 13.586958,
+      "end": 13.980999
+    },
+    {
+      "id": "w43",
+      "text": "in",
+      "start": 13.994583,
+      "end": 14.130416
+    },
+    {
+      "id": "w44",
+      "text": "that,",
+      "start": 14.130416,
+      "end": 14.456499
+    },
+    {
+      "id": "w45",
+      "text": "without",
+      "start": 14.633166,
+      "end": 15.054374
+    },
+    {
+      "id": "w46",
+      "text": "adding",
+      "start": 15.067916,
+      "end": 15.366832
+    },
+    {
+      "id": "w47",
+      "text": "a",
+      "start": 15.366833,
+      "end": 15.407583
+    },
+    {
+      "id": "w48",
+      "text": "single",
+      "start": 15.407625,
+      "end": 15.774458
+    },
+    {
+      "id": "w49",
+      "text": "ghost.",
+      "start": 15.788041,
+      "end": 16.358707
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.08",
+      "input_tp": "-4.06",
+      "input_lra": "3.10",
+      "input_thresh": "-31.99",
+      "output_i": "-16.58",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-27.51",
+      "normalization_type": "dynamic",
+      "target_offset": "0.58"
+    },
+    "output": {
+      "input_i": "-21.08",
+      "input_tp": "-4.06",
+      "input_lra": "3.10",
+      "input_thresh": "-31.99",
+      "output_i": "-16.07",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-27.00",
+      "normalization_type": "dynamic",
+      "target_offset": "0.07"
+    }
+  },
+  "fingerprint": "b07e5a08722625d63a070d568ae46648a33d77a935bd724687935cbabe7f11a2"
+}

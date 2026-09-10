@@ -1,0 +1,323 @@
+{
+  "id": "c09p01",
+  "text": "Lance McDonald investigated P.T. by changing how its camera behaved. In the sequence he demonstrated, after the flashlight encounter, Lisa's character model follows behind the player. The camera normally moves with you. McDonald separated the viewpoint from that movement and exposed what was happening out of sight.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c09p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c09p01.wav",
+  "duration": 21.384,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Lance",
+      "start": 0.093083,
+      "end": 0.412249
+    },
+    {
+      "id": "w1",
+      "text": "McDonald",
+      "start": 0.41225,
+      "end": 1.023958
+    },
+    {
+      "id": "w2",
+      "text": "investigated",
+      "start": 1.03725,
+      "end": 1.781916
+    },
+    {
+      "id": "w3",
+      "text": "P.T.",
+      "start": 1.795208,
+      "end": 2.393624
+    },
+    {
+      "id": "w4",
+      "text": "by",
+      "start": 2.699458,
+      "end": 2.952124
+    },
+    {
+      "id": "w5",
+      "text": "changing",
+      "start": 3.1915,
+      "end": 3.696791
+    },
+    {
+      "id": "w6",
+      "text": "how",
+      "start": 3.696791,
+      "end": 3.843082
+    },
+    {
+      "id": "w7",
+      "text": "its",
+      "start": 3.856375,
+      "end": 3.949458
+    },
+    {
+      "id": "w8",
+      "text": "camera",
+      "start": 3.949458,
+      "end": 4.321791
+    },
+    {
+      "id": "w9",
+      "text": "behaved.",
+      "start": 4.335125,
+      "end": 4.893625
+    },
+    {
+      "id": "w10",
+      "text": "In",
+      "start": 5.292541,
+      "end": 5.372332
+    },
+    {
+      "id": "w11",
+      "text": "the",
+      "start": 5.372333,
+      "end": 5.438833
+    },
+    {
+      "id": "w12",
+      "text": "sequence",
+      "start": 5.438833,
+      "end": 6.010624
+    },
+    {
+      "id": "w13",
+      "text": "he",
+      "start": 6.023916,
+      "end": 6.143582
+    },
+    {
+      "id": "w14",
+      "text": "demonstrated,",
+      "start": 6.156916,
+      "end": 6.914874
+    },
+    {
+      "id": "w15",
+      "text": "after",
+      "start": 7.420208,
+      "end": 7.646291
+    },
+    {
+      "id": "w16",
+      "text": "the",
+      "start": 7.646291,
+      "end": 7.726082
+    },
+    {
+      "id": "w17",
+      "text": "flashlight",
+      "start": 7.726083,
+      "end": 8.364374
+    },
+    {
+      "id": "w18",
+      "text": "encounter,",
+      "start": 8.364375,
+      "end": 8.909583
+    },
+    {
+      "id": "w19",
+      "text": "Lisa's",
+      "start": 9.348416,
+      "end": 9.787249
+    },
+    {
+      "id": "w20",
+      "text": "character",
+      "start": 9.800541,
+      "end": 10.226082
+    },
+    {
+      "id": "w21",
+      "text": "model",
+      "start": 10.239375,
+      "end": 10.704791
+    },
+    {
+      "id": "w22",
+      "text": "follows",
+      "start": 10.784583,
+      "end": 11.449458
+    },
+    {
+      "id": "w23",
+      "text": "behind",
+      "start": 11.449458,
+      "end": 11.835083
+    },
+    {
+      "id": "w24",
+      "text": "the",
+      "start": 11.835125,
+      "end": 11.888333
+    },
+    {
+      "id": "w25",
+      "text": "player.",
+      "start": 11.901583,
+      "end": 12.420208
+    },
+    {
+      "id": "w26",
+      "text": "The",
+      "start": 12.84575,
+      "end": 12.91225
+    },
+    {
+      "id": "w27",
+      "text": "camera",
+      "start": 12.91225,
+      "end": 13.417583
+    },
+    {
+      "id": "w28",
+      "text": "normally",
+      "start": 13.643625,
+      "end": 14.069166
+    },
+    {
+      "id": "w29",
+      "text": "moves",
+      "start": 14.069166,
+      "end": 14.414916
+    },
+    {
+      "id": "w30",
+      "text": "with",
+      "start": 14.428208,
+      "end": 14.601083
+    },
+    {
+      "id": "w31",
+      "text": "you.",
+      "start": 14.601083,
+      "end": 14.840458
+    },
+    {
+      "id": "w32",
+      "text": "McDonald",
+      "start": 15.265958,
+      "end": 15.824458
+    },
+    {
+      "id": "w33",
+      "text": "separated",
+      "start": 15.944166,
+      "end": 16.582457
+    },
+    {
+      "id": "w34",
+      "text": "the",
+      "start": 16.59575,
+      "end": 16.688833
+    },
+    {
+      "id": "w35",
+      "text": "viewpoint",
+      "start": 16.702125,
+      "end": 17.353708
+    },
+    {
+      "id": "w36",
+      "text": "from",
+      "start": 17.353708,
+      "end": 17.553166
+    },
+    {
+      "id": "w37",
+      "text": "that",
+      "start": 17.553208,
+      "end": 17.752666
+    },
+    {
+      "id": "w38",
+      "text": "movement",
+      "start": 17.752666,
+      "end": 18.297874
+    },
+    {
+      "id": "w39",
+      "text": "and",
+      "start": 18.696791,
+      "end": 18.789874
+    },
+    {
+      "id": "w40",
+      "text": "exposed",
+      "start": 18.803208,
+      "end": 19.547874
+    },
+    {
+      "id": "w41",
+      "text": "what",
+      "start": 19.561166,
+      "end": 19.694124
+    },
+    {
+      "id": "w42",
+      "text": "was",
+      "start": 19.694166,
+      "end": 19.840416
+    },
+    {
+      "id": "w43",
+      "text": "happening",
+      "start": 19.840416,
+      "end": 20.332457
+    },
+    {
+      "id": "w44",
+      "text": "out",
+      "start": 20.332458,
+      "end": 20.412249
+    },
+    {
+      "id": "w45",
+      "text": "of",
+      "start": 20.41225,
+      "end": 20.478708
+    },
+    {
+      "id": "w46",
+      "text": "sight.",
+      "start": 20.478708,
+      "end": 21.010624
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.27",
+      "input_tp": "-3.63",
+      "input_lra": "2.50",
+      "input_thresh": "-31.95",
+      "output_i": "-16.14",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-26.76",
+      "normalization_type": "dynamic",
+      "target_offset": "0.14"
+    },
+    "output": {
+      "input_i": "-21.27",
+      "input_tp": "-3.63",
+      "input_lra": "2.50",
+      "input_thresh": "-31.95",
+      "output_i": "-16.04",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-26.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.04"
+    }
+  },
+  "fingerprint": "51837d129579a376b36211455fdbc7f47bb0e810603eacb9fc351c07a311efb0"
+}

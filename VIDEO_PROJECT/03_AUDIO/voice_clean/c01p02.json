@@ -1,0 +1,233 @@
+{
+  "id": "c01p02",
+  "text": "That happened with P.T., a horror game built around a hallway you couldn't escape. Then its publisher removed the way back in. A tiny advertisement became something players were afraid to lose.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c01p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c01p02.wav",
+  "duration": 12.552,
+  "words": [
+    {
+      "id": "w0",
+      "text": "That",
+      "start": 0.106375,
+      "end": 0.186166
+    },
+    {
+      "id": "w1",
+      "text": "happened",
+      "start": 0.186166,
+      "end": 0.598416
+    },
+    {
+      "id": "w2",
+      "text": "with",
+      "start": 0.598416,
+      "end": 0.744666
+    },
+    {
+      "id": "w3",
+      "text": "P.T.,",
+      "start": 0.744666,
+      "end": 1.436166
+    },
+    {
+      "id": "w4",
+      "text": "a",
+      "start": 1.835125,
+      "end": 1.875
+    },
+    {
+      "id": "w5",
+      "text": "horror",
+      "start": 1.875,
+      "end": 2.247333
+    },
+    {
+      "id": "w6",
+      "text": "game",
+      "start": 2.247333,
+      "end": 2.526583
+    },
+    {
+      "id": "w7",
+      "text": "built",
+      "start": 2.539875,
+      "end": 2.872333
+    },
+    {
+      "id": "w8",
+      "text": "around",
+      "start": 2.872333,
+      "end": 3.138291
+    },
+    {
+      "id": "w9",
+      "text": "a",
+      "start": 3.138291,
+      "end": 3.164874
+    },
+    {
+      "id": "w10",
+      "text": "hallway",
+      "start": 3.178208,
+      "end": 3.736708
+    },
+    {
+      "id": "w11",
+      "text": "you",
+      "start": 3.736708,
+      "end": 3.936166
+    },
+    {
+      "id": "w12",
+      "text": "couldn't",
+      "start": 3.949458,
+      "end": 4.202124
+    },
+    {
+      "id": "w13",
+      "text": "escape.",
+      "start": 4.202125,
+      "end": 4.747333
+    },
+    {
+      "id": "w14",
+      "text": "Then",
+      "start": 5.186166,
+      "end": 5.252666
+    },
+    {
+      "id": "w15",
+      "text": "its",
+      "start": 5.252666,
+      "end": 5.345749
+    },
+    {
+      "id": "w16",
+      "text": "publisher",
+      "start": 5.34575,
+      "end": 5.930833
+    },
+    {
+      "id": "w17",
+      "text": "removed",
+      "start": 5.930833,
+      "end": 6.635624
+    },
+    {
+      "id": "w18",
+      "text": "the",
+      "start": 6.648916,
+      "end": 6.728707
+    },
+    {
+      "id": "w19",
+      "text": "way",
+      "start": 6.728708,
+      "end": 6.901583
+    },
+    {
+      "id": "w20",
+      "text": "back",
+      "start": 6.901583,
+      "end": 7.247333
+    },
+    {
+      "id": "w21",
+      "text": "in.",
+      "start": 7.247333,
+      "end": 7.513291
+    },
+    {
+      "id": "w22",
+      "text": "A",
+      "start": 7.925541,
+      "end": 7.978707
+    },
+    {
+      "id": "w23",
+      "text": "tiny",
+      "start": 7.978708,
+      "end": 8.497333
+    },
+    {
+      "id": "w24",
+      "text": "advertisement",
+      "start": 8.497333,
+      "end": 9.321791
+    },
+    {
+      "id": "w25",
+      "text": "became",
+      "start": 9.627666,
+      "end": 9.999999
+    },
+    {
+      "id": "w26",
+      "text": "something",
+      "start": 10.0,
+      "end": 10.398916
+    },
+    {
+      "id": "w27",
+      "text": "players",
+      "start": 10.398916,
+      "end": 10.851041
+    },
+    {
+      "id": "w28",
+      "text": "were",
+      "start": 10.864375,
+      "end": 10.984041
+    },
+    {
+      "id": "w29",
+      "text": "afraid",
+      "start": 10.984041,
+      "end": 11.449457
+    },
+    {
+      "id": "w30",
+      "text": "to",
+      "start": 11.449458,
+      "end": 11.515958
+    },
+    {
+      "id": "w31",
+      "text": "lose.",
+      "start": 11.515958,
+      "end": 12.154249
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.87",
+      "input_tp": "-4.60",
+      "input_lra": "2.80",
+      "input_thresh": "-32.37",
+      "output_i": "-16.67",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-27.26",
+      "normalization_type": "dynamic",
+      "target_offset": "0.67"
+    },
+    "output": {
+      "input_i": "-21.87",
+      "input_tp": "-4.60",
+      "input_lra": "2.80",
+      "input_thresh": "-32.37",
+      "output_i": "-16.03",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-26.63",
+      "normalization_type": "dynamic",
+      "target_offset": "0.03"
+    }
+  },
+  "fingerprint": "5eeb034521fdd9ffee16e4816515143856ebf35dc666e93902a321521374c1a0"
+}

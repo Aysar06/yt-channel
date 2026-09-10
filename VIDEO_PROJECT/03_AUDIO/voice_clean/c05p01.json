@@ -1,0 +1,299 @@
+{
+  "id": "c05p01",
+  "text": "At the end, a man walks through a deserted street. His face is Norman Reedus. The credits connect the project to Hideo Kojima and Guillermo del Toro. Then comes Silent Hills. Suddenly, the strange little download is an announcement for something much bigger.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c05p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c05p01.wav",
+  "duration": 18.288,
+  "words": [
+    {
+      "id": "w0",
+      "text": "At",
+      "start": 0.104166,
+      "end": 0.208332
+    },
+    {
+      "id": "w1",
+      "text": "the",
+      "start": 0.208333,
+      "end": 0.312499
+    },
+    {
+      "id": "w2",
+      "text": "end,",
+      "start": 0.325541,
+      "end": 0.794291
+    },
+    {
+      "id": "w3",
+      "text": "a",
+      "start": 1.223958,
+      "end": 1.263041
+    },
+    {
+      "id": "w4",
+      "text": "man",
+      "start": 1.263041,
+      "end": 1.640624
+    },
+    {
+      "id": "w5",
+      "text": "walks",
+      "start": 1.640625,
+      "end": 2.096375
+    },
+    {
+      "id": "w6",
+      "text": "through",
+      "start": 2.096375,
+      "end": 2.265625
+    },
+    {
+      "id": "w7",
+      "text": "a",
+      "start": 2.265625,
+      "end": 2.317708
+    },
+    {
+      "id": "w8",
+      "text": "deserted",
+      "start": 2.317708,
+      "end": 2.773458
+    },
+    {
+      "id": "w9",
+      "text": "street.",
+      "start": 2.773458,
+      "end": 3.177124
+    },
+    {
+      "id": "w10",
+      "text": "His",
+      "start": 3.59375,
+      "end": 3.737
+    },
+    {
+      "id": "w11",
+      "text": "face",
+      "start": 3.75,
+      "end": 4.20575
+    },
+    {
+      "id": "w12",
+      "text": "is",
+      "start": 4.362,
+      "end": 4.50525
+    },
+    {
+      "id": "w13",
+      "text": "Norman",
+      "start": 4.51825,
+      "end": 4.947916
+    },
+    {
+      "id": "w14",
+      "text": "Reedus.",
+      "start": 4.947916,
+      "end": 5.533874
+    },
+    {
+      "id": "w15",
+      "text": "The",
+      "start": 5.963541,
+      "end": 6.028666
+    },
+    {
+      "id": "w16",
+      "text": "credits",
+      "start": 6.041666,
+      "end": 6.367207
+    },
+    {
+      "id": "w17",
+      "text": "connect",
+      "start": 6.367208,
+      "end": 6.692708
+    },
+    {
+      "id": "w18",
+      "text": "the",
+      "start": 6.692708,
+      "end": 6.770833
+    },
+    {
+      "id": "w19",
+      "text": "project",
+      "start": 6.770833,
+      "end": 7.317708
+    },
+    {
+      "id": "w20",
+      "text": "to",
+      "start": 7.487,
+      "end": 7.578125
+    },
+    {
+      "id": "w21",
+      "text": "Hideo",
+      "start": 7.578125,
+      "end": 8.033875
+    },
+    {
+      "id": "w22",
+      "text": "Kojima",
+      "start": 8.046875,
+      "end": 8.854166
+    },
+    {
+      "id": "w23",
+      "text": "and",
+      "start": 9.114583,
+      "end": 9.205749
+    },
+    {
+      "id": "w24",
+      "text": "Guillermo",
+      "start": 9.21875,
+      "end": 9.726583
+    },
+    {
+      "id": "w25",
+      "text": "del",
+      "start": 9.726583,
+      "end": 9.986999
+    },
+    {
+      "id": "w26",
+      "text": "Toro.",
+      "start": 9.987,
+      "end": 10.468791
+    },
+    {
+      "id": "w27",
+      "text": "Then",
+      "start": 10.898458,
+      "end": 11.171916
+    },
+    {
+      "id": "w28",
+      "text": "comes",
+      "start": 11.289083,
+      "end": 11.536458
+    },
+    {
+      "id": "w29",
+      "text": "Silent",
+      "start": 11.536458,
+      "end": 11.927083
+    },
+    {
+      "id": "w30",
+      "text": "Hills.",
+      "start": 11.940125,
+      "end": 12.474
+    },
+    {
+      "id": "w31",
+      "text": "Suddenly,",
+      "start": 12.903666,
+      "end": 13.541707
+    },
+    {
+      "id": "w32",
+      "text": "the",
+      "start": 13.958333,
+      "end": 14.062499
+    },
+    {
+      "id": "w33",
+      "text": "strange",
+      "start": 14.0625,
+      "end": 14.583333
+    },
+    {
+      "id": "w34",
+      "text": "little",
+      "start": 14.583333,
+      "end": 14.778666
+    },
+    {
+      "id": "w35",
+      "text": "download",
+      "start": 14.778666,
+      "end": 15.455749
+    },
+    {
+      "id": "w36",
+      "text": "is",
+      "start": 15.716166,
+      "end": 15.820332
+    },
+    {
+      "id": "w37",
+      "text": "an",
+      "start": 15.820333,
+      "end": 15.885416
+    },
+    {
+      "id": "w38",
+      "text": "announcement",
+      "start": 15.885416,
+      "end": 16.484374
+    },
+    {
+      "id": "w39",
+      "text": "for",
+      "start": 16.484375,
+      "end": 16.640625
+    },
+    {
+      "id": "w40",
+      "text": "something",
+      "start": 16.640625,
+      "end": 17.096375
+    },
+    {
+      "id": "w41",
+      "text": "much",
+      "start": 17.096375,
+      "end": 17.356791
+    },
+    {
+      "id": "w42",
+      "text": "bigger.",
+      "start": 17.369791,
+      "end": 17.890624
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.29",
+      "input_tp": "-2.43",
+      "input_lra": "4.50",
+      "input_thresh": "-32.12",
+      "output_i": "-16.80",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-27.52",
+      "normalization_type": "dynamic",
+      "target_offset": "0.80"
+    },
+    "output": {
+      "input_i": "-21.29",
+      "input_tp": "-2.43",
+      "input_lra": "4.50",
+      "input_thresh": "-32.12",
+      "output_i": "-16.19",
+      "output_tp": "-1.50",
+      "output_lra": "2.70",
+      "output_thresh": "-26.91",
+      "normalization_type": "dynamic",
+      "target_offset": "0.19"
+    }
+  },
+  "fingerprint": "0cb716164dcc482e89757b3154af471e66bd225037946783680940633bda9963"
+}

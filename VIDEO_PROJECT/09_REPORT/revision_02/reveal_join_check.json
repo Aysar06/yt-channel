@@ -1,0 +1,33 @@
+{
+  "hold_in_scene": 12.44,
+  "hold_seconds": 12,
+  "cut_window_peak_dbfs": -200.0,
+  "final_join_asr": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": " us."
+    },
+    {
+      "start": 1.0,
+      "end": 14.71,
+      "text": " Then comes Silent Hills."
+    },
+    {
+      "start": 14.71,
+      "end": 21.07,
+      "text": " The Anonymous experiment is connected to Hideo Kojima, Guillermo del Toro, and a series people"
+    },
+    {
+      "start": 21.07,
+      "end": 22.07,
+      "text": " already know."
+    },
+    {
+      "start": 22.07,
+      "end": 24.99,
+      "text": " The reveal works because it arrives after the ex-"
+    }
+  ],
+  "review_kind": "Automated transcription and sample measurement; no claim of auditory listening."
+}

@@ -1,0 +1,24 @@
+{
+  "productions": [
+    {
+      "id": 1,
+      "topic": "P.T. and Silent Hills",
+      "status": "revision_02_rendered_review_pending",
+      "published": false,
+      "CTR": null,
+      "average_view_duration": null,
+      "retention_drops": null,
+      "traffic_sources": null,
+      "export": "VIDEO_PROJECT/07_EXPORT/revision_02.mp4",
+      "duration_seconds": 622.25,
+      "AI_images": 0,
+      "human_listening_review": false,
+      "approved": false,
+      "uninterrupted_viewer_review": false
+    }
+  ],
+  "preferences": {
+    "AI_images": "Avoid when real source material is available; aim for zero in current edit",
+    "sources": "Include documented community posts and forums"
+  }
+}

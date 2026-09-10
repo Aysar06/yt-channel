@@ -1,0 +1,287 @@
+{
+  "id": "c10p01",
+  "text": "Then the next console generation arrived. In twenty twenty, reviewers reported that P.T. could initially be transferred to early PlayStation Five review hardware and played there. For a moment, the hallway appeared to have made the jump. Later, that stopped working.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c10p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c10p01.wav",
+  "duration": 17.568,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Then",
+      "start": 0.10525,
+      "end": 0.223666
+    },
+    {
+      "id": "w1",
+      "text": "the",
+      "start": 0.236833,
+      "end": 0.289458
+    },
+    {
+      "id": "w2",
+      "text": "next",
+      "start": 0.289458,
+      "end": 0.578916
+    },
+    {
+      "id": "w3",
+      "text": "console",
+      "start": 0.592125,
+      "end": 1.171041
+    },
+    {
+      "id": "w4",
+      "text": "generation",
+      "start": 1.171041,
+      "end": 1.723666
+    },
+    {
+      "id": "w5",
+      "text": "arrived.",
+      "start": 1.736833,
+      "end": 2.276291
+    },
+    {
+      "id": "w6",
+      "text": "In",
+      "start": 2.697375,
+      "end": 2.789458
+    },
+    {
+      "id": "w7",
+      "text": "twenty",
+      "start": 2.789458,
+      "end": 3.105249
+    },
+    {
+      "id": "w8",
+      "text": "twenty,",
+      "start": 3.118416,
+      "end": 3.499999
+    },
+    {
+      "id": "w9",
+      "text": "reviewers",
+      "start": 3.934208,
+      "end": 4.394749
+    },
+    {
+      "id": "w10",
+      "text": "reported",
+      "start": 4.39475,
+      "end": 4.907916
+    },
+    {
+      "id": "w11",
+      "text": "that",
+      "start": 4.921041,
+      "end": 5.105249
+    },
+    {
+      "id": "w12",
+      "text": "P.T.",
+      "start": 5.10525,
+      "end": 5.894708
+    },
+    {
+      "id": "w13",
+      "text": "could",
+      "start": 6.078958,
+      "end": 6.276333
+    },
+    {
+      "id": "w14",
+      "text": "initially",
+      "start": 6.276333,
+      "end": 6.855291
+    },
+    {
+      "id": "w15",
+      "text": "be",
+      "start": 6.868416,
+      "end": 7.013166
+    },
+    {
+      "id": "w16",
+      "text": "transferred",
+      "start": 7.013166,
+      "end": 7.802624
+    },
+    {
+      "id": "w17",
+      "text": "to",
+      "start": 7.815791,
+      "end": 7.934207
+    },
+    {
+      "id": "w18",
+      "text": "early",
+      "start": 7.947375,
+      "end": 8.263166
+    },
+    {
+      "id": "w19",
+      "text": "PlayStation",
+      "start": 8.263166,
+      "end": 9.026332
+    },
+    {
+      "id": "w20",
+      "text": "Five",
+      "start": 9.039458,
+      "end": 9.434208
+    },
+    {
+      "id": "w21",
+      "text": "review",
+      "start": 9.447375,
+      "end": 9.776333
+    },
+    {
+      "id": "w22",
+      "text": "hardware",
+      "start": 9.776333,
+      "end": 10.473708
+    },
+    {
+      "id": "w23",
+      "text": "and",
+      "start": 10.815791,
+      "end": 10.868416
+    },
+    {
+      "id": "w24",
+      "text": "played",
+      "start": 10.868416,
+      "end": 11.197374
+    },
+    {
+      "id": "w25",
+      "text": "there.",
+      "start": 11.197375,
+      "end": 11.526333
+    },
+    {
+      "id": "w26",
+      "text": "For",
+      "start": 11.986833,
+      "end": 12.118416
+    },
+    {
+      "id": "w27",
+      "text": "a",
+      "start": 12.118416,
+      "end": 12.144749
+    },
+    {
+      "id": "w28",
+      "text": "moment,",
+      "start": 12.157875,
+      "end": 12.578916
+    },
+    {
+      "id": "w29",
+      "text": "the",
+      "start": 13.013166,
+      "end": 13.092124
+    },
+    {
+      "id": "w30",
+      "text": "hallway",
+      "start": 13.10525,
+      "end": 13.513125
+    },
+    {
+      "id": "w31",
+      "text": "appeared",
+      "start": 13.513166,
+      "end": 13.907916
+    },
+    {
+      "id": "w32",
+      "text": "to",
+      "start": 13.921041,
+      "end": 13.986832
+    },
+    {
+      "id": "w33",
+      "text": "have",
+      "start": 13.986833,
+      "end": 14.289458
+    },
+    {
+      "id": "w34",
+      "text": "made",
+      "start": 14.302625,
+      "end": 14.631583
+    },
+    {
+      "id": "w35",
+      "text": "the",
+      "start": 14.631583,
+      "end": 14.697374
+    },
+    {
+      "id": "w36",
+      "text": "jump.",
+      "start": 14.697375,
+      "end": 15.14475
+    },
+    {
+      "id": "w37",
+      "text": "Later,",
+      "start": 15.565791,
+      "end": 15.986832
+    },
+    {
+      "id": "w38",
+      "text": "that",
+      "start": 16.236833,
+      "end": 16.381583
+    },
+    {
+      "id": "w39",
+      "text": "stopped",
+      "start": 16.39475,
+      "end": 16.75
+    },
+    {
+      "id": "w40",
+      "text": "working.",
+      "start": 16.75,
+      "end": 17.184208
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.19",
+      "input_tp": "-5.04",
+      "input_lra": "3.60",
+      "input_thresh": "-31.99",
+      "output_i": "-16.71",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-27.41",
+      "normalization_type": "dynamic",
+      "target_offset": "0.71"
+    },
+    "output": {
+      "input_i": "-21.19",
+      "input_tp": "-5.04",
+      "input_lra": "3.60",
+      "input_thresh": "-31.99",
+      "output_i": "-16.11",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-26.81",
+      "normalization_type": "dynamic",
+      "target_offset": "0.11"
+    }
+  },
+  "fingerprint": "c3a92fa2b6004b941837d33c579f00bccb84faba5d3e196901315f39f33fd4ba"
+}

@@ -1,0 +1,24 @@
+rank,title,style,ctr_potential,curiosity,clarity,originality,audience_fit,overall_mean,decision,character_count
+1,"The Horror Game You Could Lose Forever","curiosity",9,10,9,9,10,9.40,"PRIMARY",38
+2,"P.T.: The Horror Game You Could Lose Forever","character-centered",9,9,10,8,10,9.20,"BACKUP 1",44
+3,"Why People Are Afraid to Delete This Game","question",9,10,9,8,10,9.20,"A/B TEST",41
+4,"A Free Horror Game Became Almost Impossible to Get","revelation",9,9,10,8,10,9.20,"",50
+5,"The Horror Game That Made a Delete Button Scary","simple statement",9,10,8,10,9,9.20,"",47
+6,"They Cancelled Silent Hills. P.T. Survived.","conflict",8,9,10,9,10,9.20,"",43
+7,"The Horror Game You Can't Simply Download Again","simple statement",9,9,10,8,10,9.20,"",47
+8,"The Game That Outlived Its Own Cancellation","contrarian",9,9,9,9,9,9.00,"BACKUP 2",43
+9,"The Horror Demo That Became a Ghost","transformation",9,9,8,9,10,9.00,"",35
+10,"The Horror Game Trapped on Old PlayStations","conflict",9,9,8,9,10,9.00,"",43
+11,"How a Free Demo Became a Gaming Ghost Story","transformation",8,9,9,9,10,9.00,"",43
+12,"P.T. Was Removed. Its Nightmare Wasn't.","contrarian",9,9,8,9,10,9.00,"",39
+13,"How One Hallway Became a Lost Gaming Legend","transformation",8,9,9,9,10,9.00,"",43
+14,"P.T. Was Only the Beginning. Then It Was Gone.","mystery",8,9,8,9,10,8.80,"",46
+15,"One Hallway. A Cancelled Game. An Unfinished Promise.","story",8,9,8,10,9,8.80,"",53
+16,"P.T. and the Game We Never Got to Play","story",8,9,9,8,10,8.80,"",38
+17,"P.T.: A Game, a Promise, and a Disappearing Download","story",8,9,8,9,10,8.80,"",52
+18,"Why This Tiny Horror Game Still Haunts Players","question",8,8,9,8,10,8.60,"",46
+19,"The Day a Horror Game Became Harder to Find","extreme event",8,8,9,9,9,8.60,"",43
+20,"The Game Behind One of Horror's Biggest What-Ifs","forgotten story",8,9,8,8,9,8.40,"",48
+21,"What Actually Happened to P.T.?","question",8,8,10,6,10,8.40,"",31
+22,"A Horror Demo Became the Game Fans Wanted Back","forgotten story",8,8,9,8,9,8.40,"",46
+

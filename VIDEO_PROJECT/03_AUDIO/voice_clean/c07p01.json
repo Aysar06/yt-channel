@@ -1,0 +1,323 @@
+{
+  "id": "c07p01",
+  "text": "The notice said P.T.'s distribution would end on April twenty ninth. That date matters. So does the next step, because these are often squeezed into one event. First, the teaser left the store. Then, the normal route for previous downloaders to get it again stopped working too.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c07p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c07p01.wav",
+  "duration": 18.864,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.10525,
+      "end": 0.144708
+    },
+    {
+      "id": "w1",
+      "text": "notice",
+      "start": 0.14475,
+      "end": 0.513166
+    },
+    {
+      "id": "w2",
+      "text": "said",
+      "start": 0.526333,
+      "end": 0.815791
+    },
+    {
+      "id": "w3",
+      "text": "P.T.'s",
+      "start": 0.828958,
+      "end": 1.421041
+    },
+    {
+      "id": "w4",
+      "text": "distribution",
+      "start": 1.421041,
+      "end": 2.144707
+    },
+    {
+      "id": "w5",
+      "text": "would",
+      "start": 2.35525,
+      "end": 2.513125
+    },
+    {
+      "id": "w6",
+      "text": "end",
+      "start": 2.697375,
+      "end": 2.973708
+    },
+    {
+      "id": "w7",
+      "text": "on",
+      "start": 2.986833,
+      "end": 3.210499
+    },
+    {
+      "id": "w8",
+      "text": "April",
+      "start": 3.381583,
+      "end": 3.671041
+    },
+    {
+      "id": "w9",
+      "text": "twenty",
+      "start": 3.671041,
+      "end": 3.907874
+    },
+    {
+      "id": "w10",
+      "text": "ninth.",
+      "start": 3.921041,
+      "end": 4.407874
+    },
+    {
+      "id": "w11",
+      "text": "That",
+      "start": 4.828958,
+      "end": 4.986833
+    },
+    {
+      "id": "w12",
+      "text": "date",
+      "start": 4.986833,
+      "end": 5.197374
+    },
+    {
+      "id": "w13",
+      "text": "matters.",
+      "start": 5.197375,
+      "end": 5.828958
+    },
+    {
+      "id": "w14",
+      "text": "So",
+      "start": 6.263166,
+      "end": 6.407916
+    },
+    {
+      "id": "w15",
+      "text": "does",
+      "start": 6.592125,
+      "end": 6.723708
+    },
+    {
+      "id": "w16",
+      "text": "the",
+      "start": 6.736833,
+      "end": 6.802624
+    },
+    {
+      "id": "w17",
+      "text": "next",
+      "start": 6.802625,
+      "end": 7.039458
+    },
+    {
+      "id": "w18",
+      "text": "step,",
+      "start": 7.039458,
+      "end": 7.342083
+    },
+    {
+      "id": "w19",
+      "text": "because",
+      "start": 7.342125,
+      "end": 7.723708
+    },
+    {
+      "id": "w20",
+      "text": "these",
+      "start": 7.736833,
+      "end": 7.934208
+    },
+    {
+      "id": "w21",
+      "text": "are",
+      "start": 7.947375,
+      "end": 8.0395
+    },
+    {
+      "id": "w22",
+      "text": "often",
+      "start": 8.052625,
+      "end": 8.39475
+    },
+    {
+      "id": "w23",
+      "text": "squeezed",
+      "start": 8.39475,
+      "end": 9.315791
+    },
+    {
+      "id": "w24",
+      "text": "into",
+      "start": 9.434208,
+      "end": 9.723666
+    },
+    {
+      "id": "w25",
+      "text": "one",
+      "start": 9.723666,
+      "end": 9.947332
+    },
+    {
+      "id": "w26",
+      "text": "event.",
+      "start": 9.947375,
+      "end": 10.342125
+    },
+    {
+      "id": "w27",
+      "text": "First,",
+      "start": 10.802625,
+      "end": 11.315791
+    },
+    {
+      "id": "w28",
+      "text": "the",
+      "start": 11.565791,
+      "end": 11.684207
+    },
+    {
+      "id": "w29",
+      "text": "teaser",
+      "start": 11.697375,
+      "end": 12.14475
+    },
+    {
+      "id": "w30",
+      "text": "left",
+      "start": 12.14475,
+      "end": 12.368416
+    },
+    {
+      "id": "w31",
+      "text": "the",
+      "start": 12.381583,
+      "end": 12.447374
+    },
+    {
+      "id": "w32",
+      "text": "store.",
+      "start": 12.460541,
+      "end": 12.960541
+    },
+    {
+      "id": "w33",
+      "text": "Then,",
+      "start": 13.39475,
+      "end": 13.723708
+    },
+    {
+      "id": "w34",
+      "text": "the",
+      "start": 14.10525,
+      "end": 14.171041
+    },
+    {
+      "id": "w35",
+      "text": "normal",
+      "start": 14.171041,
+      "end": 14.552624
+    },
+    {
+      "id": "w36",
+      "text": "route",
+      "start": 14.565791,
+      "end": 14.855249
+    },
+    {
+      "id": "w37",
+      "text": "for",
+      "start": 14.85525,
+      "end": 15.065791
+    },
+    {
+      "id": "w38",
+      "text": "previous",
+      "start": 15.078958,
+      "end": 15.605249
+    },
+    {
+      "id": "w39",
+      "text": "downloaders",
+      "start": 15.60525,
+      "end": 16.25
+    },
+    {
+      "id": "w40",
+      "text": "to",
+      "start": 16.263166,
+      "end": 16.368416
+    },
+    {
+      "id": "w41",
+      "text": "get",
+      "start": 16.368416,
+      "end": 16.539457
+    },
+    {
+      "id": "w42",
+      "text": "it",
+      "start": 16.539458,
+      "end": 16.592083
+    },
+    {
+      "id": "w43",
+      "text": "again",
+      "start": 16.592125,
+      "end": 17.052666
+    },
+    {
+      "id": "w44",
+      "text": "stopped",
+      "start": 17.315791,
+      "end": 17.723666
+    },
+    {
+      "id": "w45",
+      "text": "working",
+      "start": 17.736833,
+      "end": 18.078958
+    },
+    {
+      "id": "w46",
+      "text": "too.",
+      "start": 18.078958,
+      "end": 18.473708
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.90",
+      "input_tp": "-4.82",
+      "input_lra": "5.40",
+      "input_thresh": "-32.57",
+      "output_i": "-16.50",
+      "output_tp": "-1.50",
+      "output_lra": "3.40",
+      "output_thresh": "-27.14",
+      "normalization_type": "dynamic",
+      "target_offset": "0.50"
+    },
+    "output": {
+      "input_i": "-21.90",
+      "input_tp": "-4.82",
+      "input_lra": "5.40",
+      "input_thresh": "-32.57",
+      "output_i": "-16.17",
+      "output_tp": "-1.50",
+      "output_lra": "3.30",
+      "output_thresh": "-26.76",
+      "normalization_type": "dynamic",
+      "target_offset": "0.17"
+    }
+  },
+  "fingerprint": "9ab63dc3b485ccdeaef33ff4baea2643c37cd351fdae1dc5b60705158d915d95"
+}

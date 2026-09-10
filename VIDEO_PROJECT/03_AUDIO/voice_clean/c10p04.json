@@ -1,0 +1,209 @@
+{
+  "id": "c10p04",
+  "text": "Those were tests on review hardware in twenty twenty. Fan recreations and recovery methods are another story. The ordinary option, sending a friend the store link, was gone.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c10p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c10p04.wav",
+  "duration": 11.616,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Those",
+      "start": 0.10525,
+      "end": 0.315791
+    },
+    {
+      "id": "w1",
+      "text": "were",
+      "start": 0.315791,
+      "end": 0.421041
+    },
+    {
+      "id": "w2",
+      "text": "tests",
+      "start": 0.421041,
+      "end": 0.815791
+    },
+    {
+      "id": "w3",
+      "text": "on",
+      "start": 0.828958,
+      "end": 0.986833
+    },
+    {
+      "id": "w4",
+      "text": "review",
+      "start": 0.986833,
+      "end": 1.368416
+    },
+    {
+      "id": "w5",
+      "text": "hardware",
+      "start": 1.368416,
+      "end": 2.065791
+    },
+    {
+      "id": "w6",
+      "text": "in",
+      "start": 2.171041,
+      "end": 2.315791
+    },
+    {
+      "id": "w7",
+      "text": "twenty",
+      "start": 2.315791,
+      "end": 2.605249
+    },
+    {
+      "id": "w8",
+      "text": "twenty.",
+      "start": 2.60525,
+      "end": 3.0
+    },
+    {
+      "id": "w9",
+      "text": "Fan",
+      "start": 3.460541,
+      "end": 3.749999
+    },
+    {
+      "id": "w10",
+      "text": "recreations",
+      "start": 3.763166,
+      "end": 4.605291
+    },
+    {
+      "id": "w11",
+      "text": "and",
+      "start": 4.618416,
+      "end": 4.776291
+    },
+    {
+      "id": "w12",
+      "text": "recovery",
+      "start": 4.789458,
+      "end": 5.276291
+    },
+    {
+      "id": "w13",
+      "text": "methods",
+      "start": 5.276333,
+      "end": 5.842124
+    },
+    {
+      "id": "w14",
+      "text": "are",
+      "start": 6.0,
+      "end": 6.157875
+    },
+    {
+      "id": "w15",
+      "text": "another",
+      "start": 6.157875,
+      "end": 6.5
+    },
+    {
+      "id": "w16",
+      "text": "story.",
+      "start": 6.513166,
+      "end": 7.052624
+    },
+    {
+      "id": "w17",
+      "text": "The",
+      "start": 7.486833,
+      "end": 7.539458
+    },
+    {
+      "id": "w18",
+      "text": "ordinary",
+      "start": 7.539458,
+      "end": 8.052624
+    },
+    {
+      "id": "w19",
+      "text": "option,",
+      "start": 8.065791,
+      "end": 8.578957
+    },
+    {
+      "id": "w20",
+      "text": "sending",
+      "start": 9.0,
+      "end": 9.289458
+    },
+    {
+      "id": "w21",
+      "text": "a",
+      "start": 9.289458,
+      "end": 9.328916
+    },
+    {
+      "id": "w22",
+      "text": "friend",
+      "start": 9.328958,
+      "end": 9.631583
+    },
+    {
+      "id": "w23",
+      "text": "the",
+      "start": 9.631583,
+      "end": 9.684208
+    },
+    {
+      "id": "w24",
+      "text": "store",
+      "start": 9.684208,
+      "end": 10.065791
+    },
+    {
+      "id": "w25",
+      "text": "link,",
+      "start": 10.065791,
+      "end": 10.499999
+    },
+    {
+      "id": "w26",
+      "text": "was",
+      "start": 10.710541,
+      "end": 10.894749
+    },
+    {
+      "id": "w27",
+      "text": "gone.",
+      "start": 10.89475,
+      "end": 11.25
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.38",
+      "input_tp": "-3.94",
+      "input_lra": "2.50",
+      "input_thresh": "-31.44",
+      "output_i": "-16.40",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-27.41",
+      "normalization_type": "dynamic",
+      "target_offset": "0.40"
+    },
+    "output": {
+      "input_i": "-20.38",
+      "input_tp": "-3.94",
+      "input_lra": "2.50",
+      "input_thresh": "-31.44",
+      "output_i": "-16.02",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-27.03",
+      "normalization_type": "dynamic",
+      "target_offset": "0.02"
+    }
+  },
+  "fingerprint": "e27b336b5f908f3412a2c3e00397cea0814e728b641bca599d7da4cfd3865b70"
+}

@@ -1,0 +1,293 @@
+{
+  "id": "c10p03",
+  "text": "Think about the expectation being interrupted. A new console is supposed to move your library forward. In this case, the surviving installation on the older machine remained important. Upgrading the hardware and preserving this experience were no longer automatically the same thing.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c10p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c10p03.wav",
+  "duration": 18.504,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Think",
+      "start": 0.118416,
+      "end": 0.249999
+    },
+    {
+      "id": "w1",
+      "text": "about",
+      "start": 0.25,
+      "end": 0.5
+    },
+    {
+      "id": "w2",
+      "text": "the",
+      "start": 0.513166,
+      "end": 0.618416
+    },
+    {
+      "id": "w3",
+      "text": "expectation",
+      "start": 0.618416,
+      "end": 1.526291
+    },
+    {
+      "id": "w4",
+      "text": "being",
+      "start": 1.657875,
+      "end": 2.013125
+    },
+    {
+      "id": "w5",
+      "text": "interrupted.",
+      "start": 2.026333,
+      "end": 2.684208
+    },
+    {
+      "id": "w6",
+      "text": "A",
+      "start": 3.092125,
+      "end": 3.131583
+    },
+    {
+      "id": "w7",
+      "text": "new",
+      "start": 3.131583,
+      "end": 3.355249
+    },
+    {
+      "id": "w8",
+      "text": "console",
+      "start": 3.35525,
+      "end": 4.052625
+    },
+    {
+      "id": "w9",
+      "text": "is",
+      "start": 4.157875,
+      "end": 4.263125
+    },
+    {
+      "id": "w10",
+      "text": "supposed",
+      "start": 4.263166,
+      "end": 4.710541
+    },
+    {
+      "id": "w11",
+      "text": "to",
+      "start": 4.710541,
+      "end": 4.749999
+    },
+    {
+      "id": "w12",
+      "text": "move",
+      "start": 4.75,
+      "end": 5.092125
+    },
+    {
+      "id": "w13",
+      "text": "your",
+      "start": 5.092125,
+      "end": 5.210541
+    },
+    {
+      "id": "w14",
+      "text": "library",
+      "start": 5.210541,
+      "end": 5.671041
+    },
+    {
+      "id": "w15",
+      "text": "forward.",
+      "start": 5.671041,
+      "end": 6.157874
+    },
+    {
+      "id": "w16",
+      "text": "In",
+      "start": 6.592125,
+      "end": 6.710541
+    },
+    {
+      "id": "w17",
+      "text": "this",
+      "start": 6.710541,
+      "end": 6.894749
+    },
+    {
+      "id": "w18",
+      "text": "case,",
+      "start": 6.89475,
+      "end": 7.486875
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 7.64475,
+      "end": 7.763166
+    },
+    {
+      "id": "w20",
+      "text": "surviving",
+      "start": 7.776333,
+      "end": 8.499999
+    },
+    {
+      "id": "w21",
+      "text": "installation",
+      "start": 8.5,
+      "end": 9.236833
+    },
+    {
+      "id": "w22",
+      "text": "on",
+      "start": 9.236833,
+      "end": 9.355249
+    },
+    {
+      "id": "w23",
+      "text": "the",
+      "start": 9.35525,
+      "end": 9.4605
+    },
+    {
+      "id": "w24",
+      "text": "older",
+      "start": 9.473666,
+      "end": 9.802624
+    },
+    {
+      "id": "w25",
+      "text": "machine",
+      "start": 9.802625,
+      "end": 10.328958
+    },
+    {
+      "id": "w26",
+      "text": "remained",
+      "start": 10.565791,
+      "end": 10.947374
+    },
+    {
+      "id": "w27",
+      "text": "important.",
+      "start": 10.960541,
+      "end": 11.539499
+    },
+    {
+      "id": "w28",
+      "text": "Upgrading",
+      "start": 11.947375,
+      "end": 12.552625
+    },
+    {
+      "id": "w29",
+      "text": "the",
+      "start": 12.565791,
+      "end": 12.644749
+    },
+    {
+      "id": "w30",
+      "text": "hardware",
+      "start": 12.64475,
+      "end": 13.473708
+    },
+    {
+      "id": "w31",
+      "text": "and",
+      "start": 13.723666,
+      "end": 13.855249
+    },
+    {
+      "id": "w32",
+      "text": "preserving",
+      "start": 13.85525,
+      "end": 14.473666
+    },
+    {
+      "id": "w33",
+      "text": "this",
+      "start": 14.473666,
+      "end": 14.631541
+    },
+    {
+      "id": "w34",
+      "text": "experience",
+      "start": 14.631583,
+      "end": 15.302624
+    },
+    {
+      "id": "w35",
+      "text": "were",
+      "start": 15.315791,
+      "end": 15.434207
+    },
+    {
+      "id": "w36",
+      "text": "no",
+      "start": 15.447375,
+      "end": 15.736833
+    },
+    {
+      "id": "w37",
+      "text": "longer",
+      "start": 15.736833,
+      "end": 16.302624
+    },
+    {
+      "id": "w38",
+      "text": "automatically",
+      "start": 16.381583,
+      "end": 17.131583
+    },
+    {
+      "id": "w39",
+      "text": "the",
+      "start": 17.131583,
+      "end": 17.236833
+    },
+    {
+      "id": "w40",
+      "text": "same",
+      "start": 17.236833,
+      "end": 17.605249
+    },
+    {
+      "id": "w41",
+      "text": "thing.",
+      "start": 17.60525,
+      "end": 18.118416
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.55",
+      "input_tp": "-3.40",
+      "input_lra": "2.50",
+      "input_thresh": "-31.26",
+      "output_i": "-16.66",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-27.29",
+      "normalization_type": "dynamic",
+      "target_offset": "0.66"
+    },
+    "output": {
+      "input_i": "-20.55",
+      "input_tp": "-3.40",
+      "input_lra": "2.50",
+      "input_thresh": "-31.26",
+      "output_i": "-16.12",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-26.72",
+      "normalization_type": "dynamic",
+      "target_offset": "0.12"
+    }
+  },
+  "fingerprint": "cf3a2c18e1c1531d91186aa1046cacf8328a48f3711f54dd9f56330146c08868"
+}

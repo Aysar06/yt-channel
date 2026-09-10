@@ -1,0 +1,251 @@
+{
+  "id": "c08p04",
+  "text": "And keeping the software matters for another reason. A recording shows what somebody happened to see. The software may contain something that nobody has looked at properly yet. In twenty nineteen, that difference paid off.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c08p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c08p04.wav",
+  "duration": 14.352,
+  "words": [
+    {
+      "id": "w0",
+      "text": "And",
+      "start": 0.108708,
+      "end": 0.230999
+    },
+    {
+      "id": "w1",
+      "text": "keeping",
+      "start": 0.244583,
+      "end": 0.584249
+    },
+    {
+      "id": "w2",
+      "text": "the",
+      "start": 0.58425,
+      "end": 0.66575
+    },
+    {
+      "id": "w3",
+      "text": "software",
+      "start": 0.66575,
+      "end": 1.25
+    },
+    {
+      "id": "w4",
+      "text": "matters",
+      "start": 1.25,
+      "end": 1.956541
+    },
+    {
+      "id": "w5",
+      "text": "for",
+      "start": 2.078791,
+      "end": 2.296166
+    },
+    {
+      "id": "w6",
+      "text": "another",
+      "start": 2.296208,
+      "end": 2.635874
+    },
+    {
+      "id": "w7",
+      "text": "reason.",
+      "start": 2.649458,
+      "end": 3.043499
+    },
+    {
+      "id": "w8",
+      "text": "A",
+      "start": 3.47825,
+      "end": 3.519
+    },
+    {
+      "id": "w9",
+      "text": "recording",
+      "start": 3.519041,
+      "end": 4.008166
+    },
+    {
+      "id": "w10",
+      "text": "shows",
+      "start": 4.008166,
+      "end": 4.415749
+    },
+    {
+      "id": "w11",
+      "text": "what",
+      "start": 4.41575,
+      "end": 4.538041
+    },
+    {
+      "id": "w12",
+      "text": "somebody",
+      "start": 4.538041,
+      "end": 4.918457
+    },
+    {
+      "id": "w13",
+      "text": "happened",
+      "start": 4.918458,
+      "end": 5.339666
+    },
+    {
+      "id": "w14",
+      "text": "to",
+      "start": 5.339666,
+      "end": 5.380416
+    },
+    {
+      "id": "w15",
+      "text": "see.",
+      "start": 5.380416,
+      "end": 5.923874
+    },
+    {
+      "id": "w16",
+      "text": "The",
+      "start": 6.372291,
+      "end": 6.440207
+    },
+    {
+      "id": "w17",
+      "text": "software",
+      "start": 6.440208,
+      "end": 6.983666
+    },
+    {
+      "id": "w18",
+      "text": "may",
+      "start": 6.983708,
+      "end": 7.146749
+    },
+    {
+      "id": "w19",
+      "text": "contain",
+      "start": 7.14675,
+      "end": 7.663041
+    },
+    {
+      "id": "w20",
+      "text": "something",
+      "start": 7.663041,
+      "end": 8.152166
+    },
+    {
+      "id": "w21",
+      "text": "that",
+      "start": 8.16575,
+      "end": 8.328791
+    },
+    {
+      "id": "w22",
+      "text": "nobody",
+      "start": 8.342375,
+      "end": 9.008125
+    },
+    {
+      "id": "w23",
+      "text": "has",
+      "start": 9.144041,
+      "end": 9.388582
+    },
+    {
+      "id": "w24",
+      "text": "looked",
+      "start": 9.388583,
+      "end": 9.728249
+    },
+    {
+      "id": "w25",
+      "text": "at",
+      "start": 9.741833,
+      "end": 9.809749
+    },
+    {
+      "id": "w26",
+      "text": "properly",
+      "start": 9.809791,
+      "end": 10.353249
+    },
+    {
+      "id": "w27",
+      "text": "yet.",
+      "start": 10.35325,
+      "end": 10.774458
+    },
+    {
+      "id": "w28",
+      "text": "In",
+      "start": 11.20925,
+      "end": 11.317958
+    },
+    {
+      "id": "w29",
+      "text": "twenty",
+      "start": 11.331541,
+      "end": 11.616832
+    },
+    {
+      "id": "w30",
+      "text": "nineteen,",
+      "start": 11.616833,
+      "end": 12.350541
+    },
+    {
+      "id": "w31",
+      "text": "that",
+      "start": 12.663041,
+      "end": 12.880416
+    },
+    {
+      "id": "w32",
+      "text": "difference",
+      "start": 12.894041,
+      "end": 13.247291
+    },
+    {
+      "id": "w33",
+      "text": "paid",
+      "start": 13.247291,
+      "end": 13.505457
+    },
+    {
+      "id": "w34",
+      "text": "off.",
+      "start": 13.519041,
+      "end": 13.953832
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.42",
+      "input_tp": "-3.06",
+      "input_lra": "3.40",
+      "input_thresh": "-31.16",
+      "output_i": "-16.39",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-27.06",
+      "normalization_type": "dynamic",
+      "target_offset": "0.39"
+    },
+    "output": {
+      "input_i": "-20.42",
+      "input_tp": "-3.06",
+      "input_lra": "3.40",
+      "input_thresh": "-31.16",
+      "output_i": "-16.08",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-26.74",
+      "normalization_type": "dynamic",
+      "target_offset": "0.08"
+    }
+  },
+  "fingerprint": "6b278c7e4c96a23d751c3fd9172b93c39522df01086be1e450d8cce2d10f6131"
+}

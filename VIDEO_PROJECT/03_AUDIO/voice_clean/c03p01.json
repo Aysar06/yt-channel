@@ -1,0 +1,305 @@
+{
+  "id": "c03p01",
+  "text": "In most games, knowing the map makes you safer. You remember the route. You know where the enemies can come from. Here, familiarity gives the game a weapon. You know what the hallway looked like last time. So a small change suddenly feels enormous.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c03p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c03p01.wav",
+  "duration": 15.744,
+  "words": [
+    {
+      "id": "w0",
+      "text": "In",
+      "start": 0.095125,
+      "end": 0.190208
+    },
+    {
+      "id": "w1",
+      "text": "most",
+      "start": 0.190208,
+      "end": 0.475541
+    },
+    {
+      "id": "w2",
+      "text": "games,",
+      "start": 0.475541,
+      "end": 1.086957
+    },
+    {
+      "id": "w3",
+      "text": "knowing",
+      "start": 1.372291,
+      "end": 1.671207
+    },
+    {
+      "id": "w4",
+      "text": "the",
+      "start": 1.671208,
+      "end": 1.739124
+    },
+    {
+      "id": "w5",
+      "text": "map",
+      "start": 1.739125,
+      "end": 2.160333
+    },
+    {
+      "id": "w6",
+      "text": "makes",
+      "start": 2.173916,
+      "end": 2.377707
+    },
+    {
+      "id": "w7",
+      "text": "you",
+      "start": 2.391291,
+      "end": 2.459207
+    },
+    {
+      "id": "w8",
+      "text": "safer.",
+      "start": 2.45925,
+      "end": 3.070666
+    },
+    {
+      "id": "w9",
+      "text": "You",
+      "start": 3.505416,
+      "end": 3.600541
+    },
+    {
+      "id": "w10",
+      "text": "remember",
+      "start": 3.614125,
+      "end": 3.872291
+    },
+    {
+      "id": "w11",
+      "text": "the",
+      "start": 3.872291,
+      "end": 3.940207
+    },
+    {
+      "id": "w12",
+      "text": "route.",
+      "start": 3.953791,
+      "end": 4.374999
+    },
+    {
+      "id": "w13",
+      "text": "You",
+      "start": 4.823375,
+      "end": 4.891291
+    },
+    {
+      "id": "w14",
+      "text": "know",
+      "start": 4.891291,
+      "end": 5.040749
+    },
+    {
+      "id": "w15",
+      "text": "where",
+      "start": 5.04075,
+      "end": 5.163041
+    },
+    {
+      "id": "w16",
+      "text": "the",
+      "start": 5.176625,
+      "end": 5.27175
+    },
+    {
+      "id": "w17",
+      "text": "enemies",
+      "start": 5.27175,
+      "end": 5.788041
+    },
+    {
+      "id": "w18",
+      "text": "can",
+      "start": 5.788041,
+      "end": 5.923916
+    },
+    {
+      "id": "w19",
+      "text": "come",
+      "start": 5.923916,
+      "end": 6.195666
+    },
+    {
+      "id": "w20",
+      "text": "from.",
+      "start": 6.195666,
+      "end": 6.576082
+    },
+    {
+      "id": "w21",
+      "text": "Here,",
+      "start": 7.038041,
+      "end": 7.391291
+    },
+    {
+      "id": "w22",
+      "text": "familiarity",
+      "start": 7.663041,
+      "end": 8.573374
+    },
+    {
+      "id": "w23",
+      "text": "gives",
+      "start": 8.858708,
+      "end": 9.048916
+    },
+    {
+      "id": "w24",
+      "text": "the",
+      "start": 9.048916,
+      "end": 9.144041
+    },
+    {
+      "id": "w25",
+      "text": "game",
+      "start": 9.144041,
+      "end": 9.402166
+    },
+    {
+      "id": "w26",
+      "text": "a",
+      "start": 9.402166,
+      "end": 9.456499
+    },
+    {
+      "id": "w27",
+      "text": "weapon.",
+      "start": 9.470125,
+      "end": 9.891333
+    },
+    {
+      "id": "w28",
+      "text": "You",
+      "start": 10.326083,
+      "end": 10.393999
+    },
+    {
+      "id": "w29",
+      "text": "know",
+      "start": 10.394041,
+      "end": 10.489124
+    },
+    {
+      "id": "w30",
+      "text": "what",
+      "start": 10.489125,
+      "end": 10.597833
+    },
+    {
+      "id": "w31",
+      "text": "the",
+      "start": 10.611416,
+      "end": 10.679332
+    },
+    {
+      "id": "w32",
+      "text": "hallway",
+      "start": 10.679333,
+      "end": 11.046166
+    },
+    {
+      "id": "w33",
+      "text": "looked",
+      "start": 11.046208,
+      "end": 11.249999
+    },
+    {
+      "id": "w34",
+      "text": "like",
+      "start": 11.25,
+      "end": 11.413041
+    },
+    {
+      "id": "w35",
+      "text": "last",
+      "start": 11.413041,
+      "end": 11.725541
+    },
+    {
+      "id": "w36",
+      "text": "time.",
+      "start": 11.725541,
+      "end": 12.051624
+    },
+    {
+      "id": "w37",
+      "text": "So",
+      "start": 12.472833,
+      "end": 12.622291
+    },
+    {
+      "id": "w38",
+      "text": "a",
+      "start": 12.622291,
+      "end": 12.676624
+    },
+    {
+      "id": "w39",
+      "text": "small",
+      "start": 12.676625,
+      "end": 13.029875
+    },
+    {
+      "id": "w40",
+      "text": "change",
+      "start": 13.043458,
+      "end": 13.546166
+    },
+    {
+      "id": "w41",
+      "text": "suddenly",
+      "start": 13.695666,
+      "end": 14.144041
+    },
+    {
+      "id": "w42",
+      "text": "feels",
+      "start": 14.144041,
+      "end": 14.578791
+    },
+    {
+      "id": "w43",
+      "text": "enormous.",
+      "start": 14.578791,
+      "end": 15.353249
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.39",
+      "input_tp": "-4.84",
+      "input_lra": "2.20",
+      "input_thresh": "-31.24",
+      "output_i": "-16.34",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-27.27",
+      "normalization_type": "dynamic",
+      "target_offset": "0.34"
+    },
+    "output": {
+      "input_i": "-20.39",
+      "input_tp": "-4.84",
+      "input_lra": "2.20",
+      "input_thresh": "-31.24",
+      "output_i": "-16.05",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-26.98",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    }
+  },
+  "fingerprint": "f70709b918060ed16afc70732ccfd69cac5c431bca93c3e47f4bba4f7382e577"
+}

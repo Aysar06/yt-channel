@@ -1,0 +1,265 @@
+npm notice run npx
+npm notice run hyperframes render --fps 24 --quality high --workers 4 --crf 18 --output 07_EXPORT/final_video.mp4
+
+◆  Rendering VIDEO_PROJECT → C:\Users\aysar\Documents\ChatGPT\video editor for long form videos\VIDEO_PROJECT\07_EXPORT\final_video.mp4
+   24fps · high · 4 workers
+   GPU: browser GPU (auto-detect)
+
+[?25l|
+o  Browser: cache
+[?25h
+  ⚠ [compositions/ch01.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch01.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch01.html] timeline_track_too_dense: Track 1 has 9 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch02.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch02.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch02.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch03.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch03.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch03.html] timeline_track_too_dense: Track 1 has 11 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch04.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch04.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch04.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch05.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch05.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch05.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch06.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch06.html] timeline_track_too_dense: Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch07.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch07.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch08.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch08.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch08.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch09.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch09.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch09.html] timeline_track_too_dense: Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch10.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch10.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch10.html] timeline_track_too_dense: Track 1 has 10 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch11.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch11.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch11.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch12.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch12.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch12.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  Continuing render despite lint issues. Use --strict to block errors.
+
+[INFO] [Render] Pipeline started {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","platform":"win32","arch":"x64","nodeVersion":"v24.18.0","fps":{"num":24,"den":1},"format":"mp4","quality":"high","browserGpuMode":"auto","forceScreenshot":false,"protocolTimeout":300000,"browserTimeout":120000,"pageNavigationTimeout":60000,"playerReadyTimeout":45000}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"pipeline","status":"checkpoint","elapsedMs":4,"message":"started","format":"mp4","quality":"high","browserGpuMode":"auto","forceScreenshot":false,"protocolTimeoutMs":300000,"pageNavigationTimeoutMs":60000,"playerReadyTimeoutMs":45000,"requestedWorkers":4}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"compile","status":"start","elapsedMs":5,"needsAlpha":false}
+  █░░░░░░░░░░░░░░░░░░░░░░░░  5%  Compiling composition
+[INFO] [Compiler] Fetched 9 font face(s) for "IBM Plex Mono" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\ibm-plex-mono)
+[INFO] [Compiler] Fetched 1 font face(s) for "League Gothic" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\league-gothic)
+[INFO] [Compiler] Injected deterministic @font-face rules for 2 requested font families
+[INFO] [Compiler] Inlined CDN script: https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js
+[INFO] Compiled composition metadata {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","entryFile":"index.html","staticDuration":831.246,"width":1920,"height":1080,"videoCount":0,"audioCount":1,"renderModeHints":{"recommendScreenshot":false,"reasons":[]}}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"compile","status":"end","elapsedMs":1566,"durationMs":1560,"needsAlpha":false}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"compile","status":"checkpoint","elapsedMs":1567,"message":"composition metadata resolved","width":1920,"height":1080,"videoCount":0,"audioCount":1,"imageCount":121,"deviceScaleFactor":1,"forceScreenshot":false,"compositionHash":"445b51e912a31573"}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"browser_probe","status":"start","elapsedMs":1568,"forceScreenshot":false,"stagePhase":"calibrating"}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"browser_probe","status":"end","elapsedMs":1630,"durationMs":62,"forceScreenshot":false,"stagePhase":"calibrating"}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"browser_probe","status":"checkpoint","elapsedMs":1632,"message":"duration resolved","durationSeconds":831.246,"totalFrames":19950,"compositionHash":"445b51e912a31573","beginFrameStalled":false}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"video_extract","status":"start","elapsedMs":1632,"videoCount":0}
+  ██░░░░░░░░░░░░░░░░░░░░░░░  10%  Extracting video frames
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"video_extract","status":"end","elapsedMs":1669,"durationMs":37,"videoCount":0}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"video_extract","status":"checkpoint","elapsedMs":1676,"message":"frames resolved","videoCount":0,"extractedVideoCount":0,"totalFramesExtracted":0,"maxFramesPerVideo":0,"avgFramesPerExtractedVideo":null,"vfrPreflightCount":null,"vfrPreflightMs":null,"cacheHits":null,"cacheMisses":null,"transientRetries":null,"minVideoFrameCoverageRatio":null,"authoredTimedClipCount":156}
+[INFO] [Render] No HDR sources detected — rendering SDR {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5"}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"hdr_detection","status":"checkpoint","elapsedMs":1676,"message":"resolved","requestedHdrMode":"auto","effectiveHdr":"sdr","nativeHdrVideoCount":0,"nativeHdrImageCount":0}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"audio_process","status":"start","elapsedMs":1676,"audioCount":1}
+  █████░░░░░░░░░░░░░░░░░░░░  20%  Processing audio tracks
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"audio_process","status":"end","elapsedMs":17783,"durationMs":16107,"audioCount":1}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"file_server","status":"start","elapsedMs":17783,"reused":false}
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Starting frame capture
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"file_server","status":"end","elapsedMs":17792,"durationMs":9}
+[hyperframes] browserGpuMode probe → hardware (WebGL renderer vendor="Google Inc. (NVIDIA)" renderer="ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 (0x00002882) Direct3D11 vs_5_0 ps_5_0, D3D11)")
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"capture_calibration","status":"checkpoint","elapsedMs":18408,"message":"skipped","requestedWorkers":4,"totalFrames":19950,"htmlInCanvasDetected":false,"lowMemoryMode":false,"deInversionEligible":false,"deParallelRouterEligible":false}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"worker_resolution","status":"checkpoint","elapsedMs":18409,"message":"resolved","workerCount":4}
+[INFO] [Render] Parallel screenshot capture will stream to the encoder (interleaved, 4 workers) instead of the disk path. Set HF_CAPTURE_PARALLEL_STREAM=false to disable. {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5"}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"worker_resolution","status":"checkpoint","elapsedMs":18409,"message":"parallel screenshot capture routed to streaming"}
+[INFO] streaming-encode gate {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","enabled":true,"configFlag":true,"outputFormat":"mp4","workerCount":4,"durationSeconds":831.246,"maxDurationSeconds":900}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"capture_strategy","status":"checkpoint","elapsedMs":18410,"message":"resolved","workerCount":4,"forceScreenshot":false,"captureBeyondViewport":null,"useStreamingEncode":true,"useLayeredComposite":false,"usePageSideCompositing":false,"hasHdrContent":false,"hasShaderTransitions":false,"isPngSequence":false}
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"capture_streaming","status":"start","elapsedMs":18410,"stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":19950,"framesCompleted":0,"captureMode":"beginframe","captureOperation":"beginFrame"}
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[initSession:screenshot] page.goto start (1ms)
+[initSession:screenshot] page.goto start (0ms)
+[initSession:screenshot] page.goto start (0ms)
+[initSession:screenshot] page.goto start (0ms)
+[HyperFrames] render runtime fps [object Object]
+[HyperFrames] render runtime fps [object Object]
+[HyperFrames] render runtime fps [object Object]
+[HyperFrames] render runtime fps [object Object]
+[initSession:screenshot] page.goto complete (2441ms)
+[initSession:screenshot] page.goto complete (2418ms)
+[initSession:screenshot] page.goto complete (2445ms)
+[initSession:screenshot] page.goto complete (2437ms)
+[initSession:screenshot] GSAP proxy flush complete (2478ms)
+[initSession:screenshot] pollHfReady complete (2480ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (2490ms)
+[initSession:screenshot] applyVideoMetadataHints complete (2490ms)
+[initSession:screenshot] media + fonts + tailwind ready (2506ms)
+[initSession:screenshot] GSAP proxy flush complete (3243ms)
+[initSession:screenshot] pollHfReady complete (3247ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (3260ms)
+[initSession:screenshot] applyVideoMetadataHints complete (3260ms)
+[initSession:screenshot] media + fonts + tailwind ready (3331ms)
+[initSession:screenshot] GSAP proxy flush complete (3334ms)
+[initSession:screenshot] pollHfReady complete (3336ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (3371ms)
+[initSession:screenshot] applyVideoMetadataHints complete (3372ms)
+[initSession:screenshot] media + fonts + tailwind ready (3518ms)
+[initSession:screenshot] GSAP proxy flush complete (5176ms)
+[initSession:screenshot] pollHfReady complete (5179ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (5195ms)
+[initSession:screenshot] applyVideoMetadataHints complete (5195ms)
+[initSession:screenshot] media + fonts + tailwind ready (5360ms)
+[initSession:screenshot] static-frame dedup: 2293/2293 predicted frame(s) reusable (outcome=verified, runs=19/19, screenshots=123, seeks=124, elapsedMs=12071) (15415ms)
+[initSession:screenshot] static-frame dedup: 2293/2293 predicted frame(s) reusable (outcome=verified, runs=19/19, screenshots=123, seeks=124, elapsedMs=12938) (15460ms)
+[initSession:screenshot] static-frame dedup: 2293/2293 predicted frame(s) reusable (outcome=verified, runs=19/19, screenshots=123, seeks=124, elapsedMs=11959) (15501ms)
+[initSession:screenshot] static-frame dedup: 2293/2293 predicted frame(s) reusable (outcome=verified, runs=19/19, screenshots=123, seeks=124, elapsedMs=10187) (15565ms)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 30/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 60/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 90/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 120/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 150/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 180/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 210/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 240/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 270/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 300/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 330/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 360/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 390/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 420/19950 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"capture_streaming","status":"checkpoint","elapsedMs":48417,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":19950,"framesCompleted":422,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":1,"stageElapsedMs":30007}
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 450/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 480/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 510/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 540/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 570/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 600/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 630/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 660/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 690/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 720/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 750/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 780/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 810/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 840/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 870/19950 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 900/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 930/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 960/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 990/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1020/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1050/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1080/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1110/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1140/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1170/19950 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"capture_streaming","status":"checkpoint","elapsedMs":78417,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":19950,"framesCompleted":1182,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":2,"stageElapsedMs":60007}
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1200/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1230/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 1260/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1290/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1320/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1350/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1380/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1410/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1440/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1470/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1500/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1530/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1560/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1590/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1620/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1650/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1680/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1710/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1740/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1770/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1800/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1830/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1860/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1890/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1920/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1950/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1980/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2010/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2040/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2070/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2100/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2130/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2160/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2190/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2220/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2250/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2280/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2310/19950 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 2340/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2370/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2400/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2430/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2460/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2490/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2520/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2550/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2580/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2610/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2640/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2670/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2700/19950 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"8a2c85cc-9a73-4f7b-a153-8ef00e7b1be5","phase":"capture_streaming","status":"checkpoint","elapsedMs":138432,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":19950,"framesCompleted":2705,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":3,"stageElapsedMs":120022}
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2730/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2760/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2790/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2820/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2850/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2880/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2910/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2940/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2970/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 3000/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 3030/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 3060/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 3090/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 3120/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 3150/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 3180/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 3210/19950 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 3240/19950 (4 workers)

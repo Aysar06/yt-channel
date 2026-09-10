@@ -1,0 +1,341 @@
+{
+  "id": "c03p04",
+  "text": "That's why merely describing the layout makes P.T. sound smaller than it feels. The important space is the bit you can't currently see. The corridor is limited. Your imagination has no budget limit. And then the game adds another problem: you're not even sure what it wants you to do.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c03p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c03p04.wav",
+  "duration": 19.296,
+  "words": [
+    {
+      "id": "w0",
+      "text": "That's",
+      "start": 0.122291,
+      "end": 0.298916
+    },
+    {
+      "id": "w1",
+      "text": "why",
+      "start": 0.298916,
+      "end": 0.461957
+    },
+    {
+      "id": "w2",
+      "text": "merely",
+      "start": 0.461958,
+      "end": 0.842374
+    },
+    {
+      "id": "w3",
+      "text": "describing",
+      "start": 0.855958,
+      "end": 1.413041
+    },
+    {
+      "id": "w4",
+      "text": "the",
+      "start": 1.413041,
+      "end": 1.508166
+    },
+    {
+      "id": "w5",
+      "text": "layout",
+      "start": 1.52175,
+      "end": 2.038041
+    },
+    {
+      "id": "w6",
+      "text": "makes",
+      "start": 2.051625,
+      "end": 2.377708
+    },
+    {
+      "id": "w7",
+      "text": "P.T.",
+      "start": 2.391291,
+      "end": 2.989124
+    },
+    {
+      "id": "w8",
+      "text": "sound",
+      "start": 3.002708,
+      "end": 3.383124
+    },
+    {
+      "id": "w9",
+      "text": "smaller",
+      "start": 3.383166,
+      "end": 3.953832
+    },
+    {
+      "id": "w10",
+      "text": "than",
+      "start": 3.967375,
+      "end": 4.076083
+    },
+    {
+      "id": "w11",
+      "text": "it",
+      "start": 4.076083,
+      "end": 4.143999
+    },
+    {
+      "id": "w12",
+      "text": "feels.",
+      "start": 4.144041,
+      "end": 4.850582
+    },
+    {
+      "id": "w13",
+      "text": "The",
+      "start": 5.298916,
+      "end": 5.326082
+    },
+    {
+      "id": "w14",
+      "text": "important",
+      "start": 5.326083,
+      "end": 5.815208
+    },
+    {
+      "id": "w15",
+      "text": "space",
+      "start": 5.815208,
+      "end": 6.453791
+    },
+    {
+      "id": "w16",
+      "text": "is",
+      "start": 6.589666,
+      "end": 6.698374
+    },
+    {
+      "id": "w17",
+      "text": "the",
+      "start": 6.698375,
+      "end": 6.7935
+    },
+    {
+      "id": "w18",
+      "text": "bit",
+      "start": 6.807083,
+      "end": 7.119583
+    },
+    {
+      "id": "w19",
+      "text": "you",
+      "start": 7.119583,
+      "end": 7.255458
+    },
+    {
+      "id": "w20",
+      "text": "can't",
+      "start": 7.269041,
+      "end": 7.676624
+    },
+    {
+      "id": "w21",
+      "text": "currently",
+      "start": 7.676625,
+      "end": 8.152166
+    },
+    {
+      "id": "w22",
+      "text": "see.",
+      "start": 8.152166,
+      "end": 8.654874
+    },
+    {
+      "id": "w23",
+      "text": "The",
+      "start": 9.076083,
+      "end": 9.171208
+    },
+    {
+      "id": "w24",
+      "text": "corridor",
+      "start": 9.171208,
+      "end": 9.836958
+    },
+    {
+      "id": "w25",
+      "text": "is",
+      "start": 9.945666,
+      "end": 10.095124
+    },
+    {
+      "id": "w26",
+      "text": "limited.",
+      "start": 10.095125,
+      "end": 10.625
+    },
+    {
+      "id": "w27",
+      "text": "Your",
+      "start": 11.059791,
+      "end": 11.222832
+    },
+    {
+      "id": "w28",
+      "text": "imagination",
+      "start": 11.236416,
+      "end": 12.105999
+    },
+    {
+      "id": "w29",
+      "text": "has",
+      "start": 12.201083,
+      "end": 12.472833
+    },
+    {
+      "id": "w30",
+      "text": "no",
+      "start": 12.472833,
+      "end": 12.853249
+    },
+    {
+      "id": "w31",
+      "text": "budget",
+      "start": 12.921208,
+      "end": 13.369583
+    },
+    {
+      "id": "w32",
+      "text": "limit.",
+      "start": 13.369583,
+      "end": 13.749999
+    },
+    {
+      "id": "w33",
+      "text": "And",
+      "start": 14.184791,
+      "end": 14.252707
+    },
+    {
+      "id": "w34",
+      "text": "then",
+      "start": 14.266291,
+      "end": 14.388582
+    },
+    {
+      "id": "w35",
+      "text": "the",
+      "start": 14.388583,
+      "end": 14.483708
+    },
+    {
+      "id": "w36",
+      "text": "game",
+      "start": 14.497291,
+      "end": 14.945666
+    },
+    {
+      "id": "w37",
+      "text": "adds",
+      "start": 15.122291,
+      "end": 15.448374
+    },
+    {
+      "id": "w38",
+      "text": "another",
+      "start": 15.448375,
+      "end": 15.869583
+    },
+    {
+      "id": "w39",
+      "text": "problem:",
+      "start": 15.869583,
+      "end": 16.331541
+    },
+    {
+      "id": "w40",
+      "text": "you're",
+      "start": 16.956541,
+      "end": 17.024457
+    },
+    {
+      "id": "w41",
+      "text": "not",
+      "start": 17.038041,
+      "end": 17.282624
+    },
+    {
+      "id": "w42",
+      "text": "even",
+      "start": 17.282625,
+      "end": 17.5
+    },
+    {
+      "id": "w43",
+      "text": "sure",
+      "start": 17.513583,
+      "end": 17.907624
+    },
+    {
+      "id": "w44",
+      "text": "what",
+      "start": 17.921208,
+      "end": 18.043499
+    },
+    {
+      "id": "w45",
+      "text": "it",
+      "start": 18.057083,
+      "end": 18.124999
+    },
+    {
+      "id": "w46",
+      "text": "wants",
+      "start": 18.125,
+      "end": 18.369583
+    },
+    {
+      "id": "w47",
+      "text": "you",
+      "start": 18.369583,
+      "end": 18.478291
+    },
+    {
+      "id": "w48",
+      "text": "to",
+      "start": 18.491833,
+      "end": 18.559749
+    },
+    {
+      "id": "w49",
+      "text": "do.",
+      "start": 18.559791,
+      "end": 18.899457
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.64",
+      "input_tp": "-4.86",
+      "input_lra": "3.40",
+      "input_thresh": "-31.36",
+      "output_i": "-16.02",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-26.61",
+      "normalization_type": "dynamic",
+      "target_offset": "0.02"
+    },
+    "output": {
+      "input_i": "-20.64",
+      "input_tp": "-4.86",
+      "input_lra": "3.40",
+      "input_thresh": "-31.36",
+      "output_i": "-16.00",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-26.59",
+      "normalization_type": "dynamic",
+      "target_offset": "0.00"
+    }
+  },
+  "fingerprint": "a7b2a66ab35ad871b95373f77221196e6871ea105819e5d1151da71150c156ae"
+}

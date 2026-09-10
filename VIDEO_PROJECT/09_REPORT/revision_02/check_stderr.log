@@ -1,0 +1,6 @@
+npm notice run npx
+npm notice run hyperframes check --json
+[INFO] [Compiler] Fetched 11 font face(s) for "Inter" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\inter)
+[INFO] [Compiler] Fetched 7 font face(s) for "EB Garamond" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\eb-garamond)
+[INFO] [Compiler] Injected deterministic @font-face rules for 2 requested font families
+[hyperframes] browserGpuMode probe → hardware (WebGL renderer vendor="Google Inc. (NVIDIA)" renderer="ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 (0x00002882) Direct3D11 vs_5_0 ps_5_0, D3D11)")

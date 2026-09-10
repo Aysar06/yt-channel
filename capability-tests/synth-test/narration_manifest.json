@@ -1,0 +1,238 @@
+{
+  "provider": "Microsoft Edge online neural TTS via edge-tts",
+  "duration": 10.8,
+  "sample_rate": 48000,
+  "audio": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\capability-tests\\synth-test\\narration.wav",
+  "timing_source": "TTS word boundary metadata; verify at final QC",
+  "lines": [
+    {
+      "id": "sample01",
+      "text": "The strangest part wasn't that the game disappeared. It was that somebody had kept it running for twenty years. And when they finally opened the server, the story got even stranger.",
+      "voice": "en-US-AndrewMultilingualNeural",
+      "rate": "-8%",
+      "pitch": "+0Hz",
+      "raw": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\capability-tests\\synth-test\\voice_raw\\sample01.mp3",
+      "clean": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\capability-tests\\synth-test\\voice_clean\\sample01.wav",
+      "duration": 10.8,
+      "words": [
+        {
+          "id": "w0",
+          "text": "The",
+          "start": 0.122291,
+          "end": 0.176624
+        },
+        {
+          "id": "w1",
+          "text": "strangest",
+          "start": 0.176625,
+          "end": 0.638583
+        },
+        {
+          "id": "w2",
+          "text": "part",
+          "start": 0.638583,
+          "end": 0.951083
+        },
+        {
+          "id": "w3",
+          "text": "wasn't",
+          "start": 0.951083,
+          "end": 1.426624
+        },
+        {
+          "id": "w4",
+          "text": "that",
+          "start": 1.440208,
+          "end": 1.562499
+        },
+        {
+          "id": "w5",
+          "text": "the",
+          "start": 1.5625,
+          "end": 1.644041
+        },
+        {
+          "id": "w6",
+          "text": "game",
+          "start": 1.644041,
+          "end": 1.970124
+        },
+        {
+          "id": "w7",
+          "text": "disappeared.",
+          "start": 1.970125,
+          "end": 2.744583
+        },
+        {
+          "id": "w8",
+          "text": "It",
+          "start": 3.16575,
+          "end": 3.220083
+        },
+        {
+          "id": "w9",
+          "text": "was",
+          "start": 3.220125,
+          "end": 3.328791
+        },
+        {
+          "id": "w10",
+          "text": "that",
+          "start": 3.328791,
+          "end": 3.491832
+        },
+        {
+          "id": "w11",
+          "text": "somebody",
+          "start": 3.505416,
+          "end": 3.872249
+        },
+        {
+          "id": "w12",
+          "text": "had",
+          "start": 3.885875,
+          "end": 4.035333
+        },
+        {
+          "id": "w13",
+          "text": "kept",
+          "start": 4.048916,
+          "end": 4.334249
+        },
+        {
+          "id": "w14",
+          "text": "it",
+          "start": 4.347833,
+          "end": 4.483708
+        },
+        {
+          "id": "w15",
+          "text": "running",
+          "start": 4.483708,
+          "end": 4.809791
+        },
+        {
+          "id": "w16",
+          "text": "for",
+          "start": 4.809791,
+          "end": 4.972832
+        },
+        {
+          "id": "w17",
+          "text": "twenty",
+          "start": 4.972833,
+          "end": 5.312499
+        },
+        {
+          "id": "w18",
+          "text": "years.",
+          "start": 5.3125,
+          "end": 5.97825
+        },
+        {
+          "id": "w19",
+          "text": "And",
+          "start": 6.413041,
+          "end": 6.494582
+        },
+        {
+          "id": "w20",
+          "text": "when",
+          "start": 6.508166,
+          "end": 6.603249
+        },
+        {
+          "id": "w21",
+          "text": "they",
+          "start": 6.60325,
+          "end": 6.698375
+        },
+        {
+          "id": "w22",
+          "text": "finally",
+          "start": 6.711958,
+          "end": 7.201083
+        },
+        {
+          "id": "w23",
+          "text": "opened",
+          "start": 7.214666,
+          "end": 7.513582
+        },
+        {
+          "id": "w24",
+          "text": "the",
+          "start": 7.513583,
+          "end": 7.567916
+        },
+        {
+          "id": "w25",
+          "text": "server,",
+          "start": 7.567916,
+          "end": 8.111374
+        },
+        {
+          "id": "w26",
+          "text": "the",
+          "start": 8.532625,
+          "end": 8.62775
+        },
+        {
+          "id": "w27",
+          "text": "story",
+          "start": 8.641291,
+          "end": 9.143999
+        },
+        {
+          "id": "w28",
+          "text": "got",
+          "start": 9.157625,
+          "end": 9.429375
+        },
+        {
+          "id": "w29",
+          "text": "even",
+          "start": 9.442916,
+          "end": 9.701082
+        },
+        {
+          "id": "w30",
+          "text": "stranger.",
+          "start": 9.714666,
+          "end": 10.407582
+        }
+      ],
+      "gap_after": 0.12,
+      "punctuation_match": 1.0,
+      "loudness": {
+        "input": {
+          "input_i": "-21.16",
+          "input_tp": "-3.92",
+          "input_lra": "4.20",
+          "input_thresh": "-32.09",
+          "output_i": "-16.88",
+          "output_tp": "-1.50",
+          "output_lra": "1.90",
+          "output_thresh": "-27.72",
+          "normalization_type": "dynamic",
+          "target_offset": "0.88"
+        },
+        "output": {
+          "input_i": "-21.16",
+          "input_tp": "-3.92",
+          "input_lra": "4.20",
+          "input_thresh": "-32.09",
+          "output_i": "-16.28",
+          "output_tp": "-1.50",
+          "output_lra": "1.50",
+          "output_thresh": "-27.12",
+          "normalization_type": "dynamic",
+          "target_offset": "0.28"
+        }
+      },
+      "fingerprint": "a5fe41632c7d31a4c8b08750f2b56f8da8190a7134854380426bf76056cd8d3a",
+      "start": 0.0,
+      "end": 10.8
+    }
+  ]
+}

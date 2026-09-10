@@ -1,0 +1,323 @@
+{
+  "id": "c04p04",
+  "text": "Contemporary reporting says Kojima expected the mystery to take at least a week to solve. Players broke through within hours. Imagine setting a puzzle for the internet and expecting the internet to go to bed. The reward for finishing wasn't just an exit. It was a name.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c04p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c04p04.wav",
+  "duration": 17.232,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Contemporary",
+      "start": 0.102041,
+      "end": 0.739791
+    },
+    {
+      "id": "w1",
+      "text": "reporting",
+      "start": 0.752541,
+      "end": 1.313749
+    },
+    {
+      "id": "w2",
+      "text": "says",
+      "start": 1.607125,
+      "end": 1.88775
+    },
+    {
+      "id": "w3",
+      "text": "Kojima",
+      "start": 1.9005,
+      "end": 2.691333
+    },
+    {
+      "id": "w4",
+      "text": "expected",
+      "start": 2.818875,
+      "end": 3.392875
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 3.392875,
+      "end": 3.443875
+    },
+    {
+      "id": "w6",
+      "text": "mystery",
+      "start": 3.443875,
+      "end": 4.107125
+    },
+    {
+      "id": "w7",
+      "text": "to",
+      "start": 4.209166,
+      "end": 4.311207
+    },
+    {
+      "id": "w8",
+      "text": "take",
+      "start": 4.311208,
+      "end": 4.591833
+    },
+    {
+      "id": "w9",
+      "text": "at",
+      "start": 4.591833,
+      "end": 4.693874
+    },
+    {
+      "id": "w10",
+      "text": "least",
+      "start": 4.693875,
+      "end": 4.936208
+    },
+    {
+      "id": "w11",
+      "text": "a",
+      "start": 4.936208,
+      "end": 4.987208
+    },
+    {
+      "id": "w12",
+      "text": "week",
+      "start": 4.98725,
+      "end": 5.318875
+    },
+    {
+      "id": "w13",
+      "text": "to",
+      "start": 5.331625,
+      "end": 5.408166
+    },
+    {
+      "id": "w14",
+      "text": "solve.",
+      "start": 5.408166,
+      "end": 5.943874
+    },
+    {
+      "id": "w15",
+      "text": "Players",
+      "start": 6.364791,
+      "end": 6.696416
+    },
+    {
+      "id": "w16",
+      "text": "broke",
+      "start": 6.696416,
+      "end": 7.117332
+    },
+    {
+      "id": "w17",
+      "text": "through",
+      "start": 7.321416,
+      "end": 7.512749
+    },
+    {
+      "id": "w18",
+      "text": "within",
+      "start": 7.51275,
+      "end": 7.806125
+    },
+    {
+      "id": "w19",
+      "text": "hours.",
+      "start": 7.806125,
+      "end": 8.354583
+    },
+    {
+      "id": "w20",
+      "text": "Imagine",
+      "start": 8.73725,
+      "end": 9.234708
+    },
+    {
+      "id": "w21",
+      "text": "setting",
+      "start": 9.247458,
+      "end": 9.502541
+    },
+    {
+      "id": "w22",
+      "text": "a",
+      "start": 9.502541,
+      "end": 9.566332
+    },
+    {
+      "id": "w23",
+      "text": "puzzle",
+      "start": 9.579083,
+      "end": 10.038249
+    },
+    {
+      "id": "w24",
+      "text": "for",
+      "start": 10.051,
+      "end": 10.178541
+    },
+    {
+      "id": "w25",
+      "text": "the",
+      "start": 10.178583,
+      "end": 10.267874
+    },
+    {
+      "id": "w26",
+      "text": "internet",
+      "start": 10.267875,
+      "end": 10.778083
+    },
+    {
+      "id": "w27",
+      "text": "and",
+      "start": 10.969375,
+      "end": 11.071416
+    },
+    {
+      "id": "w28",
+      "text": "expecting",
+      "start": 11.23725,
+      "end": 11.785708
+    },
+    {
+      "id": "w29",
+      "text": "the",
+      "start": 11.785708,
+      "end": 11.887749
+    },
+    {
+      "id": "w30",
+      "text": "internet",
+      "start": 11.9005,
+      "end": 12.321416
+    },
+    {
+      "id": "w31",
+      "text": "to",
+      "start": 12.321416,
+      "end": 12.423457
+    },
+    {
+      "id": "w32",
+      "text": "go",
+      "start": 12.423458,
+      "end": 12.576499
+    },
+    {
+      "id": "w33",
+      "text": "to",
+      "start": 12.576541,
+      "end": 12.640291
+    },
+    {
+      "id": "w34",
+      "text": "bed.",
+      "start": 12.640291,
+      "end": 12.997416
+    },
+    {
+      "id": "w35",
+      "text": "The",
+      "start": 13.405625,
+      "end": 13.456625
+    },
+    {
+      "id": "w36",
+      "text": "reward",
+      "start": 13.456625,
+      "end": 13.915791
+    },
+    {
+      "id": "w37",
+      "text": "for",
+      "start": 13.928583,
+      "end": 14.056124
+    },
+    {
+      "id": "w38",
+      "text": "finishing",
+      "start": 14.056125,
+      "end": 14.617333
+    },
+    {
+      "id": "w39",
+      "text": "wasn't",
+      "start": 14.732125,
+      "end": 15.127541
+    },
+    {
+      "id": "w40",
+      "text": "just",
+      "start": 15.127541,
+      "end": 15.331624
+    },
+    {
+      "id": "w41",
+      "text": "an",
+      "start": 15.331625,
+      "end": 15.382625
+    },
+    {
+      "id": "w42",
+      "text": "exit.",
+      "start": 15.382666,
+      "end": 15.803582
+    },
+    {
+      "id": "w43",
+      "text": "It",
+      "start": 16.2245,
+      "end": 16.2755
+    },
+    {
+      "id": "w44",
+      "text": "was",
+      "start": 16.28825,
+      "end": 16.377541
+    },
+    {
+      "id": "w45",
+      "text": "a",
+      "start": 16.377541,
+      "end": 16.403041
+    },
+    {
+      "id": "w46",
+      "text": "name.",
+      "start": 16.415833,
+      "end": 16.849499
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.02",
+      "input_tp": "-4.76",
+      "input_lra": "2.90",
+      "input_thresh": "-31.67",
+      "output_i": "-16.61",
+      "output_tp": "-1.50",
+      "output_lra": "3.10",
+      "output_thresh": "-27.20",
+      "normalization_type": "dynamic",
+      "target_offset": "0.61"
+    },
+    "output": {
+      "input_i": "-21.02",
+      "input_tp": "-4.76",
+      "input_lra": "2.90",
+      "input_thresh": "-31.67",
+      "output_i": "-16.05",
+      "output_tp": "-1.50",
+      "output_lra": "3.20",
+      "output_thresh": "-26.64",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    }
+  },
+  "fingerprint": "dfd3872e69b05a1bc81f3f7fed9edc82b1a72ee983df40803af2338ee685aeae"
+}

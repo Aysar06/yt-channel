@@ -1,0 +1,65 @@
+npm notice run npx
+npm notice run hyperframes snapshot --at 5.45,19.15,34.7,45.189,52.577,61.827,70.727,77.327,82.777,92.177,109.071,127.516,139.816,148.266,158.116,167.466,178.634,191.251,203.601,213.201,218.151,224.101,234.351,247.451,257.148,270.144,285.844,297.544,308.994,317.231,327.018,338.768,347.768,362.468,379.709,399.851,419.401,431.801,442.366,450.882,457.682,469.582,482.382,494.182,508.112,521.892,535.392,551.337,569.882,583.082,595.032,608.882,618.984 --no-end --describe false --output 09_REPORT/revision_02/snapshots
+◆  Capturing 53 frames at [5.45s, 19.15s, 34.7s, 45.189s, 52.577s, 61.827s, 70.727s, 77.327s, 82.777s, 92.177s, 109.071s, 127.516s, 139.816s, 148.266s, 158.116s, 167.466s, 178.634s, 191.251s, 203.601s, 213.201s, 218.151s, 224.101s, 234.351s, 247.451s, 257.148s, 270.144s, 285.844s, 297.544s, 308.994s, 317.231s, 327.018s, 338.768s, 347.768s, 362.468s, 379.709s, 399.851s, 419.401s, 431.801s, 442.366s, 450.882s, 457.682s, 469.582s, 482.382s, 494.182s, 508.112s, 521.892s, 535.392s, 551.337s, 569.882s, 583.082s, 595.032s, 608.882s, 618.984s] from VIDEO_PROJECT
+[INFO] [Compiler] Fetched 11 font face(s) for "Inter" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\inter)
+[INFO] [Compiler] Fetched 7 font face(s) for "EB Garamond" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\eb-garamond)
+[INFO] [Compiler] Injected deterministic @font-face rules for 2 requested font families
+[hyperframes] browserGpuMode probe → hardware (WebGL renderer vendor="Google Inc. (NVIDIA)" renderer="ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 (0x00002882) Direct3D11 vs_5_0 ps_5_0, D3D11)")
+
+   Fonts: 2 loaded, 7 unused
+
+◇  53 snapshots saved to C:\Users\aysar\Documents\ChatGPT\video editor for long form videos\VIDEO_PROJECT\09_REPORT\revision_02\snapshots
+   09_REPORT\revision_02\snapshots\frame-00-at-5.45s.png
+   09_REPORT\revision_02\snapshots\frame-01-at-19.15s.png
+   09_REPORT\revision_02\snapshots\frame-02-at-34.7s.png
+   09_REPORT\revision_02\snapshots\frame-03-at-45.189s.png
+   09_REPORT\revision_02\snapshots\frame-04-at-52.577s.png
+   09_REPORT\revision_02\snapshots\frame-05-at-61.827s.png
+   09_REPORT\revision_02\snapshots\frame-06-at-70.727s.png
+   09_REPORT\revision_02\snapshots\frame-07-at-77.327s.png
+   09_REPORT\revision_02\snapshots\frame-08-at-82.777s.png
+   09_REPORT\revision_02\snapshots\frame-09-at-92.177s.png
+   09_REPORT\revision_02\snapshots\frame-10-at-109.071s.png
+   09_REPORT\revision_02\snapshots\frame-11-at-127.516s.png
+   09_REPORT\revision_02\snapshots\frame-12-at-139.816s.png
+   09_REPORT\revision_02\snapshots\frame-13-at-148.266s.png
+   09_REPORT\revision_02\snapshots\frame-14-at-158.116s.png
+   09_REPORT\revision_02\snapshots\frame-15-at-167.466s.png
+   09_REPORT\revision_02\snapshots\frame-16-at-178.634s.png
+   09_REPORT\revision_02\snapshots\frame-17-at-191.251s.png
+   09_REPORT\revision_02\snapshots\frame-18-at-203.601s.png
+   09_REPORT\revision_02\snapshots\frame-19-at-213.201s.png
+   09_REPORT\revision_02\snapshots\frame-20-at-218.151s.png
+   09_REPORT\revision_02\snapshots\frame-21-at-224.101s.png
+   09_REPORT\revision_02\snapshots\frame-22-at-234.351s.png
+   09_REPORT\revision_02\snapshots\frame-23-at-247.451s.png
+   09_REPORT\revision_02\snapshots\frame-24-at-257.148s.png
+   09_REPORT\revision_02\snapshots\frame-25-at-270.144s.png
+   09_REPORT\revision_02\snapshots\frame-26-at-285.844s.png
+   09_REPORT\revision_02\snapshots\frame-27-at-297.544s.png
+   09_REPORT\revision_02\snapshots\frame-28-at-308.994s.png
+   09_REPORT\revision_02\snapshots\frame-29-at-317.231s.png
+   09_REPORT\revision_02\snapshots\frame-30-at-327.018s.png
+   09_REPORT\revision_02\snapshots\frame-31-at-338.768s.png
+   09_REPORT\revision_02\snapshots\frame-32-at-347.768s.png
+   09_REPORT\revision_02\snapshots\frame-33-at-362.468s.png
+   09_REPORT\revision_02\snapshots\frame-34-at-379.709s.png
+   09_REPORT\revision_02\snapshots\frame-35-at-399.851s.png
+   09_REPORT\revision_02\snapshots\frame-36-at-419.401s.png
+   09_REPORT\revision_02\snapshots\frame-37-at-431.801s.png
+   09_REPORT\revision_02\snapshots\frame-38-at-442.366s.png
+   09_REPORT\revision_02\snapshots\frame-39-at-450.882s.png
+   09_REPORT\revision_02\snapshots\frame-40-at-457.682s.png
+   09_REPORT\revision_02\snapshots\frame-41-at-469.582s.png
+   09_REPORT\revision_02\snapshots\frame-42-at-482.382s.png
+   09_REPORT\revision_02\snapshots\frame-43-at-494.182s.png
+   09_REPORT\revision_02\snapshots\frame-44-at-508.112s.png
+   09_REPORT\revision_02\snapshots\frame-45-at-521.892s.png
+   09_REPORT\revision_02\snapshots\frame-46-at-535.392s.png
+   09_REPORT\revision_02\snapshots\frame-47-at-551.337s.png
+   09_REPORT\revision_02\snapshots\frame-48-at-569.882s.png
+   09_REPORT\revision_02\snapshots\frame-49-at-583.082s.png
+   09_REPORT\revision_02\snapshots\frame-50-at-595.032s.png
+   09_REPORT\revision_02\snapshots\frame-51-at-608.882s.png
+   09_REPORT\revision_02\snapshots\frame-52-at-618.984s.png
+   contact-sheet-1..6.jpg (grid view for AI review)

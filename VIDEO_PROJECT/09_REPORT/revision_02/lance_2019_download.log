@@ -1,0 +1,14 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=AYSFN6UiVA8
+[youtube] AYSFN6UiVA8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] AYSFN6UiVA8: Downloading visionos player API JSON
+[youtube] AYSFN6UiVA8: Downloading m3u8 information
+[info] AYSFN6UiVA8: Downloading 1 format(s): 299+140
+[info] Writing video metadata as JSON to: VIDEO_PROJECT\04_MEDIA\video\AYSFN6UiVA8.info.json
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\AYSFN6UiVA8.f299.mp4
+[download] Download completed
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\AYSFN6UiVA8.f140.m4a
+[download] Download completed
+[Merger] Merging formats into "VIDEO_PROJECT\04_MEDIA\video\AYSFN6UiVA8.mp4"
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\AYSFN6UiVA8.f140.m4a (pass -k to keep)
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\AYSFN6UiVA8.f299.mp4 (pass -k to keep)

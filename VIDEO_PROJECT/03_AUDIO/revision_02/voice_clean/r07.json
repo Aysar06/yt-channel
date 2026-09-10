@@ -1,0 +1,1007 @@
+{
+  "id": "r07",
+  "text": "The consequences show up in very ordinary places. On this GameFAQs thread, a player describes upgrading to a larger hard drive and losing their installed demo. It's a personal account, not proof that every hardware change had the same outcome. But look at the subject of the discussion: their console keeps attempting a download that fails. This is the afterlife of the teaser in a help forum, long after the launch mystery. A storage upgrade has become a conversation about something that won't come back. That reverses the original experience rather neatly. Inside the corridor, you wanted a way out. Outside it, you might want a way in. A recording can preserve the rooms, the sound, and the ending, but somebody else is deciding where the camera looks. The software preserves the possibility of making that decision yourself. It can also preserve things nobody thought to point the camera at. Years after the cancellation, Lance McDonald demonstrated why that difference matters.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+0%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_raw/r07.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_clean/r07.wav",
+  "duration": 60.912,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.1125,
+      "end": 0.1625
+    },
+    {
+      "id": "w1",
+      "text": "consequences",
+      "start": 0.175,
+      "end": 0.8625
+    },
+    {
+      "id": "w2",
+      "text": "show",
+      "start": 0.8625,
+      "end": 1.2625
+    },
+    {
+      "id": "w3",
+      "text": "up",
+      "start": 1.2625,
+      "end": 1.4875
+    },
+    {
+      "id": "w4",
+      "text": "in",
+      "start": 1.6,
+      "end": 1.725
+    },
+    {
+      "id": "w5",
+      "text": "very",
+      "start": 1.7375,
+      "end": 2.175
+    },
+    {
+      "id": "w6",
+      "text": "ordinary",
+      "start": 2.175,
+      "end": 2.575
+    },
+    {
+      "id": "w7",
+      "text": "places.",
+      "start": 2.575,
+      "end": 3.2
+    },
+    {
+      "id": "w8",
+      "text": "On",
+      "start": 3.5875,
+      "end": 3.675
+    },
+    {
+      "id": "w9",
+      "text": "this",
+      "start": 3.675,
+      "end": 3.8375
+    },
+    {
+      "id": "w10",
+      "text": "GameFAQs",
+      "start": 3.85,
+      "end": 4.75
+    },
+    {
+      "id": "w11",
+      "text": "thread,",
+      "start": 4.75,
+      "end": 5.15
+    },
+    {
+      "id": "w12",
+      "text": "a",
+      "start": 5.55,
+      "end": 5.5875
+    },
+    {
+      "id": "w13",
+      "text": "player",
+      "start": 5.6,
+      "end": 5.925
+    },
+    {
+      "id": "w14",
+      "text": "describes",
+      "start": 5.925,
+      "end": 6.475
+    },
+    {
+      "id": "w15",
+      "text": "upgrading",
+      "start": 6.4875,
+      "end": 6.9625
+    },
+    {
+      "id": "w16",
+      "text": "to",
+      "start": 6.9625,
+      "end": 7.0625
+    },
+    {
+      "id": "w17",
+      "text": "a",
+      "start": 7.0625,
+      "end": 7.125
+    },
+    {
+      "id": "w18",
+      "text": "larger",
+      "start": 7.125,
+      "end": 7.5875
+    },
+    {
+      "id": "w19",
+      "text": "hard",
+      "start": 7.5875,
+      "end": 7.8125
+    },
+    {
+      "id": "w20",
+      "text": "drive",
+      "start": 7.825,
+      "end": 8.2
+    },
+    {
+      "id": "w21",
+      "text": "and",
+      "start": 8.5875,
+      "end": 8.75
+    },
+    {
+      "id": "w22",
+      "text": "losing",
+      "start": 8.75,
+      "end": 9.0875
+    },
+    {
+      "id": "w23",
+      "text": "their",
+      "start": 9.0875,
+      "end": 9.2375
+    },
+    {
+      "id": "w24",
+      "text": "installed",
+      "start": 9.2375,
+      "end": 9.7125
+    },
+    {
+      "id": "w25",
+      "text": "demo.",
+      "start": 9.7125,
+      "end": 10.1375
+    },
+    {
+      "id": "w26",
+      "text": "It's",
+      "start": 10.525,
+      "end": 10.625
+    },
+    {
+      "id": "w27",
+      "text": "a",
+      "start": 10.6375,
+      "end": 10.7
+    },
+    {
+      "id": "w28",
+      "text": "personal",
+      "start": 10.7,
+      "end": 11.1625
+    },
+    {
+      "id": "w29",
+      "text": "account,",
+      "start": 11.175,
+      "end": 11.6
+    },
+    {
+      "id": "w30",
+      "text": "not",
+      "start": 11.975,
+      "end": 12.2375
+    },
+    {
+      "id": "w31",
+      "text": "proof",
+      "start": 12.25,
+      "end": 12.6125
+    },
+    {
+      "id": "w32",
+      "text": "that",
+      "start": 12.625,
+      "end": 12.8375
+    },
+    {
+      "id": "w33",
+      "text": "every",
+      "start": 12.9625,
+      "end": 13.25
+    },
+    {
+      "id": "w34",
+      "text": "hardware",
+      "start": 13.25,
+      "end": 13.7
+    },
+    {
+      "id": "w35",
+      "text": "change",
+      "start": 13.7,
+      "end": 14.075
+    },
+    {
+      "id": "w36",
+      "text": "had",
+      "start": 14.075,
+      "end": 14.1875
+    },
+    {
+      "id": "w37",
+      "text": "the",
+      "start": 14.2,
+      "end": 14.25
+    },
+    {
+      "id": "w38",
+      "text": "same",
+      "start": 14.2625,
+      "end": 14.575
+    },
+    {
+      "id": "w39",
+      "text": "outcome.",
+      "start": 14.575,
+      "end": 15.0625
+    },
+    {
+      "id": "w40",
+      "text": "But",
+      "start": 15.45,
+      "end": 15.575
+    },
+    {
+      "id": "w41",
+      "text": "look",
+      "start": 15.575,
+      "end": 15.7125
+    },
+    {
+      "id": "w42",
+      "text": "at",
+      "start": 15.725,
+      "end": 15.775
+    },
+    {
+      "id": "w43",
+      "text": "the",
+      "start": 15.7875,
+      "end": 15.8625
+    },
+    {
+      "id": "w44",
+      "text": "subject",
+      "start": 15.8625,
+      "end": 16.375
+    },
+    {
+      "id": "w45",
+      "text": "of",
+      "start": 16.375,
+      "end": 16.425
+    },
+    {
+      "id": "w46",
+      "text": "the",
+      "start": 16.4375,
+      "end": 16.5
+    },
+    {
+      "id": "w47",
+      "text": "discussion:",
+      "start": 16.5,
+      "end": 17.0625
+    },
+    {
+      "id": "w48",
+      "text": "their",
+      "start": 17.4875,
+      "end": 17.6
+    },
+    {
+      "id": "w49",
+      "text": "console",
+      "start": 17.6,
+      "end": 18.175
+    },
+    {
+      "id": "w50",
+      "text": "keeps",
+      "start": 18.175,
+      "end": 18.45
+    },
+    {
+      "id": "w51",
+      "text": "attempting",
+      "start": 18.45,
+      "end": 18.85
+    },
+    {
+      "id": "w52",
+      "text": "a",
+      "start": 18.8625,
+      "end": 18.9125
+    },
+    {
+      "id": "w53",
+      "text": "download",
+      "start": 18.925,
+      "end": 19.5
+    },
+    {
+      "id": "w54",
+      "text": "that",
+      "start": 19.5,
+      "end": 19.6625
+    },
+    {
+      "id": "w55",
+      "text": "fails.",
+      "start": 19.675,
+      "end": 20.325
+    },
+    {
+      "id": "w56",
+      "text": "This",
+      "start": 20.725,
+      "end": 20.9875
+    },
+    {
+      "id": "w57",
+      "text": "is",
+      "start": 21.05,
+      "end": 21.15
+    },
+    {
+      "id": "w58",
+      "text": "the",
+      "start": 21.15,
+      "end": 21.2625
+    },
+    {
+      "id": "w59",
+      "text": "afterlife",
+      "start": 21.325,
+      "end": 21.9875
+    },
+    {
+      "id": "w60",
+      "text": "of",
+      "start": 22.0,
+      "end": 22.075
+    },
+    {
+      "id": "w61",
+      "text": "the",
+      "start": 22.0875,
+      "end": 22.1625
+    },
+    {
+      "id": "w62",
+      "text": "teaser",
+      "start": 22.175,
+      "end": 22.65
+    },
+    {
+      "id": "w63",
+      "text": "in",
+      "start": 22.65,
+      "end": 22.775
+    },
+    {
+      "id": "w64",
+      "text": "a",
+      "start": 22.775,
+      "end": 22.8125
+    },
+    {
+      "id": "w65",
+      "text": "help",
+      "start": 22.8125,
+      "end": 23.1125
+    },
+    {
+      "id": "w66",
+      "text": "forum,",
+      "start": 23.1125,
+      "end": 23.6625
+    },
+    {
+      "id": "w67",
+      "text": "long",
+      "start": 24.15,
+      "end": 24.5625
+    },
+    {
+      "id": "w68",
+      "text": "after",
+      "start": 24.7,
+      "end": 24.9125
+    },
+    {
+      "id": "w69",
+      "text": "the",
+      "start": 24.9125,
+      "end": 24.9875
+    },
+    {
+      "id": "w70",
+      "text": "launch",
+      "start": 25.0,
+      "end": 25.3
+    },
+    {
+      "id": "w71",
+      "text": "mystery.",
+      "start": 25.3,
+      "end": 25.775
+    },
+    {
+      "id": "w72",
+      "text": "A",
+      "start": 26.1875,
+      "end": 26.2375
+    },
+    {
+      "id": "w73",
+      "text": "storage",
+      "start": 26.2375,
+      "end": 26.65
+    },
+    {
+      "id": "w74",
+      "text": "upgrade",
+      "start": 26.6625,
+      "end": 27.125
+    },
+    {
+      "id": "w75",
+      "text": "has",
+      "start": 27.2375,
+      "end": 27.3875
+    },
+    {
+      "id": "w76",
+      "text": "become",
+      "start": 27.3875,
+      "end": 27.6625
+    },
+    {
+      "id": "w77",
+      "text": "a",
+      "start": 27.6625,
+      "end": 27.7125
+    },
+    {
+      "id": "w78",
+      "text": "conversation",
+      "start": 27.725,
+      "end": 28.5125
+    },
+    {
+      "id": "w79",
+      "text": "about",
+      "start": 28.525,
+      "end": 28.75
+    },
+    {
+      "id": "w80",
+      "text": "something",
+      "start": 28.75,
+      "end": 29.35
+    },
+    {
+      "id": "w81",
+      "text": "that",
+      "start": 29.5,
+      "end": 29.7
+    },
+    {
+      "id": "w82",
+      "text": "won't",
+      "start": 29.7,
+      "end": 29.95
+    },
+    {
+      "id": "w83",
+      "text": "come",
+      "start": 29.9625,
+      "end": 30.15
+    },
+    {
+      "id": "w84",
+      "text": "back.",
+      "start": 30.15,
+      "end": 30.625
+    },
+    {
+      "id": "w85",
+      "text": "That",
+      "start": 31.05,
+      "end": 31.175
+    },
+    {
+      "id": "w86",
+      "text": "reverses",
+      "start": 31.1875,
+      "end": 31.7
+    },
+    {
+      "id": "w87",
+      "text": "the",
+      "start": 31.7,
+      "end": 31.8
+    },
+    {
+      "id": "w88",
+      "text": "original",
+      "start": 31.8,
+      "end": 32.375
+    },
+    {
+      "id": "w89",
+      "text": "experience",
+      "start": 32.375,
+      "end": 33.175
+    },
+    {
+      "id": "w90",
+      "text": "rather",
+      "start": 33.2875,
+      "end": 33.5875
+    },
+    {
+      "id": "w91",
+      "text": "neatly.",
+      "start": 33.6,
+      "end": 34.075
+    },
+    {
+      "id": "w92",
+      "text": "Inside",
+      "start": 34.4625,
+      "end": 34.9125
+    },
+    {
+      "id": "w93",
+      "text": "the",
+      "start": 34.9125,
+      "end": 34.975
+    },
+    {
+      "id": "w94",
+      "text": "corridor,",
+      "start": 34.975,
+      "end": 35.5125
+    },
+    {
+      "id": "w95",
+      "text": "you",
+      "start": 35.775,
+      "end": 35.85
+    },
+    {
+      "id": "w96",
+      "text": "wanted",
+      "start": 35.85,
+      "end": 36.0125
+    },
+    {
+      "id": "w97",
+      "text": "a",
+      "start": 36.0125,
+      "end": 36.0625
+    },
+    {
+      "id": "w98",
+      "text": "way",
+      "start": 36.0625,
+      "end": 36.2875
+    },
+    {
+      "id": "w99",
+      "text": "out.",
+      "start": 36.2875,
+      "end": 36.6
+    },
+    {
+      "id": "w100",
+      "text": "Outside",
+      "start": 37.0125,
+      "end": 37.5375
+    },
+    {
+      "id": "w101",
+      "text": "it,",
+      "start": 37.5375,
+      "end": 37.7
+    },
+    {
+      "id": "w102",
+      "text": "you",
+      "start": 37.8375,
+      "end": 37.9125
+    },
+    {
+      "id": "w103",
+      "text": "might",
+      "start": 37.925,
+      "end": 38.0375
+    },
+    {
+      "id": "w104",
+      "text": "want",
+      "start": 38.0375,
+      "end": 38.15
+    },
+    {
+      "id": "w105",
+      "text": "a",
+      "start": 38.15,
+      "end": 38.1875
+    },
+    {
+      "id": "w106",
+      "text": "way",
+      "start": 38.2,
+      "end": 38.4375
+    },
+    {
+      "id": "w107",
+      "text": "in.",
+      "start": 38.4375,
+      "end": 38.6875
+    },
+    {
+      "id": "w108",
+      "text": "A",
+      "start": 39.0875,
+      "end": 39.1375
+    },
+    {
+      "id": "w109",
+      "text": "recording",
+      "start": 39.1375,
+      "end": 39.6
+    },
+    {
+      "id": "w110",
+      "text": "can",
+      "start": 39.6,
+      "end": 39.7375
+    },
+    {
+      "id": "w111",
+      "text": "preserve",
+      "start": 39.75,
+      "end": 40.1875
+    },
+    {
+      "id": "w112",
+      "text": "the",
+      "start": 40.1875,
+      "end": 40.2375
+    },
+    {
+      "id": "w113",
+      "text": "rooms,",
+      "start": 40.25,
+      "end": 40.95
+    },
+    {
+      "id": "w114",
+      "text": "the",
+      "start": 41.15,
+      "end": 41.2375
+    },
+    {
+      "id": "w115",
+      "text": "sound,",
+      "start": 41.2375,
+      "end": 41.8125
+    },
+    {
+      "id": "w116",
+      "text": "and",
+      "start": 42.3,
+      "end": 42.3625
+    },
+    {
+      "id": "w117",
+      "text": "the",
+      "start": 42.3625,
+      "end": 42.4625
+    },
+    {
+      "id": "w118",
+      "text": "ending,",
+      "start": 42.475,
+      "end": 43.0
+    },
+    {
+      "id": "w119",
+      "text": "but",
+      "start": 43.25,
+      "end": 43.3875
+    },
+    {
+      "id": "w120",
+      "text": "somebody",
+      "start": 43.4,
+      "end": 43.775
+    },
+    {
+      "id": "w121",
+      "text": "else",
+      "start": 43.775,
+      "end": 44.0625
+    },
+    {
+      "id": "w122",
+      "text": "is",
+      "start": 44.0625,
+      "end": 44.15
+    },
+    {
+      "id": "w123",
+      "text": "deciding",
+      "start": 44.15,
+      "end": 44.6875
+    },
+    {
+      "id": "w124",
+      "text": "where",
+      "start": 44.7,
+      "end": 44.775
+    },
+    {
+      "id": "w125",
+      "text": "the",
+      "start": 44.775,
+      "end": 44.8375
+    },
+    {
+      "id": "w126",
+      "text": "camera",
+      "start": 44.85,
+      "end": 45.2375
+    },
+    {
+      "id": "w127",
+      "text": "looks.",
+      "start": 45.25,
+      "end": 45.75
+    },
+    {
+      "id": "w128",
+      "text": "The",
+      "start": 46.175,
+      "end": 46.2375
+    },
+    {
+      "id": "w129",
+      "text": "software",
+      "start": 46.2375,
+      "end": 46.9
+    },
+    {
+      "id": "w130",
+      "text": "preserves",
+      "start": 46.9,
+      "end": 47.5
+    },
+    {
+      "id": "w131",
+      "text": "the",
+      "start": 47.6875,
+      "end": 47.8
+    },
+    {
+      "id": "w132",
+      "text": "possibility",
+      "start": 47.8125,
+      "end": 48.75
+    },
+    {
+      "id": "w133",
+      "text": "of",
+      "start": 48.9125,
+      "end": 49.0375
+    },
+    {
+      "id": "w134",
+      "text": "making",
+      "start": 49.0375,
+      "end": 49.5875
+    },
+    {
+      "id": "w135",
+      "text": "that",
+      "start": 49.5875,
+      "end": 49.75
+    },
+    {
+      "id": "w136",
+      "text": "decision",
+      "start": 49.75,
+      "end": 50.1875
+    },
+    {
+      "id": "w137",
+      "text": "yourself.",
+      "start": 50.2,
+      "end": 50.8
+    },
+    {
+      "id": "w138",
+      "text": "It",
+      "start": 51.1875,
+      "end": 51.25
+    },
+    {
+      "id": "w139",
+      "text": "can",
+      "start": 51.25,
+      "end": 51.325
+    },
+    {
+      "id": "w140",
+      "text": "also",
+      "start": 51.325,
+      "end": 51.6
+    },
+    {
+      "id": "w141",
+      "text": "preserve",
+      "start": 51.6,
+      "end": 52.2875
+    },
+    {
+      "id": "w142",
+      "text": "things",
+      "start": 52.3,
+      "end": 52.7
+    },
+    {
+      "id": "w143",
+      "text": "nobody",
+      "start": 52.7,
+      "end": 53.1375
+    },
+    {
+      "id": "w144",
+      "text": "thought",
+      "start": 53.275,
+      "end": 53.7375
+    },
+    {
+      "id": "w145",
+      "text": "to",
+      "start": 53.75,
+      "end": 53.85
+    },
+    {
+      "id": "w146",
+      "text": "point",
+      "start": 53.8625,
+      "end": 54.2
+    },
+    {
+      "id": "w147",
+      "text": "the",
+      "start": 54.2,
+      "end": 54.2625
+    },
+    {
+      "id": "w148",
+      "text": "camera",
+      "start": 54.275,
+      "end": 54.7125
+    },
+    {
+      "id": "w149",
+      "text": "at.",
+      "start": 54.7125,
+      "end": 55.0
+    },
+    {
+      "id": "w150",
+      "text": "Years",
+      "start": 55.4,
+      "end": 55.8625
+    },
+    {
+      "id": "w151",
+      "text": "after",
+      "start": 55.875,
+      "end": 56.0875
+    },
+    {
+      "id": "w152",
+      "text": "the",
+      "start": 56.0875,
+      "end": 56.1375
+    },
+    {
+      "id": "w153",
+      "text": "cancellation,",
+      "start": 56.1375,
+      "end": 56.925
+    },
+    {
+      "id": "w154",
+      "text": "Lance",
+      "start": 57.3125,
+      "end": 57.625
+    },
+    {
+      "id": "w155",
+      "text": "McDonald",
+      "start": 57.625,
+      "end": 58.2375
+    },
+    {
+      "id": "w156",
+      "text": "demonstrated",
+      "start": 58.325,
+      "end": 58.9375
+    },
+    {
+      "id": "w157",
+      "text": "why",
+      "start": 59.0,
+      "end": 59.3625
+    },
+    {
+      "id": "w158",
+      "text": "that",
+      "start": 59.375,
+      "end": 59.675
+    },
+    {
+      "id": "w159",
+      "text": "difference",
+      "start": 59.675,
+      "end": 60.025
+    },
+    {
+      "id": "w160",
+      "text": "matters.",
+      "start": 60.0375,
+      "end": 60.5625
+    }
+  ],
+  "gap_after": 0.0,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.19",
+      "input_tp": "-2.86",
+      "input_lra": "3.20",
+      "input_thresh": "-31.85",
+      "output_i": "-16.48",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-27.11",
+      "normalization_type": "dynamic",
+      "target_offset": "0.48"
+    },
+    "output": {
+      "input_i": "-21.19",
+      "input_tp": "-2.86",
+      "input_lra": "3.20",
+      "input_thresh": "-31.85",
+      "output_i": "-16.10",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-26.73",
+      "normalization_type": "dynamic",
+      "target_offset": "0.10"
+    }
+  },
+  "fingerprint": "a2e1865512d76bb087cf700cb8d1c701dfb09611d849c8d2842dbf4952439162"
+}

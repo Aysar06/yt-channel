@@ -1,0 +1,72 @@
+[
+  {
+    "id": "r01",
+    "start": 0.0,
+    "end": 48.377291666666665,
+    "duration": 48.377291666666665,
+    "title": "The recovery path"
+  },
+  {
+    "id": "r02",
+    "start": 48.377291666666665,
+    "end": 119.26566666666666,
+    "duration": 70.888375,
+    "title": "Learning the room"
+  },
+  {
+    "id": "r03",
+    "start": 119.26566666666666,
+    "end": 185.9014375,
+    "duration": 66.63577083333332,
+    "title": "The audience joins in"
+  },
+  {
+    "id": "r04",
+    "start": 185.9014375,
+    "end": 260.3940625,
+    "duration": 74.49262500000003,
+    "title": "The reveal"
+  },
+  {
+    "id": "r05",
+    "start": 260.3940625,
+    "end": 319.7680833333334,
+    "duration": 59.37402083333336,
+    "title": "The promise ends"
+  },
+  {
+    "id": "r06",
+    "start": 319.7680833333333,
+    "end": 386.7509166666666,
+    "duration": 66.9828333333333,
+    "title": "Two separate losses"
+  },
+  {
+    "id": "r07",
+    "start": 386.7509166666667,
+    "end": 446.9816666666667,
+    "duration": 60.23075,
+    "title": "An ordinary hardware decision"
+  },
+  {
+    "id": "r08",
+    "start": 446.9816666666667,
+    "end": 514.04225,
+    "duration": 67.06058333333328,
+    "title": "Something the recording missed"
+  },
+  {
+    "id": "r09",
+    "start": 514.04225,
+    "end": 561.6321041666666,
+    "duration": 47.58985416666667,
+    "title": "The next console"
+  },
+  {
+    "id": "r10",
+    "start": 561.6321041666666,
+    "end": 622.2364791666666,
+    "duration": 60.604375000000005,
+    "title": "The thing that actually existed"
+  }
+]

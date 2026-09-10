@@ -1,0 +1,274 @@
+{
+  "ok": true,
+  "errorCount": 0,
+  "warningCount": 34,
+  "infoCount": 0,
+  "findings": [
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_02.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch01.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 3 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_07.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch01.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 9 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch01.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_01.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch02.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 3 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_03.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch02.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch02.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_07.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch03.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 3 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_29.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch03.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 11 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch03.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 3 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_09.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch04.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_28.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch04.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch04.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 4 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140814_07.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch05.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_24.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch05.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch05.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 4 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140814_08.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch06.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch06.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 4 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_01.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch07.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch07.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 4 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_23.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch08.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_29.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch08.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch08.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_34_lisa.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch09.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 3 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_30_lisa.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch09.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch09.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_03.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch10.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 4 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_01.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch10.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 10 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch10.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_06.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch11.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 3 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_09.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch11.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch11.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 4 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_02.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch12.html"
+    },
+    {
+      "code": "duplicate_media_discovery_risk",
+      "severity": "warning",
+      "message": "Detected 2 matching img entries with the same source/start/duration.",
+      "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation.",
+      "snippet": "img src=04_MEDIA/images/silent_hills_pt_screen_20140821_03.jpg data-start= data-duration=",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch12.html"
+    },
+    {
+      "code": "timeline_track_too_dense",
+      "severity": "warning",
+      "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+      "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.",
+      "file": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch12.html"
+    }
+  ],
+  "filesScanned": 13,
+  "_meta": {
+    "version": "0.8.31",
+    "latestVersion": "0.8.31",
+    "updateAvailable": false
+  }
+}

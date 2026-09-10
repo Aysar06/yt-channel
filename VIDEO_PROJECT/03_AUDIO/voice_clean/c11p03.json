@@ -1,0 +1,335 @@
+{
+  "id": "c11p03",
+  "text": "The corridor, the unreliable familiarity, the need to look closer: those are concrete choices. You can argue about whether the puzzles are satisfying. You can find the atmosphere effective and the final triggers frustrating. It doesn't have to be flawless to deserve a future beyond somebody's memory of it.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c11p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c11p03.wav",
+  "duration": 20.376,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.119666,
+      "end": 0.226041
+    },
+    {
+      "id": "w1",
+      "text": "corridor,",
+      "start": 0.239375,
+      "end": 0.930875
+    },
+    {
+      "id": "w2",
+      "text": "the",
+      "start": 1.3165,
+      "end": 1.476083
+    },
+    {
+      "id": "w3",
+      "text": "unreliable",
+      "start": 1.52925,
+      "end": 2.340416
+    },
+    {
+      "id": "w4",
+      "text": "familiarity,",
+      "start": 2.353708,
+      "end": 3.244666
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 3.457458,
+      "end": 3.537249
+    },
+    {
+      "id": "w6",
+      "text": "need",
+      "start": 3.53725,
+      "end": 3.883
+    },
+    {
+      "id": "w7",
+      "text": "to",
+      "start": 3.896291,
+      "end": 4.002666
+    },
+    {
+      "id": "w8",
+      "text": "look",
+      "start": 4.002666,
+      "end": 4.215416
+    },
+    {
+      "id": "w9",
+      "text": "closer:",
+      "start": 4.215416,
+      "end": 4.787207
+    },
+    {
+      "id": "w10",
+      "text": "those",
+      "start": 5.292541,
+      "end": 5.518624
+    },
+    {
+      "id": "w11",
+      "text": "are",
+      "start": 5.518625,
+      "end": 5.598416
+    },
+    {
+      "id": "w12",
+      "text": "concrete",
+      "start": 5.598416,
+      "end": 6.210124
+    },
+    {
+      "id": "w13",
+      "text": "choices.",
+      "start": 6.223416,
+      "end": 6.941499
+    },
+    {
+      "id": "w14",
+      "text": "You",
+      "start": 7.380333,
+      "end": 7.433499
+    },
+    {
+      "id": "w15",
+      "text": "can",
+      "start": 7.4335,
+      "end": 7.526583
+    },
+    {
+      "id": "w16",
+      "text": "argue",
+      "start": 7.526583,
+      "end": 7.898916
+    },
+    {
+      "id": "w17",
+      "text": "about",
+      "start": 7.898916,
+      "end": 8.244666
+    },
+    {
+      "id": "w18",
+      "text": "whether",
+      "start": 8.244666,
+      "end": 8.497332
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 8.510625,
+      "end": 8.603708
+    },
+    {
+      "id": "w20",
+      "text": "puzzles",
+      "start": 8.617041,
+      "end": 9.082457
+    },
+    {
+      "id": "w21",
+      "text": "are",
+      "start": 9.082458,
+      "end": 9.162249
+    },
+    {
+      "id": "w22",
+      "text": "satisfying.",
+      "start": 9.16225,
+      "end": 10.0665
+    },
+    {
+      "id": "w23",
+      "text": "You",
+      "start": 10.492041,
+      "end": 10.571791
+    },
+    {
+      "id": "w24",
+      "text": "can",
+      "start": 10.571791,
+      "end": 10.678166
+    },
+    {
+      "id": "w25",
+      "text": "find",
+      "start": 10.678208,
+      "end": 11.037249
+    },
+    {
+      "id": "w26",
+      "text": "the",
+      "start": 11.03725,
+      "end": 11.117041
+    },
+    {
+      "id": "w27",
+      "text": "atmosphere",
+      "start": 11.130333,
+      "end": 11.702124
+    },
+    {
+      "id": "w28",
+      "text": "effective",
+      "start": 11.702125,
+      "end": 12.340416
+    },
+    {
+      "id": "w29",
+      "text": "and",
+      "start": 12.71275,
+      "end": 12.859041
+    },
+    {
+      "id": "w30",
+      "text": "the",
+      "start": 12.872333,
+      "end": 12.952124
+    },
+    {
+      "id": "w31",
+      "text": "final",
+      "start": 12.965416,
+      "end": 13.390957
+    },
+    {
+      "id": "w32",
+      "text": "triggers",
+      "start": 13.40425,
+      "end": 13.976041
+    },
+    {
+      "id": "w33",
+      "text": "frustrating.",
+      "start": 13.989375,
+      "end": 14.813833
+    },
+    {
+      "id": "w34",
+      "text": "It",
+      "start": 15.252666,
+      "end": 15.319166
+    },
+    {
+      "id": "w35",
+      "text": "doesn't",
+      "start": 15.319166,
+      "end": 15.545207
+    },
+    {
+      "id": "w36",
+      "text": "have",
+      "start": 15.545208,
+      "end": 15.744666
+    },
+    {
+      "id": "w37",
+      "text": "to",
+      "start": 15.757958,
+      "end": 15.837749
+    },
+    {
+      "id": "w38",
+      "text": "be",
+      "start": 15.83775,
+      "end": 15.957416
+    },
+    {
+      "id": "w39",
+      "text": "flawless",
+      "start": 15.957458,
+      "end": 16.662249
+    },
+    {
+      "id": "w40",
+      "text": "to",
+      "start": 16.875,
+      "end": 16.981375
+    },
+    {
+      "id": "w41",
+      "text": "deserve",
+      "start": 16.981375,
+      "end": 17.406916
+    },
+    {
+      "id": "w42",
+      "text": "a",
+      "start": 17.420208,
+      "end": 17.499999
+    },
+    {
+      "id": "w43",
+      "text": "future",
+      "start": 17.5,
+      "end": 18.1915
+    },
+    {
+      "id": "w44",
+      "text": "beyond",
+      "start": 18.297875,
+      "end": 18.843083
+    },
+    {
+      "id": "w45",
+      "text": "somebody's",
+      "start": 18.856375,
+      "end": 19.268625
+    },
+    {
+      "id": "w46",
+      "text": "memory",
+      "start": 19.281916,
+      "end": 19.720749
+    },
+    {
+      "id": "w47",
+      "text": "of",
+      "start": 19.734041,
+      "end": 19.827124
+    },
+    {
+      "id": "w48",
+      "text": "it.",
+      "start": 19.827125,
+      "end": 20.013291
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.62",
+      "input_tp": "-3.54",
+      "input_lra": "3.10",
+      "input_thresh": "-32.16",
+      "output_i": "-16.43",
+      "output_tp": "-1.50",
+      "output_lra": "1.70",
+      "output_thresh": "-26.93",
+      "normalization_type": "dynamic",
+      "target_offset": "0.43"
+    },
+    "output": {
+      "input_i": "-21.62",
+      "input_tp": "-3.54",
+      "input_lra": "3.10",
+      "input_thresh": "-32.16",
+      "output_i": "-16.09",
+      "output_tp": "-1.50",
+      "output_lra": "1.80",
+      "output_thresh": "-26.60",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    }
+  },
+  "fingerprint": "e4e66d28f150784fd128d763f9a1c11dffbc6e4af3aef3ffbd1b6392efc952f4"
+}

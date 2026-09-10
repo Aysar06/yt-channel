@@ -1,0 +1,305 @@
+{
+  "id": "c04p02",
+  "text": "So the experience spills out of the console. People compare attempts. Someone gets further, somebody else tries to reproduce it. A successful action becomes a theory. A theory becomes a ritual. And a ritual can spread faster than anybody checks whether it was necessary.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c04p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c04p02.wav",
+  "duration": 18.096,
+  "words": [
+    {
+      "id": "w0",
+      "text": "So",
+      "start": 0.102041,
+      "end": 0.216832
+    },
+    {
+      "id": "w1",
+      "text": "the",
+      "start": 0.229583,
+      "end": 0.280583
+    },
+    {
+      "id": "w2",
+      "text": "experience",
+      "start": 0.293375,
+      "end": 0.943875
+    },
+    {
+      "id": "w3",
+      "text": "spills",
+      "start": 0.956625,
+      "end": 1.734666
+    },
+    {
+      "id": "w4",
+      "text": "out",
+      "start": 1.938791,
+      "end": 2.079082
+    },
+    {
+      "id": "w5",
+      "text": "of",
+      "start": 2.091833,
+      "end": 2.142833
+    },
+    {
+      "id": "w6",
+      "text": "the",
+      "start": 2.142875,
+      "end": 2.206625
+    },
+    {
+      "id": "w7",
+      "text": "console.",
+      "start": 2.206625,
+      "end": 2.844375
+    },
+    {
+      "id": "w8",
+      "text": "People",
+      "start": 3.252541,
+      "end": 3.482124
+    },
+    {
+      "id": "w9",
+      "text": "compare",
+      "start": 3.482125,
+      "end": 3.8265
+    },
+    {
+      "id": "w10",
+      "text": "attempts.",
+      "start": 3.826541,
+      "end": 4.426041
+    },
+    {
+      "id": "w11",
+      "text": "Someone",
+      "start": 4.846958,
+      "end": 5.114791
+    },
+    {
+      "id": "w12",
+      "text": "gets",
+      "start": 5.114791,
+      "end": 5.318874
+    },
+    {
+      "id": "w13",
+      "text": "further,",
+      "start": 5.318875,
+      "end": 5.905625
+    },
+    {
+      "id": "w14",
+      "text": "somebody",
+      "start": 6.301,
+      "end": 6.594375
+    },
+    {
+      "id": "w15",
+      "text": "else",
+      "start": 6.594375,
+      "end": 6.86225
+    },
+    {
+      "id": "w16",
+      "text": "tries",
+      "start": 6.86225,
+      "end": 7.219375
+    },
+    {
+      "id": "w17",
+      "text": "to",
+      "start": 7.232125,
+      "end": 7.321416
+    },
+    {
+      "id": "w18",
+      "text": "reproduce",
+      "start": 7.334166,
+      "end": 7.933666
+    },
+    {
+      "id": "w19",
+      "text": "it.",
+      "start": 7.933666,
+      "end": 8.112249
+    },
+    {
+      "id": "w20",
+      "text": "A",
+      "start": 8.507666,
+      "end": 8.558666
+    },
+    {
+      "id": "w21",
+      "text": "successful",
+      "start": 8.571416,
+      "end": 9.170916
+    },
+    {
+      "id": "w22",
+      "text": "action",
+      "start": 9.170916,
+      "end": 9.591832
+    },
+    {
+      "id": "w23",
+      "text": "becomes",
+      "start": 9.604583,
+      "end": 10.025499
+    },
+    {
+      "id": "w24",
+      "text": "a",
+      "start": 10.0255,
+      "end": 10.06375
+    },
+    {
+      "id": "w25",
+      "text": "theory.",
+      "start": 10.076541,
+      "end": 10.612249
+    },
+    {
+      "id": "w26",
+      "text": "A",
+      "start": 11.033166,
+      "end": 11.109707
+    },
+    {
+      "id": "w27",
+      "text": "theory",
+      "start": 11.109708,
+      "end": 11.479583
+    },
+    {
+      "id": "w28",
+      "text": "becomes",
+      "start": 11.479583,
+      "end": 11.836708
+    },
+    {
+      "id": "w29",
+      "text": "a",
+      "start": 11.83675,
+      "end": 11.88775
+    },
+    {
+      "id": "w30",
+      "text": "ritual.",
+      "start": 11.9005,
+      "end": 12.423458
+    },
+    {
+      "id": "w31",
+      "text": "And",
+      "start": 12.831625,
+      "end": 12.920916
+    },
+    {
+      "id": "w32",
+      "text": "a",
+      "start": 12.920916,
+      "end": 13.048457
+    },
+    {
+      "id": "w33",
+      "text": "ritual",
+      "start": 13.061208,
+      "end": 13.647958
+    },
+    {
+      "id": "w34",
+      "text": "can",
+      "start": 13.660708,
+      "end": 13.813749
+    },
+    {
+      "id": "w35",
+      "text": "spread",
+      "start": 13.813791,
+      "end": 14.477041
+    },
+    {
+      "id": "w36",
+      "text": "faster",
+      "start": 14.489791,
+      "end": 15.204082
+    },
+    {
+      "id": "w37",
+      "text": "than",
+      "start": 15.306125,
+      "end": 15.446416
+    },
+    {
+      "id": "w38",
+      "text": "anybody",
+      "start": 15.459166,
+      "end": 15.867332
+    },
+    {
+      "id": "w39",
+      "text": "checks",
+      "start": 15.867333,
+      "end": 16.377541
+    },
+    {
+      "id": "w40",
+      "text": "whether",
+      "start": 16.428583,
+      "end": 16.696416
+    },
+    {
+      "id": "w41",
+      "text": "it",
+      "start": 16.696416,
+      "end": 16.747416
+    },
+    {
+      "id": "w42",
+      "text": "was",
+      "start": 16.747458,
+      "end": 16.862249
+    },
+    {
+      "id": "w43",
+      "text": "necessary.",
+      "start": 16.875,
+      "end": 17.678583
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.82",
+      "input_tp": "-3.68",
+      "input_lra": "4.20",
+      "input_thresh": "-32.40",
+      "output_i": "-16.30",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-26.81",
+      "normalization_type": "dynamic",
+      "target_offset": "0.30"
+    },
+    "output": {
+      "input_i": "-21.82",
+      "input_tp": "-3.68",
+      "input_lra": "4.20",
+      "input_thresh": "-32.40",
+      "output_i": "-16.07",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-26.59",
+      "normalization_type": "dynamic",
+      "target_offset": "0.07"
+    }
+  },
+  "fingerprint": "296fa7ec98e0af2cab2de3bb8ce9177dff3e71a529771dec48cd8fecc3a23f6a"
+}

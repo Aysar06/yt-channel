@@ -1,0 +1,56 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=I5IogZtvJyI
+[youtube] I5IogZtvJyI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] I5IogZtvJyI: Downloading visionos player API JSON
+[youtube] I5IogZtvJyI: Downloading m3u8 information
+[info] I5IogZtvJyI: Downloading 1 format(s): 137+140
+[info] Writing video metadata as JSON to: VIDEO_PROJECT\04_MEDIA\video\I5IogZtvJyI.info.json
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\I5IogZtvJyI.f137.mp4
+[download] Download completed
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\I5IogZtvJyI.f140.m4a
+[download] Download completed
+[Merger] Merging formats into "VIDEO_PROJECT\04_MEDIA\video\I5IogZtvJyI.mp4"
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\I5IogZtvJyI.f140.m4a (pass -k to keep)
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\I5IogZtvJyI.f137.mp4 (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=ByNhd5SoSU8
+[youtube] ByNhd5SoSU8: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] ByNhd5SoSU8: Downloading visionos player API JSON
+[youtube] ByNhd5SoSU8: Downloading m3u8 information
+[info] ByNhd5SoSU8: Downloading 1 format(s): 137+140
+[info] Writing video metadata as JSON to: VIDEO_PROJECT\04_MEDIA\video\ByNhd5SoSU8.info.json
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\ByNhd5SoSU8.f137.mp4
+[download] Download completed
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\ByNhd5SoSU8.f140.m4a
+[download] Download completed
+[Merger] Merging formats into "VIDEO_PROJECT\04_MEDIA\video\ByNhd5SoSU8.mp4"
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\ByNhd5SoSU8.f137.mp4 (pass -k to keep)
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\ByNhd5SoSU8.f140.m4a (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=VYI-maF6xMI
+[youtube] VYI-maF6xMI: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] VYI-maF6xMI: Downloading visionos player API JSON
+[youtube] VYI-maF6xMI: Downloading m3u8 information
+[info] VYI-maF6xMI: Downloading 1 format(s): 136+140
+[info] Writing video metadata as JSON to: VIDEO_PROJECT\04_MEDIA\video\VYI-maF6xMI.info.json
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\VYI-maF6xMI.f136.mp4
+[download] Download completed
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\VYI-maF6xMI.f140.m4a
+[download] Download completed
+[Merger] Merging formats into "VIDEO_PROJECT\04_MEDIA\video\VYI-maF6xMI.mp4"
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\VYI-maF6xMI.f136.mp4 (pass -k to keep)
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\VYI-maF6xMI.f140.m4a (pass -k to keep)
+[youtube] Extracting URL: https://www.youtube.com/watch?v=zAQlWpcs8nE
+[youtube] zAQlWpcs8nE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] zAQlWpcs8nE: Downloading visionos player API JSON
+[youtube] zAQlWpcs8nE: Downloading m3u8 information
+[info] zAQlWpcs8nE: Downloading 1 format(s): 299+140
+[info] Writing video metadata as JSON to: VIDEO_PROJECT\04_MEDIA\video\zAQlWpcs8nE.info.json
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\zAQlWpcs8nE.f299.mp4
+[download] Download completed
+[download] Destination: VIDEO_PROJECT\04_MEDIA\video\zAQlWpcs8nE.f140.m4a
+[download] Download completed
+[Merger] Merging formats into "VIDEO_PROJECT\04_MEDIA\video\zAQlWpcs8nE.mp4"
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\zAQlWpcs8nE.f299.mp4 (pass -k to keep)
+Deleting original file VIDEO_PROJECT\04_MEDIA\video\zAQlWpcs8nE.f140.m4a (pass -k to keep)

@@ -1,0 +1,311 @@
+{
+  "id": "c03p03",
+  "text": "The corner does a lot of work. You can't see everything at once. The door does even more. A closed door is a promise that there is something on the other side, and the game keeps making you decide whether you're ready to find out.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c03p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c03p03.wav",
+  "duration": 13.728,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.122291,
+      "end": 0.190207
+    },
+    {
+      "id": "w1",
+      "text": "corner",
+      "start": 0.203791,
+      "end": 0.489124
+    },
+    {
+      "id": "w2",
+      "text": "does",
+      "start": 0.502708,
+      "end": 0.624999
+    },
+    {
+      "id": "w3",
+      "text": "a",
+      "start": 0.625,
+      "end": 0.679333
+    },
+    {
+      "id": "w4",
+      "text": "lot",
+      "start": 0.679333,
+      "end": 0.937499
+    },
+    {
+      "id": "w5",
+      "text": "of",
+      "start": 0.9375,
+      "end": 1.019041
+    },
+    {
+      "id": "w6",
+      "text": "work.",
+      "start": 1.032625,
+      "end": 1.44025
+    },
+    {
+      "id": "w7",
+      "text": "You",
+      "start": 1.875,
+      "end": 1.942916
+    },
+    {
+      "id": "w8",
+      "text": "can't",
+      "start": 1.942916,
+      "end": 2.173874
+    },
+    {
+      "id": "w9",
+      "text": "see",
+      "start": 2.173916,
+      "end": 2.499999
+    },
+    {
+      "id": "w10",
+      "text": "everything",
+      "start": 2.635875,
+      "end": 3.179333
+    },
+    {
+      "id": "w11",
+      "text": "at",
+      "start": 3.179333,
+      "end": 3.260874
+    },
+    {
+      "id": "w12",
+      "text": "once.",
+      "start": 3.260875,
+      "end": 3.831541
+    },
+    {
+      "id": "w13",
+      "text": "The",
+      "start": 4.266291,
+      "end": 4.347832
+    },
+    {
+      "id": "w14",
+      "text": "door",
+      "start": 4.347833,
+      "end": 4.646749
+    },
+    {
+      "id": "w15",
+      "text": "does",
+      "start": 4.660333,
+      "end": 4.864124
+    },
+    {
+      "id": "w16",
+      "text": "even",
+      "start": 4.864125,
+      "end": 5.067916
+    },
+    {
+      "id": "w17",
+      "text": "more.",
+      "start": 5.067916,
+      "end": 5.448332
+    },
+    {
+      "id": "w18",
+      "text": "A",
+      "start": 5.883166,
+      "end": 5.951082
+    },
+    {
+      "id": "w19",
+      "text": "closed",
+      "start": 5.951083,
+      "end": 6.385874
+    },
+    {
+      "id": "w20",
+      "text": "door",
+      "start": 6.385875,
+      "end": 6.861416
+    },
+    {
+      "id": "w21",
+      "text": "is",
+      "start": 6.956541,
+      "end": 7.078791
+    },
+    {
+      "id": "w22",
+      "text": "a",
+      "start": 7.078791,
+      "end": 7.146707
+    },
+    {
+      "id": "w23",
+      "text": "promise",
+      "start": 7.160333,
+      "end": 7.744583
+    },
+    {
+      "id": "w24",
+      "text": "that",
+      "start": 7.744583,
+      "end": 7.866833
+    },
+    {
+      "id": "w25",
+      "text": "there",
+      "start": 7.866833,
+      "end": 8.016291
+    },
+    {
+      "id": "w26",
+      "text": "is",
+      "start": 8.016291,
+      "end": 8.111416
+    },
+    {
+      "id": "w27",
+      "text": "something",
+      "start": 8.125,
+      "end": 8.519041
+    },
+    {
+      "id": "w28",
+      "text": "on",
+      "start": 8.519041,
+      "end": 8.614124
+    },
+    {
+      "id": "w29",
+      "text": "the",
+      "start": 8.614125,
+      "end": 8.70925
+    },
+    {
+      "id": "w30",
+      "text": "other",
+      "start": 8.722833,
+      "end": 8.980999
+    },
+    {
+      "id": "w31",
+      "text": "side,",
+      "start": 8.994583,
+      "end": 9.510874
+    },
+    {
+      "id": "w32",
+      "text": "and",
+      "start": 9.986416,
+      "end": 10.054332
+    },
+    {
+      "id": "w33",
+      "text": "the",
+      "start": 10.054333,
+      "end": 10.163041
+    },
+    {
+      "id": "w34",
+      "text": "game",
+      "start": 10.176625,
+      "end": 10.570666
+    },
+    {
+      "id": "w35",
+      "text": "keeps",
+      "start": 10.570666,
+      "end": 10.951082
+    },
+    {
+      "id": "w36",
+      "text": "making",
+      "start": 10.951083,
+      "end": 11.277166
+    },
+    {
+      "id": "w37",
+      "text": "you",
+      "start": 11.277166,
+      "end": 11.399457
+    },
+    {
+      "id": "w38",
+      "text": "decide",
+      "start": 11.399458,
+      "end": 11.983708
+    },
+    {
+      "id": "w39",
+      "text": "whether",
+      "start": 11.983708,
+      "end": 12.214666
+    },
+    {
+      "id": "w40",
+      "text": "you're",
+      "start": 12.214666,
+      "end": 12.350541
+    },
+    {
+      "id": "w41",
+      "text": "ready",
+      "start": 12.350541,
+      "end": 12.554332
+    },
+    {
+      "id": "w42",
+      "text": "to",
+      "start": 12.554333,
+      "end": 12.608666
+    },
+    {
+      "id": "w43",
+      "text": "find",
+      "start": 12.608708,
+      "end": 12.975541
+    },
+    {
+      "id": "w44",
+      "text": "out.",
+      "start": 12.975541,
+      "end": 13.328791
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.93",
+      "input_tp": "-4.08",
+      "input_lra": "2.10",
+      "input_thresh": "-31.77",
+      "output_i": "-16.17",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-26.91",
+      "normalization_type": "dynamic",
+      "target_offset": "0.17"
+    },
+    "output": {
+      "input_i": "-20.93",
+      "input_tp": "-4.08",
+      "input_lra": "2.10",
+      "input_thresh": "-31.77",
+      "output_i": "-16.02",
+      "output_tp": "-1.50",
+      "output_lra": "2.70",
+      "output_thresh": "-26.76",
+      "normalization_type": "dynamic",
+      "target_offset": "0.02"
+    }
+  },
+  "fingerprint": "a9164ac9c019117789b699ffd48b253b8c45971d50cbc75d577367bd811eeb69"
+}

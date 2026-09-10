@@ -1,0 +1,317 @@
+{
+  "id": "c03p02",
+  "text": "The official survival tips actually tell players to inspect things and notice what's different between loops. Think about that instruction inside a horror game. To progress, you have to stop avoiding the strange detail. You have to go closer. Congratulations. Curiosity is now a health hazard.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c03p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c03p02.wav",
+  "duration": 20.568,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.108708,
+      "end": 0.190208
+    },
+    {
+      "id": "w1",
+      "text": "official",
+      "start": 0.190208,
+      "end": 0.638583
+    },
+    {
+      "id": "w2",
+      "text": "survival",
+      "start": 0.638583,
+      "end": 1.195666
+    },
+    {
+      "id": "w3",
+      "text": "tips",
+      "start": 1.195666,
+      "end": 1.616874
+    },
+    {
+      "id": "w4",
+      "text": "actually",
+      "start": 1.739125,
+      "end": 2.119541
+    },
+    {
+      "id": "w5",
+      "text": "tell",
+      "start": 2.119583,
+      "end": 2.364166
+    },
+    {
+      "id": "w6",
+      "text": "players",
+      "start": 2.377708,
+      "end": 2.798916
+    },
+    {
+      "id": "w7",
+      "text": "to",
+      "start": 2.8125,
+      "end": 2.921208
+    },
+    {
+      "id": "w8",
+      "text": "inspect",
+      "start": 2.921208,
+      "end": 3.451083
+    },
+    {
+      "id": "w9",
+      "text": "things",
+      "start": 3.451083,
+      "end": 4.143999
+    },
+    {
+      "id": "w10",
+      "text": "and",
+      "start": 4.361416,
+      "end": 4.565207
+    },
+    {
+      "id": "w11",
+      "text": "notice",
+      "start": 4.565208,
+      "end": 5.054333
+    },
+    {
+      "id": "w12",
+      "text": "what's",
+      "start": 5.054333,
+      "end": 5.217374
+    },
+    {
+      "id": "w13",
+      "text": "different",
+      "start": 5.230958,
+      "end": 5.652166
+    },
+    {
+      "id": "w14",
+      "text": "between",
+      "start": 5.66575,
+      "end": 6.100541
+    },
+    {
+      "id": "w15",
+      "text": "loops.",
+      "start": 6.114125,
+      "end": 6.630416
+    },
+    {
+      "id": "w16",
+      "text": "Think",
+      "start": 7.105958,
+      "end": 7.228249
+    },
+    {
+      "id": "w17",
+      "text": "about",
+      "start": 7.22825,
+      "end": 7.554333
+    },
+    {
+      "id": "w18",
+      "text": "that",
+      "start": 7.554333,
+      "end": 7.730958
+    },
+    {
+      "id": "w19",
+      "text": "instruction",
+      "start": 7.730958,
+      "end": 8.518999
+    },
+    {
+      "id": "w20",
+      "text": "inside",
+      "start": 8.641291,
+      "end": 9.130416
+    },
+    {
+      "id": "w21",
+      "text": "a",
+      "start": 9.144041,
+      "end": 9.157624
+    },
+    {
+      "id": "w22",
+      "text": "horror",
+      "start": 9.171208,
+      "end": 9.497291
+    },
+    {
+      "id": "w23",
+      "text": "game.",
+      "start": 9.497291,
+      "end": 9.864124
+    },
+    {
+      "id": "w24",
+      "text": "To",
+      "start": 10.3125,
+      "end": 10.380416
+    },
+    {
+      "id": "w25",
+      "text": "progress,",
+      "start": 10.380416,
+      "end": 11.168457
+    },
+    {
+      "id": "w26",
+      "text": "you",
+      "start": 11.426625,
+      "end": 11.548916
+    },
+    {
+      "id": "w27",
+      "text": "have",
+      "start": 11.548916,
+      "end": 11.725541
+    },
+    {
+      "id": "w28",
+      "text": "to",
+      "start": 11.725541,
+      "end": 11.807082
+    },
+    {
+      "id": "w29",
+      "text": "stop",
+      "start": 11.820666,
+      "end": 12.214707
+    },
+    {
+      "id": "w30",
+      "text": "avoiding",
+      "start": 12.309791,
+      "end": 12.839666
+    },
+    {
+      "id": "w31",
+      "text": "the",
+      "start": 12.839666,
+      "end": 12.907582
+    },
+    {
+      "id": "w32",
+      "text": "strange",
+      "start": 12.921208,
+      "end": 13.451083
+    },
+    {
+      "id": "w33",
+      "text": "detail.",
+      "start": 13.464666,
+      "end": 14.089666
+    },
+    {
+      "id": "w34",
+      "text": "You",
+      "start": 14.538041,
+      "end": 14.592374
+    },
+    {
+      "id": "w35",
+      "text": "have",
+      "start": 14.605958,
+      "end": 14.755416
+    },
+    {
+      "id": "w36",
+      "text": "to",
+      "start": 14.769041,
+      "end": 14.836957
+    },
+    {
+      "id": "w37",
+      "text": "go",
+      "start": 14.850541,
+      "end": 15.027166
+    },
+    {
+      "id": "w38",
+      "text": "closer.",
+      "start": 15.027166,
+      "end": 15.638582
+    },
+    {
+      "id": "w39",
+      "text": "Congratulations.",
+      "start": 16.059791,
+      "end": 17.214666
+    },
+    {
+      "id": "w40",
+      "text": "Curiosity",
+      "start": 17.649458,
+      "end": 18.614124
+    },
+    {
+      "id": "w41",
+      "text": "is",
+      "start": 18.79075,
+      "end": 18.913041
+    },
+    {
+      "id": "w42",
+      "text": "now",
+      "start": 18.913041,
+      "end": 19.252707
+    },
+    {
+      "id": "w43",
+      "text": "a",
+      "start": 19.252708,
+      "end": 19.307041
+    },
+    {
+      "id": "w44",
+      "text": "health",
+      "start": 19.307083,
+      "end": 19.660333
+    },
+    {
+      "id": "w45",
+      "text": "hazard.",
+      "start": 19.673916,
+      "end": 20.163041
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.98",
+      "input_tp": "-3.49",
+      "input_lra": "3.50",
+      "input_thresh": "-31.79",
+      "output_i": "-16.30",
+      "output_tp": "-1.50",
+      "output_lra": "2.00",
+      "output_thresh": "-26.89",
+      "normalization_type": "dynamic",
+      "target_offset": "0.30"
+    },
+    "output": {
+      "input_i": "-20.98",
+      "input_tp": "-3.49",
+      "input_lra": "3.50",
+      "input_thresh": "-31.79",
+      "output_i": "-16.13",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-26.70",
+      "normalization_type": "dynamic",
+      "target_offset": "0.13"
+    }
+  },
+  "fingerprint": "846b507527607698b026dc1ca9533924b358f12c8db2b715ee602966d68d14b0"
+}

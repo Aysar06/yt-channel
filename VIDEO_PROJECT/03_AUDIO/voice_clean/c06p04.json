@@ -1,0 +1,299 @@
+{
+  "id": "c06p04",
+  "text": "Normally, the teaser could remain as an odd souvenir. A little demonstration from a project that didn't work out. You could show a friend, explain the context, and let them experience it. But a notice had already put a deadline on that possibility.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c06p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c06p04.wav",
+  "duration": 16.512,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Normally,",
+      "start": 0.106375,
+      "end": 0.611708
+    },
+    {
+      "id": "w1",
+      "text": "the",
+      "start": 1.050541,
+      "end": 1.130332
+    },
+    {
+      "id": "w2",
+      "text": "teaser",
+      "start": 1.130333,
+      "end": 1.529249
+    },
+    {
+      "id": "w3",
+      "text": "could",
+      "start": 1.52925,
+      "end": 1.675541
+    },
+    {
+      "id": "w4",
+      "text": "remain",
+      "start": 1.675541,
+      "end": 2.273957
+    },
+    {
+      "id": "w5",
+      "text": "as",
+      "start": 2.446791,
+      "end": 2.593082
+    },
+    {
+      "id": "w6",
+      "text": "an",
+      "start": 2.593083,
+      "end": 2.739374
+    },
+    {
+      "id": "w7",
+      "text": "odd",
+      "start": 2.752666,
+      "end": 3.085124
+    },
+    {
+      "id": "w8",
+      "text": "souvenir.",
+      "start": 3.098416,
+      "end": 3.816499
+    },
+    {
+      "id": "w9",
+      "text": "A",
+      "start": 4.255333,
+      "end": 4.308541
+    },
+    {
+      "id": "w10",
+      "text": "little",
+      "start": 4.321791,
+      "end": 4.534541
+    },
+    {
+      "id": "w11",
+      "text": "demonstration",
+      "start": 4.534583,
+      "end": 5.332458
+    },
+    {
+      "id": "w12",
+      "text": "from",
+      "start": 5.34575,
+      "end": 5.492041
+    },
+    {
+      "id": "w13",
+      "text": "a",
+      "start": 5.492041,
+      "end": 5.545207
+    },
+    {
+      "id": "w14",
+      "text": "project",
+      "start": 5.545208,
+      "end": 6.263291
+    },
+    {
+      "id": "w15",
+      "text": "that",
+      "start": 6.515958,
+      "end": 6.715416
+    },
+    {
+      "id": "w16",
+      "text": "didn't",
+      "start": 6.728708,
+      "end": 6.954791
+    },
+    {
+      "id": "w17",
+      "text": "work",
+      "start": 6.954791,
+      "end": 7.194166
+    },
+    {
+      "id": "w18",
+      "text": "out.",
+      "start": 7.194166,
+      "end": 7.513332
+    },
+    {
+      "id": "w19",
+      "text": "You",
+      "start": 7.938833,
+      "end": 8.005333
+    },
+    {
+      "id": "w20",
+      "text": "could",
+      "start": 8.005333,
+      "end": 8.111708
+    },
+    {
+      "id": "w21",
+      "text": "show",
+      "start": 8.111708,
+      "end": 8.390958
+    },
+    {
+      "id": "w22",
+      "text": "a",
+      "start": 8.390958,
+      "end": 8.430833
+    },
+    {
+      "id": "w23",
+      "text": "friend,",
+      "start": 8.444166,
+      "end": 8.962791
+    },
+    {
+      "id": "w24",
+      "text": "explain",
+      "start": 9.255333,
+      "end": 9.680874
+    },
+    {
+      "id": "w25",
+      "text": "the",
+      "start": 9.694166,
+      "end": 9.773957
+    },
+    {
+      "id": "w26",
+      "text": "context,",
+      "start": 9.78725,
+      "end": 10.585125
+    },
+    {
+      "id": "w27",
+      "text": "and",
+      "start": 10.83775,
+      "end": 10.984041
+    },
+    {
+      "id": "w28",
+      "text": "let",
+      "start": 11.170208,
+      "end": 11.289874
+    },
+    {
+      "id": "w29",
+      "text": "them",
+      "start": 11.289875,
+      "end": 11.39625
+    },
+    {
+      "id": "w30",
+      "text": "experience",
+      "start": 11.396291,
+      "end": 12.101082
+    },
+    {
+      "id": "w31",
+      "text": "it.",
+      "start": 12.101083,
+      "end": 12.273958
+    },
+    {
+      "id": "w32",
+      "text": "But",
+      "start": 12.699458,
+      "end": 12.765958
+    },
+    {
+      "id": "w33",
+      "text": "a",
+      "start": 12.765958,
+      "end": 12.792541
+    },
+    {
+      "id": "w34",
+      "text": "notice",
+      "start": 12.805833,
+      "end": 13.297874
+    },
+    {
+      "id": "w35",
+      "text": "had",
+      "start": 13.311166,
+      "end": 13.523916
+    },
+    {
+      "id": "w36",
+      "text": "already",
+      "start": 13.656916,
+      "end": 13.976082
+    },
+    {
+      "id": "w37",
+      "text": "put",
+      "start": 13.989375,
+      "end": 14.175541
+    },
+    {
+      "id": "w38",
+      "text": "a",
+      "start": 14.175541,
+      "end": 14.281916
+    },
+    {
+      "id": "w39",
+      "text": "deadline",
+      "start": 14.401583,
+      "end": 14.986708
+    },
+    {
+      "id": "w40",
+      "text": "on",
+      "start": 14.986708,
+      "end": 15.106374
+    },
+    {
+      "id": "w41",
+      "text": "that",
+      "start": 15.119666,
+      "end": 15.305832
+    },
+    {
+      "id": "w42",
+      "text": "possibility.",
+      "start": 15.305833,
+      "end": 16.116999
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.07",
+      "input_tp": "-5.05",
+      "input_lra": "3.10",
+      "input_thresh": "-31.83",
+      "output_i": "-16.52",
+      "output_tp": "-1.50",
+      "output_lra": "2.20",
+      "output_thresh": "-27.30",
+      "normalization_type": "dynamic",
+      "target_offset": "0.52"
+    },
+    "output": {
+      "input_i": "-21.07",
+      "input_tp": "-5.05",
+      "input_lra": "3.10",
+      "input_thresh": "-31.83",
+      "output_i": "-16.07",
+      "output_tp": "-1.50",
+      "output_lra": "2.10",
+      "output_thresh": "-26.85",
+      "normalization_type": "dynamic",
+      "target_offset": "0.07"
+    }
+  },
+  "fingerprint": "44d79aeb5c822aa1b947f407c96c811229df41007b1e4c929fa483996faeb67d"
+}

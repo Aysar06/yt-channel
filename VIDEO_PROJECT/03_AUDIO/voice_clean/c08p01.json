@@ -1,0 +1,305 @@
+{
+  "id": "c08p01",
+  "text": "This is the point where an ordinary console starts to feel like a container for something fragile. Not because the plastic has changed. Because of what's still on the drive. A digital object, which once seemed endlessly replaceable, suddenly has a very physical address.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c08p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c08p01.wav",
+  "duration": 18.912,
+  "words": [
+    {
+      "id": "w0",
+      "text": "This",
+      "start": 0.108708,
+      "end": 0.258166
+    },
+    {
+      "id": "w1",
+      "text": "is",
+      "start": 0.258166,
+      "end": 0.366832
+    },
+    {
+      "id": "w2",
+      "text": "the",
+      "start": 0.366833,
+      "end": 0.475541
+    },
+    {
+      "id": "w3",
+      "text": "point",
+      "start": 0.475541,
+      "end": 0.951082
+    },
+    {
+      "id": "w4",
+      "text": "where",
+      "start": 0.964666,
+      "end": 1.168457
+    },
+    {
+      "id": "w5",
+      "text": "an",
+      "start": 1.168458,
+      "end": 1.263583
+    },
+    {
+      "id": "w6",
+      "text": "ordinary",
+      "start": 1.263583,
+      "end": 1.861416
+    },
+    {
+      "id": "w7",
+      "text": "console",
+      "start": 1.861416,
+      "end": 2.635874
+    },
+    {
+      "id": "w8",
+      "text": "starts",
+      "start": 2.948375,
+      "end": 3.274458
+    },
+    {
+      "id": "w9",
+      "text": "to",
+      "start": 3.288041,
+      "end": 3.383166
+    },
+    {
+      "id": "w10",
+      "text": "feel",
+      "start": 3.383166,
+      "end": 3.736416
+    },
+    {
+      "id": "w11",
+      "text": "like",
+      "start": 3.736416,
+      "end": 3.926624
+    },
+    {
+      "id": "w12",
+      "text": "a",
+      "start": 3.940208,
+      "end": 4.008124
+    },
+    {
+      "id": "w13",
+      "text": "container",
+      "start": 4.02175,
+      "end": 4.796208
+    },
+    {
+      "id": "w14",
+      "text": "for",
+      "start": 5.04075,
+      "end": 5.190208
+    },
+    {
+      "id": "w15",
+      "text": "something",
+      "start": 5.190208,
+      "end": 5.597833
+    },
+    {
+      "id": "w16",
+      "text": "fragile.",
+      "start": 5.597833,
+      "end": 6.249999
+    },
+    {
+      "id": "w17",
+      "text": "Not",
+      "start": 6.684791,
+      "end": 6.874999
+    },
+    {
+      "id": "w18",
+      "text": "because",
+      "start": 6.875,
+      "end": 7.22825
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 7.241833,
+      "end": 7.336958
+    },
+    {
+      "id": "w20",
+      "text": "plastic",
+      "start": 7.336958,
+      "end": 7.866833
+    },
+    {
+      "id": "w21",
+      "text": "has",
+      "start": 7.866833,
+      "end": 8.016291
+    },
+    {
+      "id": "w22",
+      "text": "changed.",
+      "start": 8.016291,
+      "end": 8.722832
+    },
+    {
+      "id": "w23",
+      "text": "Because",
+      "start": 9.157625,
+      "end": 9.402166
+    },
+    {
+      "id": "w24",
+      "text": "of",
+      "start": 9.402166,
+      "end": 9.470082
+    },
+    {
+      "id": "w25",
+      "text": "what's",
+      "start": 9.470125,
+      "end": 9.673916
+    },
+    {
+      "id": "w26",
+      "text": "still",
+      "start": 9.673916,
+      "end": 9.986416
+    },
+    {
+      "id": "w27",
+      "text": "on",
+      "start": 10.0,
+      "end": 10.108708
+    },
+    {
+      "id": "w28",
+      "text": "the",
+      "start": 10.122291,
+      "end": 10.190207
+    },
+    {
+      "id": "w29",
+      "text": "drive.",
+      "start": 10.203791,
+      "end": 10.801624
+    },
+    {
+      "id": "w30",
+      "text": "A",
+      "start": 11.25,
+      "end": 11.317916
+    },
+    {
+      "id": "w31",
+      "text": "digital",
+      "start": 11.317916,
+      "end": 11.766291
+    },
+    {
+      "id": "w32",
+      "text": "object,",
+      "start": 11.766291,
+      "end": 12.404874
+    },
+    {
+      "id": "w33",
+      "text": "which",
+      "start": 12.608708,
+      "end": 12.785333
+    },
+    {
+      "id": "w34",
+      "text": "once",
+      "start": 12.785333,
+      "end": 13.192958
+    },
+    {
+      "id": "w35",
+      "text": "seemed",
+      "start": 13.206541,
+      "end": 13.695666
+    },
+    {
+      "id": "w36",
+      "text": "endlessly",
+      "start": 13.885875,
+      "end": 14.388583
+    },
+    {
+      "id": "w37",
+      "text": "replaceable,",
+      "start": 14.402166,
+      "end": 15.203791
+    },
+    {
+      "id": "w38",
+      "text": "suddenly",
+      "start": 15.625,
+      "end": 16.032625
+    },
+    {
+      "id": "w39",
+      "text": "has",
+      "start": 16.046208,
+      "end": 16.277166
+    },
+    {
+      "id": "w40",
+      "text": "a",
+      "start": 16.277166,
+      "end": 16.345082
+    },
+    {
+      "id": "w41",
+      "text": "very",
+      "start": 16.358708,
+      "end": 16.874999
+    },
+    {
+      "id": "w42",
+      "text": "physical",
+      "start": 16.888583,
+      "end": 17.513583
+    },
+    {
+      "id": "w43",
+      "text": "address.",
+      "start": 17.690208,
+      "end": 18.505416
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-22.00",
+      "input_tp": "-3.61",
+      "input_lra": "3.80",
+      "input_thresh": "-32.55",
+      "output_i": "-16.68",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-27.22",
+      "normalization_type": "dynamic",
+      "target_offset": "0.68"
+    },
+    "output": {
+      "input_i": "-22.00",
+      "input_tp": "-3.61",
+      "input_lra": "3.80",
+      "input_thresh": "-32.55",
+      "output_i": "-16.13",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-26.67",
+      "normalization_type": "dynamic",
+      "target_offset": "0.13"
+    }
+  },
+  "fingerprint": "efde832069c559ec92a9f2a642b8bbfef4014441dfcb65b86b8af93a850b0131"
+}

@@ -1,0 +1,177 @@
+{
+  "duration": 10.056,
+  "language": "en",
+  "segments": [
+    {
+      "text": " The strangest part wasn't that the game disappeared.",
+      "words": [
+        {
+          "word": " The",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "word": " strangest",
+          "start": 0.24,
+          "end": 0.6
+        },
+        {
+          "word": " part",
+          "start": 0.6,
+          "end": 0.78
+        },
+        {
+          "word": " wasn't",
+          "start": 0.78,
+          "end": 1.26
+        },
+        {
+          "word": " that",
+          "start": 1.26,
+          "end": 1.4
+        },
+        {
+          "word": " the",
+          "start": 1.4,
+          "end": 1.52
+        },
+        {
+          "word": " game",
+          "start": 1.52,
+          "end": 1.7
+        },
+        {
+          "word": " disappeared.",
+          "start": 1.7,
+          "end": 2.22
+        }
+      ]
+    },
+    {
+      "text": " It was that somebody had kept it running for 20 years.",
+      "words": [
+        {
+          "word": " It",
+          "start": 2.82,
+          "end": 2.9
+        },
+        {
+          "word": " was",
+          "start": 2.9,
+          "end": 3.0
+        },
+        {
+          "word": " that",
+          "start": 3.0,
+          "end": 3.14
+        },
+        {
+          "word": " somebody",
+          "start": 3.14,
+          "end": 3.46
+        },
+        {
+          "word": " had",
+          "start": 3.46,
+          "end": 3.66
+        },
+        {
+          "word": " kept",
+          "start": 3.66,
+          "end": 3.86
+        },
+        {
+          "word": " it",
+          "start": 3.86,
+          "end": 4.02
+        },
+        {
+          "word": " running",
+          "start": 4.02,
+          "end": 4.22
+        },
+        {
+          "word": " for",
+          "start": 4.22,
+          "end": 4.54
+        },
+        {
+          "word": " 20",
+          "start": 4.54,
+          "end": 4.82
+        },
+        {
+          "word": " years.",
+          "start": 4.82,
+          "end": 5.14
+        }
+      ]
+    },
+    {
+      "text": " And when they finally opened the server, the story got even stranger.",
+      "words": [
+        {
+          "word": " And",
+          "start": 5.8,
+          "end": 5.92
+        },
+        {
+          "word": " when",
+          "start": 5.92,
+          "end": 6.02
+        },
+        {
+          "word": " they",
+          "start": 6.02,
+          "end": 6.16
+        },
+        {
+          "word": " finally",
+          "start": 6.16,
+          "end": 6.44
+        },
+        {
+          "word": " opened",
+          "start": 6.44,
+          "end": 6.82
+        },
+        {
+          "word": " the",
+          "start": 6.82,
+          "end": 7.0
+        },
+        {
+          "word": " server,",
+          "start": 7.0,
+          "end": 7.3
+        },
+        {
+          "word": " the",
+          "start": 7.86,
+          "end": 7.94
+        },
+        {
+          "word": " story",
+          "start": 7.94,
+          "end": 8.26
+        },
+        {
+          "word": " got",
+          "start": 8.26,
+          "end": 8.6
+        },
+        {
+          "word": " even",
+          "start": 8.6,
+          "end": 9.02
+        },
+        {
+          "word": " stranger.",
+          "start": 9.02,
+          "end": 9.38
+        }
+      ]
+    }
+  ],
+  "elapsed_seconds": 3.2389700412750244
+}

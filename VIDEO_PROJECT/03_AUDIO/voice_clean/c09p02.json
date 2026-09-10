@@ -1,0 +1,239 @@
+{
+  "id": "c09p02",
+  "text": "After that flashlight encounter, the model follows you. Turn around normally and your viewpoint moves with the character, keeping the trick hidden. McDonald's detached camera lets us see what an ordinary turn cannot.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c09p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c09p02.wav",
+  "duration": 14.256,
+  "words": [
+    {
+      "id": "w0",
+      "text": "After",
+      "start": 0.093083,
+      "end": 0.332458
+    },
+    {
+      "id": "w1",
+      "text": "that",
+      "start": 0.332458,
+      "end": 0.478708
+    },
+    {
+      "id": "w2",
+      "text": "flashlight",
+      "start": 0.478708,
+      "end": 1.050499
+    },
+    {
+      "id": "w3",
+      "text": "encounter,",
+      "start": 1.063833,
+      "end": 1.555874
+    },
+    {
+      "id": "w4",
+      "text": "the",
+      "start": 1.981375,
+      "end": 2.047875
+    },
+    {
+      "id": "w5",
+      "text": "model",
+      "start": 2.047875,
+      "end": 2.526583
+    },
+    {
+      "id": "w6",
+      "text": "follows",
+      "start": 2.526583,
+      "end": 3.098374
+    },
+    {
+      "id": "w7",
+      "text": "you.",
+      "start": 3.111708,
+      "end": 3.364374
+    },
+    {
+      "id": "w8",
+      "text": "Turn",
+      "start": 3.789875,
+      "end": 3.96275
+    },
+    {
+      "id": "w9",
+      "text": "around",
+      "start": 3.96275,
+      "end": 4.335083
+    },
+    {
+      "id": "w10",
+      "text": "normally",
+      "start": 4.335125,
+      "end": 4.946833
+    },
+    {
+      "id": "w11",
+      "text": "and",
+      "start": 5.106375,
+      "end": 5.252666
+    },
+    {
+      "id": "w12",
+      "text": "your",
+      "start": 5.265958,
+      "end": 5.438833
+    },
+    {
+      "id": "w13",
+      "text": "viewpoint",
+      "start": 5.438833,
+      "end": 6.117041
+    },
+    {
+      "id": "w14",
+      "text": "moves",
+      "start": 6.117041,
+      "end": 6.569166
+    },
+    {
+      "id": "w15",
+      "text": "with",
+      "start": 6.582458,
+      "end": 6.688833
+    },
+    {
+      "id": "w16",
+      "text": "the",
+      "start": 6.702125,
+      "end": 6.768625
+    },
+    {
+      "id": "w17",
+      "text": "character,",
+      "start": 6.781916,
+      "end": 7.340416
+    },
+    {
+      "id": "w18",
+      "text": "keeping",
+      "start": 7.77925,
+      "end": 8.085083
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 8.098416,
+      "end": 8.164916
+    },
+    {
+      "id": "w20",
+      "text": "trick",
+      "start": 8.178208,
+      "end": 8.444166
+    },
+    {
+      "id": "w21",
+      "text": "hidden.",
+      "start": 8.444166,
+      "end": 8.736707
+    },
+    {
+      "id": "w22",
+      "text": "McDonald's",
+      "start": 9.175541,
+      "end": 9.707457
+    },
+    {
+      "id": "w23",
+      "text": "detached",
+      "start": 9.707458,
+      "end": 10.186166
+    },
+    {
+      "id": "w24",
+      "text": "camera",
+      "start": 10.186166,
+      "end": 10.678207
+    },
+    {
+      "id": "w25",
+      "text": "lets",
+      "start": 10.957458,
+      "end": 11.170208
+    },
+    {
+      "id": "w26",
+      "text": "us",
+      "start": 11.170208,
+      "end": 11.343083
+    },
+    {
+      "id": "w27",
+      "text": "see",
+      "start": 11.356375,
+      "end": 11.9415
+    },
+    {
+      "id": "w28",
+      "text": "what",
+      "start": 12.061166,
+      "end": 12.234041
+    },
+    {
+      "id": "w29",
+      "text": "an",
+      "start": 12.247333,
+      "end": 12.393624
+    },
+    {
+      "id": "w30",
+      "text": "ordinary",
+      "start": 12.473416,
+      "end": 13.031916
+    },
+    {
+      "id": "w31",
+      "text": "turn",
+      "start": 13.045208,
+      "end": 13.324458
+    },
+    {
+      "id": "w32",
+      "text": "cannot.",
+      "start": 13.33775,
+      "end": 13.856375
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.17",
+      "input_tp": "-4.50",
+      "input_lra": "3.60",
+      "input_thresh": "-31.89",
+      "output_i": "-16.54",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-27.28",
+      "normalization_type": "dynamic",
+      "target_offset": "0.54"
+    },
+    "output": {
+      "input_i": "-21.17",
+      "input_tp": "-4.50",
+      "input_lra": "3.60",
+      "input_thresh": "-31.89",
+      "output_i": "-16.12",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-26.85",
+      "normalization_type": "dynamic",
+      "target_offset": "0.12"
+    }
+  },
+  "fingerprint": "4e47d13be28c9b3a90ff857064c35146180862a81688854948b47d813ae23372"
+}

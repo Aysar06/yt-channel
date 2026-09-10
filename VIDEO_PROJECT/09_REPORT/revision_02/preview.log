@@ -1,0 +1,153 @@
+npm notice run npx
+npm notice run hyperframes preview --background
+
+  ⚠ [compositions/ch01.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch01.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch01.html] timeline_track_too_dense: Track 1 has 9 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch02.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch02.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch02.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch03.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch03.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch03.html] timeline_track_too_dense: Track 1 has 11 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch04.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch04.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch04.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch05.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch05.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch05.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch06.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch06.html] timeline_track_too_dense: Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch07.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch07.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch08.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch08.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch08.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch09.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch09.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch09.html] timeline_track_too_dense: Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch10.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch10.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch10.html] timeline_track_too_dense: Track 1 has 10 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch11.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch11.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch11.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch12.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch12.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch12.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/revision_02/r01.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/revision_02/r01.html] timeline_track_too_dense: Track 1 has 4 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s006]: <video id="s006"> has data-start="8.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="8.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s007]: <video id="s007"> has data-start="18.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="18.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s008]: <video id="s008"> has data-start="26.200000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="26.200000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s009]: <video id="s009"> has data-start="31.700000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="31.700000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s010]: <video id="s010"> has data-start="37.100000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="37.100000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s011]: <video id="s011"> has data-start="50.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="50.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s013]: <video id="s013"> has data-start="16.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="16.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s015]: <video id="s015"> has data-start="33.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="33.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s016]: <video id="s016"> has data-start="44.300000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="44.300000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s017]: <video id="s017"> has data-start="52.100000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="52.100000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s012-body" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s019]: <video id="s019"> has data-start="10.700000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="10.700000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s020]: <video id="s020"> has data-start="24.700000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="24.700000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s021]: <video id="s021"> has data-start="29.900000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="29.900000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s022]: <video id="s022"> has data-start="34.600000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="34.600000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s023]: <video id="s023"> has data-start="41.800000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="41.800000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r05.html] nested_media_start_basis_ambiguous [s027]: <video id="s027"> has data-start="19.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="19.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r05.html] nested_media_start_basis_ambiguous [s029]: <video id="s029"> has data-start="42.900000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="42.900000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r06.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/revision_02/r06.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s031-d1" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+  ⚠ [compositions/revision_02/r06.html] timeline_track_too_dense: Track 1 has 5 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/revision_02/r07.html] nested_media_start_basis_ambiguous [s039]: <video id="s039"> has data-start="51.000000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="51.000000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s041]: <video id="s041"> has data-start="7.800000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="7.800000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s042]: <video id="s042"> has data-start="13.600000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="13.600000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s043]: <video id="s043"> has data-start="31.600000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="31.600000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s044]: <video id="s044"> has data-start="39.200000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="39.200000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s045]: <video id="s045"> has data-start="55.200000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="55.200000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r09.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s046-body" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s050]: <video id="s050"> has data-start="16.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="16.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s051]: <video id="s051"> has data-start="26.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="26.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s052]: <video id="s052"> has data-start="40.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="40.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s053]: <video id="s053"> has data-start="54.100000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="54.100000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s049-actual" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+
+T  hyperframes preview
+
+  Project   VIDEO_PROJECT
+  Studio    http://localhost:3002/#project/VIDEO_PROJECT
+  Server    http://localhost:3002
+
+  Running in the background. Log: C:\Users\aysar\.local\state\hyperframes\previews\5fb53e4244d4523c.log
+  Changes reload automatically in the studio.
+
+  Stop with: hyperframes preview "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT" --stop
+

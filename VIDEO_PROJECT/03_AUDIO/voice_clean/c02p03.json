@@ -1,0 +1,311 @@
+{
+  "id": "c02p03",
+  "text": "Walk to the end, go through the door, and you're back. Same corridor. That's the trick. The game gives you so little space that you start paying attention to every piece of it. A photo. A lamp. A doorway you really don't want to inspect.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c02p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c02p03.wav",
+  "duration": 15.552,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Walk",
+      "start": 0.104166,
+      "end": 0.299499
+    },
+    {
+      "id": "w1",
+      "text": "to",
+      "start": 0.3125,
+      "end": 0.403666
+    },
+    {
+      "id": "w2",
+      "text": "the",
+      "start": 0.403666,
+      "end": 0.481791
+    },
+    {
+      "id": "w3",
+      "text": "end,",
+      "start": 0.481791,
+      "end": 0.937541
+    },
+    {
+      "id": "w4",
+      "text": "go",
+      "start": 1.223958,
+      "end": 1.380208
+    },
+    {
+      "id": "w5",
+      "text": "through",
+      "start": 1.39325,
+      "end": 1.5495
+    },
+    {
+      "id": "w6",
+      "text": "the",
+      "start": 1.5495,
+      "end": 1.640625
+    },
+    {
+      "id": "w7",
+      "text": "door,",
+      "start": 1.640625,
+      "end": 2.057291
+    },
+    {
+      "id": "w8",
+      "text": "and",
+      "start": 2.34375,
+      "end": 2.395833
+    },
+    {
+      "id": "w9",
+      "text": "you're",
+      "start": 2.395833,
+      "end": 2.486999
+    },
+    {
+      "id": "w10",
+      "text": "back.",
+      "start": 2.5,
+      "end": 2.942708
+    },
+    {
+      "id": "w11",
+      "text": "Same",
+      "start": 3.372416,
+      "end": 3.658874
+    },
+    {
+      "id": "w12",
+      "text": "corridor.",
+      "start": 3.658875,
+      "end": 4.179708
+    },
+    {
+      "id": "w13",
+      "text": "That's",
+      "start": 4.609375,
+      "end": 4.804708
+    },
+    {
+      "id": "w14",
+      "text": "the",
+      "start": 4.804708,
+      "end": 4.895874
+    },
+    {
+      "id": "w15",
+      "text": "trick.",
+      "start": 4.908875,
+      "end": 5.325541
+    },
+    {
+      "id": "w16",
+      "text": "The",
+      "start": 5.76825,
+      "end": 5.846375
+    },
+    {
+      "id": "w17",
+      "text": "game",
+      "start": 5.846375,
+      "end": 6.184916
+    },
+    {
+      "id": "w18",
+      "text": "gives",
+      "start": 6.197916,
+      "end": 6.471374
+    },
+    {
+      "id": "w19",
+      "text": "you",
+      "start": 6.471375,
+      "end": 6.679708
+    },
+    {
+      "id": "w20",
+      "text": "so",
+      "start": 6.848958,
+      "end": 7.174499
+    },
+    {
+      "id": "w21",
+      "text": "little",
+      "start": 7.1745,
+      "end": 7.408875
+    },
+    {
+      "id": "w22",
+      "text": "space",
+      "start": 7.421875,
+      "end": 7.96875
+    },
+    {
+      "id": "w23",
+      "text": "that",
+      "start": 7.981791,
+      "end": 8.098957
+    },
+    {
+      "id": "w24",
+      "text": "you",
+      "start": 8.098958,
+      "end": 8.242208
+    },
+    {
+      "id": "w25",
+      "text": "start",
+      "start": 8.255208,
+      "end": 8.528666
+    },
+    {
+      "id": "w26",
+      "text": "paying",
+      "start": 8.528666,
+      "end": 8.841166
+    },
+    {
+      "id": "w27",
+      "text": "attention",
+      "start": 8.841166,
+      "end": 9.401082
+    },
+    {
+      "id": "w28",
+      "text": "to",
+      "start": 9.466166,
+      "end": 9.622416
+    },
+    {
+      "id": "w29",
+      "text": "every",
+      "start": 9.765625,
+      "end": 10.078125
+    },
+    {
+      "id": "w30",
+      "text": "piece",
+      "start": 10.078125,
+      "end": 10.429708
+    },
+    {
+      "id": "w31",
+      "text": "of",
+      "start": 10.442708,
+      "end": 10.546874
+    },
+    {
+      "id": "w32",
+      "text": "it.",
+      "start": 10.546875,
+      "end": 10.742208
+    },
+    {
+      "id": "w33",
+      "text": "A",
+      "start": 11.171875,
+      "end": 11.223958
+    },
+    {
+      "id": "w34",
+      "text": "photo.",
+      "start": 11.237,
+      "end": 11.718791
+    },
+    {
+      "id": "w35",
+      "text": "A",
+      "start": 12.135416,
+      "end": 12.187499
+    },
+    {
+      "id": "w36",
+      "text": "lamp.",
+      "start": 12.200541,
+      "end": 12.617207
+    },
+    {
+      "id": "w37",
+      "text": "A",
+      "start": 13.033875,
+      "end": 13.098958
+    },
+    {
+      "id": "w38",
+      "text": "doorway",
+      "start": 13.098958,
+      "end": 13.528666
+    },
+    {
+      "id": "w39",
+      "text": "you",
+      "start": 13.528666,
+      "end": 13.763041
+    },
+    {
+      "id": "w40",
+      "text": "really",
+      "start": 13.776041,
+      "end": 14.114582
+    },
+    {
+      "id": "w41",
+      "text": "don't",
+      "start": 14.114583,
+      "end": 14.348958
+    },
+    {
+      "id": "w42",
+      "text": "want",
+      "start": 14.348958,
+      "end": 14.479166
+    },
+    {
+      "id": "w43",
+      "text": "to",
+      "start": 14.479166,
+      "end": 14.544291
+    },
+    {
+      "id": "w44",
+      "text": "inspect.",
+      "start": 14.544291,
+      "end": 15.156291
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.63",
+      "input_tp": "-4.33",
+      "input_lra": "4.50",
+      "input_thresh": "-31.50",
+      "output_i": "-16.03",
+      "output_tp": "-1.50",
+      "output_lra": "4.50",
+      "output_thresh": "-26.77",
+      "normalization_type": "dynamic",
+      "target_offset": "0.03"
+    },
+    "output": {
+      "input_i": "-20.63",
+      "input_tp": "-4.33",
+      "input_lra": "4.50",
+      "input_thresh": "-31.50",
+      "output_i": "-16.02",
+      "output_tp": "-1.50",
+      "output_lra": "4.50",
+      "output_thresh": "-26.76",
+      "normalization_type": "dynamic",
+      "target_offset": "0.02"
+    }
+  },
+  "fingerprint": "decc76857615fde45adb6b3816157b0e1316ef87ee09fbd83af751d7a7e75172"
+}

@@ -1,0 +1,263 @@
+{
+  "id": "c05p04",
+  "text": "What players had was a real, playable experience. What they were promised was a future project. Those two things are easy to merge when you're excited. They become much harder to separate when the future project disappears.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c05p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c05p04.wav",
+  "duration": 13.584,
+  "words": [
+    {
+      "id": "w0",
+      "text": "What",
+      "start": 0.104166,
+      "end": 0.234374
+    },
+    {
+      "id": "w1",
+      "text": "players",
+      "start": 0.234375,
+      "end": 0.625
+    },
+    {
+      "id": "w2",
+      "text": "had",
+      "start": 0.625,
+      "end": 0.807291
+    },
+    {
+      "id": "w3",
+      "text": "was",
+      "start": 0.807291,
+      "end": 0.937499
+    },
+    {
+      "id": "w4",
+      "text": "a",
+      "start": 0.9375,
+      "end": 0.989583
+    },
+    {
+      "id": "w5",
+      "text": "real,",
+      "start": 1.002625,
+      "end": 1.614625
+    },
+    {
+      "id": "w6",
+      "text": "playable",
+      "start": 1.822916,
+      "end": 2.239582
+    },
+    {
+      "id": "w7",
+      "text": "experience.",
+      "start": 2.252625,
+      "end": 3.125041
+    },
+    {
+      "id": "w8",
+      "text": "What",
+      "start": 3.541666,
+      "end": 3.632832
+    },
+    {
+      "id": "w9",
+      "text": "they",
+      "start": 3.632833,
+      "end": 3.723958
+    },
+    {
+      "id": "w10",
+      "text": "were",
+      "start": 3.723958,
+      "end": 3.841166
+    },
+    {
+      "id": "w11",
+      "text": "promised",
+      "start": 3.841166,
+      "end": 4.388041
+    },
+    {
+      "id": "w12",
+      "text": "was",
+      "start": 4.401041,
+      "end": 4.531249
+    },
+    {
+      "id": "w13",
+      "text": "a",
+      "start": 4.53125,
+      "end": 4.583333
+    },
+    {
+      "id": "w14",
+      "text": "future",
+      "start": 4.596375,
+      "end": 5.013041
+    },
+    {
+      "id": "w15",
+      "text": "project.",
+      "start": 5.026041,
+      "end": 5.638041
+    },
+    {
+      "id": "w16",
+      "text": "Those",
+      "start": 6.067708,
+      "end": 6.263041
+    },
+    {
+      "id": "w17",
+      "text": "two",
+      "start": 6.263041,
+      "end": 6.484374
+    },
+    {
+      "id": "w18",
+      "text": "things",
+      "start": 6.484375,
+      "end": 6.862
+    },
+    {
+      "id": "w19",
+      "text": "are",
+      "start": 6.862,
+      "end": 6.979208
+    },
+    {
+      "id": "w20",
+      "text": "easy",
+      "start": 7.148458,
+      "end": 7.447916
+    },
+    {
+      "id": "w21",
+      "text": "to",
+      "start": 7.447916,
+      "end": 7.526041
+    },
+    {
+      "id": "w22",
+      "text": "merge",
+      "start": 7.526041,
+      "end": 7.994791
+    },
+    {
+      "id": "w23",
+      "text": "when",
+      "start": 7.994791,
+      "end": 8.098957
+    },
+    {
+      "id": "w24",
+      "text": "you're",
+      "start": 8.098958,
+      "end": 8.203124
+    },
+    {
+      "id": "w25",
+      "text": "excited.",
+      "start": 8.216166,
+      "end": 8.750041
+    },
+    {
+      "id": "w26",
+      "text": "They",
+      "start": 9.179708,
+      "end": 9.257833
+    },
+    {
+      "id": "w27",
+      "text": "become",
+      "start": 9.257833,
+      "end": 9.635458
+    },
+    {
+      "id": "w28",
+      "text": "much",
+      "start": 9.648458,
+      "end": 9.908874
+    },
+    {
+      "id": "w29",
+      "text": "harder",
+      "start": 9.921875,
+      "end": 10.364583
+    },
+    {
+      "id": "w30",
+      "text": "to",
+      "start": 10.364583,
+      "end": 10.442708
+    },
+    {
+      "id": "w31",
+      "text": "separate",
+      "start": 10.442708,
+      "end": 11.210958
+    },
+    {
+      "id": "w32",
+      "text": "when",
+      "start": 11.223958,
+      "end": 11.341166
+    },
+    {
+      "id": "w33",
+      "text": "the",
+      "start": 11.341166,
+      "end": 11.406291
+    },
+    {
+      "id": "w34",
+      "text": "future",
+      "start": 11.419291,
+      "end": 11.796916
+    },
+    {
+      "id": "w35",
+      "text": "project",
+      "start": 11.809916,
+      "end": 12.252624
+    },
+    {
+      "id": "w36",
+      "text": "disappears.",
+      "start": 12.252625,
+      "end": 13.177125
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.16",
+      "input_tp": "-3.55",
+      "input_lra": "4.30",
+      "input_thresh": "-31.72",
+      "output_i": "-16.09",
+      "output_tp": "-1.50",
+      "output_lra": "2.10",
+      "output_thresh": "-26.68",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    },
+    "output": {
+      "input_i": "-21.16",
+      "input_tp": "-3.55",
+      "input_lra": "4.30",
+      "input_thresh": "-31.72",
+      "output_i": "-16.01",
+      "output_tp": "-1.50",
+      "output_lra": "2.10",
+      "output_thresh": "-26.60",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    }
+  },
+  "fingerprint": "26eb0a56b81efbf6fef5721d23717414351d41a33a29c95471ac5e604d26d66c"
+}

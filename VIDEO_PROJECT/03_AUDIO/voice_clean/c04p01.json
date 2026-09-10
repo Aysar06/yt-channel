@@ -1,0 +1,329 @@
+{
+  "id": "c04p01",
+  "text": "P.T. makes observation feel useful, but it doesn't hand you a friendly checklist. The audio contains clues. Some speech is reversed; some isn't in English. You're dealing with a space that changes, information you may not understand, and the possibility that you missed a trigger three loops ago.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c04p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c04p01.wav",
+  "duration": 18.648,
+  "words": [
+    {
+      "id": "w0",
+      "text": "P.T.",
+      "start": 0.140291,
+      "end": 0.510207
+    },
+    {
+      "id": "w1",
+      "text": "makes",
+      "start": 0.510208,
+      "end": 0.752541
+    },
+    {
+      "id": "w2",
+      "text": "observation",
+      "start": 0.765291,
+      "end": 1.441291
+    },
+    {
+      "id": "w3",
+      "text": "feel",
+      "start": 1.454083,
+      "end": 1.709166
+    },
+    {
+      "id": "w4",
+      "text": "useful,",
+      "start": 1.709166,
+      "end": 2.346916
+    },
+    {
+      "id": "w5",
+      "text": "but",
+      "start": 2.627541,
+      "end": 2.742332
+    },
+    {
+      "id": "w6",
+      "text": "it",
+      "start": 2.742333,
+      "end": 2.857124
+    },
+    {
+      "id": "w7",
+      "text": "doesn't",
+      "start": 2.869916,
+      "end": 3.150541
+    },
+    {
+      "id": "w8",
+      "text": "hand",
+      "start": 3.16325,
+      "end": 3.558666
+    },
+    {
+      "id": "w9",
+      "text": "you",
+      "start": 3.558666,
+      "end": 3.686207
+    },
+    {
+      "id": "w10",
+      "text": "a",
+      "start": 3.686208,
+      "end": 3.724458
+    },
+    {
+      "id": "w11",
+      "text": "friendly",
+      "start": 3.73725,
+      "end": 4.068875
+    },
+    {
+      "id": "w12",
+      "text": "checklist.",
+      "start": 4.081625,
+      "end": 4.795916
+    },
+    {
+      "id": "w13",
+      "text": "The",
+      "start": 5.216833,
+      "end": 5.306124
+    },
+    {
+      "id": "w14",
+      "text": "audio",
+      "start": 5.306125,
+      "end": 5.739791
+    },
+    {
+      "id": "w15",
+      "text": "contains",
+      "start": 5.739791,
+      "end": 6.352041
+    },
+    {
+      "id": "w16",
+      "text": "clues.",
+      "start": 6.364791,
+      "end": 7.066332
+    },
+    {
+      "id": "w17",
+      "text": "Some",
+      "start": 7.4745,
+      "end": 7.627541
+    },
+    {
+      "id": "w18",
+      "text": "speech",
+      "start": 7.627541,
+      "end": 8.086707
+    },
+    {
+      "id": "w19",
+      "text": "is",
+      "start": 8.201541,
+      "end": 8.341832
+    },
+    {
+      "id": "w20",
+      "text": "reversed;",
+      "start": 8.354583,
+      "end": 8.915791
+    },
+    {
+      "id": "w21",
+      "text": "some",
+      "start": 9.33675,
+      "end": 9.515291
+    },
+    {
+      "id": "w22",
+      "text": "isn't",
+      "start": 9.515291,
+      "end": 9.732124
+    },
+    {
+      "id": "w23",
+      "text": "in",
+      "start": 9.732125,
+      "end": 9.795916
+    },
+    {
+      "id": "w24",
+      "text": "English.",
+      "start": 9.808666,
+      "end": 10.395416
+    },
+    {
+      "id": "w25",
+      "text": "You're",
+      "start": 10.803583,
+      "end": 10.892874
+    },
+    {
+      "id": "w26",
+      "text": "dealing",
+      "start": 10.905625,
+      "end": 11.23725
+    },
+    {
+      "id": "w27",
+      "text": "with",
+      "start": 11.23725,
+      "end": 11.352041
+    },
+    {
+      "id": "w28",
+      "text": "a",
+      "start": 11.352041,
+      "end": 11.403041
+    },
+    {
+      "id": "w29",
+      "text": "space",
+      "start": 11.415833,
+      "end": 11.951541
+    },
+    {
+      "id": "w30",
+      "text": "that",
+      "start": 11.951541,
+      "end": 12.104582
+    },
+    {
+      "id": "w31",
+      "text": "changes,",
+      "start": 12.104583,
+      "end": 12.857124
+    },
+    {
+      "id": "w32",
+      "text": "information",
+      "start": 13.0995,
+      "end": 13.75
+    },
+    {
+      "id": "w33",
+      "text": "you",
+      "start": 13.76275,
+      "end": 13.890291
+    },
+    {
+      "id": "w34",
+      "text": "may",
+      "start": 13.890291,
+      "end": 14.209166
+    },
+    {
+      "id": "w35",
+      "text": "not",
+      "start": 14.209166,
+      "end": 14.528041
+    },
+    {
+      "id": "w36",
+      "text": "understand,",
+      "start": 14.528041,
+      "end": 15.191291
+    },
+    {
+      "id": "w37",
+      "text": "and",
+      "start": 15.459166,
+      "end": 15.510166
+    },
+    {
+      "id": "w38",
+      "text": "the",
+      "start": 15.522958,
+      "end": 15.599499
+    },
+    {
+      "id": "w39",
+      "text": "possibility",
+      "start": 15.61225,
+      "end": 16.390291
+    },
+    {
+      "id": "w40",
+      "text": "that",
+      "start": 16.390291,
+      "end": 16.492332
+    },
+    {
+      "id": "w41",
+      "text": "you",
+      "start": 16.492333,
+      "end": 16.594374
+    },
+    {
+      "id": "w42",
+      "text": "missed",
+      "start": 16.594375,
+      "end": 16.849458
+    },
+    {
+      "id": "w43",
+      "text": "a",
+      "start": 16.86225,
+      "end": 16.88775
+    },
+    {
+      "id": "w44",
+      "text": "trigger",
+      "start": 16.88775,
+      "end": 17.283166
+    },
+    {
+      "id": "w45",
+      "text": "three",
+      "start": 17.283166,
+      "end": 17.576541
+    },
+    {
+      "id": "w46",
+      "text": "loops",
+      "start": 17.589291,
+      "end": 17.882666
+    },
+    {
+      "id": "w47",
+      "text": "ago.",
+      "start": 17.882666,
+      "end": 18.278082
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.79",
+      "input_tp": "-2.77",
+      "input_lra": "3.70",
+      "input_thresh": "-32.19",
+      "output_i": "-16.48",
+      "output_tp": "-1.50",
+      "output_lra": "2.20",
+      "output_thresh": "-26.82",
+      "normalization_type": "dynamic",
+      "target_offset": "0.48"
+    },
+    "output": {
+      "input_i": "-21.79",
+      "input_tp": "-2.77",
+      "input_lra": "3.70",
+      "input_thresh": "-32.19",
+      "output_i": "-16.06",
+      "output_tp": "-1.50",
+      "output_lra": "2.20",
+      "output_thresh": "-26.39",
+      "normalization_type": "dynamic",
+      "target_offset": "0.06"
+    }
+  },
+  "fingerprint": "2258d108f374cf26b5b11d4b2ee162c93b0bd7b852c65eb7c5c377cdacd7b9b8"
+}

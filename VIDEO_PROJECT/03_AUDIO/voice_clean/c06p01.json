@@ -1,0 +1,329 @@
+{
+  "id": "c06p01",
+  "text": "By late April twenty fifteen, the news had changed completely. On April twenty seventh, Konami confirmed that the Silent Hills project would not continue. The same statement described it as embryonic. That's a pretty substantial detail when this story gets retold as a finished masterpiece being thrown away.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c06p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c06p01.wav",
+  "duration": 21.288,
+  "words": [
+    {
+      "id": "w0",
+      "text": "By",
+      "start": 0.106375,
+      "end": 0.226041
+    },
+    {
+      "id": "w1",
+      "text": "late",
+      "start": 0.226083,
+      "end": 0.624999
+    },
+    {
+      "id": "w2",
+      "text": "April",
+      "start": 0.757958,
+      "end": 1.037208
+    },
+    {
+      "id": "w3",
+      "text": "twenty",
+      "start": 1.03725,
+      "end": 1.303208
+    },
+    {
+      "id": "w4",
+      "text": "fifteen,",
+      "start": 1.303208,
+      "end": 1.994708
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 2.4335,
+      "end": 2.513291
+    },
+    {
+      "id": "w6",
+      "text": "news",
+      "start": 2.513291,
+      "end": 2.872332
+    },
+    {
+      "id": "w7",
+      "text": "had",
+      "start": 2.872333,
+      "end": 3.071791
+    },
+    {
+      "id": "w8",
+      "text": "changed",
+      "start": 3.085125,
+      "end": 3.53725
+    },
+    {
+      "id": "w9",
+      "text": "completely.",
+      "start": 3.550541,
+      "end": 4.242041
+    },
+    {
+      "id": "w10",
+      "text": "On",
+      "start": 4.65425,
+      "end": 4.787208
+    },
+    {
+      "id": "w11",
+      "text": "April",
+      "start": 4.800541,
+      "end": 5.093082
+    },
+    {
+      "id": "w12",
+      "text": "twenty",
+      "start": 5.093083,
+      "end": 5.359041
+    },
+    {
+      "id": "w13",
+      "text": "seventh,",
+      "start": 5.359041,
+      "end": 5.997332
+    },
+    {
+      "id": "w14",
+      "text": "Konami",
+      "start": 6.289875,
+      "end": 6.8085
+    },
+    {
+      "id": "w15",
+      "text": "confirmed",
+      "start": 6.821791,
+      "end": 7.406916
+    },
+    {
+      "id": "w16",
+      "text": "that",
+      "start": 7.420208,
+      "end": 7.539874
+    },
+    {
+      "id": "w17",
+      "text": "the",
+      "start": 7.539875,
+      "end": 7.606375
+    },
+    {
+      "id": "w18",
+      "text": "Silent",
+      "start": 7.606375,
+      "end": 8.111708
+    },
+    {
+      "id": "w19",
+      "text": "Hills",
+      "start": 8.111708,
+      "end": 8.364374
+    },
+    {
+      "id": "w20",
+      "text": "project",
+      "start": 8.377666,
+      "end": 8.976082
+    },
+    {
+      "id": "w21",
+      "text": "would",
+      "start": 9.09575,
+      "end": 9.281916
+    },
+    {
+      "id": "w22",
+      "text": "not",
+      "start": 9.281916,
+      "end": 9.694166
+    },
+    {
+      "id": "w23",
+      "text": "continue.",
+      "start": 9.694166,
+      "end": 10.319166
+    },
+    {
+      "id": "w24",
+      "text": "The",
+      "start": 10.771291,
+      "end": 10.824457
+    },
+    {
+      "id": "w25",
+      "text": "same",
+      "start": 10.824458,
+      "end": 11.103708
+    },
+    {
+      "id": "w26",
+      "text": "statement",
+      "start": 11.103708,
+      "end": 11.622333
+    },
+    {
+      "id": "w27",
+      "text": "described",
+      "start": 11.688833,
+      "end": 12.260624
+    },
+    {
+      "id": "w28",
+      "text": "it",
+      "start": 12.260625,
+      "end": 12.4335
+    },
+    {
+      "id": "w29",
+      "text": "as",
+      "start": 12.5665,
+      "end": 12.859041
+    },
+    {
+      "id": "w30",
+      "text": "embryonic.",
+      "start": 12.872333,
+      "end": 13.616999
+    },
+    {
+      "id": "w31",
+      "text": "That's",
+      "start": 14.042541,
+      "end": 14.188832
+    },
+    {
+      "id": "w32",
+      "text": "a",
+      "start": 14.188833,
+      "end": 14.255333
+    },
+    {
+      "id": "w33",
+      "text": "pretty",
+      "start": 14.255333,
+      "end": 14.587749
+    },
+    {
+      "id": "w34",
+      "text": "substantial",
+      "start": 14.58775,
+      "end": 15.226041
+    },
+    {
+      "id": "w35",
+      "text": "detail",
+      "start": 15.226083,
+      "end": 15.864374
+    },
+    {
+      "id": "w36",
+      "text": "when",
+      "start": 16.063833,
+      "end": 16.236708
+    },
+    {
+      "id": "w37",
+      "text": "this",
+      "start": 16.25,
+      "end": 16.422875
+    },
+    {
+      "id": "w38",
+      "text": "story",
+      "start": 16.436166,
+      "end": 16.835082
+    },
+    {
+      "id": "w39",
+      "text": "gets",
+      "start": 16.835125,
+      "end": 17.087791
+    },
+    {
+      "id": "w40",
+      "text": "retold",
+      "start": 17.101083,
+      "end": 17.912249
+    },
+    {
+      "id": "w41",
+      "text": "as",
+      "start": 18.164875,
+      "end": 18.311166
+    },
+    {
+      "id": "w42",
+      "text": "a",
+      "start": 18.324458,
+      "end": 18.364333
+    },
+    {
+      "id": "w43",
+      "text": "finished",
+      "start": 18.364375,
+      "end": 18.829791
+    },
+    {
+      "id": "w44",
+      "text": "masterpiece",
+      "start": 18.843083,
+      "end": 19.747333
+    },
+    {
+      "id": "w45",
+      "text": "being",
+      "start": 19.760625,
+      "end": 20.079791
+    },
+    {
+      "id": "w46",
+      "text": "thrown",
+      "start": 20.079791,
+      "end": 20.438832
+    },
+    {
+      "id": "w47",
+      "text": "away.",
+      "start": 20.438833,
+      "end": 20.904249
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.66",
+      "input_tp": "-4.21",
+      "input_lra": "4.60",
+      "input_thresh": "-32.21",
+      "output_i": "-16.86",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-27.38",
+      "normalization_type": "dynamic",
+      "target_offset": "0.86"
+    },
+    "output": {
+      "input_i": "-21.66",
+      "input_tp": "-4.21",
+      "input_lra": "4.60",
+      "input_thresh": "-32.21",
+      "output_i": "-16.13",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-26.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.13"
+    }
+  },
+  "fingerprint": "17d7b4358263491904a4357cedf824275502b83cf81947561790e72989269051"
+}

@@ -1,0 +1,263 @@
+{
+  "id": "c12p03",
+  "text": "The promise of Silent Hills remains a what-if. The teaser is something people actually made, actually played, and kept finding things inside. It deserves to be remembered as more than a trailer for an imaginary perfect game.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c12p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c12p03.wav",
+  "duration": 15.984,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.122291,
+      "end": 0.190207
+    },
+    {
+      "id": "w1",
+      "text": "promise",
+      "start": 0.190208,
+      "end": 0.638583
+    },
+    {
+      "id": "w2",
+      "text": "of",
+      "start": 0.638583,
+      "end": 0.720124
+    },
+    {
+      "id": "w3",
+      "text": "Silent",
+      "start": 0.720125,
+      "end": 1.182083
+    },
+    {
+      "id": "w4",
+      "text": "Hills",
+      "start": 1.182083,
+      "end": 1.725541
+    },
+    {
+      "id": "w5",
+      "text": "remains",
+      "start": 1.820666,
+      "end": 2.282624
+    },
+    {
+      "id": "w6",
+      "text": "a",
+      "start": 2.282625,
+      "end": 2.350541
+    },
+    {
+      "id": "w7",
+      "text": "what-if.",
+      "start": 2.350541,
+      "end": 3.124999
+    },
+    {
+      "id": "w8",
+      "text": "The",
+      "start": 3.586958,
+      "end": 3.654874
+    },
+    {
+      "id": "w9",
+      "text": "teaser",
+      "start": 3.654875,
+      "end": 4.130416
+    },
+    {
+      "id": "w10",
+      "text": "is",
+      "start": 4.130416,
+      "end": 4.239124
+    },
+    {
+      "id": "w11",
+      "text": "something",
+      "start": 4.239125,
+      "end": 4.660333
+    },
+    {
+      "id": "w12",
+      "text": "people",
+      "start": 4.673916,
+      "end": 5.081541
+    },
+    {
+      "id": "w13",
+      "text": "actually",
+      "start": 5.081541,
+      "end": 5.461957
+    },
+    {
+      "id": "w14",
+      "text": "made,",
+      "start": 5.461958,
+      "end": 6.019041
+    },
+    {
+      "id": "w15",
+      "text": "actually",
+      "start": 6.222833,
+      "end": 6.603249
+    },
+    {
+      "id": "w16",
+      "text": "played,",
+      "start": 6.60325,
+      "end": 7.201083
+    },
+    {
+      "id": "w17",
+      "text": "and",
+      "start": 7.730958,
+      "end": 8.057041
+    },
+    {
+      "id": "w18",
+      "text": "kept",
+      "start": 8.315208,
+      "end": 8.532583
+    },
+    {
+      "id": "w19",
+      "text": "finding",
+      "start": 8.532625,
+      "end": 8.913041
+    },
+    {
+      "id": "w20",
+      "text": "things",
+      "start": 8.926625,
+      "end": 9.225541
+    },
+    {
+      "id": "w21",
+      "text": "inside.",
+      "start": 9.239125,
+      "end": 9.877708
+    },
+    {
+      "id": "w22",
+      "text": "It",
+      "start": 10.326083,
+      "end": 10.393999
+    },
+    {
+      "id": "w23",
+      "text": "deserves",
+      "start": 10.407625,
+      "end": 10.883166
+    },
+    {
+      "id": "w24",
+      "text": "to",
+      "start": 10.883166,
+      "end": 10.978249
+    },
+    {
+      "id": "w25",
+      "text": "be",
+      "start": 10.97825,
+      "end": 11.127708
+    },
+    {
+      "id": "w26",
+      "text": "remembered",
+      "start": 11.127708,
+      "end": 11.779874
+    },
+    {
+      "id": "w27",
+      "text": "as",
+      "start": 12.078791,
+      "end": 12.255416
+    },
+    {
+      "id": "w28",
+      "text": "more",
+      "start": 12.255416,
+      "end": 12.595082
+    },
+    {
+      "id": "w29",
+      "text": "than",
+      "start": 12.595125,
+      "end": 12.703791
+    },
+    {
+      "id": "w30",
+      "text": "a",
+      "start": 12.703791,
+      "end": 12.744541
+    },
+    {
+      "id": "w31",
+      "text": "trailer",
+      "start": 12.744583,
+      "end": 13.383166
+    },
+    {
+      "id": "w32",
+      "text": "for",
+      "start": 13.654875,
+      "end": 13.858666
+    },
+    {
+      "id": "w33",
+      "text": "an",
+      "start": 13.858708,
+      "end": 13.899458
+    },
+    {
+      "id": "w34",
+      "text": "imaginary",
+      "start": 13.913041,
+      "end": 14.755416
+    },
+    {
+      "id": "w35",
+      "text": "perfect",
+      "start": 14.769041,
+      "end": 15.244582
+    },
+    {
+      "id": "w36",
+      "text": "game.",
+      "start": 15.244583,
+      "end": 15.584249
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.53",
+      "input_tp": "-3.07",
+      "input_lra": "4.20",
+      "input_thresh": "-32.20",
+      "output_i": "-16.22",
+      "output_tp": "-1.50",
+      "output_lra": "3.90",
+      "output_thresh": "-26.81",
+      "normalization_type": "dynamic",
+      "target_offset": "0.22"
+    },
+    "output": {
+      "input_i": "-21.53",
+      "input_tp": "-3.07",
+      "input_lra": "4.20",
+      "input_thresh": "-32.20",
+      "output_i": "-16.05",
+      "output_tp": "-1.50",
+      "output_lra": "3.90",
+      "output_thresh": "-26.64",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    }
+  },
+  "fingerprint": "fe8316bdbff3ca3538c0b82cfe93fe3cc2ddc2447d44b6050504da0ce22b9606"
+}

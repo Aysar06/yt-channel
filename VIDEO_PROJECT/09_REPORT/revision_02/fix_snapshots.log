@@ -1,0 +1,24 @@
+npm notice run npx
+npm notice run hyperframes snapshot --at 1.8,19.15,264,272,317.2,329,393,404,543,551,558,565 --no-end --describe false --output 09_REPORT/revision_02/fix_snapshots
+◆  Capturing 12 frames at [1.8s, 19.15s, 264s, 272s, 317.2s, 329s, 393s, 404s, 543s, 551s, 558s, 565s] from VIDEO_PROJECT
+[INFO] [Compiler] Fetched 11 font face(s) for "Inter" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\inter)
+[INFO] [Compiler] Fetched 7 font face(s) for "EB Garamond" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\eb-garamond)
+[INFO] [Compiler] Injected deterministic @font-face rules for 2 requested font families
+[hyperframes] browserGpuMode probe → hardware (WebGL renderer vendor="Google Inc. (NVIDIA)" renderer="ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 (0x00002882) Direct3D11 vs_5_0 ps_5_0, D3D11)")
+
+   Fonts: 2 loaded, 7 unused
+
+◇  12 snapshots saved to C:\Users\aysar\Documents\ChatGPT\video editor for long form videos\VIDEO_PROJECT\09_REPORT\revision_02\fix_snapshots
+   09_REPORT\revision_02\fix_snapshots\frame-00-at-1.8s.png
+   09_REPORT\revision_02\fix_snapshots\frame-01-at-19.15s.png
+   09_REPORT\revision_02\fix_snapshots\frame-02-at-264s.png
+   09_REPORT\revision_02\fix_snapshots\frame-03-at-272s.png
+   09_REPORT\revision_02\fix_snapshots\frame-04-at-317.2s.png
+   09_REPORT\revision_02\fix_snapshots\frame-05-at-329s.png
+   09_REPORT\revision_02\fix_snapshots\frame-06-at-393s.png
+   09_REPORT\revision_02\fix_snapshots\frame-07-at-404s.png
+   09_REPORT\revision_02\fix_snapshots\frame-08-at-543s.png
+   09_REPORT\revision_02\fix_snapshots\frame-09-at-551s.png
+   09_REPORT\revision_02\fix_snapshots\frame-10-at-558s.png
+   09_REPORT\revision_02\fix_snapshots\frame-11-at-565s.png
+   contact-sheet-1..2.jpg (grid view for AI review)

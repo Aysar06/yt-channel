@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Research for **p.t. silent hills** returned no related suggestions.\nTop opportunity: **p.t. silent hills** at 55.6/100 overall (volume 55.3/100, competition 44/100).\n\nKeyword data (JSON):\n{\"mode\":\"research\",\"country\":null,\"query\":null,\"seedKeyword\":{\"keyword\":\"p.t. silent hills\",\"relatedScore\":null,\"volume\":55.31096362454393,\"competition\":44,\"overall\":55.586578174726355,\"estimatedMonthlySearch\":5073,\"baselineMonthlySearches30d\":null,\"searchDemandGrowthPct\":null,\"metricsAsOf\":\"2026-09-06T08:56:56.000Z\",\"monthlySearchesDisplay\":\"5,073\",\"volumeScoreLabel\":\"Medium\",\"countryVolume\":null,\"topMarkets\":[]},\"relatedKeywords\":[],\"sort\":null,\"risingKeywords\":[],\"questions\":[],\"matchingTerms\":[],\"period\":null,\"availableTopics\":[],\"vphDailyViews\":[],\"viewMomentum\":[]}"
+    }
+  ],
+  "isError": false
+}

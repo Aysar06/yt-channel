@@ -1,0 +1,1031 @@
+{
+  "id": "r04",
+  "text": "At the end, the view opens onto a street. A figure walks away from the camera. Names start appearing, and the face finally turns into view: Norman Reedus. Then comes Silent Hills. The anonymous experiment is connected to Hideo Kojima, Guillermo del Toro, and a series people already know. The reveal works because it arrives after the experience. You aren't being asked to imagine whether these people could make something frightening. You've just played the sales pitch. In an official KONAMI message, del Toro talks about working with Kojima on the teaser and the ideas they were exchanging. That made the collaboration feel tangible, even though the larger game remained a promise. And the ending itself draws a boundary we need to keep: the playable teaser says it has no direct relation to the main title. This corridor wasn't proof that a finished Silent Hills existed somewhere. P.T. was the real thing people had played. Silent Hills was the future they were imagining from it.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+0%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_raw/r04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_clean/r04.wav",
+  "duration": 63.216,
+  "words": [
+    {
+      "id": "w0",
+      "text": "At",
+      "start": 0.1,
+      "end": 0.2
+    },
+    {
+      "id": "w1",
+      "text": "the",
+      "start": 0.2125,
+      "end": 0.275
+    },
+    {
+      "id": "w2",
+      "text": "end,",
+      "start": 0.2875,
+      "end": 0.775
+    },
+    {
+      "id": "w3",
+      "text": "the",
+      "start": 1.1625,
+      "end": 1.25
+    },
+    {
+      "id": "w4",
+      "text": "view",
+      "start": 1.25,
+      "end": 1.5125
+    },
+    {
+      "id": "w5",
+      "text": "opens",
+      "start": 1.525,
+      "end": 1.9
+    },
+    {
+      "id": "w6",
+      "text": "onto",
+      "start": 1.9125,
+      "end": 2.1625
+    },
+    {
+      "id": "w7",
+      "text": "a",
+      "start": 2.175,
+      "end": 2.225
+    },
+    {
+      "id": "w8",
+      "text": "street.",
+      "start": 2.225,
+      "end": 2.675
+    },
+    {
+      "id": "w9",
+      "text": "A",
+      "start": 3.075,
+      "end": 3.1375
+    },
+    {
+      "id": "w10",
+      "text": "figure",
+      "start": 3.1375,
+      "end": 3.475
+    },
+    {
+      "id": "w11",
+      "text": "walks",
+      "start": 3.475,
+      "end": 3.7625
+    },
+    {
+      "id": "w12",
+      "text": "away",
+      "start": 3.7625,
+      "end": 4.0875
+    },
+    {
+      "id": "w13",
+      "text": "from",
+      "start": 4.1,
+      "end": 4.225
+    },
+    {
+      "id": "w14",
+      "text": "the",
+      "start": 4.225,
+      "end": 4.2875
+    },
+    {
+      "id": "w15",
+      "text": "camera.",
+      "start": 4.2875,
+      "end": 4.7875
+    },
+    {
+      "id": "w16",
+      "text": "Names",
+      "start": 5.1625,
+      "end": 5.475
+    },
+    {
+      "id": "w17",
+      "text": "start",
+      "start": 5.4875,
+      "end": 5.7625
+    },
+    {
+      "id": "w18",
+      "text": "appearing,",
+      "start": 5.7625,
+      "end": 6.2625
+    },
+    {
+      "id": "w19",
+      "text": "and",
+      "start": 6.675,
+      "end": 6.725
+    },
+    {
+      "id": "w20",
+      "text": "the",
+      "start": 6.725,
+      "end": 6.8
+    },
+    {
+      "id": "w21",
+      "text": "face",
+      "start": 6.8125,
+      "end": 7.1875
+    },
+    {
+      "id": "w22",
+      "text": "finally",
+      "start": 7.2,
+      "end": 7.725
+    },
+    {
+      "id": "w23",
+      "text": "turns",
+      "start": 7.725,
+      "end": 8.1375
+    },
+    {
+      "id": "w24",
+      "text": "into",
+      "start": 8.1375,
+      "end": 8.35
+    },
+    {
+      "id": "w25",
+      "text": "view:",
+      "start": 8.35,
+      "end": 8.7625
+    },
+    {
+      "id": "w26",
+      "text": "Norman",
+      "start": 9.3125,
+      "end": 9.6375
+    },
+    {
+      "id": "w27",
+      "text": "Reedus.",
+      "start": 9.65,
+      "end": 10.3125
+    },
+    {
+      "id": "w28",
+      "text": "Then",
+      "start": 10.7125,
+      "end": 10.975
+    },
+    {
+      "id": "w29",
+      "text": "comes",
+      "start": 10.9875,
+      "end": 11.2125
+    },
+    {
+      "id": "w30",
+      "text": "Silent",
+      "start": 11.2125,
+      "end": 11.65
+    },
+    {
+      "id": "w31",
+      "text": "Hills.",
+      "start": 11.6625,
+      "end": 12.2375
+    },
+    {
+      "id": "w32",
+      "text": "The",
+      "start": 12.65,
+      "end": 12.725
+    },
+    {
+      "id": "w33",
+      "text": "anonymous",
+      "start": 12.725,
+      "end": 13.2375
+    },
+    {
+      "id": "w34",
+      "text": "experiment",
+      "start": 13.25,
+      "end": 13.8875
+    },
+    {
+      "id": "w35",
+      "text": "is",
+      "start": 14.0125,
+      "end": 14.1
+    },
+    {
+      "id": "w36",
+      "text": "connected",
+      "start": 14.1,
+      "end": 14.625
+    },
+    {
+      "id": "w37",
+      "text": "to",
+      "start": 14.6375,
+      "end": 14.7
+    },
+    {
+      "id": "w38",
+      "text": "Hideo",
+      "start": 14.7125,
+      "end": 15.2125
+    },
+    {
+      "id": "w39",
+      "text": "Kojima,",
+      "start": 15.225,
+      "end": 15.975
+    },
+    {
+      "id": "w40",
+      "text": "Guillermo",
+      "start": 16.2375,
+      "end": 16.7125
+    },
+    {
+      "id": "w41",
+      "text": "del",
+      "start": 16.7125,
+      "end": 16.975
+    },
+    {
+      "id": "w42",
+      "text": "Toro,",
+      "start": 16.975,
+      "end": 17.4875
+    },
+    {
+      "id": "w43",
+      "text": "and",
+      "start": 17.95,
+      "end": 18.05
+    },
+    {
+      "id": "w44",
+      "text": "a",
+      "start": 18.05,
+      "end": 18.1
+    },
+    {
+      "id": "w45",
+      "text": "series",
+      "start": 18.1,
+      "end": 18.6125
+    },
+    {
+      "id": "w46",
+      "text": "people",
+      "start": 18.625,
+      "end": 19.0
+    },
+    {
+      "id": "w47",
+      "text": "already",
+      "start": 19.1,
+      "end": 19.4375
+    },
+    {
+      "id": "w48",
+      "text": "know.",
+      "start": 19.4375,
+      "end": 19.7625
+    },
+    {
+      "id": "w49",
+      "text": "The",
+      "start": 20.1625,
+      "end": 20.2125
+    },
+    {
+      "id": "w50",
+      "text": "reveal",
+      "start": 20.2125,
+      "end": 20.5875
+    },
+    {
+      "id": "w51",
+      "text": "works",
+      "start": 20.5875,
+      "end": 21.0125
+    },
+    {
+      "id": "w52",
+      "text": "because",
+      "start": 21.025,
+      "end": 21.4375
+    },
+    {
+      "id": "w53",
+      "text": "it",
+      "start": 21.45,
+      "end": 21.525
+    },
+    {
+      "id": "w54",
+      "text": "arrives",
+      "start": 21.5375,
+      "end": 22.2625
+    },
+    {
+      "id": "w55",
+      "text": "after",
+      "start": 22.4,
+      "end": 22.6625
+    },
+    {
+      "id": "w56",
+      "text": "the",
+      "start": 22.6625,
+      "end": 22.7125
+    },
+    {
+      "id": "w57",
+      "text": "experience.",
+      "start": 22.725,
+      "end": 23.6
+    },
+    {
+      "id": "w58",
+      "text": "You",
+      "start": 24.0125,
+      "end": 24.0875
+    },
+    {
+      "id": "w59",
+      "text": "aren't",
+      "start": 24.1,
+      "end": 24.2125
+    },
+    {
+      "id": "w60",
+      "text": "being",
+      "start": 24.2125,
+      "end": 24.425
+    },
+    {
+      "id": "w61",
+      "text": "asked",
+      "start": 24.425,
+      "end": 24.75
+    },
+    {
+      "id": "w62",
+      "text": "to",
+      "start": 24.75,
+      "end": 24.85
+    },
+    {
+      "id": "w63",
+      "text": "imagine",
+      "start": 24.85,
+      "end": 25.3625
+    },
+    {
+      "id": "w64",
+      "text": "whether",
+      "start": 25.375,
+      "end": 25.6625
+    },
+    {
+      "id": "w65",
+      "text": "these",
+      "start": 25.6625,
+      "end": 25.8625
+    },
+    {
+      "id": "w66",
+      "text": "people",
+      "start": 25.8625,
+      "end": 26.225
+    },
+    {
+      "id": "w67",
+      "text": "could",
+      "start": 26.2375,
+      "end": 26.375
+    },
+    {
+      "id": "w68",
+      "text": "make",
+      "start": 26.375,
+      "end": 26.6
+    },
+    {
+      "id": "w69",
+      "text": "something",
+      "start": 26.6,
+      "end": 26.9375
+    },
+    {
+      "id": "w70",
+      "text": "frightening.",
+      "start": 26.9375,
+      "end": 27.5375
+    },
+    {
+      "id": "w71",
+      "text": "You've",
+      "start": 27.9375,
+      "end": 28.0
+    },
+    {
+      "id": "w72",
+      "text": "just",
+      "start": 28.0,
+      "end": 28.1625
+    },
+    {
+      "id": "w73",
+      "text": "played",
+      "start": 28.1625,
+      "end": 28.375
+    },
+    {
+      "id": "w74",
+      "text": "the",
+      "start": 28.375,
+      "end": 28.4375
+    },
+    {
+      "id": "w75",
+      "text": "sales",
+      "start": 28.4375,
+      "end": 28.8375
+    },
+    {
+      "id": "w76",
+      "text": "pitch.",
+      "start": 28.8375,
+      "end": 29.3625
+    },
+    {
+      "id": "w77",
+      "text": "In",
+      "start": 29.75,
+      "end": 29.825
+    },
+    {
+      "id": "w78",
+      "text": "an",
+      "start": 29.825,
+      "end": 29.8875
+    },
+    {
+      "id": "w79",
+      "text": "official",
+      "start": 29.9,
+      "end": 30.4125
+    },
+    {
+      "id": "w80",
+      "text": "KONAMI",
+      "start": 30.425,
+      "end": 30.8625
+    },
+    {
+      "id": "w81",
+      "text": "message,",
+      "start": 30.8625,
+      "end": 31.5
+    },
+    {
+      "id": "w82",
+      "text": "del",
+      "start": 31.75,
+      "end": 31.9625
+    },
+    {
+      "id": "w83",
+      "text": "Toro",
+      "start": 31.9625,
+      "end": 32.2625
+    },
+    {
+      "id": "w84",
+      "text": "talks",
+      "start": 32.275,
+      "end": 32.6125
+    },
+    {
+      "id": "w85",
+      "text": "about",
+      "start": 32.6125,
+      "end": 32.875
+    },
+    {
+      "id": "w86",
+      "text": "working",
+      "start": 32.875,
+      "end": 33.175
+    },
+    {
+      "id": "w87",
+      "text": "with",
+      "start": 33.175,
+      "end": 33.275
+    },
+    {
+      "id": "w88",
+      "text": "Kojima",
+      "start": 33.275,
+      "end": 34.025
+    },
+    {
+      "id": "w89",
+      "text": "on",
+      "start": 34.025,
+      "end": 34.15
+    },
+    {
+      "id": "w90",
+      "text": "the",
+      "start": 34.15,
+      "end": 34.225
+    },
+    {
+      "id": "w91",
+      "text": "teaser",
+      "start": 34.225,
+      "end": 34.775
+    },
+    {
+      "id": "w92",
+      "text": "and",
+      "start": 35.1125,
+      "end": 35.1625
+    },
+    {
+      "id": "w93",
+      "text": "the",
+      "start": 35.1625,
+      "end": 35.2625
+    },
+    {
+      "id": "w94",
+      "text": "ideas",
+      "start": 35.2625,
+      "end": 35.8875
+    },
+    {
+      "id": "w95",
+      "text": "they",
+      "start": 35.9,
+      "end": 36.0125
+    },
+    {
+      "id": "w96",
+      "text": "were",
+      "start": 36.0125,
+      "end": 36.1125
+    },
+    {
+      "id": "w97",
+      "text": "exchanging.",
+      "start": 36.1125,
+      "end": 36.7125
+    },
+    {
+      "id": "w98",
+      "text": "That",
+      "start": 37.125,
+      "end": 37.225
+    },
+    {
+      "id": "w99",
+      "text": "made",
+      "start": 37.225,
+      "end": 37.475
+    },
+    {
+      "id": "w100",
+      "text": "the",
+      "start": 37.475,
+      "end": 37.5625
+    },
+    {
+      "id": "w101",
+      "text": "collaboration",
+      "start": 37.5625,
+      "end": 38.55
+    },
+    {
+      "id": "w102",
+      "text": "feel",
+      "start": 38.6625,
+      "end": 39.175
+    },
+    {
+      "id": "w103",
+      "text": "tangible,",
+      "start": 39.1875,
+      "end": 39.85
+    },
+    {
+      "id": "w104",
+      "text": "even",
+      "start": 40.3875,
+      "end": 40.6125
+    },
+    {
+      "id": "w105",
+      "text": "though",
+      "start": 40.6125,
+      "end": 40.75
+    },
+    {
+      "id": "w106",
+      "text": "the",
+      "start": 40.75,
+      "end": 40.8375
+    },
+    {
+      "id": "w107",
+      "text": "larger",
+      "start": 40.85,
+      "end": 41.325
+    },
+    {
+      "id": "w108",
+      "text": "game",
+      "start": 41.325,
+      "end": 41.75
+    },
+    {
+      "id": "w109",
+      "text": "remained",
+      "start": 41.875,
+      "end": 42.1875
+    },
+    {
+      "id": "w110",
+      "text": "a",
+      "start": 42.1875,
+      "end": 42.2125
+    },
+    {
+      "id": "w111",
+      "text": "promise.",
+      "start": 42.225,
+      "end": 42.8875
+    },
+    {
+      "id": "w112",
+      "text": "And",
+      "start": 43.3,
+      "end": 43.4
+    },
+    {
+      "id": "w113",
+      "text": "the",
+      "start": 43.4,
+      "end": 43.4625
+    },
+    {
+      "id": "w114",
+      "text": "ending",
+      "start": 43.475,
+      "end": 43.825
+    },
+    {
+      "id": "w115",
+      "text": "itself",
+      "start": 43.825,
+      "end": 44.3875
+    },
+    {
+      "id": "w116",
+      "text": "draws",
+      "start": 44.4,
+      "end": 44.7
+    },
+    {
+      "id": "w117",
+      "text": "a",
+      "start": 44.7,
+      "end": 44.75
+    },
+    {
+      "id": "w118",
+      "text": "boundary",
+      "start": 44.75,
+      "end": 45.3625
+    },
+    {
+      "id": "w119",
+      "text": "we",
+      "start": 45.475,
+      "end": 45.6625
+    },
+    {
+      "id": "w120",
+      "text": "need",
+      "start": 45.6625,
+      "end": 45.9
+    },
+    {
+      "id": "w121",
+      "text": "to",
+      "start": 45.9,
+      "end": 45.9625
+    },
+    {
+      "id": "w122",
+      "text": "keep:",
+      "start": 45.9625,
+      "end": 46.4
+    },
+    {
+      "id": "w123",
+      "text": "the",
+      "start": 46.875,
+      "end": 46.9625
+    },
+    {
+      "id": "w124",
+      "text": "playable",
+      "start": 46.975,
+      "end": 47.375
+    },
+    {
+      "id": "w125",
+      "text": "teaser",
+      "start": 47.375,
+      "end": 47.8625
+    },
+    {
+      "id": "w126",
+      "text": "says",
+      "start": 48.2,
+      "end": 48.4875
+    },
+    {
+      "id": "w127",
+      "text": "it",
+      "start": 48.55,
+      "end": 48.6
+    },
+    {
+      "id": "w128",
+      "text": "has",
+      "start": 48.6,
+      "end": 48.7875
+    },
+    {
+      "id": "w129",
+      "text": "no",
+      "start": 48.7875,
+      "end": 49.0625
+    },
+    {
+      "id": "w130",
+      "text": "direct",
+      "start": 49.0625,
+      "end": 49.5125
+    },
+    {
+      "id": "w131",
+      "text": "relation",
+      "start": 49.5125,
+      "end": 50.0
+    },
+    {
+      "id": "w132",
+      "text": "to",
+      "start": 50.0,
+      "end": 50.1
+    },
+    {
+      "id": "w133",
+      "text": "the",
+      "start": 50.1125,
+      "end": 50.1875
+    },
+    {
+      "id": "w134",
+      "text": "main",
+      "start": 50.1875,
+      "end": 50.5
+    },
+    {
+      "id": "w135",
+      "text": "title.",
+      "start": 50.5,
+      "end": 50.975
+    },
+    {
+      "id": "w136",
+      "text": "This",
+      "start": 51.3875,
+      "end": 51.525
+    },
+    {
+      "id": "w137",
+      "text": "corridor",
+      "start": 51.525,
+      "end": 52.1625
+    },
+    {
+      "id": "w138",
+      "text": "wasn't",
+      "start": 52.1625,
+      "end": 52.5875
+    },
+    {
+      "id": "w139",
+      "text": "proof",
+      "start": 52.6,
+      "end": 53.125
+    },
+    {
+      "id": "w140",
+      "text": "that",
+      "start": 53.2625,
+      "end": 53.375
+    },
+    {
+      "id": "w141",
+      "text": "a",
+      "start": 53.3875,
+      "end": 53.425
+    },
+    {
+      "id": "w142",
+      "text": "finished",
+      "start": 53.425,
+      "end": 53.925
+    },
+    {
+      "id": "w143",
+      "text": "Silent",
+      "start": 53.9375,
+      "end": 54.3375
+    },
+    {
+      "id": "w144",
+      "text": "Hills",
+      "start": 54.35,
+      "end": 54.85
+    },
+    {
+      "id": "w145",
+      "text": "existed",
+      "start": 54.9375,
+      "end": 55.5125
+    },
+    {
+      "id": "w146",
+      "text": "somewhere.",
+      "start": 55.5125,
+      "end": 56.1125
+    },
+    {
+      "id": "w147",
+      "text": "P.T.",
+      "start": 56.5125,
+      "end": 57.025
+    },
+    {
+      "id": "w148",
+      "text": "was",
+      "start": 57.1625,
+      "end": 57.3375
+    },
+    {
+      "id": "w149",
+      "text": "the",
+      "start": 57.3375,
+      "end": 57.4375
+    },
+    {
+      "id": "w150",
+      "text": "real",
+      "start": 57.4375,
+      "end": 57.8125
+    },
+    {
+      "id": "w151",
+      "text": "thing",
+      "start": 57.825,
+      "end": 58.1125
+    },
+    {
+      "id": "w152",
+      "text": "people",
+      "start": 58.1125,
+      "end": 58.425
+    },
+    {
+      "id": "w153",
+      "text": "had",
+      "start": 58.4375,
+      "end": 58.6125
+    },
+    {
+      "id": "w154",
+      "text": "played.",
+      "start": 58.6125,
+      "end": 59.0125
+    },
+    {
+      "id": "w155",
+      "text": "Silent",
+      "start": 59.4,
+      "end": 59.8
+    },
+    {
+      "id": "w156",
+      "text": "Hills",
+      "start": 59.8,
+      "end": 60.3375
+    },
+    {
+      "id": "w157",
+      "text": "was",
+      "start": 60.4625,
+      "end": 60.6375
+    },
+    {
+      "id": "w158",
+      "text": "the",
+      "start": 60.6375,
+      "end": 60.725
+    },
+    {
+      "id": "w159",
+      "text": "future",
+      "start": 60.725,
+      "end": 61.3875
+    },
+    {
+      "id": "w160",
+      "text": "they",
+      "start": 61.6375,
+      "end": 61.75
+    },
+    {
+      "id": "w161",
+      "text": "were",
+      "start": 61.75,
+      "end": 61.875
+    },
+    {
+      "id": "w162",
+      "text": "imagining",
+      "start": 61.875,
+      "end": 62.4625
+    },
+    {
+      "id": "w163",
+      "text": "from",
+      "start": 62.4625,
+      "end": 62.6875
+    },
+    {
+      "id": "w164",
+      "text": "it.",
+      "start": 62.6875,
+      "end": 62.85
+    }
+  ],
+  "gap_after": 0.0,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.42",
+      "input_tp": "-2.89",
+      "input_lra": "3.30",
+      "input_thresh": "-32.04",
+      "output_i": "-16.28",
+      "output_tp": "-1.50",
+      "output_lra": "2.90",
+      "output_thresh": "-26.89",
+      "normalization_type": "dynamic",
+      "target_offset": "0.28"
+    },
+    "output": {
+      "input_i": "-21.42",
+      "input_tp": "-2.89",
+      "input_lra": "3.30",
+      "input_thresh": "-32.04",
+      "output_i": "-16.05",
+      "output_tp": "-1.50",
+      "output_lra": "2.90",
+      "output_thresh": "-26.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    }
+  },
+  "fingerprint": "ef5f6612a4b8266cdb52270ea78699077d20f6e5a69440ba5b9219089be2d733"
+}

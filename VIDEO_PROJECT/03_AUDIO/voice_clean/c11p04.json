@@ -1,0 +1,305 @@
+{
+  "id": "c11p04",
+  "text": "And the camera investigation gives us a better reason to care than nostalgia alone. Preserving an interactive work keeps the possibility of discovering something new in it. Even when the advertising campaign is over. Even when the thing being advertised is never coming out.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c11p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c11p04.wav",
+  "duration": 18.912,
+  "words": [
+    {
+      "id": "w0",
+      "text": "And",
+      "start": 0.106375,
+      "end": 0.186166
+    },
+    {
+      "id": "w1",
+      "text": "the",
+      "start": 0.186166,
+      "end": 0.279249
+    },
+    {
+      "id": "w2",
+      "text": "camera",
+      "start": 0.27925,
+      "end": 0.678166
+    },
+    {
+      "id": "w3",
+      "text": "investigation",
+      "start": 0.6915,
+      "end": 1.622333
+    },
+    {
+      "id": "w4",
+      "text": "gives",
+      "start": 1.914875,
+      "end": 2.140958
+    },
+    {
+      "id": "w5",
+      "text": "us",
+      "start": 2.140958,
+      "end": 2.273916
+    },
+    {
+      "id": "w6",
+      "text": "a",
+      "start": 2.340416,
+      "end": 2.420207
+    },
+    {
+      "id": "w7",
+      "text": "better",
+      "start": 2.473416,
+      "end": 2.885666
+    },
+    {
+      "id": "w8",
+      "text": "reason",
+      "start": 2.898916,
+      "end": 3.417541
+    },
+    {
+      "id": "w9",
+      "text": "to",
+      "start": 3.630333,
+      "end": 3.749999
+    },
+    {
+      "id": "w10",
+      "text": "care",
+      "start": 3.763291,
+      "end": 4.122332
+    },
+    {
+      "id": "w11",
+      "text": "than",
+      "start": 4.122333,
+      "end": 4.255291
+    },
+    {
+      "id": "w12",
+      "text": "nostalgia",
+      "start": 4.268625,
+      "end": 5.013291
+    },
+    {
+      "id": "w13",
+      "text": "alone.",
+      "start": 5.026583,
+      "end": 5.531916
+    },
+    {
+      "id": "w14",
+      "text": "Preserving",
+      "start": 5.97075,
+      "end": 6.542541
+    },
+    {
+      "id": "w15",
+      "text": "an",
+      "start": 6.555833,
+      "end": 6.662208
+    },
+    {
+      "id": "w16",
+      "text": "interactive",
+      "start": 6.675541,
+      "end": 7.367041
+    },
+    {
+      "id": "w17",
+      "text": "work",
+      "start": 7.380333,
+      "end": 7.819166
+    },
+    {
+      "id": "w18",
+      "text": "keeps",
+      "start": 8.005333,
+      "end": 8.337791
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 8.351083,
+      "end": 8.470749
+    },
+    {
+      "id": "w20",
+      "text": "possibility",
+      "start": 8.47075,
+      "end": 9.508
+    },
+    {
+      "id": "w21",
+      "text": "of",
+      "start": 9.521291,
+      "end": 9.640957
+    },
+    {
+      "id": "w22",
+      "text": "discovering",
+      "start": 9.65425,
+      "end": 10.412208
+    },
+    {
+      "id": "w23",
+      "text": "something",
+      "start": 10.585125,
+      "end": 11.063833
+    },
+    {
+      "id": "w24",
+      "text": "new",
+      "start": 11.077125,
+      "end": 11.303208
+    },
+    {
+      "id": "w25",
+      "text": "in",
+      "start": 11.303208,
+      "end": 11.422874
+    },
+    {
+      "id": "w26",
+      "text": "it.",
+      "start": 11.422875,
+      "end": 11.622333
+    },
+    {
+      "id": "w27",
+      "text": "Even",
+      "start": 12.047875,
+      "end": 12.22075
+    },
+    {
+      "id": "w28",
+      "text": "when",
+      "start": 12.234041,
+      "end": 12.327124
+    },
+    {
+      "id": "w29",
+      "text": "the",
+      "start": 12.327125,
+      "end": 12.406916
+    },
+    {
+      "id": "w30",
+      "text": "advertising",
+      "start": 12.420208,
+      "end": 13.085083
+    },
+    {
+      "id": "w31",
+      "text": "campaign",
+      "start": 13.098416,
+      "end": 13.803207
+    },
+    {
+      "id": "w32",
+      "text": "is",
+      "start": 14.069166,
+      "end": 14.255332
+    },
+    {
+      "id": "w33",
+      "text": "over.",
+      "start": 14.268625,
+      "end": 14.773958
+    },
+    {
+      "id": "w34",
+      "text": "Even",
+      "start": 15.199458,
+      "end": 15.412208
+    },
+    {
+      "id": "w35",
+      "text": "when",
+      "start": 15.425541,
+      "end": 15.545207
+    },
+    {
+      "id": "w36",
+      "text": "the",
+      "start": 15.545208,
+      "end": 15.638291
+    },
+    {
+      "id": "w37",
+      "text": "thing",
+      "start": 15.638291,
+      "end": 15.984041
+    },
+    {
+      "id": "w38",
+      "text": "being",
+      "start": 15.984041,
+      "end": 16.263291
+    },
+    {
+      "id": "w39",
+      "text": "advertised",
+      "start": 16.276583,
+      "end": 17.154249
+    },
+    {
+      "id": "w40",
+      "text": "is",
+      "start": 17.273916,
+      "end": 17.420207
+    },
+    {
+      "id": "w41",
+      "text": "never",
+      "start": 17.4335,
+      "end": 17.898916
+    },
+    {
+      "id": "w42",
+      "text": "coming",
+      "start": 17.91225,
+      "end": 18.1915
+    },
+    {
+      "id": "w43",
+      "text": "out.",
+      "start": 18.204791,
+      "end": 18.523957
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.32",
+      "input_tp": "-3.83",
+      "input_lra": "4.40",
+      "input_thresh": "-32.02",
+      "output_i": "-16.63",
+      "output_tp": "-1.50",
+      "output_lra": "2.00",
+      "output_thresh": "-27.21",
+      "normalization_type": "dynamic",
+      "target_offset": "0.63"
+    },
+    "output": {
+      "input_i": "-21.32",
+      "input_tp": "-3.83",
+      "input_lra": "4.40",
+      "input_thresh": "-32.02",
+      "output_i": "-16.12",
+      "output_tp": "-1.50",
+      "output_lra": "2.10",
+      "output_thresh": "-26.68",
+      "normalization_type": "dynamic",
+      "target_offset": "0.12"
+    }
+  },
+  "fingerprint": "3f23a560b0bcc35eb8d4c86408b24e4ffc7a7394447b72083b9d2a9d8eefa3b1"
+}

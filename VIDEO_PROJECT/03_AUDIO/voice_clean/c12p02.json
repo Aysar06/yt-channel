@@ -1,0 +1,317 @@
+{
+  "id": "c12p02",
+  "text": "That is why the deletion story sticks. Not because every copy was erased. Because a game could still exist and still be out of reach. Its survival depended, in part, on people keeping an old installation instead of trusting that another download would always be waiting.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c12p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c12p02.wav",
+  "duration": 17.976,
+  "words": [
+    {
+      "id": "w0",
+      "text": "That",
+      "start": 0.108708,
+      "end": 0.244583
+    },
+    {
+      "id": "w1",
+      "text": "is",
+      "start": 0.244583,
+      "end": 0.353291
+    },
+    {
+      "id": "w2",
+      "text": "why",
+      "start": 0.366833,
+      "end": 0.611416
+    },
+    {
+      "id": "w3",
+      "text": "the",
+      "start": 0.625,
+      "end": 0.692916
+    },
+    {
+      "id": "w4",
+      "text": "deletion",
+      "start": 0.692916,
+      "end": 1.236374
+    },
+    {
+      "id": "w5",
+      "text": "story",
+      "start": 1.25,
+      "end": 1.589666
+    },
+    {
+      "id": "w6",
+      "text": "sticks.",
+      "start": 1.589666,
+      "end": 2.228249
+    },
+    {
+      "id": "w7",
+      "text": "Not",
+      "start": 2.649458,
+      "end": 2.839666
+    },
+    {
+      "id": "w8",
+      "text": "because",
+      "start": 2.839666,
+      "end": 3.315207
+    },
+    {
+      "id": "w9",
+      "text": "every",
+      "start": 3.328791,
+      "end": 3.614124
+    },
+    {
+      "id": "w10",
+      "text": "copy",
+      "start": 3.614125,
+      "end": 4.048916
+    },
+    {
+      "id": "w11",
+      "text": "was",
+      "start": 4.0625,
+      "end": 4.211958
+    },
+    {
+      "id": "w12",
+      "text": "erased.",
+      "start": 4.225541,
+      "end": 4.877707
+    },
+    {
+      "id": "w13",
+      "text": "Because",
+      "start": 5.326083,
+      "end": 5.584249
+    },
+    {
+      "id": "w14",
+      "text": "a",
+      "start": 5.58425,
+      "end": 5.66575
+    },
+    {
+      "id": "w15",
+      "text": "game",
+      "start": 5.66575,
+      "end": 6.032583
+    },
+    {
+      "id": "w16",
+      "text": "could",
+      "start": 6.032625,
+      "end": 6.222833
+    },
+    {
+      "id": "w17",
+      "text": "still",
+      "start": 6.236416,
+      "end": 6.548916
+    },
+    {
+      "id": "w18",
+      "text": "exist",
+      "start": 6.5625,
+      "end": 7.214666
+    },
+    {
+      "id": "w19",
+      "text": "and",
+      "start": 7.635875,
+      "end": 7.731
+    },
+    {
+      "id": "w20",
+      "text": "still",
+      "start": 7.744583,
+      "end": 8.002749
+    },
+    {
+      "id": "w21",
+      "text": "be",
+      "start": 8.016291,
+      "end": 8.165749
+    },
+    {
+      "id": "w22",
+      "text": "out",
+      "start": 8.16575,
+      "end": 8.260875
+    },
+    {
+      "id": "w23",
+      "text": "of",
+      "start": 8.260875,
+      "end": 8.355958
+    },
+    {
+      "id": "w24",
+      "text": "reach.",
+      "start": 8.355958,
+      "end": 8.885833
+    },
+    {
+      "id": "w25",
+      "text": "Its",
+      "start": 9.307083,
+      "end": 9.415749
+    },
+    {
+      "id": "w26",
+      "text": "survival",
+      "start": 9.41575,
+      "end": 10.04075
+    },
+    {
+      "id": "w27",
+      "text": "depended,",
+      "start": 10.054333,
+      "end": 10.665749
+    },
+    {
+      "id": "w28",
+      "text": "in",
+      "start": 11.073375,
+      "end": 11.222833
+    },
+    {
+      "id": "w29",
+      "text": "part,",
+      "start": 11.222833,
+      "end": 11.766291
+    },
+    {
+      "id": "w30",
+      "text": "on",
+      "start": 12.065208,
+      "end": 12.228249
+    },
+    {
+      "id": "w31",
+      "text": "people",
+      "start": 12.22825,
+      "end": 12.5815
+    },
+    {
+      "id": "w32",
+      "text": "keeping",
+      "start": 12.595125,
+      "end": 12.948375
+    },
+    {
+      "id": "w33",
+      "text": "an",
+      "start": 12.948375,
+      "end": 13.070666
+    },
+    {
+      "id": "w34",
+      "text": "old",
+      "start": 13.08425,
+      "end": 13.39675
+    },
+    {
+      "id": "w35",
+      "text": "installation",
+      "start": 13.39675,
+      "end": 14.103291
+    },
+    {
+      "id": "w36",
+      "text": "instead",
+      "start": 14.171208,
+      "end": 14.565249
+    },
+    {
+      "id": "w37",
+      "text": "of",
+      "start": 14.578791,
+      "end": 14.660332
+    },
+    {
+      "id": "w38",
+      "text": "trusting",
+      "start": 14.673916,
+      "end": 15.217374
+    },
+    {
+      "id": "w39",
+      "text": "that",
+      "start": 15.217375,
+      "end": 15.326083
+    },
+    {
+      "id": "w40",
+      "text": "another",
+      "start": 15.339666,
+      "end": 15.788041
+    },
+    {
+      "id": "w41",
+      "text": "download",
+      "start": 15.801625,
+      "end": 16.399458
+    },
+    {
+      "id": "w42",
+      "text": "would",
+      "start": 16.399458,
+      "end": 16.548916
+    },
+    {
+      "id": "w43",
+      "text": "always",
+      "start": 16.548916,
+      "end": 16.970124
+    },
+    {
+      "id": "w44",
+      "text": "be",
+      "start": 16.970125,
+      "end": 17.119583
+    },
+    {
+      "id": "w45",
+      "text": "waiting.",
+      "start": 17.133166,
+      "end": 17.581541
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-22.13",
+      "input_tp": "-3.16",
+      "input_lra": "2.50",
+      "input_thresh": "-32.63",
+      "output_i": "-16.97",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-27.43",
+      "normalization_type": "dynamic",
+      "target_offset": "0.97"
+    },
+    "output": {
+      "input_i": "-22.13",
+      "input_tp": "-3.16",
+      "input_lra": "2.50",
+      "input_thresh": "-32.63",
+      "output_i": "-16.29",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-26.72",
+      "normalization_type": "dynamic",
+      "target_offset": "0.29"
+    }
+  },
+  "fingerprint": "557b2963d2bf2ed5b17e5d9f23be41aabf980f3b5b29990d2b09cc23ba070d5a"
+}

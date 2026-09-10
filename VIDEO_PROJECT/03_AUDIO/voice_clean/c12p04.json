@@ -1,0 +1,293 @@
+{
+  "id": "c12p04",
+  "text": "So here's the question I'd leave in that hallway: if you could preserve only one thing, would you keep the original playable experience, or accept a perfect recording of everything we currently know is in it? After Lisa, I'm keeping the controller.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c12p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c12p04.wav",
+  "duration": 16.368,
+  "words": [
+    {
+      "id": "w0",
+      "text": "So",
+      "start": 0.095125,
+      "end": 0.258166
+    },
+    {
+      "id": "w1",
+      "text": "here's",
+      "start": 0.258166,
+      "end": 0.489124
+    },
+    {
+      "id": "w2",
+      "text": "the",
+      "start": 0.502708,
+      "end": 0.597833
+    },
+    {
+      "id": "w3",
+      "text": "question",
+      "start": 0.611416,
+      "end": 1.032624
+    },
+    {
+      "id": "w4",
+      "text": "I'd",
+      "start": 1.032625,
+      "end": 1.236416
+    },
+    {
+      "id": "w5",
+      "text": "leave",
+      "start": 1.25,
+      "end": 1.616833
+    },
+    {
+      "id": "w6",
+      "text": "in",
+      "start": 1.630416,
+      "end": 1.711957
+    },
+    {
+      "id": "w7",
+      "text": "that",
+      "start": 1.711958,
+      "end": 1.888583
+    },
+    {
+      "id": "w8",
+      "text": "hallway:",
+      "start": 1.888583,
+      "end": 2.418458
+    },
+    {
+      "id": "w9",
+      "text": "if",
+      "start": 3.152166,
+      "end": 3.274457
+    },
+    {
+      "id": "w10",
+      "text": "you",
+      "start": 3.288041,
+      "end": 3.369582
+    },
+    {
+      "id": "w11",
+      "text": "could",
+      "start": 3.369583,
+      "end": 3.478249
+    },
+    {
+      "id": "w12",
+      "text": "preserve",
+      "start": 3.47825,
+      "end": 3.913041
+    },
+    {
+      "id": "w13",
+      "text": "only",
+      "start": 3.926625,
+      "end": 4.279875
+    },
+    {
+      "id": "w14",
+      "text": "one",
+      "start": 4.279875,
+      "end": 4.592375
+    },
+    {
+      "id": "w15",
+      "text": "thing,",
+      "start": 4.605958,
+      "end": 5.122249
+    },
+    {
+      "id": "w16",
+      "text": "would",
+      "start": 5.570666,
+      "end": 5.692916
+    },
+    {
+      "id": "w17",
+      "text": "you",
+      "start": 5.692916,
+      "end": 5.801624
+    },
+    {
+      "id": "w18",
+      "text": "keep",
+      "start": 5.801625,
+      "end": 6.046208
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 6.059791,
+      "end": 6.182082
+    },
+    {
+      "id": "w20",
+      "text": "original",
+      "start": 6.182083,
+      "end": 6.725541
+    },
+    {
+      "id": "w21",
+      "text": "playable",
+      "start": 6.739125,
+      "end": 7.241833
+    },
+    {
+      "id": "w22",
+      "text": "experience,",
+      "start": 7.241833,
+      "end": 8.084208
+    },
+    {
+      "id": "w23",
+      "text": "or",
+      "start": 8.519041,
+      "end": 8.709249
+    },
+    {
+      "id": "w24",
+      "text": "accept",
+      "start": 8.845125,
+      "end": 9.184791
+    },
+    {
+      "id": "w25",
+      "text": "a",
+      "start": 9.184791,
+      "end": 9.252707
+    },
+    {
+      "id": "w26",
+      "text": "perfect",
+      "start": 9.252708,
+      "end": 9.782583
+    },
+    {
+      "id": "w27",
+      "text": "recording",
+      "start": 9.796208,
+      "end": 10.366874
+    },
+    {
+      "id": "w28",
+      "text": "of",
+      "start": 10.557083,
+      "end": 10.665791
+    },
+    {
+      "id": "w29",
+      "text": "everything",
+      "start": 10.815208,
+      "end": 11.372291
+    },
+    {
+      "id": "w30",
+      "text": "we",
+      "start": 11.385875,
+      "end": 11.52175
+    },
+    {
+      "id": "w31",
+      "text": "currently",
+      "start": 11.535333,
+      "end": 11.983708
+    },
+    {
+      "id": "w32",
+      "text": "know",
+      "start": 11.983708,
+      "end": 12.404916
+    },
+    {
+      "id": "w33",
+      "text": "is",
+      "start": 12.595125,
+      "end": 12.744583
+    },
+    {
+      "id": "w34",
+      "text": "in",
+      "start": 12.744583,
+      "end": 12.853249
+    },
+    {
+      "id": "w35",
+      "text": "it?",
+      "start": 12.85325,
+      "end": 13.084208
+    },
+    {
+      "id": "w36",
+      "text": "After",
+      "start": 13.519041,
+      "end": 13.777166
+    },
+    {
+      "id": "w37",
+      "text": "Lisa,",
+      "start": 13.777166,
+      "end": 14.320624
+    },
+    {
+      "id": "w38",
+      "text": "I'm",
+      "start": 14.741833,
+      "end": 14.945624
+    },
+    {
+      "id": "w39",
+      "text": "keeping",
+      "start": 14.95925,
+      "end": 15.27175
+    },
+    {
+      "id": "w40",
+      "text": "the",
+      "start": 15.27175,
+      "end": 15.339666
+    },
+    {
+      "id": "w41",
+      "text": "controller.",
+      "start": 15.339666,
+      "end": 15.964666
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.57",
+      "input_tp": "-3.71",
+      "input_lra": "1.90",
+      "input_thresh": "-32.17",
+      "output_i": "-16.50",
+      "output_tp": "-1.50",
+      "output_lra": "1.80",
+      "output_thresh": "-27.12",
+      "normalization_type": "dynamic",
+      "target_offset": "0.50"
+    },
+    "output": {
+      "input_i": "-21.57",
+      "input_tp": "-3.71",
+      "input_lra": "1.90",
+      "input_thresh": "-32.17",
+      "output_i": "-16.09",
+      "output_tp": "-1.50",
+      "output_lra": "2.00",
+      "output_thresh": "-26.70",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    }
+  },
+  "fingerprint": "00c7208223e0da6650bc1a17202d6fadbadc838ff76a160b0eff3ca7a03c09b2"
+}

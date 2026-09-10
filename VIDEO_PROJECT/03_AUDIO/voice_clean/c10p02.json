@@ -1,0 +1,179 @@
+{
+  "id": "c10p02",
+  "text": "Sony told Polygon that blocking it was a publisher decision. Buying a newer console hadn't opened a permanent way back into the hallway.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c10p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c10p02.wav",
+  "duration": 8.952,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Sony",
+      "start": 0.118416,
+      "end": 0.447374
+    },
+    {
+      "id": "w1",
+      "text": "told",
+      "start": 0.447375,
+      "end": 0.697375
+    },
+    {
+      "id": "w2",
+      "text": "Polygon",
+      "start": 0.697375,
+      "end": 1.368416
+    },
+    {
+      "id": "w3",
+      "text": "that",
+      "start": 1.552625,
+      "end": 1.763166
+    },
+    {
+      "id": "w4",
+      "text": "blocking",
+      "start": 1.763166,
+      "end": 2.342124
+    },
+    {
+      "id": "w5",
+      "text": "it",
+      "start": 2.35525,
+      "end": 2.4605
+    },
+    {
+      "id": "w6",
+      "text": "was",
+      "start": 2.60525,
+      "end": 2.763125
+    },
+    {
+      "id": "w7",
+      "text": "a",
+      "start": 2.763166,
+      "end": 2.815791
+    },
+    {
+      "id": "w8",
+      "text": "publisher",
+      "start": 2.828958,
+      "end": 3.289499
+    },
+    {
+      "id": "w9",
+      "text": "decision.",
+      "start": 3.302625,
+      "end": 3.828958
+    },
+    {
+      "id": "w10",
+      "text": "Buying",
+      "start": 4.263166,
+      "end": 4.578957
+    },
+    {
+      "id": "w11",
+      "text": "a",
+      "start": 4.578958,
+      "end": 4.618416
+    },
+    {
+      "id": "w12",
+      "text": "newer",
+      "start": 4.618416,
+      "end": 5.078957
+    },
+    {
+      "id": "w13",
+      "text": "console",
+      "start": 5.078958,
+      "end": 5.684208
+    },
+    {
+      "id": "w14",
+      "text": "hadn't",
+      "start": 5.697375,
+      "end": 6.118416
+    },
+    {
+      "id": "w15",
+      "text": "opened",
+      "start": 6.131583,
+      "end": 6.460541
+    },
+    {
+      "id": "w16",
+      "text": "a",
+      "start": 6.473666,
+      "end": 6.539457
+    },
+    {
+      "id": "w17",
+      "text": "permanent",
+      "start": 6.539458,
+      "end": 7.039458
+    },
+    {
+      "id": "w18",
+      "text": "way",
+      "start": 7.052625,
+      "end": 7.302625
+    },
+    {
+      "id": "w19",
+      "text": "back",
+      "start": 7.315791,
+      "end": 7.802624
+    },
+    {
+      "id": "w20",
+      "text": "into",
+      "start": 7.802625,
+      "end": 7.934208
+    },
+    {
+      "id": "w21",
+      "text": "the",
+      "start": 7.934208,
+      "end": 7.999999
+    },
+    {
+      "id": "w22",
+      "text": "hallway.",
+      "start": 8.0,
+      "end": 8.578958
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.57",
+      "input_tp": "-3.57",
+      "input_lra": "4.90",
+      "input_thresh": "-32.00",
+      "output_i": "-16.57",
+      "output_tp": "-1.50",
+      "output_lra": "1.50",
+      "output_thresh": "-26.93",
+      "normalization_type": "dynamic",
+      "target_offset": "0.57"
+    },
+    "output": {
+      "input_i": "-21.57",
+      "input_tp": "-3.57",
+      "input_lra": "4.90",
+      "input_thresh": "-32.00",
+      "output_i": "-16.09",
+      "output_tp": "-1.50",
+      "output_lra": "1.70",
+      "output_thresh": "-26.46",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    }
+  },
+  "fingerprint": "3d9a77daa8159e13dfc926538b72796ff3299d72a88bd4eb8d2d4648102d8e42"
+}

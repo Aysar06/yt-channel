@@ -1,0 +1,341 @@
+{
+  "id": "c09p03",
+  "text": "The distinction doesn't make it less creepy. You're looking at a system designed around your limited viewpoint. Some of the unsettling shadows and sounds now have a visible explanation. The feeling that something is nearby has an actual piece of game machinery behind it. Literally behind it, in this case.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c09p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c09p03.wav",
+  "duration": 21.456,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.106375,
+      "end": 0.159583
+    },
+    {
+      "id": "w1",
+      "text": "distinction",
+      "start": 0.159583,
+      "end": 0.837791
+    },
+    {
+      "id": "w2",
+      "text": "doesn't",
+      "start": 0.930833,
+      "end": 1.249999
+    },
+    {
+      "id": "w3",
+      "text": "make",
+      "start": 1.25,
+      "end": 1.489375
+    },
+    {
+      "id": "w4",
+      "text": "it",
+      "start": 1.489375,
+      "end": 1.59575
+    },
+    {
+      "id": "w5",
+      "text": "less",
+      "start": 1.59575,
+      "end": 1.888291
+    },
+    {
+      "id": "w6",
+      "text": "creepy.",
+      "start": 1.888291,
+      "end": 2.539874
+    },
+    {
+      "id": "w7",
+      "text": "You're",
+      "start": 2.952125,
+      "end": 3.0585
+    },
+    {
+      "id": "w8",
+      "text": "looking",
+      "start": 3.0585,
+      "end": 3.33775
+    },
+    {
+      "id": "w9",
+      "text": "at",
+      "start": 3.33775,
+      "end": 3.390958
+    },
+    {
+      "id": "w10",
+      "text": "a",
+      "start": 3.390958,
+      "end": 3.430833
+    },
+    {
+      "id": "w11",
+      "text": "system",
+      "start": 3.430833,
+      "end": 4.069124
+    },
+    {
+      "id": "w12",
+      "text": "designed",
+      "start": 4.202125,
+      "end": 4.853708
+    },
+    {
+      "id": "w13",
+      "text": "around",
+      "start": 5.079791,
+      "end": 5.624999
+    },
+    {
+      "id": "w14",
+      "text": "your",
+      "start": 5.638291,
+      "end": 5.771249
+    },
+    {
+      "id": "w15",
+      "text": "limited",
+      "start": 5.784583,
+      "end": 6.196791
+    },
+    {
+      "id": "w16",
+      "text": "viewpoint.",
+      "start": 6.196791,
+      "end": 6.781916
+    },
+    {
+      "id": "w17",
+      "text": "Some",
+      "start": 7.15425,
+      "end": 7.353708
+    },
+    {
+      "id": "w18",
+      "text": "of",
+      "start": 7.353708,
+      "end": 7.433499
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 7.4335,
+      "end": 7.566458
+    },
+    {
+      "id": "w20",
+      "text": "unsettling",
+      "start": 7.579791,
+      "end": 8.457457
+    },
+    {
+      "id": "w21",
+      "text": "shadows",
+      "start": 8.47075,
+      "end": 9.255333
+    },
+    {
+      "id": "w22",
+      "text": "and",
+      "start": 9.388291,
+      "end": 9.587749
+    },
+    {
+      "id": "w23",
+      "text": "sounds",
+      "start": 9.58775,
+      "end": 10.172875
+    },
+    {
+      "id": "w24",
+      "text": "now",
+      "start": 10.305833,
+      "end": 10.691458
+    },
+    {
+      "id": "w25",
+      "text": "have",
+      "start": 10.704791,
+      "end": 10.930832
+    },
+    {
+      "id": "w26",
+      "text": "a",
+      "start": 10.930833,
+      "end": 10.997333
+    },
+    {
+      "id": "w27",
+      "text": "visible",
+      "start": 10.997333,
+      "end": 11.688833
+    },
+    {
+      "id": "w28",
+      "text": "explanation.",
+      "start": 11.755333,
+      "end": 12.499999
+    },
+    {
+      "id": "w29",
+      "text": "The",
+      "start": 12.925541,
+      "end": 13.018624
+    },
+    {
+      "id": "w30",
+      "text": "feeling",
+      "start": 13.031916,
+      "end": 13.523916
+    },
+    {
+      "id": "w31",
+      "text": "that",
+      "start": 13.523916,
+      "end": 13.630291
+    },
+    {
+      "id": "w32",
+      "text": "something",
+      "start": 13.630333,
+      "end": 14.175541
+    },
+    {
+      "id": "w33",
+      "text": "is",
+      "start": 14.188833,
+      "end": 14.388291
+    },
+    {
+      "id": "w34",
+      "text": "nearby",
+      "start": 14.388291,
+      "end": 15.239374
+    },
+    {
+      "id": "w35",
+      "text": "has",
+      "start": 15.611708,
+      "end": 15.811166
+    },
+    {
+      "id": "w36",
+      "text": "an",
+      "start": 15.811166,
+      "end": 15.944124
+    },
+    {
+      "id": "w37",
+      "text": "actual",
+      "start": 15.957458,
+      "end": 16.422874
+    },
+    {
+      "id": "w38",
+      "text": "piece",
+      "start": 16.422875,
+      "end": 16.835125
+    },
+    {
+      "id": "w39",
+      "text": "of",
+      "start": 16.835125,
+      "end": 16.968083
+    },
+    {
+      "id": "w40",
+      "text": "game",
+      "start": 16.981375,
+      "end": 17.247333
+    },
+    {
+      "id": "w41",
+      "text": "machinery",
+      "start": 17.247333,
+      "end": 17.859041
+    },
+    {
+      "id": "w42",
+      "text": "behind",
+      "start": 17.872333,
+      "end": 18.324458
+    },
+    {
+      "id": "w43",
+      "text": "it.",
+      "start": 18.324458,
+      "end": 18.510624
+    },
+    {
+      "id": "w44",
+      "text": "Literally",
+      "start": 18.936166,
+      "end": 19.335082
+    },
+    {
+      "id": "w45",
+      "text": "behind",
+      "start": 19.348416,
+      "end": 19.800541
+    },
+    {
+      "id": "w46",
+      "text": "it,",
+      "start": 19.813833,
+      "end": 19.960124
+    },
+    {
+      "id": "w47",
+      "text": "in",
+      "start": 20.172875,
+      "end": 20.27925
+    },
+    {
+      "id": "w48",
+      "text": "this",
+      "start": 20.27925,
+      "end": 20.452125
+    },
+    {
+      "id": "w49",
+      "text": "case.",
+      "start": 20.465416,
+      "end": 21.063832
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.23",
+      "input_tp": "-3.99",
+      "input_lra": "3.30",
+      "input_thresh": "-31.73",
+      "output_i": "-16.56",
+      "output_tp": "-1.50",
+      "output_lra": "3.10",
+      "output_thresh": "-27.07",
+      "normalization_type": "dynamic",
+      "target_offset": "0.56"
+    },
+    "output": {
+      "input_i": "-21.23",
+      "input_tp": "-3.99",
+      "input_lra": "3.30",
+      "input_thresh": "-31.73",
+      "output_i": "-16.06",
+      "output_tp": "-1.50",
+      "output_lra": "3.00",
+      "output_thresh": "-26.57",
+      "normalization_type": "dynamic",
+      "target_offset": "0.06"
+    }
+  },
+  "fingerprint": "a3f1fae4b13148c3bae904fdefda4d28660c080c971b68f93793f221634634bf"
+}

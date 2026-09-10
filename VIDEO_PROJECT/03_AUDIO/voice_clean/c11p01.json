@@ -1,0 +1,305 @@
+{
+  "id": "c11p01",
+  "text": "By now, there are really two P.T. stories. One is the thing people played: a finite set of rooms, tricks, sounds, and puzzles. The other is the future people built around it. Silent Hills, imagined from a few names and a very effective nightmare.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c11p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c11p01.wav",
+  "duration": 19.2,
+  "words": [
+    {
+      "id": "w0",
+      "text": "By",
+      "start": 0.119666,
+      "end": 0.239332
+    },
+    {
+      "id": "w1",
+      "text": "now,",
+      "start": 0.239375,
+      "end": 0.625
+    },
+    {
+      "id": "w2",
+      "text": "there",
+      "start": 1.050541,
+      "end": 1.196791
+    },
+    {
+      "id": "w3",
+      "text": "are",
+      "start": 1.196791,
+      "end": 1.449457
+    },
+    {
+      "id": "w4",
+      "text": "really",
+      "start": 1.449458,
+      "end": 1.835083
+    },
+    {
+      "id": "w5",
+      "text": "two",
+      "start": 1.9415,
+      "end": 2.327125
+    },
+    {
+      "id": "w6",
+      "text": "P.T.",
+      "start": 2.327125,
+      "end": 2.805833
+    },
+    {
+      "id": "w7",
+      "text": "stories.",
+      "start": 2.819166,
+      "end": 3.550541
+    },
+    {
+      "id": "w8",
+      "text": "One",
+      "start": 3.989375,
+      "end": 4.135625
+    },
+    {
+      "id": "w9",
+      "text": "is",
+      "start": 4.135625,
+      "end": 4.242
+    },
+    {
+      "id": "w10",
+      "text": "the",
+      "start": 4.242041,
+      "end": 4.321791
+    },
+    {
+      "id": "w11",
+      "text": "thing",
+      "start": 4.321791,
+      "end": 4.680832
+    },
+    {
+      "id": "w12",
+      "text": "people",
+      "start": 4.694166,
+      "end": 5.026624
+    },
+    {
+      "id": "w13",
+      "text": "played:",
+      "start": 5.039875,
+      "end": 5.531916
+    },
+    {
+      "id": "w14",
+      "text": "a",
+      "start": 6.010625,
+      "end": 6.0505
+    },
+    {
+      "id": "w15",
+      "text": "finite",
+      "start": 6.050541,
+      "end": 6.582457
+    },
+    {
+      "id": "w16",
+      "text": "set",
+      "start": 6.582458,
+      "end": 6.808499
+    },
+    {
+      "id": "w17",
+      "text": "of",
+      "start": 6.8085,
+      "end": 6.941458
+    },
+    {
+      "id": "w18",
+      "text": "rooms,",
+      "start": 6.954791,
+      "end": 7.579791
+    },
+    {
+      "id": "w19",
+      "text": "tricks,",
+      "start": 7.672875,
+      "end": 8.271291
+    },
+    {
+      "id": "w20",
+      "text": "sounds,",
+      "start": 8.510625,
+      "end": 9.122333
+    },
+    {
+      "id": "w21",
+      "text": "and",
+      "start": 9.135625,
+      "end": 9.215416
+    },
+    {
+      "id": "w22",
+      "text": "puzzles.",
+      "start": 9.215416,
+      "end": 9.920207
+    },
+    {
+      "id": "w23",
+      "text": "The",
+      "start": 10.34575,
+      "end": 10.465416
+    },
+    {
+      "id": "w24",
+      "text": "other",
+      "start": 10.478708,
+      "end": 10.930833
+    },
+    {
+      "id": "w25",
+      "text": "is",
+      "start": 11.210125,
+      "end": 11.396291
+    },
+    {
+      "id": "w26",
+      "text": "the",
+      "start": 11.409583,
+      "end": 11.515958
+    },
+    {
+      "id": "w27",
+      "text": "future",
+      "start": 11.515958,
+      "end": 11.981374
+    },
+    {
+      "id": "w28",
+      "text": "people",
+      "start": 11.981375,
+      "end": 12.380291
+    },
+    {
+      "id": "w29",
+      "text": "built",
+      "start": 12.393625,
+      "end": 12.646291
+    },
+    {
+      "id": "w30",
+      "text": "around",
+      "start": 12.659583,
+      "end": 13.031916
+    },
+    {
+      "id": "w31",
+      "text": "it.",
+      "start": 13.045208,
+      "end": 13.218083
+    },
+    {
+      "id": "w32",
+      "text": "Silent",
+      "start": 13.656916,
+      "end": 14.082457
+    },
+    {
+      "id": "w33",
+      "text": "Hills,",
+      "start": 14.082458,
+      "end": 14.667583
+    },
+    {
+      "id": "w34",
+      "text": "imagined",
+      "start": 15.039875,
+      "end": 15.5585
+    },
+    {
+      "id": "w35",
+      "text": "from",
+      "start": 15.5585,
+      "end": 15.664875
+    },
+    {
+      "id": "w36",
+      "text": "a",
+      "start": 15.664875,
+      "end": 15.70475
+    },
+    {
+      "id": "w37",
+      "text": "few",
+      "start": 15.704791,
+      "end": 16.037249
+    },
+    {
+      "id": "w38",
+      "text": "names",
+      "start": 16.03725,
+      "end": 16.59575
+    },
+    {
+      "id": "w39",
+      "text": "and",
+      "start": 16.781916,
+      "end": 16.928207
+    },
+    {
+      "id": "w40",
+      "text": "a",
+      "start": 16.928208,
+      "end": 16.981374
+    },
+    {
+      "id": "w41",
+      "text": "very",
+      "start": 16.981375,
+      "end": 17.5
+    },
+    {
+      "id": "w42",
+      "text": "effective",
+      "start": 17.5665,
+      "end": 18.111708
+    },
+    {
+      "id": "w43",
+      "text": "nightmare.",
+      "start": 18.125,
+      "end": 18.8165
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-22.15",
+      "input_tp": "-4.97",
+      "input_lra": "3.40",
+      "input_thresh": "-32.79",
+      "output_i": "-16.58",
+      "output_tp": "-1.50",
+      "output_lra": "3.00",
+      "output_thresh": "-27.16",
+      "normalization_type": "dynamic",
+      "target_offset": "0.58"
+    },
+    "output": {
+      "input_i": "-22.15",
+      "input_tp": "-4.97",
+      "input_lra": "3.40",
+      "input_thresh": "-32.79",
+      "output_i": "-16.16",
+      "output_tp": "-1.50",
+      "output_lra": "3.10",
+      "output_thresh": "-26.74",
+      "normalization_type": "dynamic",
+      "target_offset": "0.16"
+    }
+  },
+  "fingerprint": "690639c77aeedf9294f14598a22e6149ba72a5e72666979e044c08ac5f0bd2ad"
+}

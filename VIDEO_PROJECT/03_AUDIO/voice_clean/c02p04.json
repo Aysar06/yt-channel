@@ -1,0 +1,251 @@
+{
+  "id": "c02p04",
+  "text": "P.T. doesn't need to show you a giant monster immediately. It makes you suspicious of the furniture. Very economical. Extremely unpleasant. And the more familiar the room becomes, the less comfortable you are in it.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c02p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c02p04.wav",
+  "duration": 15.144,
+  "words": [
+    {
+      "id": "w0",
+      "text": "P.T.",
+      "start": 0.104166,
+      "end": 0.703124
+    },
+    {
+      "id": "w1",
+      "text": "doesn't",
+      "start": 0.859375,
+      "end": 1.184916
+    },
+    {
+      "id": "w2",
+      "text": "need",
+      "start": 1.184916,
+      "end": 1.354207
+    },
+    {
+      "id": "w3",
+      "text": "to",
+      "start": 1.367208,
+      "end": 1.406291
+    },
+    {
+      "id": "w4",
+      "text": "show",
+      "start": 1.419291,
+      "end": 1.640624
+    },
+    {
+      "id": "w5",
+      "text": "you",
+      "start": 1.640625,
+      "end": 1.822916
+    },
+    {
+      "id": "w6",
+      "text": "a",
+      "start": 1.927083,
+      "end": 2.031249
+    },
+    {
+      "id": "w7",
+      "text": "giant",
+      "start": 2.148458,
+      "end": 2.578124
+    },
+    {
+      "id": "w8",
+      "text": "monster",
+      "start": 2.578125,
+      "end": 3.112
+    },
+    {
+      "id": "w9",
+      "text": "immediately.",
+      "start": 3.112,
+      "end": 3.867208
+    },
+    {
+      "id": "w10",
+      "text": "It",
+      "start": 4.283875,
+      "end": 4.349
+    },
+    {
+      "id": "w11",
+      "text": "makes",
+      "start": 4.362,
+      "end": 4.596375
+    },
+    {
+      "id": "w12",
+      "text": "you",
+      "start": 4.609375,
+      "end": 4.778666
+    },
+    {
+      "id": "w13",
+      "text": "suspicious",
+      "start": 4.778666,
+      "end": 5.742207
+    },
+    {
+      "id": "w14",
+      "text": "of",
+      "start": 5.755208,
+      "end": 5.833333
+    },
+    {
+      "id": "w15",
+      "text": "the",
+      "start": 5.846375,
+      "end": 5.911458
+    },
+    {
+      "id": "w16",
+      "text": "furniture.",
+      "start": 5.911458,
+      "end": 6.562499
+    },
+    {
+      "id": "w17",
+      "text": "Very",
+      "start": 6.992208,
+      "end": 7.291708
+    },
+    {
+      "id": "w18",
+      "text": "economical.",
+      "start": 7.304708,
+      "end": 8.085958
+    },
+    {
+      "id": "w19",
+      "text": "Extremely",
+      "start": 8.489583,
+      "end": 9.192708
+    },
+    {
+      "id": "w20",
+      "text": "unpleasant.",
+      "start": 9.20575,
+      "end": 9.974
+    },
+    {
+      "id": "w21",
+      "text": "And",
+      "start": 10.390625,
+      "end": 10.45575
+    },
+    {
+      "id": "w22",
+      "text": "the",
+      "start": 10.45575,
+      "end": 10.520833
+    },
+    {
+      "id": "w23",
+      "text": "more",
+      "start": 10.520833,
+      "end": 10.755208
+    },
+    {
+      "id": "w24",
+      "text": "familiar",
+      "start": 10.76825,
+      "end": 11.367208
+    },
+    {
+      "id": "w25",
+      "text": "the",
+      "start": 11.367208,
+      "end": 11.432291
+    },
+    {
+      "id": "w26",
+      "text": "room",
+      "start": 11.432291,
+      "end": 11.848957
+    },
+    {
+      "id": "w27",
+      "text": "becomes,",
+      "start": 11.848958,
+      "end": 12.617208
+    },
+    {
+      "id": "w28",
+      "text": "the",
+      "start": 13.007833,
+      "end": 13.138041
+    },
+    {
+      "id": "w29",
+      "text": "less",
+      "start": 13.151041,
+      "end": 13.463541
+    },
+    {
+      "id": "w30",
+      "text": "comfortable",
+      "start": 13.476583,
+      "end": 14.088541
+    },
+    {
+      "id": "w31",
+      "text": "you",
+      "start": 14.088541,
+      "end": 14.244791
+    },
+    {
+      "id": "w32",
+      "text": "are",
+      "start": 14.257833,
+      "end": 14.440124
+    },
+    {
+      "id": "w33",
+      "text": "in",
+      "start": 14.440125,
+      "end": 14.557333
+    },
+    {
+      "id": "w34",
+      "text": "it.",
+      "start": 14.570333,
+      "end": 14.765666
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.09",
+      "input_tp": "-3.84",
+      "input_lra": "4.20",
+      "input_thresh": "-31.78",
+      "output_i": "-16.12",
+      "output_tp": "-1.50",
+      "output_lra": "1.50",
+      "output_thresh": "-26.75",
+      "normalization_type": "dynamic",
+      "target_offset": "0.12"
+    },
+    "output": {
+      "input_i": "-21.09",
+      "input_tp": "-3.84",
+      "input_lra": "4.20",
+      "input_thresh": "-31.78",
+      "output_i": "-16.01",
+      "output_tp": "-1.50",
+      "output_lra": "1.50",
+      "output_thresh": "-26.64",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    }
+  },
+  "fingerprint": "164688452a75d188f470f32967f1d3c1dac88faab3f0a0834caa7a9e51805bdd"
+}

@@ -1,0 +1,219 @@
+[
+  {
+    "id": "w0",
+    "text": "The",
+    "start": 0.122291,
+    "end": 0.176624,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w1",
+    "text": "strangest",
+    "start": 0.176625,
+    "end": 0.638583,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w2",
+    "text": "part",
+    "start": 0.638583,
+    "end": 0.951083,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w3",
+    "text": "wasn't",
+    "start": 0.951083,
+    "end": 1.426624,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w4",
+    "text": "that",
+    "start": 1.440208,
+    "end": 1.562499,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w5",
+    "text": "the",
+    "start": 1.5625,
+    "end": 1.644041,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w6",
+    "text": "game",
+    "start": 1.644041,
+    "end": 1.970124,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w7",
+    "text": "disappeared.",
+    "start": 1.970125,
+    "end": 2.744583,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w8",
+    "text": "It",
+    "start": 3.16575,
+    "end": 3.220083,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w9",
+    "text": "was",
+    "start": 3.220125,
+    "end": 3.328791,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w10",
+    "text": "that",
+    "start": 3.328791,
+    "end": 3.491832,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w11",
+    "text": "somebody",
+    "start": 3.505416,
+    "end": 3.872249,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w12",
+    "text": "had",
+    "start": 3.885875,
+    "end": 4.035333,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w13",
+    "text": "kept",
+    "start": 4.048916,
+    "end": 4.334249,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w14",
+    "text": "it",
+    "start": 4.347833,
+    "end": 4.483708,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w15",
+    "text": "running",
+    "start": 4.483708,
+    "end": 4.809791,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w16",
+    "text": "for",
+    "start": 4.809791,
+    "end": 4.972832,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w17",
+    "text": "twenty",
+    "start": 4.972833,
+    "end": 5.312499,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w18",
+    "text": "years.",
+    "start": 5.3125,
+    "end": 5.97825,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w19",
+    "text": "And",
+    "start": 6.413041,
+    "end": 6.494582,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w20",
+    "text": "when",
+    "start": 6.508166,
+    "end": 6.603249,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w21",
+    "text": "they",
+    "start": 6.60325,
+    "end": 6.698375,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w22",
+    "text": "finally",
+    "start": 6.711958,
+    "end": 7.201083,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w23",
+    "text": "opened",
+    "start": 7.214666,
+    "end": 7.513582,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w24",
+    "text": "the",
+    "start": 7.513583,
+    "end": 7.567916,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w25",
+    "text": "server,",
+    "start": 7.567916,
+    "end": 8.111374,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w26",
+    "text": "the",
+    "start": 8.532625,
+    "end": 8.62775,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w27",
+    "text": "story",
+    "start": 8.641291,
+    "end": 9.143999,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w28",
+    "text": "got",
+    "start": 9.157625,
+    "end": 9.429375,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w29",
+    "text": "even",
+    "start": 9.442916,
+    "end": 9.701082,
+    "line_id": "sample01"
+  },
+  {
+    "id": "w30",
+    "text": "stranger.",
+    "start": 9.714666,
+    "end": 10.407582,
+    "line_id": "sample01"
+  }
+]

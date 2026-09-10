@@ -1,0 +1,365 @@
+{
+  "id": "c11p02",
+  "text": "The second story can swallow the first. Every time somebody calls the cancelled project the greatest horror game we never got, the imagined version gets a little bigger. Meanwhile, the actual teaser is sitting there doing something more interesting than being a promise. It works as an experience you can discuss on its own.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c11p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c11p02.wav",
+  "duration": 20.208,
+  "words": [
+    {
+      "id": "w0",
+      "text": "The",
+      "start": 0.106375,
+      "end": 0.159583
+    },
+    {
+      "id": "w1",
+      "text": "second",
+      "start": 0.172875,
+      "end": 0.531916
+    },
+    {
+      "id": "w2",
+      "text": "story",
+      "start": 0.531916,
+      "end": 1.023957
+    },
+    {
+      "id": "w3",
+      "text": "can",
+      "start": 1.03725,
+      "end": 1.183541
+    },
+    {
+      "id": "w4",
+      "text": "swallow",
+      "start": 1.196791,
+      "end": 1.662207
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 1.675541,
+      "end": 1.742041
+    },
+    {
+      "id": "w6",
+      "text": "first.",
+      "start": 1.755333,
+      "end": 2.380333
+    },
+    {
+      "id": "w7",
+      "text": "Every",
+      "start": 2.819166,
+      "end": 3.031916
+    },
+    {
+      "id": "w8",
+      "text": "time",
+      "start": 3.031916,
+      "end": 3.297874
+    },
+    {
+      "id": "w9",
+      "text": "somebody",
+      "start": 3.311166,
+      "end": 3.643624
+    },
+    {
+      "id": "w10",
+      "text": "calls",
+      "start": 3.643625,
+      "end": 3.936166
+    },
+    {
+      "id": "w11",
+      "text": "the",
+      "start": 3.936166,
+      "end": 4.029249
+    },
+    {
+      "id": "w12",
+      "text": "cancelled",
+      "start": 4.042541,
+      "end": 4.574457
+    },
+    {
+      "id": "w13",
+      "text": "project",
+      "start": 4.58775,
+      "end": 5.252625
+    },
+    {
+      "id": "w14",
+      "text": "the",
+      "start": 5.545208,
+      "end": 5.664874
+    },
+    {
+      "id": "w15",
+      "text": "greatest",
+      "start": 5.678208,
+      "end": 6.236708
+    },
+    {
+      "id": "w16",
+      "text": "horror",
+      "start": 6.236708,
+      "end": 6.569166
+    },
+    {
+      "id": "w17",
+      "text": "game",
+      "start": 6.569166,
+      "end": 6.941499
+    },
+    {
+      "id": "w18",
+      "text": "we",
+      "start": 7.127666,
+      "end": 7.260624
+    },
+    {
+      "id": "w19",
+      "text": "never",
+      "start": 7.260625,
+      "end": 7.739333
+    },
+    {
+      "id": "w20",
+      "text": "got,",
+      "start": 7.739375,
+      "end": 8.164916
+    },
+    {
+      "id": "w21",
+      "text": "the",
+      "start": 8.590416,
+      "end": 8.643624
+    },
+    {
+      "id": "w22",
+      "text": "imagined",
+      "start": 8.643625,
+      "end": 9.242041
+    },
+    {
+      "id": "w23",
+      "text": "version",
+      "start": 9.242041,
+      "end": 9.667582
+    },
+    {
+      "id": "w24",
+      "text": "gets",
+      "start": 9.853708,
+      "end": 10.026583
+    },
+    {
+      "id": "w25",
+      "text": "a",
+      "start": 10.039875,
+      "end": 10.093083
+    },
+    {
+      "id": "w26",
+      "text": "little",
+      "start": 10.093083,
+      "end": 10.319166
+    },
+    {
+      "id": "w27",
+      "text": "bigger.",
+      "start": 10.319166,
+      "end": 10.811207
+    },
+    {
+      "id": "w28",
+      "text": "Meanwhile,",
+      "start": 11.223416,
+      "end": 11.861707
+    },
+    {
+      "id": "w29",
+      "text": "the",
+      "start": 12.101083,
+      "end": 12.220749
+    },
+    {
+      "id": "w30",
+      "text": "actual",
+      "start": 12.22075,
+      "end": 12.633
+    },
+    {
+      "id": "w31",
+      "text": "teaser",
+      "start": 12.646291,
+      "end": 13.164916
+    },
+    {
+      "id": "w32",
+      "text": "is",
+      "start": 13.178208,
+      "end": 13.337749
+    },
+    {
+      "id": "w33",
+      "text": "sitting",
+      "start": 13.33775,
+      "end": 13.736666
+    },
+    {
+      "id": "w34",
+      "text": "there",
+      "start": 13.736708,
+      "end": 13.882958
+    },
+    {
+      "id": "w35",
+      "text": "doing",
+      "start": 13.882958,
+      "end": 14.215416
+    },
+    {
+      "id": "w36",
+      "text": "something",
+      "start": 14.228708,
+      "end": 14.680833
+    },
+    {
+      "id": "w37",
+      "text": "more",
+      "start": 14.680833,
+      "end": 15.039874
+    },
+    {
+      "id": "w38",
+      "text": "interesting",
+      "start": 15.053208,
+      "end": 15.691499
+    },
+    {
+      "id": "w39",
+      "text": "than",
+      "start": 15.6915,
+      "end": 15.797875
+    },
+    {
+      "id": "w40",
+      "text": "being",
+      "start": 15.797875,
+      "end": 16.010625
+    },
+    {
+      "id": "w41",
+      "text": "a",
+      "start": 16.023916,
+      "end": 16.077124
+    },
+    {
+      "id": "w42",
+      "text": "promise.",
+      "start": 16.090416,
+      "end": 16.795207
+    },
+    {
+      "id": "w43",
+      "text": "It",
+      "start": 17.234041,
+      "end": 17.366999
+    },
+    {
+      "id": "w44",
+      "text": "works",
+      "start": 17.367041,
+      "end": 17.646291
+    },
+    {
+      "id": "w45",
+      "text": "as",
+      "start": 17.646291,
+      "end": 17.779249
+    },
+    {
+      "id": "w46",
+      "text": "an",
+      "start": 17.77925,
+      "end": 17.832458
+    },
+    {
+      "id": "w47",
+      "text": "experience",
+      "start": 17.832458,
+      "end": 18.617041
+    },
+    {
+      "id": "w48",
+      "text": "you",
+      "start": 18.617041,
+      "end": 18.710124
+    },
+    {
+      "id": "w49",
+      "text": "can",
+      "start": 18.710125,
+      "end": 18.803208
+    },
+    {
+      "id": "w50",
+      "text": "discuss",
+      "start": 18.8165,
+      "end": 19.281916
+    },
+    {
+      "id": "w51",
+      "text": "on",
+      "start": 19.281916,
+      "end": 19.401582
+    },
+    {
+      "id": "w52",
+      "text": "its",
+      "start": 19.414875,
+      "end": 19.534541
+    },
+    {
+      "id": "w53",
+      "text": "own.",
+      "start": 19.534583,
+      "end": 19.813833
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.97",
+      "input_tp": "-2.40",
+      "input_lra": "3.10",
+      "input_thresh": "-31.58",
+      "output_i": "-16.60",
+      "output_tp": "-1.50",
+      "output_lra": "3.10",
+      "output_thresh": "-27.12",
+      "normalization_type": "dynamic",
+      "target_offset": "0.60"
+    },
+    "output": {
+      "input_i": "-20.97",
+      "input_tp": "-2.40",
+      "input_lra": "3.10",
+      "input_thresh": "-31.58",
+      "output_i": "-16.12",
+      "output_tp": "-1.50",
+      "output_lra": "2.90",
+      "output_thresh": "-26.62",
+      "normalization_type": "dynamic",
+      "target_offset": "0.12"
+    }
+  },
+  "fingerprint": "750e3a6e8caad458ba2569887a6af023c56f8bf0f98d6dbcaa3c42dbf433369d"
+}

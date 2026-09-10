@@ -1,0 +1,5 @@
+# Motion map
+
+12 chapter subcompositions; 142 timed shots. 121 photo placements (including two contemporary error-screen placements); 21 native title, excerpt or explanatory cards. Ordinary photo shots move continuously from scale 1.01 to 1.10 with a 17px horizontal and 8px vertical drift, reversing direction between shots. Error screenshots ease from 0.97 to 1.00 while remaining contained. The camera schematic draws its connection over two seconds; the loop diagram draws over three seconds. Cards enter over 0.38 seconds, then hold. Hard cuts follow actual paragraph timings. Runtime uses paused GSAP timelines and framework-owned audio playback.
+
+Checks: no runtime errors, no layout errors or warnings. Layout info findings are intentional image overflow during the contained crop. Lint warnings identify reused image sources and 9–15 shots per chapter; each timed section has its own identifier. No automated motion assertions were configured. All 23 source/graphic placements were inspected via timed HyperFrames snapshots. Final exported shot contact sheets provide a separate encoded-frame check.

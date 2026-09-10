@@ -1,0 +1,317 @@
+{
+  "id": "c06p02",
+  "text": "We can mourn what might have been. We cannot review a game that never arrived. There is no completed Silent Hills here for us to compare against the version in everyone's head. The imaginary version gets to be perfect forever. Actual games rarely get that luxury.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c06p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c06p02.wav",
+  "duration": 17.856,
+  "words": [
+    {
+      "id": "w0",
+      "text": "We",
+      "start": 0.106375,
+      "end": 0.199458
+    },
+    {
+      "id": "w1",
+      "text": "can",
+      "start": 0.21275,
+      "end": 0.319125
+    },
+    {
+      "id": "w2",
+      "text": "mourn",
+      "start": 0.319166,
+      "end": 0.757999
+    },
+    {
+      "id": "w3",
+      "text": "what",
+      "start": 0.851083,
+      "end": 0.997333
+    },
+    {
+      "id": "w4",
+      "text": "might",
+      "start": 0.997333,
+      "end": 1.303166
+    },
+    {
+      "id": "w5",
+      "text": "have",
+      "start": 1.303208,
+      "end": 1.489374
+    },
+    {
+      "id": "w6",
+      "text": "been.",
+      "start": 1.489375,
+      "end": 1.821833
+    },
+    {
+      "id": "w7",
+      "text": "We",
+      "start": 2.260625,
+      "end": 2.353708
+    },
+    {
+      "id": "w8",
+      "text": "cannot",
+      "start": 2.353708,
+      "end": 2.659541
+    },
+    {
+      "id": "w9",
+      "text": "review",
+      "start": 2.659583,
+      "end": 2.925541
+    },
+    {
+      "id": "w10",
+      "text": "a",
+      "start": 2.925541,
+      "end": 2.965416
+    },
+    {
+      "id": "w11",
+      "text": "game",
+      "start": 2.965416,
+      "end": 3.390957
+    },
+    {
+      "id": "w12",
+      "text": "that",
+      "start": 3.590416,
+      "end": 3.749999
+    },
+    {
+      "id": "w13",
+      "text": "never",
+      "start": 3.75,
+      "end": 4.135625
+    },
+    {
+      "id": "w14",
+      "text": "arrived.",
+      "start": 4.135625,
+      "end": 4.707416
+    },
+    {
+      "id": "w15",
+      "text": "There",
+      "start": 5.132958,
+      "end": 5.252624
+    },
+    {
+      "id": "w16",
+      "text": "is",
+      "start": 5.252666,
+      "end": 5.372332
+    },
+    {
+      "id": "w17",
+      "text": "no",
+      "start": 5.372333,
+      "end": 5.664874
+    },
+    {
+      "id": "w18",
+      "text": "completed",
+      "start": 5.664875,
+      "end": 6.303166
+    },
+    {
+      "id": "w19",
+      "text": "Silent",
+      "start": 6.303208,
+      "end": 6.755333
+    },
+    {
+      "id": "w20",
+      "text": "Hills",
+      "start": 6.768625,
+      "end": 7.180875
+    },
+    {
+      "id": "w21",
+      "text": "here",
+      "start": 7.194166,
+      "end": 7.446832
+    },
+    {
+      "id": "w22",
+      "text": "for",
+      "start": 7.460125,
+      "end": 7.659583
+    },
+    {
+      "id": "w23",
+      "text": "us",
+      "start": 7.659583,
+      "end": 7.845749
+    },
+    {
+      "id": "w24",
+      "text": "to",
+      "start": 7.84575,
+      "end": 7.938833
+    },
+    {
+      "id": "w25",
+      "text": "compare",
+      "start": 7.952125,
+      "end": 8.417541
+    },
+    {
+      "id": "w26",
+      "text": "against",
+      "start": 8.430833,
+      "end": 8.723374
+    },
+    {
+      "id": "w27",
+      "text": "the",
+      "start": 8.736708,
+      "end": 8.816499
+    },
+    {
+      "id": "w28",
+      "text": "version",
+      "start": 8.829791,
+      "end": 9.468082
+    },
+    {
+      "id": "w29",
+      "text": "in",
+      "start": 9.72075,
+      "end": 9.880333
+    },
+    {
+      "id": "w30",
+      "text": "everyone's",
+      "start": 9.973416,
+      "end": 10.492041
+    },
+    {
+      "id": "w31",
+      "text": "head.",
+      "start": 10.505333,
+      "end": 10.851083
+    },
+    {
+      "id": "w32",
+      "text": "The",
+      "start": 11.276583,
+      "end": 11.316458
+    },
+    {
+      "id": "w33",
+      "text": "imaginary",
+      "start": 11.3165,
+      "end": 11.914875
+    },
+    {
+      "id": "w34",
+      "text": "version",
+      "start": 11.914875,
+      "end": 12.406916
+    },
+    {
+      "id": "w35",
+      "text": "gets",
+      "start": 12.579791,
+      "end": 12.752666
+    },
+    {
+      "id": "w36",
+      "text": "to",
+      "start": 12.752666,
+      "end": 12.832457
+    },
+    {
+      "id": "w37",
+      "text": "be",
+      "start": 12.832458,
+      "end": 13.058541
+    },
+    {
+      "id": "w38",
+      "text": "perfect",
+      "start": 13.071791,
+      "end": 13.789874
+    },
+    {
+      "id": "w39",
+      "text": "forever.",
+      "start": 13.922875,
+      "end": 14.640958
+    },
+    {
+      "id": "w40",
+      "text": "Actual",
+      "start": 15.079791,
+      "end": 15.438832
+    },
+    {
+      "id": "w41",
+      "text": "games",
+      "start": 15.452125,
+      "end": 15.90425
+    },
+    {
+      "id": "w42",
+      "text": "rarely",
+      "start": 15.917541,
+      "end": 16.436166
+    },
+    {
+      "id": "w43",
+      "text": "get",
+      "start": 16.515958,
+      "end": 16.755333
+    },
+    {
+      "id": "w44",
+      "text": "that",
+      "start": 16.755333,
+      "end": 16.941499
+    },
+    {
+      "id": "w45",
+      "text": "luxury.",
+      "start": 16.954791,
+      "end": 17.499999
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.98",
+      "input_tp": "-4.29",
+      "input_lra": "3.90",
+      "input_thresh": "-31.62",
+      "output_i": "-17.11",
+      "output_tp": "-1.50",
+      "output_lra": "4.80",
+      "output_thresh": "-27.74",
+      "normalization_type": "dynamic",
+      "target_offset": "1.11"
+    },
+    "output": {
+      "input_i": "-20.98",
+      "input_tp": "-4.29",
+      "input_lra": "3.90",
+      "input_thresh": "-31.62",
+      "output_i": "-16.11",
+      "output_tp": "-1.50",
+      "output_lra": "4.80",
+      "output_thresh": "-26.74",
+      "normalization_type": "dynamic",
+      "target_offset": "0.11"
+    }
+  },
+  "fingerprint": "b4e244559b868a9b82259ba2b83757f6fcbc4abaa2c61a8472f705e4f63faa83"
+}

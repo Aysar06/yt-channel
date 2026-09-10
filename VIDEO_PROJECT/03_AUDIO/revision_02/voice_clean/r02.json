@@ -1,0 +1,1241 @@
+{
+  "id": "r02",
+  "text": "You wake up on the floor. There is a door ahead of you, and beyond it, a corridor that looks almost disappointingly ordinary. A light fitting, family photographs, a cabinet, a radio. The game gives you very little distance to travel, so you start learning the details without trying. Then you reach the end, go through the door, and arrive in that corridor again. The important part is what changes on the next pass. A familiar picture has become a clue. You start wondering what else you missed. The light changes, and the same corner suddenly feels like somewhere you shouldn't approach. Because the geography is familiar, a small difference gets your full attention. You can't dismiss it as another room you haven't explored yet. P.T. keeps asking you to look more closely at the place you already know. That creates a nasty little negotiation: you want to make progress, but progress requires approaching the thing that has just made you uncomfortable. Watch the camera pause at the closed door, then check the room behind it. The player has to decide where to look next. A film can choose where your attention goes; this makes that nervous inspection your responsibility.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+0%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_raw/r02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_clean/r02.wav",
+  "duration": 71.616,
+  "words": [
+    {
+      "id": "w0",
+      "text": "You",
+      "start": 0.1,
+      "end": 0.175
+    },
+    {
+      "id": "w1",
+      "text": "wake",
+      "start": 0.175,
+      "end": 0.35
+    },
+    {
+      "id": "w2",
+      "text": "up",
+      "start": 0.3625,
+      "end": 0.45
+    },
+    {
+      "id": "w3",
+      "text": "on",
+      "start": 0.45,
+      "end": 0.525
+    },
+    {
+      "id": "w4",
+      "text": "the",
+      "start": 0.525,
+      "end": 0.575
+    },
+    {
+      "id": "w5",
+      "text": "floor.",
+      "start": 0.575,
+      "end": 1.0
+    },
+    {
+      "id": "w6",
+      "text": "There",
+      "start": 1.4125,
+      "end": 1.5375
+    },
+    {
+      "id": "w7",
+      "text": "is",
+      "start": 1.5375,
+      "end": 1.6125
+    },
+    {
+      "id": "w8",
+      "text": "a",
+      "start": 1.6125,
+      "end": 1.7375
+    },
+    {
+      "id": "w9",
+      "text": "door",
+      "start": 1.825,
+      "end": 2.1375
+    },
+    {
+      "id": "w10",
+      "text": "ahead",
+      "start": 2.15,
+      "end": 2.4125
+    },
+    {
+      "id": "w11",
+      "text": "of",
+      "start": 2.425,
+      "end": 2.5125
+    },
+    {
+      "id": "w12",
+      "text": "you,",
+      "start": 2.525,
+      "end": 2.8125
+    },
+    {
+      "id": "w13",
+      "text": "and",
+      "start": 3.2,
+      "end": 3.3
+    },
+    {
+      "id": "w14",
+      "text": "beyond",
+      "start": 3.3,
+      "end": 3.7875
+    },
+    {
+      "id": "w15",
+      "text": "it,",
+      "start": 3.7875,
+      "end": 3.925
+    },
+    {
+      "id": "w16",
+      "text": "a",
+      "start": 4.3875,
+      "end": 4.45
+    },
+    {
+      "id": "w17",
+      "text": "corridor",
+      "start": 4.45,
+      "end": 5.025
+    },
+    {
+      "id": "w18",
+      "text": "that",
+      "start": 5.025,
+      "end": 5.175
+    },
+    {
+      "id": "w19",
+      "text": "looks",
+      "start": 5.175,
+      "end": 5.5125
+    },
+    {
+      "id": "w20",
+      "text": "almost",
+      "start": 5.6375,
+      "end": 6.225
+    },
+    {
+      "id": "w21",
+      "text": "disappointingly",
+      "start": 6.3,
+      "end": 7.325
+    },
+    {
+      "id": "w22",
+      "text": "ordinary.",
+      "start": 7.4125,
+      "end": 8.1125
+    },
+    {
+      "id": "w23",
+      "text": "A",
+      "start": 8.5,
+      "end": 8.55
+    },
+    {
+      "id": "w24",
+      "text": "light",
+      "start": 8.5625,
+      "end": 8.8625
+    },
+    {
+      "id": "w25",
+      "text": "fitting,",
+      "start": 8.8625,
+      "end": 9.3875
+    },
+    {
+      "id": "w26",
+      "text": "family",
+      "start": 9.6125,
+      "end": 10.0
+    },
+    {
+      "id": "w27",
+      "text": "photographs,",
+      "start": 10.0,
+      "end": 10.8
+    },
+    {
+      "id": "w28",
+      "text": "a",
+      "start": 10.875,
+      "end": 10.925
+    },
+    {
+      "id": "w29",
+      "text": "cabinet,",
+      "start": 10.925,
+      "end": 11.4875
+    },
+    {
+      "id": "w30",
+      "text": "a",
+      "start": 11.7125,
+      "end": 11.75
+    },
+    {
+      "id": "w31",
+      "text": "radio.",
+      "start": 11.7625,
+      "end": 12.4375
+    },
+    {
+      "id": "w32",
+      "text": "The",
+      "start": 12.8375,
+      "end": 12.9125
+    },
+    {
+      "id": "w33",
+      "text": "game",
+      "start": 12.925,
+      "end": 13.2125
+    },
+    {
+      "id": "w34",
+      "text": "gives",
+      "start": 13.225,
+      "end": 13.425
+    },
+    {
+      "id": "w35",
+      "text": "you",
+      "start": 13.425,
+      "end": 13.55
+    },
+    {
+      "id": "w36",
+      "text": "very",
+      "start": 13.55,
+      "end": 13.8625
+    },
+    {
+      "id": "w37",
+      "text": "little",
+      "start": 13.8625,
+      "end": 14.1375
+    },
+    {
+      "id": "w38",
+      "text": "distance",
+      "start": 14.1375,
+      "end": 14.575
+    },
+    {
+      "id": "w39",
+      "text": "to",
+      "start": 14.575,
+      "end": 14.6375
+    },
+    {
+      "id": "w40",
+      "text": "travel,",
+      "start": 14.65,
+      "end": 15.1375
+    },
+    {
+      "id": "w41",
+      "text": "so",
+      "start": 15.5375,
+      "end": 15.6125
+    },
+    {
+      "id": "w42",
+      "text": "you",
+      "start": 15.625,
+      "end": 15.725
+    },
+    {
+      "id": "w43",
+      "text": "start",
+      "start": 15.7375,
+      "end": 16.05
+    },
+    {
+      "id": "w44",
+      "text": "learning",
+      "start": 16.05,
+      "end": 16.3375
+    },
+    {
+      "id": "w45",
+      "text": "the",
+      "start": 16.35,
+      "end": 16.4375
+    },
+    {
+      "id": "w46",
+      "text": "details",
+      "start": 16.4375,
+      "end": 17.0
+    },
+    {
+      "id": "w47",
+      "text": "without",
+      "start": 17.0,
+      "end": 17.3875
+    },
+    {
+      "id": "w48",
+      "text": "trying.",
+      "start": 17.3875,
+      "end": 17.85
+    },
+    {
+      "id": "w49",
+      "text": "Then",
+      "start": 18.25,
+      "end": 18.3375
+    },
+    {
+      "id": "w50",
+      "text": "you",
+      "start": 18.3375,
+      "end": 18.4375
+    },
+    {
+      "id": "w51",
+      "text": "reach",
+      "start": 18.4375,
+      "end": 18.6625
+    },
+    {
+      "id": "w52",
+      "text": "the",
+      "start": 18.6625,
+      "end": 18.75
+    },
+    {
+      "id": "w53",
+      "text": "end,",
+      "start": 18.75,
+      "end": 19.1875
+    },
+    {
+      "id": "w54",
+      "text": "go",
+      "start": 19.475,
+      "end": 19.6625
+    },
+    {
+      "id": "w55",
+      "text": "through",
+      "start": 19.6625,
+      "end": 19.825
+    },
+    {
+      "id": "w56",
+      "text": "the",
+      "start": 19.825,
+      "end": 19.9125
+    },
+    {
+      "id": "w57",
+      "text": "door,",
+      "start": 19.9125,
+      "end": 20.3375
+    },
+    {
+      "id": "w58",
+      "text": "and",
+      "start": 20.8625,
+      "end": 20.9375
+    },
+    {
+      "id": "w59",
+      "text": "arrive",
+      "start": 20.95,
+      "end": 21.475
+    },
+    {
+      "id": "w60",
+      "text": "in",
+      "start": 21.4875,
+      "end": 21.5375
+    },
+    {
+      "id": "w61",
+      "text": "that",
+      "start": 21.5375,
+      "end": 21.7
+    },
+    {
+      "id": "w62",
+      "text": "corridor",
+      "start": 21.7,
+      "end": 22.125
+    },
+    {
+      "id": "w63",
+      "text": "again.",
+      "start": 22.125,
+      "end": 22.4375
+    },
+    {
+      "id": "w64",
+      "text": "The",
+      "start": 22.8375,
+      "end": 22.875
+    },
+    {
+      "id": "w65",
+      "text": "important",
+      "start": 22.8875,
+      "end": 23.3125
+    },
+    {
+      "id": "w66",
+      "text": "part",
+      "start": 23.3125,
+      "end": 23.6625
+    },
+    {
+      "id": "w67",
+      "text": "is",
+      "start": 23.9625,
+      "end": 24.1
+    },
+    {
+      "id": "w68",
+      "text": "what",
+      "start": 24.1,
+      "end": 24.3125
+    },
+    {
+      "id": "w69",
+      "text": "changes",
+      "start": 24.325,
+      "end": 24.775
+    },
+    {
+      "id": "w70",
+      "text": "on",
+      "start": 24.7875,
+      "end": 24.8625
+    },
+    {
+      "id": "w71",
+      "text": "the",
+      "start": 24.8625,
+      "end": 24.9
+    },
+    {
+      "id": "w72",
+      "text": "next",
+      "start": 24.9,
+      "end": 25.15
+    },
+    {
+      "id": "w73",
+      "text": "pass.",
+      "start": 25.1625,
+      "end": 25.725
+    },
+    {
+      "id": "w74",
+      "text": "A",
+      "start": 26.1375,
+      "end": 26.175
+    },
+    {
+      "id": "w75",
+      "text": "familiar",
+      "start": 26.1875,
+      "end": 26.65
+    },
+    {
+      "id": "w76",
+      "text": "picture",
+      "start": 26.65,
+      "end": 27.0875
+    },
+    {
+      "id": "w77",
+      "text": "has",
+      "start": 27.275,
+      "end": 27.3875
+    },
+    {
+      "id": "w78",
+      "text": "become",
+      "start": 27.4,
+      "end": 27.6375
+    },
+    {
+      "id": "w79",
+      "text": "a",
+      "start": 27.65,
+      "end": 27.7
+    },
+    {
+      "id": "w80",
+      "text": "clue.",
+      "start": 27.7,
+      "end": 28.075
+    },
+    {
+      "id": "w81",
+      "text": "You",
+      "start": 28.4875,
+      "end": 28.55
+    },
+    {
+      "id": "w82",
+      "text": "start",
+      "start": 28.55,
+      "end": 28.7875
+    },
+    {
+      "id": "w83",
+      "text": "wondering",
+      "start": 28.8,
+      "end": 29.2875
+    },
+    {
+      "id": "w84",
+      "text": "what",
+      "start": 29.3,
+      "end": 29.4
+    },
+    {
+      "id": "w85",
+      "text": "else",
+      "start": 29.4,
+      "end": 29.5875
+    },
+    {
+      "id": "w86",
+      "text": "you",
+      "start": 29.6,
+      "end": 29.675
+    },
+    {
+      "id": "w87",
+      "text": "missed.",
+      "start": 29.6875,
+      "end": 30.1625
+    },
+    {
+      "id": "w88",
+      "text": "The",
+      "start": 30.5875,
+      "end": 30.6625
+    },
+    {
+      "id": "w89",
+      "text": "light",
+      "start": 30.6625,
+      "end": 30.9875
+    },
+    {
+      "id": "w90",
+      "text": "changes,",
+      "start": 30.9875,
+      "end": 31.6875
+    },
+    {
+      "id": "w91",
+      "text": "and",
+      "start": 31.9125,
+      "end": 32.0375
+    },
+    {
+      "id": "w92",
+      "text": "the",
+      "start": 32.05,
+      "end": 32.125
+    },
+    {
+      "id": "w93",
+      "text": "same",
+      "start": 32.125,
+      "end": 32.5875
+    },
+    {
+      "id": "w94",
+      "text": "corner",
+      "start": 32.5875,
+      "end": 32.975
+    },
+    {
+      "id": "w95",
+      "text": "suddenly",
+      "start": 33.175,
+      "end": 33.65
+    },
+    {
+      "id": "w96",
+      "text": "feels",
+      "start": 33.65,
+      "end": 34.1375
+    },
+    {
+      "id": "w97",
+      "text": "like",
+      "start": 34.1375,
+      "end": 34.3125
+    },
+    {
+      "id": "w98",
+      "text": "somewhere",
+      "start": 34.3125,
+      "end": 34.8125
+    },
+    {
+      "id": "w99",
+      "text": "you",
+      "start": 34.8125,
+      "end": 34.8875
+    },
+    {
+      "id": "w100",
+      "text": "shouldn't",
+      "start": 34.9,
+      "end": 35.2
+    },
+    {
+      "id": "w101",
+      "text": "approach.",
+      "start": 35.2,
+      "end": 35.8
+    },
+    {
+      "id": "w102",
+      "text": "Because",
+      "start": 36.2,
+      "end": 36.6
+    },
+    {
+      "id": "w103",
+      "text": "the",
+      "start": 36.6,
+      "end": 36.7
+    },
+    {
+      "id": "w104",
+      "text": "geography",
+      "start": 36.7,
+      "end": 37.6
+    },
+    {
+      "id": "w105",
+      "text": "is",
+      "start": 37.8,
+      "end": 37.9625
+    },
+    {
+      "id": "w106",
+      "text": "familiar,",
+      "start": 37.975,
+      "end": 38.75
+    },
+    {
+      "id": "w107",
+      "text": "a",
+      "start": 39.2125,
+      "end": 39.2375
+    },
+    {
+      "id": "w108",
+      "text": "small",
+      "start": 39.2375,
+      "end": 39.7
+    },
+    {
+      "id": "w109",
+      "text": "difference",
+      "start": 39.7,
+      "end": 40.175
+    },
+    {
+      "id": "w110",
+      "text": "gets",
+      "start": 40.175,
+      "end": 40.35
+    },
+    {
+      "id": "w111",
+      "text": "your",
+      "start": 40.3625,
+      "end": 40.45
+    },
+    {
+      "id": "w112",
+      "text": "full",
+      "start": 40.45,
+      "end": 40.65
+    },
+    {
+      "id": "w113",
+      "text": "attention.",
+      "start": 40.65,
+      "end": 41.15
+    },
+    {
+      "id": "w114",
+      "text": "You",
+      "start": 41.5625,
+      "end": 41.65
+    },
+    {
+      "id": "w115",
+      "text": "can't",
+      "start": 41.65,
+      "end": 41.8875
+    },
+    {
+      "id": "w116",
+      "text": "dismiss",
+      "start": 41.8875,
+      "end": 42.4
+    },
+    {
+      "id": "w117",
+      "text": "it",
+      "start": 42.4,
+      "end": 42.5625
+    },
+    {
+      "id": "w118",
+      "text": "as",
+      "start": 42.8375,
+      "end": 42.9625
+    },
+    {
+      "id": "w119",
+      "text": "another",
+      "start": 42.9625,
+      "end": 43.4375
+    },
+    {
+      "id": "w120",
+      "text": "room",
+      "start": 43.4375,
+      "end": 43.75
+    },
+    {
+      "id": "w121",
+      "text": "you",
+      "start": 43.9125,
+      "end": 44.025
+    },
+    {
+      "id": "w122",
+      "text": "haven't",
+      "start": 44.0375,
+      "end": 44.325
+    },
+    {
+      "id": "w123",
+      "text": "explored",
+      "start": 44.3375,
+      "end": 44.85
+    },
+    {
+      "id": "w124",
+      "text": "yet.",
+      "start": 44.85,
+      "end": 45.125
+    },
+    {
+      "id": "w125",
+      "text": "P.T.",
+      "start": 45.525,
+      "end": 46.1125
+    },
+    {
+      "id": "w126",
+      "text": "keeps",
+      "start": 46.1125,
+      "end": 46.5
+    },
+    {
+      "id": "w127",
+      "text": "asking",
+      "start": 46.6,
+      "end": 47.025
+    },
+    {
+      "id": "w128",
+      "text": "you",
+      "start": 47.0375,
+      "end": 47.15
+    },
+    {
+      "id": "w129",
+      "text": "to",
+      "start": 47.15,
+      "end": 47.225
+    },
+    {
+      "id": "w130",
+      "text": "look",
+      "start": 47.2375,
+      "end": 47.4125
+    },
+    {
+      "id": "w131",
+      "text": "more",
+      "start": 47.4125,
+      "end": 47.625
+    },
+    {
+      "id": "w132",
+      "text": "closely",
+      "start": 47.6375,
+      "end": 48.2375
+    },
+    {
+      "id": "w133",
+      "text": "at",
+      "start": 48.2375,
+      "end": 48.2875
+    },
+    {
+      "id": "w134",
+      "text": "the",
+      "start": 48.2875,
+      "end": 48.3625
+    },
+    {
+      "id": "w135",
+      "text": "place",
+      "start": 48.375,
+      "end": 48.6875
+    },
+    {
+      "id": "w136",
+      "text": "you",
+      "start": 48.6875,
+      "end": 48.7875
+    },
+    {
+      "id": "w137",
+      "text": "already",
+      "start": 48.7875,
+      "end": 49.0375
+    },
+    {
+      "id": "w138",
+      "text": "know.",
+      "start": 49.0375,
+      "end": 49.425
+    },
+    {
+      "id": "w139",
+      "text": "That",
+      "start": 49.85,
+      "end": 49.9625
+    },
+    {
+      "id": "w140",
+      "text": "creates",
+      "start": 49.9625,
+      "end": 50.325
+    },
+    {
+      "id": "w141",
+      "text": "a",
+      "start": 50.325,
+      "end": 50.375
+    },
+    {
+      "id": "w142",
+      "text": "nasty",
+      "start": 50.375,
+      "end": 51.0875
+    },
+    {
+      "id": "w143",
+      "text": "little",
+      "start": 51.0875,
+      "end": 51.375
+    },
+    {
+      "id": "w144",
+      "text": "negotiation:",
+      "start": 51.3875,
+      "end": 52.3
+    },
+    {
+      "id": "w145",
+      "text": "you",
+      "start": 52.8,
+      "end": 52.85
+    },
+    {
+      "id": "w146",
+      "text": "want",
+      "start": 52.85,
+      "end": 52.9375
+    },
+    {
+      "id": "w147",
+      "text": "to",
+      "start": 52.9375,
+      "end": 52.975
+    },
+    {
+      "id": "w148",
+      "text": "make",
+      "start": 52.9875,
+      "end": 53.1375
+    },
+    {
+      "id": "w149",
+      "text": "progress,",
+      "start": 53.1375,
+      "end": 53.95
+    },
+    {
+      "id": "w150",
+      "text": "but",
+      "start": 54.0875,
+      "end": 54.2625
+    },
+    {
+      "id": "w151",
+      "text": "progress",
+      "start": 54.2625,
+      "end": 54.9625
+    },
+    {
+      "id": "w152",
+      "text": "requires",
+      "start": 54.975,
+      "end": 55.45
+    },
+    {
+      "id": "w153",
+      "text": "approaching",
+      "start": 55.4625,
+      "end": 56.05
+    },
+    {
+      "id": "w154",
+      "text": "the",
+      "start": 56.05,
+      "end": 56.125
+    },
+    {
+      "id": "w155",
+      "text": "thing",
+      "start": 56.125,
+      "end": 56.575
+    },
+    {
+      "id": "w156",
+      "text": "that",
+      "start": 56.575,
+      "end": 56.675
+    },
+    {
+      "id": "w157",
+      "text": "has",
+      "start": 56.675,
+      "end": 56.8125
+    },
+    {
+      "id": "w158",
+      "text": "just",
+      "start": 56.8125,
+      "end": 57.0
+    },
+    {
+      "id": "w159",
+      "text": "made",
+      "start": 57.0,
+      "end": 57.2125
+    },
+    {
+      "id": "w160",
+      "text": "you",
+      "start": 57.2125,
+      "end": 57.4125
+    },
+    {
+      "id": "w161",
+      "text": "uncomfortable.",
+      "start": 57.425,
+      "end": 58.3625
+    },
+    {
+      "id": "w162",
+      "text": "Watch",
+      "start": 58.7625,
+      "end": 59.0375
+    },
+    {
+      "id": "w163",
+      "text": "the",
+      "start": 59.0375,
+      "end": 59.1375
+    },
+    {
+      "id": "w164",
+      "text": "camera",
+      "start": 59.1375,
+      "end": 59.575
+    },
+    {
+      "id": "w165",
+      "text": "pause",
+      "start": 59.5875,
+      "end": 60.1
+    },
+    {
+      "id": "w166",
+      "text": "at",
+      "start": 60.1,
+      "end": 60.175
+    },
+    {
+      "id": "w167",
+      "text": "the",
+      "start": 60.1875,
+      "end": 60.2625
+    },
+    {
+      "id": "w168",
+      "text": "closed",
+      "start": 60.275,
+      "end": 60.6375
+    },
+    {
+      "id": "w169",
+      "text": "door,",
+      "start": 60.6375,
+      "end": 60.9625
+    },
+    {
+      "id": "w170",
+      "text": "then",
+      "start": 61.375,
+      "end": 61.5125
+    },
+    {
+      "id": "w171",
+      "text": "check",
+      "start": 61.5125,
+      "end": 61.75
+    },
+    {
+      "id": "w172",
+      "text": "the",
+      "start": 61.75,
+      "end": 61.825
+    },
+    {
+      "id": "w173",
+      "text": "room",
+      "start": 61.8375,
+      "end": 62.1125
+    },
+    {
+      "id": "w174",
+      "text": "behind",
+      "start": 62.1125,
+      "end": 62.4875
+    },
+    {
+      "id": "w175",
+      "text": "it.",
+      "start": 62.5,
+      "end": 62.65
+    },
+    {
+      "id": "w176",
+      "text": "The",
+      "start": 63.0625,
+      "end": 63.125
+    },
+    {
+      "id": "w177",
+      "text": "player",
+      "start": 63.1375,
+      "end": 63.45
+    },
+    {
+      "id": "w178",
+      "text": "has",
+      "start": 63.45,
+      "end": 63.6875
+    },
+    {
+      "id": "w179",
+      "text": "to",
+      "start": 63.6875,
+      "end": 63.75
+    },
+    {
+      "id": "w180",
+      "text": "decide",
+      "start": 63.75,
+      "end": 64.275
+    },
+    {
+      "id": "w181",
+      "text": "where",
+      "start": 64.2875,
+      "end": 64.425
+    },
+    {
+      "id": "w182",
+      "text": "to",
+      "start": 64.4375,
+      "end": 64.475
+    },
+    {
+      "id": "w183",
+      "text": "look",
+      "start": 64.475,
+      "end": 64.7125
+    },
+    {
+      "id": "w184",
+      "text": "next.",
+      "start": 64.7125,
+      "end": 65.2625
+    },
+    {
+      "id": "w185",
+      "text": "A",
+      "start": 65.65,
+      "end": 65.7125
+    },
+    {
+      "id": "w186",
+      "text": "film",
+      "start": 65.7125,
+      "end": 66.1
+    },
+    {
+      "id": "w187",
+      "text": "can",
+      "start": 66.1125,
+      "end": 66.3625
+    },
+    {
+      "id": "w188",
+      "text": "choose",
+      "start": 66.375,
+      "end": 66.9
+    },
+    {
+      "id": "w189",
+      "text": "where",
+      "start": 66.9,
+      "end": 67.0375
+    },
+    {
+      "id": "w190",
+      "text": "your",
+      "start": 67.0375,
+      "end": 67.175
+    },
+    {
+      "id": "w191",
+      "text": "attention",
+      "start": 67.175,
+      "end": 67.6125
+    },
+    {
+      "id": "w192",
+      "text": "goes;",
+      "start": 67.6125,
+      "end": 68.15
+    },
+    {
+      "id": "w193",
+      "text": "this",
+      "start": 68.55,
+      "end": 68.7
+    },
+    {
+      "id": "w194",
+      "text": "makes",
+      "start": 68.7,
+      "end": 68.9375
+    },
+    {
+      "id": "w195",
+      "text": "that",
+      "start": 68.9375,
+      "end": 69.15
+    },
+    {
+      "id": "w196",
+      "text": "nervous",
+      "start": 69.1625,
+      "end": 69.6875
+    },
+    {
+      "id": "w197",
+      "text": "inspection",
+      "start": 69.6875,
+      "end": 70.275
+    },
+    {
+      "id": "w198",
+      "text": "your",
+      "start": 70.275,
+      "end": 70.3625
+    },
+    {
+      "id": "w199",
+      "text": "responsibility.",
+      "start": 70.3625,
+      "end": 71.25
+    }
+  ],
+  "gap_after": 0.0,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.06",
+      "input_tp": "-3.57",
+      "input_lra": "2.30",
+      "input_thresh": "-31.70",
+      "output_i": "-16.22",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-26.83",
+      "normalization_type": "dynamic",
+      "target_offset": "0.22"
+    },
+    "output": {
+      "input_i": "-21.06",
+      "input_tp": "-3.57",
+      "input_lra": "2.30",
+      "input_thresh": "-31.70",
+      "output_i": "-16.04",
+      "output_tp": "-1.50",
+      "output_lra": "2.40",
+      "output_thresh": "-26.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.04"
+    }
+  },
+  "fingerprint": "cf15dbdcab5e9d696758504d46f31fc6793ddd4dd2374276e5f0539390669c19"
+}

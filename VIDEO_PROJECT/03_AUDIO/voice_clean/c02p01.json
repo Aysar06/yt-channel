@@ -1,0 +1,257 @@
+{
+  "id": "c02p01",
+  "text": "August twelfth, twenty fourteen. Sony's Gamescom presentation introduces a horror project called P.T. You can download it on PlayStation Four. It's free. The studio name is seven seven eight zero S. Which tells you approximately nothing.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c02p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c02p01.wav",
+  "duration": 17.784,
+  "words": [
+    {
+      "id": "w0",
+      "text": "August",
+      "start": 0.104166,
+      "end": 0.416666
+    },
+    {
+      "id": "w1",
+      "text": "twelfth,",
+      "start": 0.416666,
+      "end": 1.054707
+    },
+    {
+      "id": "w2",
+      "text": "twenty",
+      "start": 1.289083,
+      "end": 1.588541
+    },
+    {
+      "id": "w3",
+      "text": "fourteen.",
+      "start": 1.588541,
+      "end": 2.239582
+    },
+    {
+      "id": "w4",
+      "text": "Sony's",
+      "start": 2.669291,
+      "end": 3.085957
+    },
+    {
+      "id": "w5",
+      "text": "Gamescom",
+      "start": 3.085958,
+      "end": 3.789083
+    },
+    {
+      "id": "w6",
+      "text": "presentation",
+      "start": 3.789083,
+      "end": 4.622416
+    },
+    {
+      "id": "w7",
+      "text": "introduces",
+      "start": 4.739583,
+      "end": 5.390624
+    },
+    {
+      "id": "w8",
+      "text": "a",
+      "start": 5.390625,
+      "end": 5.442708
+    },
+    {
+      "id": "w9",
+      "text": "horror",
+      "start": 5.45575,
+      "end": 5.9375
+    },
+    {
+      "id": "w10",
+      "text": "project",
+      "start": 5.9375,
+      "end": 6.484375
+    },
+    {
+      "id": "w11",
+      "text": "called",
+      "start": 6.627625,
+      "end": 6.979208
+    },
+    {
+      "id": "w12",
+      "text": "P.T.",
+      "start": 7.083333,
+      "end": 7.708333
+    },
+    {
+      "id": "w13",
+      "text": "You",
+      "start": 8.125,
+      "end": 8.203125
+    },
+    {
+      "id": "w14",
+      "text": "can",
+      "start": 8.216166,
+      "end": 8.320332
+    },
+    {
+      "id": "w15",
+      "text": "download",
+      "start": 8.320333,
+      "end": 8.815124
+    },
+    {
+      "id": "w16",
+      "text": "it",
+      "start": 8.815125,
+      "end": 8.867208
+    },
+    {
+      "id": "w17",
+      "text": "on",
+      "start": 8.867208,
+      "end": 8.997416
+    },
+    {
+      "id": "w18",
+      "text": "PlayStation",
+      "start": 9.010416,
+      "end": 9.726582
+    },
+    {
+      "id": "w19",
+      "text": "Four.",
+      "start": 9.726583,
+      "end": 10.182333
+    },
+    {
+      "id": "w20",
+      "text": "It's",
+      "start": 10.585958,
+      "end": 10.690124
+    },
+    {
+      "id": "w21",
+      "text": "free.",
+      "start": 10.703125,
+      "end": 11.158875
+    },
+    {
+      "id": "w22",
+      "text": "The",
+      "start": 11.575541,
+      "end": 11.627624
+    },
+    {
+      "id": "w23",
+      "text": "studio",
+      "start": 11.627625,
+      "end": 12.005208
+    },
+    {
+      "id": "w24",
+      "text": "name",
+      "start": 12.005208,
+      "end": 12.382833
+    },
+    {
+      "id": "w25",
+      "text": "is",
+      "start": 12.565125,
+      "end": 12.682333
+    },
+    {
+      "id": "w26",
+      "text": "seven",
+      "start": 12.747416,
+      "end": 13.242207
+    },
+    {
+      "id": "w27",
+      "text": "seven",
+      "start": 13.242208,
+      "end": 13.723999
+    },
+    {
+      "id": "w28",
+      "text": "eight",
+      "start": 13.880208,
+      "end": 14.140624
+    },
+    {
+      "id": "w29",
+      "text": "zero",
+      "start": 14.270833,
+      "end": 14.804708
+    },
+    {
+      "id": "w30",
+      "text": "S.",
+      "start": 14.817708,
+      "end": 15.429708
+    },
+    {
+      "id": "w31",
+      "text": "Which",
+      "start": 15.846375,
+      "end": 15.963583
+    },
+    {
+      "id": "w32",
+      "text": "tells",
+      "start": 15.976583,
+      "end": 16.210958
+    },
+    {
+      "id": "w33",
+      "text": "you",
+      "start": 16.210958,
+      "end": 16.341166
+    },
+    {
+      "id": "w34",
+      "text": "approximately",
+      "start": 16.341166,
+      "end": 16.979166
+    },
+    {
+      "id": "w35",
+      "text": "nothing.",
+      "start": 16.979166,
+      "end": 17.395832
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.45",
+      "input_tp": "-2.37",
+      "input_lra": "2.00",
+      "input_thresh": "-31.22",
+      "output_i": "-16.63",
+      "output_tp": "-1.50",
+      "output_lra": "3.20",
+      "output_thresh": "-27.29",
+      "normalization_type": "dynamic",
+      "target_offset": "0.63"
+    },
+    "output": {
+      "input_i": "-20.45",
+      "input_tp": "-2.37",
+      "input_lra": "2.00",
+      "input_thresh": "-31.22",
+      "output_i": "-16.19",
+      "output_tp": "-1.50",
+      "output_lra": "3.10",
+      "output_thresh": "-26.83",
+      "normalization_type": "dynamic",
+      "target_offset": "0.19"
+    }
+  },
+  "fingerprint": "541d9aa6731baf252531bd54eb86d03f96188a626c8480109741ad64b5b09505"
+}

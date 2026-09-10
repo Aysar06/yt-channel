@@ -1,0 +1,311 @@
+{
+  "id": "c07p03",
+  "text": "That is a very different problem from missing a promotion. If the game is installed, you can play your copy. If you delete that installation, the ordinary recovery path you expected may be gone. A routine storage decision has acquired an unpleasant amount of consequence.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c07p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c07p03.wav",
+  "duration": 17.232,
+  "words": [
+    {
+      "id": "w0",
+      "text": "That",
+      "start": 0.092125,
+      "end": 0.197375
+    },
+    {
+      "id": "w1",
+      "text": "is",
+      "start": 0.197375,
+      "end": 0.276333
+    },
+    {
+      "id": "w2",
+      "text": "a",
+      "start": 0.289458,
+      "end": 0.342083
+    },
+    {
+      "id": "w3",
+      "text": "very",
+      "start": 0.342125,
+      "end": 0.684208
+    },
+    {
+      "id": "w4",
+      "text": "different",
+      "start": 0.684208,
+      "end": 1.078958
+    },
+    {
+      "id": "w5",
+      "text": "problem",
+      "start": 1.078958,
+      "end": 1.592124
+    },
+    {
+      "id": "w6",
+      "text": "from",
+      "start": 1.828958,
+      "end": 2.026333
+    },
+    {
+      "id": "w7",
+      "text": "missing",
+      "start": 2.039458,
+      "end": 2.355249
+    },
+    {
+      "id": "w8",
+      "text": "a",
+      "start": 2.368416,
+      "end": 2.421041
+    },
+    {
+      "id": "w9",
+      "text": "promotion.",
+      "start": 2.434208,
+      "end": 3.052624
+    },
+    {
+      "id": "w10",
+      "text": "If",
+      "start": 3.486833,
+      "end": 3.578958
+    },
+    {
+      "id": "w11",
+      "text": "the",
+      "start": 3.592125,
+      "end": 3.671041
+    },
+    {
+      "id": "w12",
+      "text": "game",
+      "start": 3.671041,
+      "end": 3.934207
+    },
+    {
+      "id": "w13",
+      "text": "is",
+      "start": 3.934208,
+      "end": 4.039458
+    },
+    {
+      "id": "w14",
+      "text": "installed,",
+      "start": 4.039458,
+      "end": 4.657874
+    },
+    {
+      "id": "w15",
+      "text": "you",
+      "start": 4.960541,
+      "end": 5.039457
+    },
+    {
+      "id": "w16",
+      "text": "can",
+      "start": 5.039458,
+      "end": 5.131583
+    },
+    {
+      "id": "w17",
+      "text": "play",
+      "start": 5.131583,
+      "end": 5.328958
+    },
+    {
+      "id": "w18",
+      "text": "your",
+      "start": 5.328958,
+      "end": 5.447374
+    },
+    {
+      "id": "w19",
+      "text": "copy.",
+      "start": 5.460541,
+      "end": 5.947374
+    },
+    {
+      "id": "w20",
+      "text": "If",
+      "start": 6.381583,
+      "end": 6.473708
+    },
+    {
+      "id": "w21",
+      "text": "you",
+      "start": 6.486833,
+      "end": 6.552624
+    },
+    {
+      "id": "w22",
+      "text": "delete",
+      "start": 6.552625,
+      "end": 6.986833
+    },
+    {
+      "id": "w23",
+      "text": "that",
+      "start": 6.986833,
+      "end": 7.131583
+    },
+    {
+      "id": "w24",
+      "text": "installation,",
+      "start": 7.131583,
+      "end": 7.855249
+    },
+    {
+      "id": "w25",
+      "text": "the",
+      "start": 8.315791,
+      "end": 8.381582
+    },
+    {
+      "id": "w26",
+      "text": "ordinary",
+      "start": 8.39475,
+      "end": 8.947375
+    },
+    {
+      "id": "w27",
+      "text": "recovery",
+      "start": 8.947375,
+      "end": 9.460541
+    },
+    {
+      "id": "w28",
+      "text": "path",
+      "start": 9.473666,
+      "end": 10.052624
+    },
+    {
+      "id": "w29",
+      "text": "you",
+      "start": 10.065791,
+      "end": 10.184207
+    },
+    {
+      "id": "w30",
+      "text": "expected",
+      "start": 10.197375,
+      "end": 10.776333
+    },
+    {
+      "id": "w31",
+      "text": "may",
+      "start": 10.789458,
+      "end": 10.999999
+    },
+    {
+      "id": "w32",
+      "text": "be",
+      "start": 11.013166,
+      "end": 11.118416
+    },
+    {
+      "id": "w33",
+      "text": "gone.",
+      "start": 11.118416,
+      "end": 11.486832
+    },
+    {
+      "id": "w34",
+      "text": "A",
+      "start": 11.907875,
+      "end": 11.986833
+    },
+    {
+      "id": "w35",
+      "text": "routine",
+      "start": 12.0,
+      "end": 12.526333
+    },
+    {
+      "id": "w36",
+      "text": "storage",
+      "start": 12.539458,
+      "end": 12.973666
+    },
+    {
+      "id": "w37",
+      "text": "decision",
+      "start": 12.986833,
+      "end": 13.526291
+    },
+    {
+      "id": "w38",
+      "text": "has",
+      "start": 13.75,
+      "end": 13.934208
+    },
+    {
+      "id": "w39",
+      "text": "acquired",
+      "start": 13.934208,
+      "end": 14.473666
+    },
+    {
+      "id": "w40",
+      "text": "an",
+      "start": 14.657875,
+      "end": 14.776291
+    },
+    {
+      "id": "w41",
+      "text": "unpleasant",
+      "start": 14.89475,
+      "end": 15.592125
+    },
+    {
+      "id": "w42",
+      "text": "amount",
+      "start": 15.592125,
+      "end": 15.868416
+    },
+    {
+      "id": "w43",
+      "text": "of",
+      "start": 15.868416,
+      "end": 15.921041
+    },
+    {
+      "id": "w44",
+      "text": "consequence.",
+      "start": 15.934208,
+      "end": 16.842083
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.47",
+      "input_tp": "-4.60",
+      "input_lra": "3.10",
+      "input_thresh": "-31.90",
+      "output_i": "-16.19",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-26.58",
+      "normalization_type": "dynamic",
+      "target_offset": "0.19"
+    },
+    "output": {
+      "input_i": "-21.47",
+      "input_tp": "-4.60",
+      "input_lra": "3.10",
+      "input_thresh": "-31.90",
+      "output_i": "-16.03",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-26.43",
+      "normalization_type": "dynamic",
+      "target_offset": "0.03"
+    }
+  },
+  "fingerprint": "8a1b96b9a364e19847eb231cafb9ffdadb3d2f965d3337ca97650c394a5b988f"
+}

@@ -1,0 +1,323 @@
+{
+  "id": "c05p02",
+  "text": "That reveal changes your memory of the room. What looked like an unknown studio's experiment is now a demonstration attached to people with reputations. It's a sales pitch delivered after you've already felt the thing it's selling. No trailer narrator needed. Your nervous system has seen enough.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c05p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c05p02.wav",
+  "duration": 18.336,
+  "words": [
+    {
+      "id": "w0",
+      "text": "That",
+      "start": 0.104166,
+      "end": 0.247416
+    },
+    {
+      "id": "w1",
+      "text": "reveal",
+      "start": 0.260416,
+      "end": 0.898457
+    },
+    {
+      "id": "w2",
+      "text": "changes",
+      "start": 1.067708,
+      "end": 1.523458
+    },
+    {
+      "id": "w3",
+      "text": "your",
+      "start": 1.523458,
+      "end": 1.614583
+    },
+    {
+      "id": "w4",
+      "text": "memory",
+      "start": 1.614583,
+      "end": 1.992208
+    },
+    {
+      "id": "w5",
+      "text": "of",
+      "start": 1.992208,
+      "end": 2.057291
+    },
+    {
+      "id": "w6",
+      "text": "the",
+      "start": 2.057291,
+      "end": 2.109374
+    },
+    {
+      "id": "w7",
+      "text": "room.",
+      "start": 2.109375,
+      "end": 2.434916
+    },
+    {
+      "id": "w8",
+      "text": "What",
+      "start": 2.838541,
+      "end": 2.968749
+    },
+    {
+      "id": "w9",
+      "text": "looked",
+      "start": 2.96875,
+      "end": 3.138041
+    },
+    {
+      "id": "w10",
+      "text": "like",
+      "start": 3.138041,
+      "end": 3.307332
+    },
+    {
+      "id": "w11",
+      "text": "an",
+      "start": 3.411458,
+      "end": 3.554708
+    },
+    {
+      "id": "w12",
+      "text": "unknown",
+      "start": 3.567708,
+      "end": 4.140624
+    },
+    {
+      "id": "w13",
+      "text": "studio's",
+      "start": 4.153666,
+      "end": 4.700541
+    },
+    {
+      "id": "w14",
+      "text": "experiment",
+      "start": 4.713541,
+      "end": 5.377624
+    },
+    {
+      "id": "w15",
+      "text": "is",
+      "start": 5.78125,
+      "end": 5.898458
+    },
+    {
+      "id": "w16",
+      "text": "now",
+      "start": 5.898458,
+      "end": 6.132833
+    },
+    {
+      "id": "w17",
+      "text": "a",
+      "start": 6.145833,
+      "end": 6.223958
+    },
+    {
+      "id": "w18",
+      "text": "demonstration",
+      "start": 6.237,
+      "end": 7.083375
+    },
+    {
+      "id": "w19",
+      "text": "attached",
+      "start": 7.161458,
+      "end": 7.734374
+    },
+    {
+      "id": "w20",
+      "text": "to",
+      "start": 7.747416,
+      "end": 7.838541
+    },
+    {
+      "id": "w21",
+      "text": "people",
+      "start": 7.838541,
+      "end": 8.216166
+    },
+    {
+      "id": "w22",
+      "text": "with",
+      "start": 8.216166,
+      "end": 8.346374
+    },
+    {
+      "id": "w23",
+      "text": "reputations.",
+      "start": 8.359375,
+      "end": 9.296875
+    },
+    {
+      "id": "w24",
+      "text": "It's",
+      "start": 9.713541,
+      "end": 9.804707
+    },
+    {
+      "id": "w25",
+      "text": "a",
+      "start": 9.804708,
+      "end": 9.869791
+    },
+    {
+      "id": "w26",
+      "text": "sales",
+      "start": 9.869791,
+      "end": 10.299499
+    },
+    {
+      "id": "w27",
+      "text": "pitch",
+      "start": 10.3125,
+      "end": 10.716166
+    },
+    {
+      "id": "w28",
+      "text": "delivered",
+      "start": 10.716166,
+      "end": 11.354207
+    },
+    {
+      "id": "w29",
+      "text": "after",
+      "start": 11.575541,
+      "end": 11.835957
+    },
+    {
+      "id": "w30",
+      "text": "you've",
+      "start": 11.848958,
+      "end": 12.135416
+    },
+    {
+      "id": "w31",
+      "text": "already",
+      "start": 12.252625,
+      "end": 12.578166
+    },
+    {
+      "id": "w32",
+      "text": "felt",
+      "start": 12.591166,
+      "end": 12.903666
+    },
+    {
+      "id": "w33",
+      "text": "the",
+      "start": 12.903666,
+      "end": 12.994832
+    },
+    {
+      "id": "w34",
+      "text": "thing",
+      "start": 13.007833,
+      "end": 13.346374
+    },
+    {
+      "id": "w35",
+      "text": "it's",
+      "start": 13.346375,
+      "end": 13.476583
+    },
+    {
+      "id": "w36",
+      "text": "selling.",
+      "start": 13.476583,
+      "end": 13.893249
+    },
+    {
+      "id": "w37",
+      "text": "No",
+      "start": 14.309916,
+      "end": 14.466166
+    },
+    {
+      "id": "w38",
+      "text": "trailer",
+      "start": 14.466166,
+      "end": 14.869791
+    },
+    {
+      "id": "w39",
+      "text": "narrator",
+      "start": 14.869791,
+      "end": 15.247416
+    },
+    {
+      "id": "w40",
+      "text": "needed.",
+      "start": 15.260416,
+      "end": 15.624999
+    },
+    {
+      "id": "w41",
+      "text": "Your",
+      "start": 16.054708,
+      "end": 16.158874
+    },
+    {
+      "id": "w42",
+      "text": "nervous",
+      "start": 16.171875,
+      "end": 16.601583
+    },
+    {
+      "id": "w43",
+      "text": "system",
+      "start": 16.601583,
+      "end": 17.005208
+    },
+    {
+      "id": "w44",
+      "text": "has",
+      "start": 17.005208,
+      "end": 17.148458
+    },
+    {
+      "id": "w45",
+      "text": "seen",
+      "start": 17.148458,
+      "end": 17.460958
+    },
+    {
+      "id": "w46",
+      "text": "enough.",
+      "start": 17.460958,
+      "end": 17.955749
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.22",
+      "input_tp": "-3.35",
+      "input_lra": "2.90",
+      "input_thresh": "-31.04",
+      "output_i": "-16.05",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-26.69",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    },
+    "output": {
+      "input_i": "-20.22",
+      "input_tp": "-3.35",
+      "input_lra": "2.90",
+      "input_thresh": "-31.04",
+      "output_i": "-16.01",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-26.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    }
+  },
+  "fingerprint": "a00e6ee1383912f108f43bf3d75188bdf88eb1cbff67d6b3d0b5cc8f448df116"
+}

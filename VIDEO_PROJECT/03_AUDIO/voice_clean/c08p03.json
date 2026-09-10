@@ -1,0 +1,341 @@
+{
+  "id": "c08p03",
+  "text": "A recording preserves a lot: the lighting, the sounds, the surprise at the ending. But the video decides when to turn the corner. Playing asks you to turn it. That hesitation belongs to you. A clip of somebody else being afraid cannot completely preserve the decision that made them afraid.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c08p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c08p03.wav",
+  "duration": 19.2,
+  "words": [
+    {
+      "id": "w0",
+      "text": "A",
+      "start": 0.108708,
+      "end": 0.163041
+    },
+    {
+      "id": "w1",
+      "text": "recording",
+      "start": 0.163041,
+      "end": 0.774457
+    },
+    {
+      "id": "w2",
+      "text": "preserves",
+      "start": 0.774458,
+      "end": 1.317916
+    },
+    {
+      "id": "w3",
+      "text": "a",
+      "start": 1.317916,
+      "end": 1.372249
+    },
+    {
+      "id": "w4",
+      "text": "lot:",
+      "start": 1.372291,
+      "end": 1.915749
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 2.377708,
+      "end": 2.513583
+    },
+    {
+      "id": "w6",
+      "text": "lighting,",
+      "start": 2.527166,
+      "end": 3.111416
+    },
+    {
+      "id": "w7",
+      "text": "the",
+      "start": 3.301625,
+      "end": 3.410333
+    },
+    {
+      "id": "w8",
+      "text": "sounds,",
+      "start": 3.410333,
+      "end": 4.184791
+    },
+    {
+      "id": "w9",
+      "text": "the",
+      "start": 4.361416,
+      "end": 4.456541
+    },
+    {
+      "id": "w10",
+      "text": "surprise",
+      "start": 4.470125,
+      "end": 5.163041
+    },
+    {
+      "id": "w11",
+      "text": "at",
+      "start": 5.163041,
+      "end": 5.230957
+    },
+    {
+      "id": "w12",
+      "text": "the",
+      "start": 5.244583,
+      "end": 5.326083
+    },
+    {
+      "id": "w13",
+      "text": "ending.",
+      "start": 5.326083,
+      "end": 5.801624
+    },
+    {
+      "id": "w14",
+      "text": "But",
+      "start": 6.263583,
+      "end": 6.372291
+    },
+    {
+      "id": "w15",
+      "text": "the",
+      "start": 6.372291,
+      "end": 6.440207
+    },
+    {
+      "id": "w16",
+      "text": "video",
+      "start": 6.453791,
+      "end": 6.861416
+    },
+    {
+      "id": "w17",
+      "text": "decides",
+      "start": 6.861416,
+      "end": 7.581541
+    },
+    {
+      "id": "w18",
+      "text": "when",
+      "start": 7.581541,
+      "end": 7.690207
+    },
+    {
+      "id": "w19",
+      "text": "to",
+      "start": 7.690208,
+      "end": 7.730958
+    },
+    {
+      "id": "w20",
+      "text": "turn",
+      "start": 7.744583,
+      "end": 7.989124
+    },
+    {
+      "id": "w21",
+      "text": "the",
+      "start": 7.989125,
+      "end": 8.043458
+    },
+    {
+      "id": "w22",
+      "text": "corner.",
+      "start": 8.043458,
+      "end": 8.518999
+    },
+    {
+      "id": "w23",
+      "text": "Playing",
+      "start": 8.967375,
+      "end": 9.252708
+    },
+    {
+      "id": "w24",
+      "text": "asks",
+      "start": 9.266291,
+      "end": 9.605957
+    },
+    {
+      "id": "w25",
+      "text": "you",
+      "start": 9.605958,
+      "end": 9.714666
+    },
+    {
+      "id": "w26",
+      "text": "to",
+      "start": 9.714666,
+      "end": 9.782582
+    },
+    {
+      "id": "w27",
+      "text": "turn",
+      "start": 9.782625,
+      "end": 10.067958
+    },
+    {
+      "id": "w28",
+      "text": "it.",
+      "start": 10.081541,
+      "end": 10.271749
+    },
+    {
+      "id": "w29",
+      "text": "That",
+      "start": 10.720125,
+      "end": 10.828791
+    },
+    {
+      "id": "w30",
+      "text": "hesitation",
+      "start": 10.828791,
+      "end": 11.467374
+    },
+    {
+      "id": "w31",
+      "text": "belongs",
+      "start": 11.467375,
+      "end": 11.902166
+    },
+    {
+      "id": "w32",
+      "text": "to",
+      "start": 11.902166,
+      "end": 12.010874
+    },
+    {
+      "id": "w33",
+      "text": "you.",
+      "start": 12.010875,
+      "end": 12.282625
+    },
+    {
+      "id": "w34",
+      "text": "A",
+      "start": 12.730958,
+      "end": 12.785291
+    },
+    {
+      "id": "w35",
+      "text": "clip",
+      "start": 12.798916,
+      "end": 13.029874
+    },
+    {
+      "id": "w36",
+      "text": "of",
+      "start": 13.029875,
+      "end": 13.111416
+    },
+    {
+      "id": "w37",
+      "text": "somebody",
+      "start": 13.125,
+      "end": 13.47825
+    },
+    {
+      "id": "w38",
+      "text": "else",
+      "start": 13.47825,
+      "end": 13.804333
+    },
+    {
+      "id": "w39",
+      "text": "being",
+      "start": 13.817916,
+      "end": 14.089666
+    },
+    {
+      "id": "w40",
+      "text": "afraid",
+      "start": 14.10325,
+      "end": 14.755416
+    },
+    {
+      "id": "w41",
+      "text": "cannot",
+      "start": 14.904875,
+      "end": 15.366833
+    },
+    {
+      "id": "w42",
+      "text": "completely",
+      "start": 15.380416,
+      "end": 16.100541
+    },
+    {
+      "id": "w43",
+      "text": "preserve",
+      "start": 16.100541,
+      "end": 16.739124
+    },
+    {
+      "id": "w44",
+      "text": "the",
+      "start": 16.739125,
+      "end": 16.807041
+    },
+    {
+      "id": "w45",
+      "text": "decision",
+      "start": 16.820666,
+      "end": 17.459249
+    },
+    {
+      "id": "w46",
+      "text": "that",
+      "start": 17.690208,
+      "end": 17.812499
+    },
+    {
+      "id": "w47",
+      "text": "made",
+      "start": 17.8125,
+      "end": 18.097833
+    },
+    {
+      "id": "w48",
+      "text": "them",
+      "start": 18.097833,
+      "end": 18.220124
+    },
+    {
+      "id": "w49",
+      "text": "afraid.",
+      "start": 18.220125,
+      "end": 18.790791
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.51",
+      "input_tp": "-4.31",
+      "input_lra": "5.10",
+      "input_thresh": "-32.35",
+      "output_i": "-16.33",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-27.06",
+      "normalization_type": "dynamic",
+      "target_offset": "0.33"
+    },
+    "output": {
+      "input_i": "-21.51",
+      "input_tp": "-4.31",
+      "input_lra": "5.10",
+      "input_thresh": "-32.35",
+      "output_i": "-16.05",
+      "output_tp": "-1.50",
+      "output_lra": "1.80",
+      "output_thresh": "-26.79",
+      "normalization_type": "dynamic",
+      "target_offset": "0.05"
+    }
+  },
+  "fingerprint": "09e2f200ff21b7ace12c8924aabbf2a93e1c4799301be2c6daaaf9218901b0e8"
+}

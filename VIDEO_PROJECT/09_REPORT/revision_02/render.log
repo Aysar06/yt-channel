@@ -1,0 +1,801 @@
+npm notice run npx
+npm notice run hyperframes render --fps 24 --quality high --workers 4 --gpu --crf 18 --output 07_EXPORT/revision_02.mp4
+
+◆  Rendering VIDEO_PROJECT → C:\Users\aysar\Documents\ChatGPT\video editor for long form videos\VIDEO_PROJECT\07_EXPORT\revision_02.mp4
+   24fps · high · 4 workers
+   GPU: encoder GPU + browser GPU (auto-detect)
+
+[?25l|
+o  Browser: cache
+[?25h
+  ⚠ [compositions/ch01.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch01.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch01.html] timeline_track_too_dense: Track 1 has 9 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch02.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch02.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch02.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch03.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch03.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch03.html] timeline_track_too_dense: Track 1 has 11 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch04.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch04.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch04.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch05.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch05.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch05.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch06.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch06.html] timeline_track_too_dense: Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch07.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch07.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch08.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch08.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch08.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch09.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch09.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch09.html] timeline_track_too_dense: Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch10.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch10.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch10.html] timeline_track_too_dense: Track 1 has 10 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch11.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch11.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch11.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/ch12.html] duplicate_media_discovery_risk: Detected 4 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch12.html] duplicate_media_discovery_risk: Detected 2 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/ch12.html] timeline_track_too_dense: Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/revision_02/r01.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/revision_02/r01.html] timeline_track_too_dense: Track 1 has 4 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s006]: <video id="s006"> has data-start="8.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="8.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s007]: <video id="s007"> has data-start="18.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="18.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s008]: <video id="s008"> has data-start="26.200000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="26.200000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s009]: <video id="s009"> has data-start="31.700000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="31.700000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s010]: <video id="s010"> has data-start="37.100000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="37.100000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r02.html] nested_media_start_basis_ambiguous [s011]: <video id="s011"> has data-start="50.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="50.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s013]: <video id="s013"> has data-start="16.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="16.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s015]: <video id="s015"> has data-start="33.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="33.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s016]: <video id="s016"> has data-start="44.300000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="44.300000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] nested_media_start_basis_ambiguous [s017]: <video id="s017"> has data-start="52.100000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="52.100000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r03.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s012-body" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s019]: <video id="s019"> has data-start="10.700000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="10.700000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s020]: <video id="s020"> has data-start="24.700000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="24.700000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s021]: <video id="s021"> has data-start="29.900000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="29.900000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s022]: <video id="s022"> has data-start="34.600000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="34.600000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r04.html] nested_media_start_basis_ambiguous [s023]: <video id="s023"> has data-start="41.800000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="41.800000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r05.html] nested_media_start_basis_ambiguous [s027]: <video id="s027"> has data-start="19.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="19.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r05.html] nested_media_start_basis_ambiguous [s029]: <video id="s029"> has data-start="42.900000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="42.900000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r06.html] duplicate_media_discovery_risk: Detected 3 matching img entries with the same source/start/duration.
+    Fix: Avoid duplicated media nodes that can be discovered twice during compilation.
+  ⚠ [compositions/revision_02/r06.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s031-d1" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+  ⚠ [compositions/revision_02/r06.html] timeline_track_too_dense: Track 1 has 5 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.
+    Fix: Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate.
+  ⚠ [compositions/revision_02/r07.html] nested_media_start_basis_ambiguous [s039]: <video id="s039"> has data-start="51.000000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="51.000000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s041]: <video id="s041"> has data-start="7.800000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="7.800000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s042]: <video id="s042"> has data-start="13.600000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="13.600000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s043]: <video id="s043"> has data-start="31.600000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="31.600000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s044]: <video id="s044"> has data-start="39.200000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="39.200000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r08.html] nested_media_start_basis_ambiguous [s045]: <video id="s045"> has data-start="55.200000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="55.200000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r09.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s046-body" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s050]: <video id="s050"> has data-start="16.500000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="16.500000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s051]: <video id="s051"> has data-start="26.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="26.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s052]: <video id="s052"> has data-start="40.400000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="40.400000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] nested_media_start_basis_ambiguous [s053]: <video id="s053"> has data-start="54.100000" inside a sub-composition. Nested media timing is local to its composition by default; a nonzero value can be confused with a legacy root-global timestamp.
+    Fix: Keep data-start="54.100000" if it is composition-local. If this is a legacy root-global timestamp, add data-hf-media-start-basis="global"; otherwise convert it to local time by subtracting the host start.
+  ⚠ [compositions/revision_02/r10.html] gsap_timeline_set_initial_hide: Initial hidden state for "#s049-actual" is set via tl.set(...) at position 0 inside the paused timeline. A zero-duration set at 0 does not render while the playhead sits exactly at 0, so frame 0 shows the un-hidden state.
+    Fix: Use gsap.set(...) (immediate, outside the timeline) for initial states, or author the hidden state directly in CSS/attributes.
+  Continuing render despite lint issues. Use --strict to block errors.
+
+[INFO] [Render] Pipeline started {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","platform":"win32","arch":"x64","nodeVersion":"v24.18.0","fps":{"num":24,"den":1},"format":"mp4","quality":"high","browserGpuMode":"auto","forceScreenshot":false,"protocolTimeout":300000,"browserTimeout":120000,"pageNavigationTimeout":60000,"playerReadyTimeout":45000}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"pipeline","status":"checkpoint","elapsedMs":4,"message":"started","format":"mp4","quality":"high","browserGpuMode":"auto","forceScreenshot":false,"protocolTimeoutMs":300000,"pageNavigationTimeoutMs":60000,"playerReadyTimeoutMs":45000,"requestedWorkers":4}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"compile","status":"start","elapsedMs":7,"needsAlpha":false}
+  █░░░░░░░░░░░░░░░░░░░░░░░░  5%  Compiling composition
+[INFO] [Compiler] Fetched 11 font face(s) for "Inter" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\inter)
+[INFO] [Compiler] Fetched 7 font face(s) for "EB Garamond" from Google Fonts (cached to C:\Users\aysar\.cache\hyperframes\fonts\eb-garamond)
+[INFO] [Compiler] Injected deterministic @font-face rules for 2 requested font families
+[INFO] [Compiler] Inlined CDN script: https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js
+[INFO] Compiled composition metadata {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","entryFile":"index.html","staticDuration":622.236479,"width":1920,"height":1080,"videoCount":30,"audioCount":1,"renderModeHints":{"recommendScreenshot":false,"reasons":[]}}
+[WARN] [Compiler] WARNING: Video "s010" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s010.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s011" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s011.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s015" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s015.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s017" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s017.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s018" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s018.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s019" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s019.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s023" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s023.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s027" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s027.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s029" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s029.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s042" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s042.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s044" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s044.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s045" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s045.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s051" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s051.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[WARN] [Compiler] WARNING: Video "s052" has sparse keyframes (max interval: 10.42s). This causes seek failures and frame freezing. Re-encode with: ffmpeg -i "04_MEDIA/video/cuts/s052.mp4" -c:v libx264 -r 30 -g 30 -keyint_min 30 -movflags +faststart -c:a copy output.mp4
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"compile","status":"end","elapsedMs":3426,"durationMs":3418,"needsAlpha":false}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"compile","status":"checkpoint","elapsedMs":3428,"message":"composition metadata resolved","width":1920,"height":1080,"videoCount":30,"audioCount":1,"imageCount":31,"deviceScaleFactor":1,"forceScreenshot":false,"compositionHash":"06f750a3c6745d9c"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"browser_probe","status":"start","elapsedMs":3429,"forceScreenshot":false,"stagePhase":"calibrating"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"browser_probe","status":"end","elapsedMs":3574,"durationMs":145,"forceScreenshot":false,"stagePhase":"calibrating"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"browser_probe","status":"checkpoint","elapsedMs":3576,"message":"duration resolved","durationSeconds":622.236479,"totalFrames":14934,"compositionHash":"06f750a3c6745d9c","beginFrameStalled":false}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"video_extract","status":"start","elapsedMs":3576,"videoCount":30}
+[INFO] Probing video color spaces... {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","videoCount":30}
+  ██░░░░░░░░░░░░░░░░░░░░░░░  10%  Extracting video frames
+[INFO] Extracting frames from video 1/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 2/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 3/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 4/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 5/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 6/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 7/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 8/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 9/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 10/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 11/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 12/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 13/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 14/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 15/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 16/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 17/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 18/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 19/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 20/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 21/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 22/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 23/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 24/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 25/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 26/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 27/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 28/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 29/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] Extracting frames from video 30/30 {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","sourceType":"local"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"video_extract","status":"end","elapsedMs":6472,"durationMs":2896,"videoCount":30}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"video_extract","status":"checkpoint","elapsedMs":6477,"message":"frames resolved","videoCount":30,"extractedVideoCount":30,"totalFramesExtracted":7461,"maxFramesPerVideo":489,"avgFramesPerExtractedVideo":249,"vfrPreflightCount":0,"vfrPreflightMs":0,"cacheHits":30,"cacheMisses":0,"transientRetries":0,"minVideoFrameCoverageRatio":1,"authoredTimedClipCount":67}
+[INFO] [Render] No HDR sources detected — rendering SDR {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"hdr_detection","status":"checkpoint","elapsedMs":6478,"message":"resolved","requestedHdrMode":"auto","effectiveHdr":"sdr","nativeHdrVideoCount":0,"nativeHdrImageCount":0}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"audio_process","status":"start","elapsedMs":6478,"audioCount":1}
+  █████░░░░░░░░░░░░░░░░░░░░  20%  Processing audio tracks
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"audio_process","status":"end","elapsedMs":20519,"durationMs":14041,"audioCount":1}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"file_server","status":"start","elapsedMs":20520,"reused":false}
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Starting frame capture
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"file_server","status":"end","elapsedMs":20529,"durationMs":9}
+[hyperframes] browserGpuMode probe → hardware (WebGL renderer vendor="Google Inc. (NVIDIA)" renderer="ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 (0x00002882) Direct3D11 vs_5_0 ps_5_0, D3D11)")
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_calibration","status":"checkpoint","elapsedMs":21087,"message":"skipped","requestedWorkers":4,"totalFrames":14934,"htmlInCanvasDetected":false,"lowMemoryMode":false,"deInversionEligible":false,"deParallelRouterEligible":false}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"worker_resolution","status":"checkpoint","elapsedMs":21088,"message":"resolved","workerCount":4}
+[INFO] [Render] Parallel screenshot capture will stream to the encoder (interleaved, 4 workers) instead of the disk path. Set HF_CAPTURE_PARALLEL_STREAM=false to disable. {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"worker_resolution","status":"checkpoint","elapsedMs":21088,"message":"parallel screenshot capture routed to streaming"}
+[INFO] streaming-encode gate {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","enabled":true,"configFlag":true,"outputFormat":"mp4","workerCount":4,"durationSeconds":622.236479,"maxDurationSeconds":900}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_strategy","status":"checkpoint","elapsedMs":21089,"message":"resolved","workerCount":4,"forceScreenshot":false,"captureBeyondViewport":true,"useStreamingEncode":true,"useLayeredComposite":false,"usePageSideCompositing":false,"hasHdrContent":false,"hasShaderTransitions":false,"isPngSequence":false}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_streaming","status":"start","elapsedMs":21089,"stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":0,"captureMode":"beginframe","captureOperation":"beginFrame"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":0,"phase":"browser_launch","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":1,"phase":"browser_launch","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":2,"phase":"browser_launch","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":3,"phase":"browser_launch","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":2,"phase":"browser_probe","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":2,"phase":"session_init","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[initSession:screenshot] page.goto start (1ms)
+[BrowserManager] Browser launched (HeadlessChrome/152.0.7977.30, screenshot, gl=--use-gl=angle --use-angle=d3d11, headlessShell=true, platform=win32)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":1,"phase":"browser_probe","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":1,"phase":"session_init","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[initSession:screenshot] page.goto start (0ms)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":3,"phase":"browser_probe","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":3,"phase":"session_init","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[initSession:screenshot] page.goto start (0ms)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":0,"phase":"browser_probe","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"unknown","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":0,"phase":"session_init","browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":"unknown","gpuBackend":"unknown"}
+[initSession:screenshot] page.goto start (0ms)
+[HyperFrames] render runtime fps [object Object]
+[HyperFrames] render runtime fps [object Object]
+[initSession:screenshot] page.goto complete (2499ms)
+[HyperFrames] render runtime fps [object Object]
+[HyperFrames] render runtime fps [object Object]
+[initSession:screenshot] page.goto complete (2631ms)
+[initSession:screenshot] page.goto complete (2568ms)
+[initSession:screenshot] page.goto complete (2593ms)
+[initSession:screenshot] GSAP proxy flush complete (5698ms)
+[initSession:screenshot] GSAP proxy flush complete (5576ms)
+[initSession:screenshot] GSAP proxy flush complete (5504ms)
+[initSession:screenshot] GSAP proxy flush complete (5523ms)
+[initSession:screenshot] pollHfReady complete (5768ms)
+[initSession:screenshot] pollHfReady complete (5642ms)
+[initSession:screenshot] pollHfReady complete (5570ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (5773ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (5576ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (5649ms)
+[initSession:screenshot] applyVideoMetadataHints complete (5777ms)
+[initSession:screenshot] applyVideoMetadataHints complete (5579ms)
+[initSession:screenshot] applyVideoMetadataHints complete (5652ms)
+[initSession:screenshot] pollHfReady complete (5599ms)
+[initSession:screenshot] media + fonts + tailwind ready (5585ms)
+[initSession:screenshot] media + fonts + tailwind ready (5787ms)
+[initSession:screenshot] media + fonts + tailwind ready (5660ms)
+[initSession:screenshot] pollSubCompositionTimelines complete (ready) (5609ms)
+[initSession:screenshot] captureBeyondViewport downgraded: page content fits the capture viewport (5594ms)
+[initSession:screenshot] static-frame dedup: disabled (before-capture hook / video injection active) (5595ms)
+[initSession:screenshot] captureBeyondViewport downgraded: page content fits the capture viewport (5796ms)
+[initSession:screenshot] static-frame dedup: disabled (before-capture hook / video injection active) (5796ms)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":0,"phase":"frame_capture","frameIndex":0,"browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":false,"gpuBackend":"unknown"}
+[initSession:screenshot] applyVideoMetadataHints complete (5617ms)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":2,"phase":"frame_capture","frameIndex":2,"browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":false,"gpuBackend":"unknown"}
+[initSession:screenshot] captureBeyondViewport downgraded: page content fits the capture viewport (5674ms)
+[initSession:screenshot] static-frame dedup: disabled (before-capture hook / video injection active) (5674ms)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":1,"phase":"frame_capture","frameIndex":1,"browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":false,"gpuBackend":"unknown"}
+[initSession:screenshot] media + fonts + tailwind ready (5630ms)
+[initSession:screenshot] captureBeyondViewport downgraded: page content fits the capture viewport (5640ms)
+[initSession:screenshot] static-frame dedup: disabled (before-capture hook / video injection active) (5640ms)
+[INFO] [Render] Parallel capture worker phase {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","workerId":3,"phase":"frame_capture","frameIndex":3,"browserExecutable":"C:\\Users\\aysar\\.cache\\hyperframes\\chrome\\chrome-headless-shell\\win64-152.0.7977.30\\chrome-headless-shell-win64\\chrome-headless-shell.exe","browserVersion":"HeadlessChrome/152.0.7977.30","canvasDrawElement":false,"gpuBackend":"unknown"}
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 30/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 60/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 90/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  25%  Streaming frame 120/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 150/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 180/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 210/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 240/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 270/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 300/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 330/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 360/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  26%  Streaming frame 390/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 420/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 450/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 480/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 510/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 540/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 570/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 600/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 630/14934 (4 workers)
+  ██████░░░░░░░░░░░░░░░░░░░  27%  Streaming frame 660/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 690/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 720/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 750/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 780/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 810/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 840/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 870/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 900/14934 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_streaming","status":"checkpoint","elapsedMs":51092,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":916,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":1,"stageElapsedMs":30003}
+  ███████░░░░░░░░░░░░░░░░░░  28%  Streaming frame 930/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 960/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 990/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1020/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1050/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1080/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1110/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1140/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1170/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  29%  Streaming frame 1200/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1230/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1260/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1290/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1320/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1350/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1380/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1410/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1440/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  30%  Streaming frame 1470/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1500/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1530/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1560/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1590/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1620/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1650/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1680/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1710/14934 (4 workers)
+  ███████░░░░░░░░░░░░░░░░░░  31%  Streaming frame 1740/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1770/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1800/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1830/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1860/14934 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_streaming","status":"checkpoint","elapsedMs":81104,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":1868,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":2,"stageElapsedMs":60015}
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1890/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1920/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1950/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 1980/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  32%  Streaming frame 2010/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2040/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2070/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2100/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2130/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2160/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2190/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2220/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2250/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  33%  Streaming frame 2280/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2310/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2340/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2370/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2400/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2430/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2460/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2490/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2520/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  34%  Streaming frame 2550/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2580/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2610/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2640/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2670/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2700/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2730/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2760/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2790/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2820/14934 (4 workers)
+  ████████░░░░░░░░░░░░░░░░░  35%  Streaming frame 2850/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 2880/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 2910/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 2940/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 2970/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 3000/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 3030/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 3060/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 3090/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  36%  Streaming frame 3120/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3150/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3180/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3210/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3240/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3270/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3300/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3330/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3360/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  37%  Streaming frame 3390/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3420/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3450/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3480/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3510/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3540/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3570/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3600/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3630/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  38%  Streaming frame 3660/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3690/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3720/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3750/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3780/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3810/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3840/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3870/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3900/14934 (4 workers)
+  █████████░░░░░░░░░░░░░░░░  39%  Streaming frame 3930/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 3960/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 3990/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 4020/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 4050/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 4080/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 4110/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 4140/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 4170/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  40%  Streaming frame 4200/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4230/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4260/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4290/14934 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_streaming","status":"checkpoint","elapsedMs":141106,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":4306,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":3,"stageElapsedMs":120017}
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4320/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4350/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4380/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4410/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4440/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  41%  Streaming frame 4470/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4500/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4530/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4560/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4590/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4620/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4650/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4680/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4710/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  42%  Streaming frame 4740/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4770/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4800/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4830/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4860/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4890/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4920/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4950/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 4980/14934 (4 workers)
+  ██████████░░░░░░░░░░░░░░░  43%  Streaming frame 5010/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5040/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5070/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5100/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5130/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5160/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5190/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5220/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5250/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  44%  Streaming frame 5280/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5310/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5340/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5370/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5400/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5430/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5460/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5490/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5520/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  45%  Streaming frame 5550/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5580/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5610/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5640/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5670/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5700/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5730/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5760/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5790/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  46%  Streaming frame 5820/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 5850/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 5880/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 5910/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 5940/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 5970/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 6000/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 6030/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 6060/14934 (4 workers)
+  ███████████░░░░░░░░░░░░░░  47%  Streaming frame 6090/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6120/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6150/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6180/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6210/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6240/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6270/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6300/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6330/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  48%  Streaming frame 6360/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6390/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6420/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6450/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6480/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6510/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6540/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6570/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6600/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  49%  Streaming frame 6630/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6660/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6690/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6720/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6750/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6780/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6810/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6840/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6870/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  50%  Streaming frame 6900/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 6930/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 6960/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 6990/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 7020/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 7050/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 7080/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 7110/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 7140/14934 (4 workers)
+  ████████████░░░░░░░░░░░░░  51%  Streaming frame 7170/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7200/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7230/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7260/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7290/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7320/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7350/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7380/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7410/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  52%  Streaming frame 7440/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7470/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7500/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7530/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7560/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7590/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7620/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7650/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7680/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  53%  Streaming frame 7710/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7740/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7770/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7800/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7830/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7860/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7890/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7920/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7950/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 7980/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  54%  Streaming frame 8010/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8040/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8070/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8100/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8130/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8160/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8190/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8220/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8250/14934 (4 workers)
+  █████████████░░░░░░░░░░░░  55%  Streaming frame 8280/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8310/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8340/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8370/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8400/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8430/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8460/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8490/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8520/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  56%  Streaming frame 8550/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8580/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8610/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8640/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8670/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8700/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8730/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8760/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8790/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  57%  Streaming frame 8820/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 8850/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 8880/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 8910/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 8940/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 8970/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 9000/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 9030/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 9060/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  58%  Streaming frame 9090/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9120/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9150/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9180/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9210/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9240/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9270/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9300/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9330/14934 (4 workers)
+  ██████████████░░░░░░░░░░░  59%  Streaming frame 9360/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9390/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9420/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9450/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9480/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9510/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9540/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9570/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9600/14934 (4 workers)
+  ███████████████░░░░░░░░░░  60%  Streaming frame 9630/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9660/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9690/14934 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_streaming","status":"checkpoint","elapsedMs":261110,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":9713,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":4,"stageElapsedMs":240021}
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9720/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9750/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9780/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9810/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9840/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9870/14934 (4 workers)
+  ███████████████░░░░░░░░░░  61%  Streaming frame 9900/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 9930/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 9960/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 9990/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 10020/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 10050/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 10080/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 10110/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 10140/14934 (4 workers)
+  ███████████████░░░░░░░░░░  62%  Streaming frame 10170/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10200/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10230/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10260/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10290/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10320/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10350/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10380/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10410/14934 (4 workers)
+  ███████████████░░░░░░░░░░  63%  Streaming frame 10440/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10470/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10500/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10530/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10560/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10590/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10620/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10650/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10680/14934 (4 workers)
+  ████████████████░░░░░░░░░  64%  Streaming frame 10710/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10740/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10770/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10800/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10830/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10860/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10890/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10920/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10950/14934 (4 workers)
+  ████████████████░░░░░░░░░  65%  Streaming frame 10980/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11010/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11040/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11070/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11100/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11130/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11160/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11190/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11220/14934 (4 workers)
+  ████████████████░░░░░░░░░  66%  Streaming frame 11250/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11280/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11310/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11340/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11370/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11400/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11430/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11460/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11490/14934 (4 workers)
+  ████████████████░░░░░░░░░  67%  Streaming frame 11520/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11550/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11580/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11610/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11640/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11670/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11700/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11730/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11760/14934 (4 workers)
+  █████████████████░░░░░░░░  68%  Streaming frame 11790/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 11820/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 11850/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 11880/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 11910/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 11940/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 11970/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 12000/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 12030/14934 (4 workers)
+  █████████████████░░░░░░░░  69%  Streaming frame 12060/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12090/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12120/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12150/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12180/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12210/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12240/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12270/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12300/14934 (4 workers)
+  █████████████████░░░░░░░░  70%  Streaming frame 12330/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12360/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12390/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12420/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12450/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12480/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12510/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12540/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12570/14934 (4 workers)
+  █████████████████░░░░░░░░  71%  Streaming frame 12600/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12630/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12660/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12690/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12720/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12750/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12780/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12810/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12840/14934 (4 workers)
+  ██████████████████░░░░░░░  72%  Streaming frame 12870/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 12900/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 12930/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 12960/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 12990/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 13020/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 13050/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 13080/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 13110/14934 (4 workers)
+  ██████████████████░░░░░░░  73%  Streaming frame 13140/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13170/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13200/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13230/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13260/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13290/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13320/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13350/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13380/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13410/14934 (4 workers)
+  ██████████████████░░░░░░░  74%  Streaming frame 13440/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13470/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13500/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13530/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13560/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13590/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13620/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13650/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13680/14934 (4 workers)
+  ██████████████████░░░░░░░  75%  Streaming frame 13710/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13740/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13770/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13800/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13830/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13860/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13890/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13920/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13950/14934 (4 workers)
+  ███████████████████░░░░░░  76%  Streaming frame 13980/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14010/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14040/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14070/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14100/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14130/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14160/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14190/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14220/14934 (4 workers)
+  ███████████████████░░░░░░  77%  Streaming frame 14250/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14280/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14310/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14340/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14370/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14400/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14430/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14460/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14490/14934 (4 workers)
+  ███████████████████░░░░░░  78%  Streaming frame 14520/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14550/14934 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_streaming","status":"checkpoint","elapsedMs":381114,"message":"stage still running","stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":14550,"captureMode":"beginframe","captureOperation":"beginFrame","heartbeatIndex":5,"stageElapsedMs":360025}
+  ███████████████████░░░░░░  79%  Streaming frame 14580/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14610/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14640/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14670/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14700/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14730/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14760/14934 (4 workers)
+  ███████████████████░░░░░░  79%  Streaming frame 14790/14934 (4 workers)
+  ████████████████████░░░░░  80%  Streaming frame 14820/14934 (4 workers)
+  ████████████████████░░░░░  80%  Streaming frame 14850/14934 (4 workers)
+  ████████████████████░░░░░  80%  Streaming frame 14880/14934 (4 workers)
+  ████████████████████░░░░░  80%  Streaming frame 14910/14934 (4 workers)
+  ████████████████████░░░░░  80%  Streaming frame 14934/14934 (4 workers)
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"capture_streaming","status":"end","elapsedMs":390641,"durationMs":369552,"stagePhase":"capturing","workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":14934,"captureMode":"beginframe","captureOperation":"encode"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"assemble","status":"start","elapsedMs":390646,"stagePhase":"capturing","hasAudio":true,"workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":14934,"captureMode":"beginframe","captureOperation":"encode"}
+  ██████████████████████░░░  90%  Assembling final video
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"assemble","status":"end","elapsedMs":407042,"durationMs":16396,"stagePhase":"capturing","hasAudio":true,"workerCount":4,"forceScreenshot":false,"totalFrames":14934,"framesCompleted":14934,"captureMode":"beginframe","captureOperation":"encode"}
+[INFO] [Render:trace] {"renderJobId":"7d9c31e1-b724-49a5-9f18-0c712cad8f01","phase":"pipeline","status":"checkpoint","elapsedMs":407768,"message":"artifact validated","totalElapsedMs":407172}
+  █████████████████████████  100%  Render complete
+
+◇  C:\Users\aysar\Documents\ChatGPT\video editor for long form videos\VIDEO_PROJECT\07_EXPORT\revision_02.mp4
+   328.6 MB · 10m 22.2s video · rendered in 6m 47.8s

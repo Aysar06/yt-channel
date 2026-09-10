@@ -1,0 +1,20 @@
+# Local dependencies, downloaded installers and regenerable working files
+.venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.handoff-local/
+tools/downloads/
+tools/ffmpeg-package/
+**/mix_work/
+**/.thumbnails/
+# This ZIP duplicates the rejected V1 export and packaging files retained separately.
+VIDEO_PROJECT/07_EXPORT/UPLOAD_PACKAGE_001.zip
+

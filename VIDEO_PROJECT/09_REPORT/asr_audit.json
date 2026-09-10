@@ -1,0 +1,8 @@
+{
+  "coverage": "Full narration processed with independent local ASR; not a human listening review.",
+  "model": "faster-whisper small.en / CPU int8",
+  "source_tokens": 2143,
+  "asr_tokens": 2121,
+  "token_sequence_similarity": 0.9779549718574109,
+  "review_segments": []
+}

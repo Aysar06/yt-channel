@@ -1,0 +1,166 @@
+{
+  "coverage": "Entire new narration independently transcribed. This is an automated intelligibility check, not an auditory review.",
+  "similarity": 0.9667472793228536,
+  "source_tokens": 1665,
+  "observed_tokens": 1643,
+  "differences": [
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "four",
+      "observed": "4"
+    },
+    {
+      "expected": "twenty fifteen",
+      "observed": "2015"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "is",
+      "observed": "s"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "players",
+      "observed": "readers"
+    },
+    {
+      "expected": "informer",
+      "observed": "in former"
+    },
+    {
+      "expected": "twenty fourteen",
+      "observed": "2014"
+    },
+    {
+      "expected": "seven seven eight zero s",
+      "observed": "7780s"
+    },
+    {
+      "expected": "reedus then",
+      "observed": "redust in"
+    },
+    {
+      "expected": "ve",
+      "observed": ""
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "twenty seventh twenty fifteen",
+      "observed": "27 2015"
+    },
+    {
+      "expected": "hill",
+      "observed": "hills"
+    },
+    {
+      "expected": "cancelled",
+      "observed": "cancel"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "but",
+      "observed": ""
+    },
+    {
+      "expected": "twenty ninth",
+      "observed": "29"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "sixth",
+      "observed": "6"
+    },
+    {
+      "expected": "too",
+      "observed": "2"
+    },
+    {
+      "expected": "four",
+      "observed": "4"
+    },
+    {
+      "expected": "gamefaqs",
+      "observed": "gamefaq s"
+    },
+    {
+      "expected": "wanted a way",
+      "observed": "want to weigh"
+    },
+    {
+      "expected": "a way",
+      "observed": "to weigh"
+    },
+    {
+      "expected": "twenty nineteen",
+      "observed": "2019"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "twenty twenty",
+      "observed": "2020"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "five",
+      "observed": "5"
+    },
+    {
+      "expected": "four",
+      "observed": "4"
+    },
+    {
+      "expected": "the",
+      "observed": "a"
+    },
+    {
+      "expected": "twenty twenty",
+      "observed": "2020"
+    },
+    {
+      "expected": "the",
+      "observed": "a"
+    },
+    {
+      "expected": "p t",
+      "observed": "pt"
+    },
+    {
+      "expected": "the",
+      "observed": "a"
+    },
+    {
+      "expected": "cancelled",
+      "observed": "canceled"
+    }
+  ],
+  "low_confidence": [],
+  "scope_note": "Full narration check preceded the final reveal-hold boundary correction. The corrected join was rechecked separately in reveal_join_check.json; no narration wording or other audio edit changed."
+}

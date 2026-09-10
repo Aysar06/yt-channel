@@ -1,0 +1,311 @@
+{
+  "id": "c01p01",
+  "text": "Imagine deleting a free game to make room on your console. Nothing dramatic. You need the space. You'll download it again later. Except, when you go back, the download is gone. The game is still sitting on somebody else's hard drive. Yours is just missing.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c01p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c01p01.wav",
+  "duration": 17.16,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Imagine",
+      "start": 0.093083,
+      "end": 0.545208
+    },
+    {
+      "id": "w1",
+      "text": "deleting",
+      "start": 0.545208,
+      "end": 0.970749
+    },
+    {
+      "id": "w2",
+      "text": "a",
+      "start": 0.97075,
+      "end": 1.023916
+    },
+    {
+      "id": "w3",
+      "text": "free",
+      "start": 1.023916,
+      "end": 1.449457
+    },
+    {
+      "id": "w4",
+      "text": "game",
+      "start": 1.449458,
+      "end": 1.914874
+    },
+    {
+      "id": "w5",
+      "text": "to",
+      "start": 2.074458,
+      "end": 2.194124
+    },
+    {
+      "id": "w6",
+      "text": "make",
+      "start": 2.194166,
+      "end": 2.486707
+    },
+    {
+      "id": "w7",
+      "text": "room",
+      "start": 2.486708,
+      "end": 2.885624
+    },
+    {
+      "id": "w8",
+      "text": "on",
+      "start": 3.244666,
+      "end": 3.351041
+    },
+    {
+      "id": "w9",
+      "text": "your",
+      "start": 3.364375,
+      "end": 3.457458
+    },
+    {
+      "id": "w10",
+      "text": "console.",
+      "start": 3.457458,
+      "end": 4.082458
+    },
+    {
+      "id": "w11",
+      "text": "Nothing",
+      "start": 4.494666,
+      "end": 4.760624
+    },
+    {
+      "id": "w12",
+      "text": "dramatic.",
+      "start": 4.760625,
+      "end": 5.372333
+    },
+    {
+      "id": "w13",
+      "text": "You",
+      "start": 5.797875,
+      "end": 5.864375
+    },
+    {
+      "id": "w14",
+      "text": "need",
+      "start": 5.864375,
+      "end": 6.050541
+    },
+    {
+      "id": "w15",
+      "text": "the",
+      "start": 6.050541,
+      "end": 6.117041
+    },
+    {
+      "id": "w16",
+      "text": "space.",
+      "start": 6.130333,
+      "end": 6.888291
+    },
+    {
+      "id": "w17",
+      "text": "You'll",
+      "start": 7.313833,
+      "end": 7.433499
+    },
+    {
+      "id": "w18",
+      "text": "download",
+      "start": 7.446791,
+      "end": 7.938832
+    },
+    {
+      "id": "w19",
+      "text": "it",
+      "start": 7.938833,
+      "end": 7.992041
+    },
+    {
+      "id": "w20",
+      "text": "again",
+      "start": 7.992041,
+      "end": 8.337749
+    },
+    {
+      "id": "w21",
+      "text": "later.",
+      "start": 8.33775,
+      "end": 8.776583
+    },
+    {
+      "id": "w22",
+      "text": "Except,",
+      "start": 9.202125,
+      "end": 9.707458
+    },
+    {
+      "id": "w23",
+      "text": "when",
+      "start": 9.9335,
+      "end": 10.053166
+    },
+    {
+      "id": "w24",
+      "text": "you",
+      "start": 10.053208,
+      "end": 10.119708
+    },
+    {
+      "id": "w25",
+      "text": "go",
+      "start": 10.132958,
+      "end": 10.305833
+    },
+    {
+      "id": "w26",
+      "text": "back,",
+      "start": 10.305833,
+      "end": 10.811166
+    },
+    {
+      "id": "w27",
+      "text": "the",
+      "start": 10.997333,
+      "end": 11.116999
+    },
+    {
+      "id": "w28",
+      "text": "download",
+      "start": 11.117041,
+      "end": 11.595749
+    },
+    {
+      "id": "w29",
+      "text": "is",
+      "start": 11.609041,
+      "end": 11.715416
+    },
+    {
+      "id": "w30",
+      "text": "gone.",
+      "start": 11.715416,
+      "end": 12.101041
+    },
+    {
+      "id": "w31",
+      "text": "The",
+      "start": 12.539875,
+      "end": 12.606375
+    },
+    {
+      "id": "w32",
+      "text": "game",
+      "start": 12.606375,
+      "end": 12.872333
+    },
+    {
+      "id": "w33",
+      "text": "is",
+      "start": 12.872333,
+      "end": 12.965416
+    },
+    {
+      "id": "w34",
+      "text": "still",
+      "start": 12.978708,
+      "end": 13.231374
+    },
+    {
+      "id": "w35",
+      "text": "sitting",
+      "start": 13.231375,
+      "end": 13.537208
+    },
+    {
+      "id": "w36",
+      "text": "on",
+      "start": 13.550541,
+      "end": 13.683499
+    },
+    {
+      "id": "w37",
+      "text": "somebody",
+      "start": 13.6835,
+      "end": 14.069125
+    },
+    {
+      "id": "w38",
+      "text": "else's",
+      "start": 14.082458,
+      "end": 14.441499
+    },
+    {
+      "id": "w39",
+      "text": "hard",
+      "start": 14.454791,
+      "end": 14.747332
+    },
+    {
+      "id": "w40",
+      "text": "drive.",
+      "start": 14.747333,
+      "end": 15.172874
+    },
+    {
+      "id": "w41",
+      "text": "Yours",
+      "start": 15.598416,
+      "end": 15.877666
+    },
+    {
+      "id": "w42",
+      "text": "is",
+      "start": 15.877666,
+      "end": 15.997332
+    },
+    {
+      "id": "w43",
+      "text": "just",
+      "start": 16.010625,
+      "end": 16.263291
+    },
+    {
+      "id": "w44",
+      "text": "missing.",
+      "start": 16.263291,
+      "end": 16.768624
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.31",
+      "input_tp": "-4.37",
+      "input_lra": "3.20",
+      "input_thresh": "-31.28",
+      "output_i": "-16.13",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-27.06",
+      "normalization_type": "dynamic",
+      "target_offset": "0.13"
+    },
+    "output": {
+      "input_i": "-20.31",
+      "input_tp": "-4.37",
+      "input_lra": "3.20",
+      "input_thresh": "-31.28",
+      "output_i": "-16.01",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-26.97",
+      "normalization_type": "dynamic",
+      "target_offset": "0.01"
+    }
+  },
+  "fingerprint": "f5e91c7438483ec054da2d1a08d0f0c19ee69b6cd53fc056d79b2feda22f8e9f"
+}

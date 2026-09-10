@@ -1,0 +1,845 @@
+{
+  "id": "r09",
+  "text": "Then came another test of the assumption that a digital library moves forward with you. In twenty twenty, reviewers reported playing P.T. on early PlayStation Five review hardware. For a short time, the old teaser appeared to have made the jump. In the days that followed, the listing changed to say it was playable on PlayStation Four, and the newer console would no longer run it. Sony told Polygon that the change was a publisher decision. These are historical reports about review hardware in twenty twenty, not a guide to what any workaround does today. They show the problem clearly enough: a newer machine did not guarantee a permanent route back. The age of your hardware and the survival of an experience had become connected in a way a download button never really explains.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+0%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_raw/r09.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/revision_02/voice_clean/r09.wav",
+  "duration": 47.856,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Then",
+      "start": 0.1,
+      "end": 0.4
+    },
+    {
+      "id": "w1",
+      "text": "came",
+      "start": 0.4125,
+      "end": 0.6
+    },
+    {
+      "id": "w2",
+      "text": "another",
+      "start": 0.6,
+      "end": 0.925
+    },
+    {
+      "id": "w3",
+      "text": "test",
+      "start": 0.925,
+      "end": 1.275
+    },
+    {
+      "id": "w4",
+      "text": "of",
+      "start": 1.35,
+      "end": 1.4
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 1.4125,
+      "end": 1.4875
+    },
+    {
+      "id": "w6",
+      "text": "assumption",
+      "start": 1.4875,
+      "end": 2.1125
+    },
+    {
+      "id": "w7",
+      "text": "that",
+      "start": 2.2875,
+      "end": 2.3875
+    },
+    {
+      "id": "w8",
+      "text": "a",
+      "start": 2.3875,
+      "end": 2.4875
+    },
+    {
+      "id": "w9",
+      "text": "digital",
+      "start": 2.5875,
+      "end": 3.0375
+    },
+    {
+      "id": "w10",
+      "text": "library",
+      "start": 3.0375,
+      "end": 3.7
+    },
+    {
+      "id": "w11",
+      "text": "moves",
+      "start": 3.8375,
+      "end": 4.1625
+    },
+    {
+      "id": "w12",
+      "text": "forward",
+      "start": 4.175,
+      "end": 4.675
+    },
+    {
+      "id": "w13",
+      "text": "with",
+      "start": 4.675,
+      "end": 4.8625
+    },
+    {
+      "id": "w14",
+      "text": "you.",
+      "start": 4.8625,
+      "end": 5.1375
+    },
+    {
+      "id": "w15",
+      "text": "In",
+      "start": 5.5375,
+      "end": 5.6375
+    },
+    {
+      "id": "w16",
+      "text": "twenty",
+      "start": 5.6375,
+      "end": 5.95
+    },
+    {
+      "id": "w17",
+      "text": "twenty,",
+      "start": 5.9625,
+      "end": 6.325
+    },
+    {
+      "id": "w18",
+      "text": "reviewers",
+      "start": 6.7375,
+      "end": 7.1625
+    },
+    {
+      "id": "w19",
+      "text": "reported",
+      "start": 7.175,
+      "end": 7.6125
+    },
+    {
+      "id": "w20",
+      "text": "playing",
+      "start": 7.625,
+      "end": 8.0
+    },
+    {
+      "id": "w21",
+      "text": "P.T.",
+      "start": 8.0125,
+      "end": 8.65
+    },
+    {
+      "id": "w22",
+      "text": "on",
+      "start": 8.75,
+      "end": 8.9375
+    },
+    {
+      "id": "w23",
+      "text": "early",
+      "start": 9.0375,
+      "end": 9.3375
+    },
+    {
+      "id": "w24",
+      "text": "PlayStation",
+      "start": 9.35,
+      "end": 10.1
+    },
+    {
+      "id": "w25",
+      "text": "Five",
+      "start": 10.3875,
+      "end": 10.825
+    },
+    {
+      "id": "w26",
+      "text": "review",
+      "start": 10.8375,
+      "end": 11.1625
+    },
+    {
+      "id": "w27",
+      "text": "hardware.",
+      "start": 11.1625,
+      "end": 11.7625
+    },
+    {
+      "id": "w28",
+      "text": "For",
+      "start": 12.2,
+      "end": 12.3
+    },
+    {
+      "id": "w29",
+      "text": "a",
+      "start": 12.3,
+      "end": 12.325
+    },
+    {
+      "id": "w30",
+      "text": "short",
+      "start": 12.325,
+      "end": 12.6375
+    },
+    {
+      "id": "w31",
+      "text": "time,",
+      "start": 12.6375,
+      "end": 13.0
+    },
+    {
+      "id": "w32",
+      "text": "the",
+      "start": 13.4,
+      "end": 13.5
+    },
+    {
+      "id": "w33",
+      "text": "old",
+      "start": 13.625,
+      "end": 13.825
+    },
+    {
+      "id": "w34",
+      "text": "teaser",
+      "start": 13.825,
+      "end": 14.175
+    },
+    {
+      "id": "w35",
+      "text": "appeared",
+      "start": 14.175,
+      "end": 14.4875
+    },
+    {
+      "id": "w36",
+      "text": "to",
+      "start": 14.5,
+      "end": 14.5375
+    },
+    {
+      "id": "w37",
+      "text": "have",
+      "start": 14.5375,
+      "end": 14.7375
+    },
+    {
+      "id": "w38",
+      "text": "made",
+      "start": 14.7375,
+      "end": 14.925
+    },
+    {
+      "id": "w39",
+      "text": "the",
+      "start": 14.925,
+      "end": 14.9875
+    },
+    {
+      "id": "w40",
+      "text": "jump.",
+      "start": 14.9875,
+      "end": 15.3625
+    },
+    {
+      "id": "w41",
+      "text": "In",
+      "start": 15.7375,
+      "end": 15.7875
+    },
+    {
+      "id": "w42",
+      "text": "the",
+      "start": 15.7875,
+      "end": 15.875
+    },
+    {
+      "id": "w43",
+      "text": "days",
+      "start": 15.875,
+      "end": 16.1875
+    },
+    {
+      "id": "w44",
+      "text": "that",
+      "start": 16.1875,
+      "end": 16.325
+    },
+    {
+      "id": "w45",
+      "text": "followed,",
+      "start": 16.3375,
+      "end": 16.85
+    },
+    {
+      "id": "w46",
+      "text": "the",
+      "start": 17.1125,
+      "end": 17.2125
+    },
+    {
+      "id": "w47",
+      "text": "listing",
+      "start": 17.225,
+      "end": 17.6125
+    },
+    {
+      "id": "w48",
+      "text": "changed",
+      "start": 17.625,
+      "end": 18.0375
+    },
+    {
+      "id": "w49",
+      "text": "to",
+      "start": 18.05,
+      "end": 18.1
+    },
+    {
+      "id": "w50",
+      "text": "say",
+      "start": 18.1,
+      "end": 18.475
+    },
+    {
+      "id": "w51",
+      "text": "it",
+      "start": 18.4875,
+      "end": 18.5375
+    },
+    {
+      "id": "w52",
+      "text": "was",
+      "start": 18.55,
+      "end": 18.675
+    },
+    {
+      "id": "w53",
+      "text": "playable",
+      "start": 18.6875,
+      "end": 19.2625
+    },
+    {
+      "id": "w54",
+      "text": "on",
+      "start": 19.275,
+      "end": 19.4
+    },
+    {
+      "id": "w55",
+      "text": "PlayStation",
+      "start": 19.4,
+      "end": 20.05
+    },
+    {
+      "id": "w56",
+      "text": "Four,",
+      "start": 20.0625,
+      "end": 20.4625
+    },
+    {
+      "id": "w57",
+      "text": "and",
+      "start": 20.9,
+      "end": 20.9375
+    },
+    {
+      "id": "w58",
+      "text": "the",
+      "start": 20.9375,
+      "end": 20.9875
+    },
+    {
+      "id": "w59",
+      "text": "newer",
+      "start": 20.9875,
+      "end": 21.2875
+    },
+    {
+      "id": "w60",
+      "text": "console",
+      "start": 21.3,
+      "end": 21.85
+    },
+    {
+      "id": "w61",
+      "text": "would",
+      "start": 21.8625,
+      "end": 21.9875
+    },
+    {
+      "id": "w62",
+      "text": "no",
+      "start": 21.9875,
+      "end": 22.25
+    },
+    {
+      "id": "w63",
+      "text": "longer",
+      "start": 22.25,
+      "end": 22.575
+    },
+    {
+      "id": "w64",
+      "text": "run",
+      "start": 22.575,
+      "end": 22.7625
+    },
+    {
+      "id": "w65",
+      "text": "it.",
+      "start": 22.7625,
+      "end": 22.9375
+    },
+    {
+      "id": "w66",
+      "text": "Sony",
+      "start": 23.35,
+      "end": 23.6375
+    },
+    {
+      "id": "w67",
+      "text": "told",
+      "start": 23.65,
+      "end": 23.8875
+    },
+    {
+      "id": "w68",
+      "text": "Polygon",
+      "start": 23.9,
+      "end": 24.5
+    },
+    {
+      "id": "w69",
+      "text": "that",
+      "start": 24.6375,
+      "end": 24.75
+    },
+    {
+      "id": "w70",
+      "text": "the",
+      "start": 24.75,
+      "end": 24.8375
+    },
+    {
+      "id": "w71",
+      "text": "change",
+      "start": 24.8375,
+      "end": 25.3875
+    },
+    {
+      "id": "w72",
+      "text": "was",
+      "start": 25.4,
+      "end": 25.5375
+    },
+    {
+      "id": "w73",
+      "text": "a",
+      "start": 25.5375,
+      "end": 25.5875
+    },
+    {
+      "id": "w74",
+      "text": "publisher",
+      "start": 25.5875,
+      "end": 26.075
+    },
+    {
+      "id": "w75",
+      "text": "decision.",
+      "start": 26.075,
+      "end": 26.5625
+    },
+    {
+      "id": "w76",
+      "text": "These",
+      "start": 26.975,
+      "end": 27.15
+    },
+    {
+      "id": "w77",
+      "text": "are",
+      "start": 27.15,
+      "end": 27.225
+    },
+    {
+      "id": "w78",
+      "text": "historical",
+      "start": 27.2375,
+      "end": 27.8125
+    },
+    {
+      "id": "w79",
+      "text": "reports",
+      "start": 27.8125,
+      "end": 28.225
+    },
+    {
+      "id": "w80",
+      "text": "about",
+      "start": 28.225,
+      "end": 28.475
+    },
+    {
+      "id": "w81",
+      "text": "review",
+      "start": 28.475,
+      "end": 28.8
+    },
+    {
+      "id": "w82",
+      "text": "hardware",
+      "start": 28.8125,
+      "end": 29.4
+    },
+    {
+      "id": "w83",
+      "text": "in",
+      "start": 29.4,
+      "end": 29.4875
+    },
+    {
+      "id": "w84",
+      "text": "twenty",
+      "start": 29.4875,
+      "end": 29.8125
+    },
+    {
+      "id": "w85",
+      "text": "twenty,",
+      "start": 29.825,
+      "end": 30.1625
+    },
+    {
+      "id": "w86",
+      "text": "not",
+      "start": 30.6125,
+      "end": 30.7625
+    },
+    {
+      "id": "w87",
+      "text": "a",
+      "start": 30.775,
+      "end": 30.825
+    },
+    {
+      "id": "w88",
+      "text": "guide",
+      "start": 30.8375,
+      "end": 31.35
+    },
+    {
+      "id": "w89",
+      "text": "to",
+      "start": 31.5625,
+      "end": 31.6625
+    },
+    {
+      "id": "w90",
+      "text": "what",
+      "start": 31.6625,
+      "end": 31.8625
+    },
+    {
+      "id": "w91",
+      "text": "any",
+      "start": 32.0125,
+      "end": 32.2
+    },
+    {
+      "id": "w92",
+      "text": "workaround",
+      "start": 32.2,
+      "end": 32.825
+    },
+    {
+      "id": "w93",
+      "text": "does",
+      "start": 32.825,
+      "end": 33.0625
+    },
+    {
+      "id": "w94",
+      "text": "today.",
+      "start": 33.075,
+      "end": 33.5375
+    },
+    {
+      "id": "w95",
+      "text": "They",
+      "start": 33.9375,
+      "end": 33.9875
+    },
+    {
+      "id": "w96",
+      "text": "show",
+      "start": 33.9875,
+      "end": 34.15
+    },
+    {
+      "id": "w97",
+      "text": "the",
+      "start": 34.15,
+      "end": 34.225
+    },
+    {
+      "id": "w98",
+      "text": "problem",
+      "start": 34.225,
+      "end": 34.725
+    },
+    {
+      "id": "w99",
+      "text": "clearly",
+      "start": 34.8125,
+      "end": 35.275
+    },
+    {
+      "id": "w100",
+      "text": "enough:",
+      "start": 35.275,
+      "end": 35.775
+    },
+    {
+      "id": "w101",
+      "text": "a",
+      "start": 36.2,
+      "end": 36.2375
+    },
+    {
+      "id": "w102",
+      "text": "newer",
+      "start": 36.2375,
+      "end": 36.5875
+    },
+    {
+      "id": "w103",
+      "text": "machine",
+      "start": 36.6,
+      "end": 37.0125
+    },
+    {
+      "id": "w104",
+      "text": "did",
+      "start": 37.025,
+      "end": 37.175
+    },
+    {
+      "id": "w105",
+      "text": "not",
+      "start": 37.175,
+      "end": 37.4625
+    },
+    {
+      "id": "w106",
+      "text": "guarantee",
+      "start": 37.4625,
+      "end": 38.1125
+    },
+    {
+      "id": "w107",
+      "text": "a",
+      "start": 38.25,
+      "end": 38.3125
+    },
+    {
+      "id": "w108",
+      "text": "permanent",
+      "start": 38.3125,
+      "end": 38.825
+    },
+    {
+      "id": "w109",
+      "text": "route",
+      "start": 38.8375,
+      "end": 39.0375
+    },
+    {
+      "id": "w110",
+      "text": "back.",
+      "start": 39.0375,
+      "end": 39.4875
+    },
+    {
+      "id": "w111",
+      "text": "The",
+      "start": 39.9,
+      "end": 40.0375
+    },
+    {
+      "id": "w112",
+      "text": "age",
+      "start": 40.0625,
+      "end": 40.3
+    },
+    {
+      "id": "w113",
+      "text": "of",
+      "start": 40.3,
+      "end": 40.3375
+    },
+    {
+      "id": "w114",
+      "text": "your",
+      "start": 40.3375,
+      "end": 40.45
+    },
+    {
+      "id": "w115",
+      "text": "hardware",
+      "start": 40.4625,
+      "end": 41.2
+    },
+    {
+      "id": "w116",
+      "text": "and",
+      "start": 41.425,
+      "end": 41.475
+    },
+    {
+      "id": "w117",
+      "text": "the",
+      "start": 41.475,
+      "end": 41.55
+    },
+    {
+      "id": "w118",
+      "text": "survival",
+      "start": 41.5625,
+      "end": 42.2875
+    },
+    {
+      "id": "w119",
+      "text": "of",
+      "start": 42.3625,
+      "end": 42.4375
+    },
+    {
+      "id": "w120",
+      "text": "an",
+      "start": 42.45,
+      "end": 42.5125
+    },
+    {
+      "id": "w121",
+      "text": "experience",
+      "start": 42.525,
+      "end": 43.3
+    },
+    {
+      "id": "w122",
+      "text": "had",
+      "start": 43.4,
+      "end": 43.525
+    },
+    {
+      "id": "w123",
+      "text": "become",
+      "start": 43.525,
+      "end": 44.0
+    },
+    {
+      "id": "w124",
+      "text": "connected",
+      "start": 44.0125,
+      "end": 44.5625
+    },
+    {
+      "id": "w125",
+      "text": "in",
+      "start": 44.575,
+      "end": 44.6625
+    },
+    {
+      "id": "w126",
+      "text": "a",
+      "start": 44.6625,
+      "end": 44.725
+    },
+    {
+      "id": "w127",
+      "text": "way",
+      "start": 44.7375,
+      "end": 44.95
+    },
+    {
+      "id": "w128",
+      "text": "a",
+      "start": 44.95,
+      "end": 45.0375
+    },
+    {
+      "id": "w129",
+      "text": "download",
+      "start": 45.0875,
+      "end": 45.5875
+    },
+    {
+      "id": "w130",
+      "text": "button",
+      "start": 45.5875,
+      "end": 45.925
+    },
+    {
+      "id": "w131",
+      "text": "never",
+      "start": 46.15,
+      "end": 46.4875
+    },
+    {
+      "id": "w132",
+      "text": "really",
+      "start": 46.5,
+      "end": 46.725
+    },
+    {
+      "id": "w133",
+      "text": "explains.",
+      "start": 46.7375,
+      "end": 47.4875
+    }
+  ],
+  "gap_after": 0.0,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.49",
+      "input_tp": "-3.59",
+      "input_lra": "2.90",
+      "input_thresh": "-32.11",
+      "output_i": "-16.49",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-27.07",
+      "normalization_type": "dynamic",
+      "target_offset": "0.49"
+    },
+    "output": {
+      "input_i": "-21.49",
+      "input_tp": "-3.59",
+      "input_lra": "2.90",
+      "input_thresh": "-32.11",
+      "output_i": "-16.06",
+      "output_tp": "-1.50",
+      "output_lra": "2.60",
+      "output_thresh": "-26.64",
+      "normalization_type": "dynamic",
+      "target_offset": "0.06"
+    }
+  },
+  "fingerprint": "31dd94e6cfff0b6ad79d5e851e4d85c0242df366221d1ba5e5ed187f5a22dfe0"
+}

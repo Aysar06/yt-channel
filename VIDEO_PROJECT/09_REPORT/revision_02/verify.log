@@ -1,0 +1,30 @@
+{
+  "export": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\07_EXPORT\\revision_02.mp4",
+  "duration_seconds": 622.25,
+  "bytes": 344510060,
+  "sha256": "78d537dc6dd859b7a8cb3072dd6a02eacefdca4dc41e1bc438c9f3332383f085",
+  "width": 1920,
+  "height": 1080,
+  "fps": "24/1",
+  "codec": "h264",
+  "full_decode_exit_code": 0,
+  "shots": 53,
+  "entry_mid_exit_samples": 159,
+  "captions_valid": true,
+  "caption_cues": 194,
+  "full_timeline_coverage": true,
+  "unintentional_source_overlaps": 0,
+  "ai_images": 0,
+  "audio_integrated_lufs": "-16.31",
+  "audio_true_peak_dbtp": "-4.27",
+  "black_events": [
+    "black_start:167.708333 black_end:168.583333 black_duration:0.875",
+    "black_start:210.625 black_end:211.541667 black_duration:0.916667",
+    "black_start:215.833333 black_end:218.291667 black_duration:2.458333"
+  ],
+  "silence_events": [],
+  "visual_sample_review": "pending",
+  "full_audio_only_listening_review": false,
+  "uninterrupted_viewer_review": false,
+  "approved": false
+}

@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "saved_date": "2026-09-10",
+  "production": 1,
+  "revision": 2,
+  "repository": "https://github.com/Aysar06/yt-channel",
+  "status": "revision_02_rendered_review_pending",
+  "current_export": "VIDEO_PROJECT/07_EXPORT/revision_02.mp4",
+  "sha256": "78d537dc6dd859b7a8cb3072dd6a02eacefdca4dc41e1bc438c9f3332383f085",
+  "bytes": 344510060,
+  "duration_seconds": 622.25,
+  "render_complete": true,
+  "automated_decode_passed": true,
+  "visual_sample_review_latest_encode": "pending",
+  "full_audio_only_listening_review": false,
+  "uninterrupted_viewer_review": false,
+  "approved": false,
+  "published": false,
+  "next_action": "Review latest encoded samples and disclaimer placement at 247.45s; then complete full audio-only and uninterrupted viewer reviews before packaging.",
+  "guide": "RESUME.md"
+}

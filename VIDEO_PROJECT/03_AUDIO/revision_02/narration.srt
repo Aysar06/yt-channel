@@ -1,0 +1,896 @@
+1
+00:00:00,088 --> 00:00:04,295
+Imagine deleting a free game because
+your console needs the space.
+
+2
+00:00:04,575 --> 00:00:06,608
+Usually, that's a boring decision.
+
+3
+00:00:06,875 --> 00:00:10,582
+You open your library later,
+download it again, and carry on.
+
+4
+00:00:10,875 --> 00:00:13,832
+With P.T., that ordinary
+expectation broke.
+
+5
+00:00:14,125 --> 00:00:18,730
+This is a real PlayStation Four download
+error from GameSpot's test in May
+
+6
+00:00:18,750 --> 00:00:19,658
+twenty fifteen.
+
+7
+00:00:19,938 --> 00:00:22,145
+The game wasn't just
+missing from the shop.
+
+8
+00:00:22,438 --> 00:00:26,330
+Even somebody who had downloaded it
+before could find that the route back no
+
+9
+00:00:26,350 --> 00:00:27,170
+longer worked.
+
+10
+00:00:27,438 --> 00:00:31,182
+Meanwhile, another console could
+still have a playable installation.
+
+11
+00:00:31,450 --> 00:00:35,107
+Same game, different outcome, depending
+on what was already on the drive.
+
+12
+00:00:35,412 --> 00:00:40,392
+That's the strange afterlife of P.T.: a
+horror teaser that made people afraid
+
+13
+00:00:40,412 --> 00:00:41,670
+of a storage decision.
+
+14
+00:00:41,962 --> 00:00:46,768
+To understand why anybody cared this much
+about a free download, we need to go
+
+15
+00:00:46,788 --> 00:00:48,357
+back to the room it put you in.
+
+16
+00:00:48,700 --> 00:00:49,720
+You wake up on the floor.
+
+17
+00:00:50,012 --> 00:00:54,880
+There is a door ahead of you, and
+beyond it, a corridor that looks almost
+
+18
+00:00:54,900 --> 00:00:56,832
+disappointingly ordinary.
+
+19
+00:00:57,100 --> 00:01:01,158
+A light fitting, family
+photographs, a cabinet, a radio.
+
+20
+00:01:01,438 --> 00:01:05,018
+The game gives you very little distance
+to travel, so you start learning the
+
+21
+00:01:05,037 --> 00:01:06,570
+details without trying.
+
+22
+00:01:06,850 --> 00:01:10,705
+Then you reach the end, go through
+the door, and arrive in that corridor
+
+23
+00:01:10,725 --> 00:01:11,158
+again.
+
+24
+00:01:11,438 --> 00:01:14,445
+The important part is what
+changes on the next pass.
+
+25
+00:01:14,738 --> 00:01:16,795
+A familiar picture has become a clue.
+
+26
+00:01:17,088 --> 00:01:18,883
+You start wondering what else you missed.
+
+27
+00:01:19,188 --> 00:01:23,480
+The light changes, and the same corner
+suddenly feels like somewhere you
+
+28
+00:01:23,500 --> 00:01:24,520
+shouldn't approach.
+
+29
+00:01:24,800 --> 00:01:29,230
+Because the geography is familiar,
+a small difference gets your full
+
+30
+00:01:29,250 --> 00:01:29,870
+attention.
+
+31
+00:01:30,162 --> 00:01:33,845
+You can't dismiss it as another
+room you haven't explored yet.
+
+32
+00:01:34,125 --> 00:01:34,693
+P.T.
+
+33
+00:01:34,712 --> 00:01:38,145
+keeps asking you to look more closely
+at the place you already know.
+
+34
+00:01:38,450 --> 00:01:42,842
+That creates a nasty little negotiation:
+you want to make progress, but
+
+35
+00:01:42,862 --> 00:01:47,083
+progress requires approaching the thing
+that has just made you uncomfortable.
+
+36
+00:01:47,362 --> 00:01:51,370
+Watch the camera pause at the closed
+door, then check the room behind it.
+
+37
+00:01:51,662 --> 00:01:53,982
+The player has to decide
+where to look next.
+
+38
+00:01:54,250 --> 00:01:58,268
+A film can choose where your attention
+goes; this makes that nervous
+
+39
+00:01:58,288 --> 00:01:59,970
+inspection your responsibility.
+
+40
+00:02:00,316 --> 00:02:04,521
+The official PlayStation guide describes
+that same bargain: examine the
+
+41
+00:02:04,541 --> 00:02:08,649
+surroundings, listen carefully, and
+work out what lets you continue.
+
+42
+00:02:08,929 --> 00:02:14,036
+It also acknowledges something less
+elegant: people were solving parts of P.T.
+
+43
+00:02:14,128 --> 00:02:16,936
+through trial and error,
+or by working together.
+
+44
+00:02:17,228 --> 00:02:19,786
+That uncertainty spread outside the game.
+
+45
+00:02:20,066 --> 00:02:24,508
+Players compared clues and tried to
+understand which actions actually
+
+46
+00:02:24,528 --> 00:02:25,086
+mattered.
+
+47
+00:02:25,366 --> 00:02:29,183
+Even a contemporary Game Informer
+discussion asked readers whether they had
+
+48
+00:02:29,204 --> 00:02:30,811
+managed to finish the teaser.
+
+49
+00:02:31,104 --> 00:02:33,898
+The mystery wasn't only
+inside the corridor.
+
+50
+00:02:34,178 --> 00:02:37,811
+Nobody had initially been told
+what this thing was advertising.
+
+51
+00:02:38,091 --> 00:02:42,746
+At Gamescom in August twenty fourteen,
+it appeared under the name seven
+
+52
+00:02:42,766 --> 00:02:44,811
+seven eight zero s Studio.
+
+53
+00:02:45,078 --> 00:02:49,071
+The announcement gave people a horror
+experiment they could download
+
+54
+00:02:49,091 --> 00:02:50,061
+immediately.
+
+55
+00:02:50,341 --> 00:02:52,574
+It also gave them a
+reason to pass it around.
+
+56
+00:02:52,854 --> 00:02:56,984
+If somebody else reached an ending you
+couldn't reach, their discovery might
+
+57
+00:02:57,004 --> 00:02:58,848
+explain what you had missed.
+
+58
+00:02:59,128 --> 00:03:03,858
+A small game acquired a much larger
+conversation around it, and that
+
+59
+00:03:03,878 --> 00:03:07,386
+conversation was about to
+become the advertisement.
+
+60
+00:03:07,732 --> 00:03:10,427
+At the end, the view opens onto a street.
+
+61
+00:03:10,707 --> 00:03:12,540
+A figure walks away from the camera.
+
+62
+00:03:12,794 --> 00:03:17,262
+Names start appearing, and the face
+finally turns into view: Norman
+
+63
+00:03:17,282 --> 00:03:18,064
+Reedus.
+
+64
+00:03:18,344 --> 00:03:19,990
+Then comes Silent Hills.
+
+65
+00:03:20,282 --> 00:03:25,240
+The anonymous experiment is connected
+to Hideo Kojima, Guillermo del Toro,
+
+66
+00:03:25,582 --> 00:03:27,514
+and a series people already know.
+
+67
+00:03:27,794 --> 00:03:31,352
+The reveal works because it
+arrives after the experience.
+
+68
+00:03:31,644 --> 00:03:34,550
+You aren't being asked to imagine whether
+these people could make something
+
+69
+00:03:34,570 --> 00:03:35,290
+frightening.
+
+70
+00:03:35,570 --> 00:03:37,114
+You've just played the sales pitch.
+
+71
+00:03:37,382 --> 00:03:41,837
+In an official KONAMI message, del Toro
+talks about working with Kojima on the
+
+72
+00:03:41,857 --> 00:03:44,465
+teaser and the ideas they were exchanging.
+
+73
+00:03:44,757 --> 00:03:49,487
+That made the collaboration feel
+tangible, even though the larger game
+
+74
+00:03:49,507 --> 00:03:50,640
+remained a promise.
+
+75
+00:03:50,932 --> 00:03:55,614
+And the ending itself draws a boundary
+we need to keep: the playable teaser
+
+76
+00:03:55,832 --> 00:03:58,727
+says it has no direct
+relation to the main title.
+
+77
+00:03:59,020 --> 00:04:03,864
+This corridor wasn't proof that a
+finished Silent Hills existed somewhere.
+
+78
+00:04:04,144 --> 00:04:04,774
+P.T.
+
+79
+00:04:04,794 --> 00:04:06,764
+was the real thing people had played.
+
+80
+00:04:07,032 --> 00:04:10,602
+Silent Hills was the future
+they were imagining from it.
+
+81
+00:04:10,923 --> 00:04:15,890
+On April twenty seventh, twenty fifteen,
+Konami confirmed that Silent Hills
+
+82
+00:04:15,910 --> 00:04:17,168
+would not continue.
+
+83
+00:04:17,461 --> 00:04:20,918
+Here is the contemporary
+report carrying the statement.
+
+84
+00:04:21,198 --> 00:04:24,543
+One word is particularly
+revealing: embryonic.
+
+85
+00:04:24,823 --> 00:04:29,290
+It describes an early project, not a
+completed masterpiece being pulled off a
+
+86
+00:04:29,310 --> 00:04:30,043
+shelf.
+
+87
+00:04:30,336 --> 00:04:33,928
+The disappointment was real, but the
+game people were mourning was still
+
+88
+00:04:33,948 --> 00:04:35,668
+partly the game in their heads.
+
+89
+00:04:35,948 --> 00:04:40,878
+Kojima, del Toro, Reedus, and a very
+effective teaser had given them
+
+90
+00:04:40,898 --> 00:04:41,943
+plenty to imagine.
+
+91
+00:04:42,236 --> 00:04:46,003
+We don't need to invent a secret meeting
+or a hidden motive to explain why
+
+92
+00:04:46,023 --> 00:04:47,093
+that announcement hurt.
+
+93
+00:04:47,360 --> 00:04:49,693
+It closed off that
+particular collaboration.
+
+94
+00:04:49,973 --> 00:04:53,456
+It did not announce the end of
+the entire Silent Hill series.
+
+95
+00:04:53,748 --> 00:04:58,191
+Normally, a cancelled project can
+leave behind a trailer or a demo as a
+
+96
+00:04:58,210 --> 00:04:58,968
+souvenir.
+
+97
+00:04:59,248 --> 00:05:00,030
+P.T.
+
+98
+00:05:00,086 --> 00:05:04,040
+could have become something you showed
+a friend with a short explanation of
+
+99
+00:05:04,060 --> 00:05:04,906
+what might have been.
+
+100
+00:05:05,186 --> 00:05:09,428
+But the distribution notice had already
+put a deadline on the easy version of
+
+101
+00:05:09,448 --> 00:05:10,218
+that story.
+
+102
+00:05:10,564 --> 00:05:14,072
+The notice said distribution
+would end on April twenty ninth.
+
+103
+00:05:14,352 --> 00:05:18,084
+Keep that date separate from the
+cancellation, and from what happened next.
+
+104
+00:05:18,364 --> 00:05:22,857
+Removing a store listing and preventing
+an existing customer from downloading
+
+105
+00:05:22,876 --> 00:05:24,684
+again are different changes.
+
+106
+00:05:24,964 --> 00:05:28,259
+At first, previous downloaders
+could still reach P.T.
+
+107
+00:05:28,352 --> 00:05:29,259
+through their history.
+
+108
+00:05:29,539 --> 00:05:33,696
+Reporting on May sixth described that
+route failing in North America too.
+
+109
+00:05:34,002 --> 00:05:36,309
+This is why the actual
+error screen matters.
+
+110
+00:05:36,602 --> 00:05:39,972
+The issue wasn't simply that somebody
+had searched for a game too late.
+
+111
+00:05:40,264 --> 00:05:42,646
+The expected recovery path had failed.
+
+112
+00:05:42,914 --> 00:05:47,519
+A copy already installed on a PlayStation
+Four could still work; an empty
+
+113
+00:05:47,539 --> 00:05:51,396
+drive could no longer be treated
+as a temporary inconvenience.
+
+114
+00:05:51,689 --> 00:05:55,896
+Konami did not remotely erase
+every surviving installation.
+
+115
+00:05:56,189 --> 00:06:00,369
+The software continued to exist, but
+the ordinary way of obtaining it had
+
+116
+00:06:00,389 --> 00:06:03,034
+become unreliable or unavailable.
+
+117
+00:06:03,326 --> 00:06:07,644
+A game distributed as a free digital
+download suddenly depended on a
+
+118
+00:06:07,664 --> 00:06:11,146
+particular physical machine
+keeping particular files.
+
+119
+00:06:11,439 --> 00:06:15,219
+That's a very different relationship
+with a console from assuming everything
+
+120
+00:06:15,239 --> 00:06:17,446
+in your library can always be replaced.
+
+121
+00:06:17,800 --> 00:06:21,008
+The consequences show up
+in very ordinary places.
+
+122
+00:06:21,276 --> 00:06:26,008
+On this GameFAQs thread, a player
+describes upgrading to a larger hard drive
+
+123
+00:06:26,276 --> 00:06:27,946
+and losing their installed demo.
+
+124
+00:06:28,213 --> 00:06:32,243
+It's a personal account, not proof that
+every hardware change had the same
+
+125
+00:06:32,263 --> 00:06:32,870
+outcome.
+
+126
+00:06:33,138 --> 00:06:36,593
+But look at the subject of the discussion:
+their console keeps attempting a
+
+127
+00:06:36,613 --> 00:06:38,133
+download that fails.
+
+128
+00:06:38,413 --> 00:06:42,968
+This is the afterlife of the teaser in
+a help forum, long after the launch
+
+129
+00:06:42,988 --> 00:06:43,583
+mystery.
+
+130
+00:06:43,876 --> 00:06:47,818
+A storage upgrade has become a conversation
+about something that won't come
+
+131
+00:06:47,838 --> 00:06:48,433
+back.
+
+132
+00:06:48,738 --> 00:06:51,883
+That reverses the original
+experience rather neatly.
+
+133
+00:06:52,150 --> 00:06:54,408
+Inside the corridor, you wanted a way out.
+
+134
+00:06:54,700 --> 00:06:56,496
+Outside it, you might want a way in.
+
+135
+00:06:56,776 --> 00:07:01,443
+A recording can preserve the rooms, the
+sound, and the ending, but somebody
+
+136
+00:07:01,463 --> 00:07:03,558
+else is deciding where the camera looks.
+
+137
+00:07:03,863 --> 00:07:08,608
+The software preserves the possibility
+of making that decision yourself.
+
+138
+00:07:08,876 --> 00:07:12,808
+It can also preserve things nobody
+thought to point the camera at.
+
+139
+00:07:13,088 --> 00:07:17,706
+Years after the cancellation, Lance
+McDonald demonstrated why that difference
+
+140
+00:07:17,726 --> 00:07:18,370
+matters.
+
+141
+00:07:18,675 --> 00:07:23,268
+In this September twenty nineteen
+investigation, McDonald changes how P.T.
+
+142
+00:07:23,288 --> 00:07:26,070
+handles objects that appear and disappear.
+
+143
+00:07:26,362 --> 00:07:31,195
+Watch the ordinary encounter first:
+Lisa is visible down the hallway,
+
+144
+00:07:31,575 --> 00:07:32,458
+then she's gone.
+
+145
+00:07:32,750 --> 00:07:34,308
+Now look at the altered version.
+
+146
+00:07:34,600 --> 00:07:39,205
+Her visibility stays on, and the
+camera can approach a model the
+
+147
+00:07:39,225 --> 00:07:41,682
+normal sequence only lets you glimpse.
+
+148
+00:07:41,962 --> 00:07:44,670
+This isn't another person
+recreating the house.
+
+149
+00:07:44,962 --> 00:07:48,530
+It's an investigation of the original
+software and the instructions
+
+150
+00:07:48,550 --> 00:07:50,632
+controlling what the player can see.
+
+151
+00:07:50,925 --> 00:07:53,520
+McDonald also examines the opening room.
+
+152
+00:07:53,800 --> 00:07:57,580
+The normal opening directs your
+attention through a narrow view of the
+
+153
+00:07:57,600 --> 00:07:58,258
+doorway.
+
+154
+00:07:58,550 --> 00:08:02,555
+By changing the way that moment runs,
+he can inspect the character model
+
+155
+00:08:02,575 --> 00:08:03,395
+outside it.
+
+156
+00:08:03,688 --> 00:08:07,145
+The point isn't that a hidden model
+automatically changes the plot.
+
+157
+00:08:07,425 --> 00:08:11,955
+It's that a recording of one playthrough
+cannot contain every possible
+
+158
+00:08:11,975 --> 00:08:14,495
+investigation of the
+program that produced it.
+
+159
+00:08:14,800 --> 00:08:16,770
+The cancellation had already happened.
+
+160
+00:08:17,050 --> 00:08:19,308
+The advertising campaign was over.
+
+161
+00:08:19,588 --> 00:08:23,918
+Yet the surviving teaser still had
+details that somebody could reveal by
+
+162
+00:08:23,938 --> 00:08:26,708
+asking a new question of
+the same old software.
+
+163
+00:08:27,052 --> 00:08:31,607
+Then came another test of the assumption
+that a digital library moves forward
+
+164
+00:08:31,627 --> 00:08:32,210
+with you.
+
+165
+00:08:32,490 --> 00:08:35,682
+In twenty twenty, reviewers
+reported playing P.T.
+
+166
+00:08:35,702 --> 00:08:38,835
+on early PlayStation Five review hardware.
+
+167
+00:08:39,152 --> 00:08:42,434
+For a short time, the old teaser
+appeared to have made the jump.
+
+168
+00:08:42,689 --> 00:08:46,332
+In the days that followed, the listing
+changed to say it was playable on
+
+169
+00:08:46,352 --> 00:08:50,010
+PlayStation Four, and the newer
+console would no longer run it.
+
+170
+00:08:50,302 --> 00:08:53,634
+Sony told Polygon that the
+change was a publisher decision.
+
+171
+00:08:53,927 --> 00:08:57,770
+These are historical reports about
+review hardware in twenty twenty, not a
+
+172
+00:08:57,790 --> 00:09:00,610
+guide to what any workaround does today.
+
+173
+00:09:00,890 --> 00:09:05,244
+They show the problem clearly enough:
+a newer machine did not guarantee a
+
+174
+00:09:05,264 --> 00:09:06,560
+permanent route back.
+
+175
+00:09:06,852 --> 00:09:10,945
+The age of your hardware and the
+survival of an experience had become
+
+176
+00:09:10,964 --> 00:09:14,560
+connected in a way a download
+button never really explains.
+
+177
+00:09:14,896 --> 00:09:19,253
+There are two stories here, and the more
+glamorous one can swallow the other.
+
+178
+00:09:19,546 --> 00:09:24,276
+Silent Hills is the game people imagine:
+the names, the possibilities, the
+
+179
+00:09:24,296 --> 00:09:28,128
+perfect horror project that never
+had to survive being released.
+
+180
+00:09:28,420 --> 00:09:29,140
+P.T.
+
+181
+00:09:29,296 --> 00:09:30,978
+is the thing we can actually examine.
+
+182
+00:09:31,270 --> 00:09:35,526
+We can watch how it guides a camera,
+compare the changing corridor, argue
+
+183
+00:09:35,546 --> 00:09:39,713
+about the puzzles, and look inside the
+software for decisions an ordinary
+
+184
+00:09:39,733 --> 00:09:40,978
+player never sees.
+
+185
+00:09:41,258 --> 00:09:43,478
+It doesn't need to be
+flawless to be worth keeping.
+
+186
+00:09:43,758 --> 00:09:47,788
+That is what makes its disappearance
+from the normal download path more
+
+187
+00:09:47,808 --> 00:09:50,453
+interesting than a cancelled
+marketing campaign.
+
+188
+00:09:50,733 --> 00:09:54,916
+The advertisement became an
+experience with a life of its own.
+
+189
+00:09:55,246 --> 00:09:58,166
+First, people shared it
+to discover what it was.
+
+190
+00:09:58,446 --> 00:10:01,778
+Later, they worried about whether
+they would still be able to reach it.
+
+191
+00:10:02,070 --> 00:10:04,503
+The hallway didn't vanish
+from every console.
+
+192
+00:10:04,783 --> 00:10:08,653
+What vanished was the reassuring assumption
+that you could always come back.
+
+193
+00:10:08,920 --> 00:10:12,726
+And for a game built around walking
+through the same door again, that is a
+
+194
+00:10:12,746 --> 00:10:15,428
+remarkably fitting thing to lose.

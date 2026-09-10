@@ -1,0 +1,329 @@
+{
+  "id": "c04p03",
+  "text": "That last part matters. The community having a method doesn't mean every step in the method causes something. When the rules are hidden, it's easy to confuse the thing you did before progress with the thing that produced progress. P.T. is a wonderful machine for creating that uncertainty.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-2%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c04p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c04p03.wav",
+  "duration": 18.72,
+  "words": [
+    {
+      "id": "w0",
+      "text": "That",
+      "start": 0.102041,
+      "end": 0.204082
+    },
+    {
+      "id": "w1",
+      "text": "last",
+      "start": 0.204083,
+      "end": 0.446416
+    },
+    {
+      "id": "w2",
+      "text": "part",
+      "start": 0.446416,
+      "end": 0.637749
+    },
+    {
+      "id": "w3",
+      "text": "matters.",
+      "start": 0.6505,
+      "end": 1.23725
+    },
+    {
+      "id": "w4",
+      "text": "The",
+      "start": 1.658166,
+      "end": 1.734707
+    },
+    {
+      "id": "w5",
+      "text": "community",
+      "start": 1.734708,
+      "end": 2.232124
+    },
+    {
+      "id": "w6",
+      "text": "having",
+      "start": 2.232125,
+      "end": 2.487208
+    },
+    {
+      "id": "w7",
+      "text": "a",
+      "start": 2.48725,
+      "end": 2.51275
+    },
+    {
+      "id": "w8",
+      "text": "method",
+      "start": 2.5255,
+      "end": 3.086708
+    },
+    {
+      "id": "w9",
+      "text": "doesn't",
+      "start": 3.431125,
+      "end": 3.71175
+    },
+    {
+      "id": "w10",
+      "text": "mean",
+      "start": 3.71175,
+      "end": 3.979625
+    },
+    {
+      "id": "w11",
+      "text": "every",
+      "start": 4.158166,
+      "end": 4.502541
+    },
+    {
+      "id": "w12",
+      "text": "step",
+      "start": 4.502541,
+      "end": 5.012749
+    },
+    {
+      "id": "w13",
+      "text": "in",
+      "start": 5.089291,
+      "end": 5.178582
+    },
+    {
+      "id": "w14",
+      "text": "the",
+      "start": 5.178583,
+      "end": 5.242333
+    },
+    {
+      "id": "w15",
+      "text": "method",
+      "start": 5.242333,
+      "end": 5.752541
+    },
+    {
+      "id": "w16",
+      "text": "causes",
+      "start": 5.765291,
+      "end": 6.224457
+    },
+    {
+      "id": "w17",
+      "text": "something.",
+      "start": 6.23725,
+      "end": 6.709208
+    },
+    {
+      "id": "w18",
+      "text": "When",
+      "start": 7.130083,
+      "end": 7.219374
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 7.219375,
+      "end": 7.283166
+    },
+    {
+      "id": "w20",
+      "text": "rules",
+      "start": 7.295916,
+      "end": 7.716832
+    },
+    {
+      "id": "w21",
+      "text": "are",
+      "start": 7.716833,
+      "end": 7.818874
+    },
+    {
+      "id": "w22",
+      "text": "hidden,",
+      "start": 7.831625,
+      "end": 8.316333
+    },
+    {
+      "id": "w23",
+      "text": "it's",
+      "start": 8.7245,
+      "end": 8.839291
+    },
+    {
+      "id": "w24",
+      "text": "easy",
+      "start": 8.954083,
+      "end": 9.247458
+    },
+    {
+      "id": "w25",
+      "text": "to",
+      "start": 9.247458,
+      "end": 9.336749
+    },
+    {
+      "id": "w26",
+      "text": "confuse",
+      "start": 9.33675,
+      "end": 10.0
+    },
+    {
+      "id": "w27",
+      "text": "the",
+      "start": 10.0,
+      "end": 10.089291
+    },
+    {
+      "id": "w28",
+      "text": "thing",
+      "start": 10.089291,
+      "end": 10.382666
+    },
+    {
+      "id": "w29",
+      "text": "you",
+      "start": 10.382666,
+      "end": 10.497457
+    },
+    {
+      "id": "w30",
+      "text": "did",
+      "start": 10.497458,
+      "end": 10.829083
+    },
+    {
+      "id": "w31",
+      "text": "before",
+      "start": 10.841833,
+      "end": 11.466833
+    },
+    {
+      "id": "w32",
+      "text": "progress",
+      "start": 11.479583,
+      "end": 12.130083
+    },
+    {
+      "id": "w33",
+      "text": "with",
+      "start": 12.142875,
+      "end": 12.270416
+    },
+    {
+      "id": "w34",
+      "text": "the",
+      "start": 12.270416,
+      "end": 12.346957
+    },
+    {
+      "id": "w35",
+      "text": "thing",
+      "start": 12.346958,
+      "end": 12.755124
+    },
+    {
+      "id": "w36",
+      "text": "that",
+      "start": 12.767875,
+      "end": 12.869916
+    },
+    {
+      "id": "w37",
+      "text": "produced",
+      "start": 12.882666,
+      "end": 13.201541
+    },
+    {
+      "id": "w38",
+      "text": "progress.",
+      "start": 13.201541,
+      "end": 13.966832
+    },
+    {
+      "id": "w39",
+      "text": "P.T.",
+      "start": 14.38775,
+      "end": 15.03825
+    },
+    {
+      "id": "w40",
+      "text": "is",
+      "start": 15.255083,
+      "end": 15.395374
+    },
+    {
+      "id": "w41",
+      "text": "a",
+      "start": 15.408166,
+      "end": 15.471957
+    },
+    {
+      "id": "w42",
+      "text": "wonderful",
+      "start": 15.471958,
+      "end": 15.982124
+    },
+    {
+      "id": "w43",
+      "text": "machine",
+      "start": 15.982125,
+      "end": 16.517833
+    },
+    {
+      "id": "w44",
+      "text": "for",
+      "start": 16.721958,
+      "end": 16.874999
+    },
+    {
+      "id": "w45",
+      "text": "creating",
+      "start": 16.875,
+      "end": 17.410708
+    },
+    {
+      "id": "w46",
+      "text": "that",
+      "start": 17.410708,
+      "end": 17.576541
+    },
+    {
+      "id": "w47",
+      "text": "uncertainty.",
+      "start": 17.576541,
+      "end": 18.341832
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.77",
+      "input_tp": "-2.66",
+      "input_lra": "4.80",
+      "input_thresh": "-32.28",
+      "output_i": "-17.01",
+      "output_tp": "-1.50",
+      "output_lra": "3.70",
+      "output_thresh": "-27.53",
+      "normalization_type": "dynamic",
+      "target_offset": "1.01"
+    },
+    "output": {
+      "input_i": "-21.77",
+      "input_tp": "-2.66",
+      "input_lra": "4.80",
+      "input_thresh": "-32.28",
+      "output_i": "-16.13",
+      "output_tp": "-1.50",
+      "output_lra": "3.50",
+      "output_thresh": "-26.65",
+      "normalization_type": "dynamic",
+      "target_offset": "0.13"
+    }
+  },
+  "fingerprint": "46ae8a22326b7a20a50a77ff39251b8f744af5310373d24c90691a5854459187"
+}

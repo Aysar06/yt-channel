@@ -1,0 +1,42 @@
+[
+  {
+    "name": "archive-click",
+    "file": "03_AUDIO\\sfx\\archive-click.wav",
+    "duration": 0.12,
+    "peak_dbfs": -22,
+    "description": "Short muted file/card click for date and source reveals.",
+    "source": "Original procedural synthesis",
+    "third_party_samples": false,
+    "seed": 914217
+  },
+  {
+    "name": "soft-page-sweep",
+    "file": "03_AUDIO\\sfx\\soft-page-sweep.wav",
+    "duration": 0.65,
+    "peak_dbfs": -26,
+    "description": "Soft filtered sweep for one major document transition.",
+    "source": "Original procedural synthesis",
+    "third_party_samples": false,
+    "seed": 914217
+  },
+  {
+    "name": "low-door-hit",
+    "file": "03_AUDIO\\sfx\\low-door-hit.wav",
+    "duration": 1.2,
+    "peak_dbfs": -23,
+    "description": "Subtle falling low hit for removal/cancellation reveals.",
+    "source": "Original procedural synthesis",
+    "third_party_samples": false,
+    "seed": 914217
+  },
+  {
+    "name": "quiet-discovery",
+    "file": "03_AUDIO\\sfx\\quiet-discovery.wav",
+    "duration": 0.9,
+    "peak_dbfs": -28,
+    "description": "Quiet two-tone discovery marker.",
+    "source": "Original procedural synthesis",
+    "third_party_samples": false,
+    "seed": 914217
+  }
+]

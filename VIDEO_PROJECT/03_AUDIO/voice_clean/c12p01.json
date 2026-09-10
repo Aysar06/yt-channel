@@ -1,0 +1,323 @@
+{
+  "id": "c12p01",
+  "text": "P.T. began by hiding what it was. It ended up showing us how easily access to a digital experience can become uncertain. The mystery inside the house had an answer. The fate of the project outside it was something players couldn't solve by staring at another photograph.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c12p01.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c12p01.wav",
+  "duration": 18.672,
+  "words": [
+    {
+      "id": "w0",
+      "text": "P.T.",
+      "start": 0.108708,
+      "end": 0.461958
+    },
+    {
+      "id": "w1",
+      "text": "began",
+      "start": 0.461958,
+      "end": 0.910333
+    },
+    {
+      "id": "w2",
+      "text": "by",
+      "start": 0.910333,
+      "end": 1.059791
+    },
+    {
+      "id": "w3",
+      "text": "hiding",
+      "start": 1.059791,
+      "end": 1.562499
+    },
+    {
+      "id": "w4",
+      "text": "what",
+      "start": 1.5625,
+      "end": 1.671208
+    },
+    {
+      "id": "w5",
+      "text": "it",
+      "start": 1.671208,
+      "end": 1.752749
+    },
+    {
+      "id": "w6",
+      "text": "was.",
+      "start": 1.766291,
+      "end": 2.282582
+    },
+    {
+      "id": "w7",
+      "text": "It",
+      "start": 2.730958,
+      "end": 2.798874
+    },
+    {
+      "id": "w8",
+      "text": "ended",
+      "start": 2.8125,
+      "end": 3.029875
+    },
+    {
+      "id": "w9",
+      "text": "up",
+      "start": 3.029875,
+      "end": 3.16575
+    },
+    {
+      "id": "w10",
+      "text": "showing",
+      "start": 3.16575,
+      "end": 3.654875
+    },
+    {
+      "id": "w11",
+      "text": "us",
+      "start": 3.668458,
+      "end": 3.953791
+    },
+    {
+      "id": "w12",
+      "text": "how",
+      "start": 4.144041,
+      "end": 4.388624
+    },
+    {
+      "id": "w13",
+      "text": "easily",
+      "start": 4.592375,
+      "end": 5.108666
+    },
+    {
+      "id": "w14",
+      "text": "access",
+      "start": 5.108708,
+      "end": 5.733708
+    },
+    {
+      "id": "w15",
+      "text": "to",
+      "start": 5.733708,
+      "end": 5.869583
+    },
+    {
+      "id": "w16",
+      "text": "a",
+      "start": 5.869583,
+      "end": 5.964708
+    },
+    {
+      "id": "w17",
+      "text": "digital",
+      "start": 5.97825,
+      "end": 6.358666
+    },
+    {
+      "id": "w18",
+      "text": "experience",
+      "start": 6.358708,
+      "end": 7.160333
+    },
+    {
+      "id": "w19",
+      "text": "can",
+      "start": 7.350541,
+      "end": 7.486416
+    },
+    {
+      "id": "w20",
+      "text": "become",
+      "start": 7.486416,
+      "end": 7.948374
+    },
+    {
+      "id": "w21",
+      "text": "uncertain.",
+      "start": 8.08425,
+      "end": 8.817958
+    },
+    {
+      "id": "w22",
+      "text": "The",
+      "start": 9.266291,
+      "end": 9.320624
+    },
+    {
+      "id": "w23",
+      "text": "mystery",
+      "start": 9.33425,
+      "end": 9.796208
+    },
+    {
+      "id": "w24",
+      "text": "inside",
+      "start": 9.796208,
+      "end": 10.353249
+    },
+    {
+      "id": "w25",
+      "text": "the",
+      "start": 10.35325,
+      "end": 10.407583
+    },
+    {
+      "id": "w26",
+      "text": "house",
+      "start": 10.421208,
+      "end": 10.855958
+    },
+    {
+      "id": "w27",
+      "text": "had",
+      "start": 10.855958,
+      "end": 11.005416
+    },
+    {
+      "id": "w28",
+      "text": "an",
+      "start": 11.005416,
+      "end": 11.086957
+    },
+    {
+      "id": "w29",
+      "text": "answer.",
+      "start": 11.086958,
+      "end": 11.657624
+    },
+    {
+      "id": "w30",
+      "text": "The",
+      "start": 12.092375,
+      "end": 12.160291
+    },
+    {
+      "id": "w31",
+      "text": "fate",
+      "start": 12.160333,
+      "end": 12.432083
+    },
+    {
+      "id": "w32",
+      "text": "of",
+      "start": 12.445666,
+      "end": 12.513582
+    },
+    {
+      "id": "w33",
+      "text": "the",
+      "start": 12.527166,
+      "end": 12.608707
+    },
+    {
+      "id": "w34",
+      "text": "project",
+      "start": 12.622291,
+      "end": 13.206541
+    },
+    {
+      "id": "w35",
+      "text": "outside",
+      "start": 13.206541,
+      "end": 13.926666
+    },
+    {
+      "id": "w36",
+      "text": "it",
+      "start": 14.211958,
+      "end": 14.279874
+    },
+    {
+      "id": "w37",
+      "text": "was",
+      "start": 14.279875,
+      "end": 14.402166
+    },
+    {
+      "id": "w38",
+      "text": "something",
+      "start": 14.402166,
+      "end": 14.714666
+    },
+    {
+      "id": "w39",
+      "text": "players",
+      "start": 14.72825,
+      "end": 15.163041
+    },
+    {
+      "id": "w40",
+      "text": "couldn't",
+      "start": 15.163041,
+      "end": 15.502707
+    },
+    {
+      "id": "w41",
+      "text": "solve",
+      "start": 15.502708,
+      "end": 16.032583
+    },
+    {
+      "id": "w42",
+      "text": "by",
+      "start": 16.032625,
+      "end": 16.182083
+    },
+    {
+      "id": "w43",
+      "text": "staring",
+      "start": 16.195666,
+      "end": 16.861416
+    },
+    {
+      "id": "w44",
+      "text": "at",
+      "start": 17.105958,
+      "end": 17.187499
+    },
+    {
+      "id": "w45",
+      "text": "another",
+      "start": 17.1875,
+      "end": 17.5
+    },
+    {
+      "id": "w46",
+      "text": "photograph.",
+      "start": 17.5,
+      "end": 18.288041
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.74",
+      "input_tp": "-3.50",
+      "input_lra": "4.50",
+      "input_thresh": "-32.33",
+      "output_i": "-16.22",
+      "output_tp": "-1.50",
+      "output_lra": "2.20",
+      "output_thresh": "-26.71",
+      "normalization_type": "dynamic",
+      "target_offset": "0.22"
+    },
+    "output": {
+      "input_i": "-21.74",
+      "input_tp": "-3.50",
+      "input_lra": "4.50",
+      "input_thresh": "-32.33",
+      "output_i": "-16.04",
+      "output_tp": "-1.50",
+      "output_lra": "2.10",
+      "output_thresh": "-26.53",
+      "normalization_type": "dynamic",
+      "target_offset": "0.04"
+    }
+  },
+  "fingerprint": "3b4305379f9591fbb09e704e490b7f07e526fd5937750ab90336e80080be2606"
+}

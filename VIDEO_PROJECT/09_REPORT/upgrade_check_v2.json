@@ -1,0 +1,941 @@
+{
+  "ok": true,
+  "strict": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 34,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch01.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 3 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch01.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 9 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch01.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch02.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 3 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch02.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch02.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch03.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 3 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch03.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 11 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch03.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 3 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch04.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch04.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch04.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 4 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch05.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch05.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch05.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 4 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch06.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch06.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 4 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch07.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch07.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 4 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch08.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch08.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch08.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch09.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 3 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch09.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 14 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch09.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch10.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 4 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch10.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 10 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch10.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch11.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 3 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch11.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch11.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 4 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch12.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "duplicate_media_discovery_risk",
+        "severity": "warning",
+        "message": "Detected 2 matching img entries with the same source/start/duration.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch12.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Avoid duplicated media nodes that can be discovered twice during compilation."
+      },
+      {
+        "code": "timeline_track_too_dense",
+        "severity": "warning",
+        "message": "Track 1 has 12 timed elements in this HTML file. Smaller sub-compositions keep timelines easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "C:\\Users\\aysar\\Documents\\ChatGPT\\video editor for long form videos\\VIDEO_PROJECT\\compositions\\ch12.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move coherent scene groups into smaller .html files and mount them from the parent with data-composition-src so the timeline stays easier to inspect, revise, and validate."
+      }
+    ],
+    "filesScanned": 13
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 7,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 46.18,
+        "selector": "#ch01-p4s2-image",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -80.95,
+          "top": -44.46,
+          "right": 1977.48,
+          "bottom": 1113.41,
+          "width": 2058.43,
+          "height": 1157.87
+        },
+        "containerSelector": "#ch01-p4s2",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 80.95,
+          "right": 57.48,
+          "top": 44.46,
+          "bottom": 33.41
+        },
+        "dataAttributes": {
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "compositions/ch01.html",
+        "bbox": {
+          "x": -80.95,
+          "y": -44.46,
+          "width": 2058.43,
+          "height": 1157.87
+        },
+        "firstSeen": 46.18,
+        "lastSeen": 46.18,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 138.541,
+        "selector": "#ch03-p2s2-image",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -56.36,
+          "top": -31,
+          "right": 1960.99,
+          "bottom": 1103.76,
+          "width": 2017.34,
+          "height": 1134.76
+        },
+        "containerSelector": "#ch03-p2s2",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 56.36,
+          "right": 40.99,
+          "top": 31,
+          "bottom": 23.76
+        },
+        "dataAttributes": {
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "compositions/ch03.html",
+        "bbox": {
+          "x": -56.36,
+          "y": -31,
+          "width": 2017.34,
+          "height": 1134.76
+        },
+        "firstSeen": 138.541,
+        "lastSeen": 138.541,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 230.902,
+        "selector": "#ch04-p3s2-image",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -86.47,
+          "top": -35.58,
+          "right": 1981.18,
+          "bottom": 1127.48,
+          "width": 2067.65,
+          "height": 1163.05
+        },
+        "containerSelector": "#ch04-p3s2",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 86.47,
+          "right": 61.18,
+          "top": 35.58,
+          "bottom": 47.48
+        },
+        "dataAttributes": {
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "compositions/ch04.html",
+        "bbox": {
+          "x": -86.47,
+          "y": -35.58,
+          "width": 2067.65,
+          "height": 1163.05
+        },
+        "firstSeen": 230.902,
+        "lastSeen": 230.902,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 323.262,
+        "selector": "#ch05-p4s3-image",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -54.17,
+          "top": -41.75,
+          "right": 1996.01,
+          "bottom": 1111.47,
+          "width": 2050.18,
+          "height": 1153.22
+        },
+        "containerSelector": "#ch05-p4s3",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 54.17,
+          "right": 76.01,
+          "top": 41.75,
+          "bottom": 31.47
+        },
+        "dataAttributes": {
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "compositions/ch05.html",
+        "bbox": {
+          "x": -54.17,
+          "y": -41.75,
+          "width": 2050.18,
+          "height": 1153.22
+        },
+        "firstSeen": 323.262,
+        "lastSeen": 323.262,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 507.984,
+        "selector": "#ch08-p2s2-image",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -110.59,
+          "top": -60.68,
+          "right": 1997.38,
+          "bottom": 1125.05,
+          "width": 2107.97,
+          "height": 1185.73
+        },
+        "containerSelector": "#ch08-p2s2",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 110.59,
+          "right": 77.38,
+          "top": 60.68,
+          "bottom": 45.05
+        },
+        "dataAttributes": {
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "compositions/ch08.html",
+        "bbox": {
+          "x": -110.59,
+          "y": -60.68,
+          "width": 2107.97,
+          "height": 1185.73
+        },
+        "firstSeen": 507.984,
+        "lastSeen": 507.984,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 600.344,
+        "selector": "#ch09-p3s4-image",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -14.66,
+          "top": -7.38,
+          "right": 1932.99,
+          "bottom": 1088.17,
+          "width": 1947.65,
+          "height": 1095.55
+        },
+        "containerSelector": "#ch09-p3s4",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 14.66,
+          "right": 12.99,
+          "top": 7.38,
+          "bottom": 8.17
+        },
+        "dataAttributes": {
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "compositions/ch09.html",
+        "bbox": {
+          "x": -14.66,
+          "y": -7.38,
+          "width": 1947.65,
+          "height": 1095.55
+        },
+        "firstSeen": 600.344,
+        "lastSeen": 600.344,
+        "occurrences": 1,
+        "heldMs": 0
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 785.066,
+        "selector": "#ch12-p2s1-image",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -60.49,
+          "top": -46.91,
+          "right": 2005.43,
+          "bottom": 1115.17,
+          "width": 2065.92,
+          "height": 1162.08
+        },
+        "containerSelector": "#ch12-p2s1",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 60.49,
+          "right": 85.43,
+          "top": 46.91,
+          "bottom": 35.17
+        },
+        "dataAttributes": {
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "compositions/ch12.html",
+        "bbox": {
+          "x": -60.49,
+          "y": -46.91,
+          "width": 2065.92,
+          "height": 1162.08
+        },
+        "firstSeen": 785.066,
+        "lastSeen": 785.066,
+        "occurrences": 1,
+        "heldMs": 0
+      }
+    ],
+    "duration": 831.246,
+    "samples": [
+      46.18,
+      138.541,
+      230.902,
+      323.262,
+      415.623,
+      507.984,
+      600.344,
+      692.705,
+      785.066
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 7,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      46.18,
+      230.902,
+      415.623,
+      600.344,
+      785.066
+    ],
+    "checked": 16,
+    "passed": 16
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "_meta": {
+    "version": "0.8.32",
+    "latestVersion": "0.8.32",
+    "updateAvailable": false
+  }
+}

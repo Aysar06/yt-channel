@@ -1,0 +1,10 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-8%",
+  "lines": [
+    {
+      "id": "sample01",
+      "text": "The strangest part wasn't that the game disappeared. It was that somebody had kept it running for twenty years. And when they finally opened the server, the story got even stranger."
+    }
+  ]
+}

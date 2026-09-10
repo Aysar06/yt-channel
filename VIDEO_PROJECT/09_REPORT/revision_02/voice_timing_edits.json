@@ -1,0 +1,160 @@
+[
+  {
+    "section": "r01",
+    "removed_seconds": 0.22270799999999724,
+    "cuts_in_original_seconds": [
+      [
+        48.377292000000004,
+        48.6
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r02",
+    "removed_seconds": 0.727623100000006,
+    "cuts_in_original_seconds": [
+      [
+        20.5150839,
+        20.766686099999998
+      ],
+      [
+        62.74862505,
+        62.98729195
+      ],
+      [
+        71.37864599999999,
+        71.616
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r03",
+    "removed_seconds": 0.7802245999999968,
+    "cuts_in_original_seconds": [
+      [
+        3.4202084999999998,
+        3.6673335000000002
+      ],
+      [
+        11.3430857,
+        11.6292063
+      ],
+      [
+        67.169021,
+        67.416
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r04",
+    "removed_seconds": 0.7233731000000034,
+    "cuts_in_original_seconds": [
+      [
+        40.05061385,
+        40.28319915
+      ],
+      [
+        46.5733246,
+        46.8283834
+      ],
+      [
+        62.980271,
+        63.216
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r05",
+    "removed_seconds": 0.2419790000000006,
+    "cuts_in_original_seconds": [
+      [
+        59.374021,
+        59.616
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r06",
+    "removed_seconds": 0.24116700000000435,
+    "cuts_in_original_seconds": [
+      [
+        66.982833,
+        67.224
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r07",
+    "removed_seconds": 0.681234900000014,
+    "cuts_in_original_seconds": [
+      [
+        41.995507499999995,
+        42.2240965
+      ],
+      [
+        55.10602055,
+        55.328062450000004
+      ],
+      [
+        60.681396,
+        60.912
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r08",
+    "removed_seconds": 1.2914519000000109,
+    "cuts_in_original_seconds": [
+      [
+        9.94362325,
+        10.22933575
+      ],
+      [
+        12.6709179,
+        12.899770100000001
+      ],
+      [
+        18.0174272,
+        18.2778228
+      ],
+      [
+        44.7593477,
+        45.0055683
+      ],
+      [
+        68.081729,
+        68.352
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r09",
+    "removed_seconds": 0.2661459999999991,
+    "cuts_in_original_seconds": [
+      [
+        47.589854,
+        47.856
+      ]
+    ],
+    "speech_samples_processed": false
+  },
+  {
+    "section": "r10",
+    "removed_seconds": 0.25962499999999267,
+    "cuts_in_original_seconds": [
+      [
+        60.604375000000005,
+        60.864
+      ]
+    ],
+    "speech_samples_processed": false
+  }
+]

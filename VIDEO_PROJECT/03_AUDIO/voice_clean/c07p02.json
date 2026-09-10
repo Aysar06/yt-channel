@@ -1,0 +1,329 @@
+{
+  "id": "c07p02",
+  "text": "Reporting on May sixth described the change in North America. For a short time after removal, people who had already downloaded it could still return through their history. By that report, they couldn't. Having obtained P.T. before was no longer the same as having a fresh download available.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c07p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c07p02.wav",
+  "duration": 17.688,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Reporting",
+      "start": 0.092125,
+      "end": 0.486833
+    },
+    {
+      "id": "w1",
+      "text": "on",
+      "start": 0.486833,
+      "end": 0.578958
+    },
+    {
+      "id": "w2",
+      "text": "May",
+      "start": 0.578958,
+      "end": 0.736833
+    },
+    {
+      "id": "w3",
+      "text": "sixth",
+      "start": 0.736833,
+      "end": 1.407874
+    },
+    {
+      "id": "w4",
+      "text": "described",
+      "start": 1.460541,
+      "end": 2.052666
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 2.065791,
+      "end": 2.131582
+    },
+    {
+      "id": "w6",
+      "text": "change",
+      "start": 2.131583,
+      "end": 2.657916
+    },
+    {
+      "id": "w7",
+      "text": "in",
+      "start": 2.671041,
+      "end": 2.776291
+    },
+    {
+      "id": "w8",
+      "text": "North",
+      "start": 2.776333,
+      "end": 2.999999
+    },
+    {
+      "id": "w9",
+      "text": "America.",
+      "start": 3.013166,
+      "end": 3.631582
+    },
+    {
+      "id": "w10",
+      "text": "For",
+      "start": 4.078958,
+      "end": 4.171041
+    },
+    {
+      "id": "w11",
+      "text": "a",
+      "start": 4.171041,
+      "end": 4.197374
+    },
+    {
+      "id": "w12",
+      "text": "short",
+      "start": 4.210541,
+      "end": 4.513166
+    },
+    {
+      "id": "w13",
+      "text": "time",
+      "start": 4.513166,
+      "end": 4.842124
+    },
+    {
+      "id": "w14",
+      "text": "after",
+      "start": 4.842125,
+      "end": 5.118416
+    },
+    {
+      "id": "w15",
+      "text": "removal,",
+      "start": 5.118416,
+      "end": 5.631582
+    },
+    {
+      "id": "w16",
+      "text": "people",
+      "start": 6.039458,
+      "end": 6.342083
+    },
+    {
+      "id": "w17",
+      "text": "who",
+      "start": 6.35525,
+      "end": 6.421041
+    },
+    {
+      "id": "w18",
+      "text": "had",
+      "start": 6.421041,
+      "end": 6.539457
+    },
+    {
+      "id": "w19",
+      "text": "already",
+      "start": 6.539458,
+      "end": 6.921041
+    },
+    {
+      "id": "w20",
+      "text": "downloaded",
+      "start": 6.921041,
+      "end": 7.526291
+    },
+    {
+      "id": "w21",
+      "text": "it",
+      "start": 7.526333,
+      "end": 7.631583
+    },
+    {
+      "id": "w22",
+      "text": "could",
+      "start": 7.64475,
+      "end": 7.802625
+    },
+    {
+      "id": "w23",
+      "text": "still",
+      "start": 7.802625,
+      "end": 8.197375
+    },
+    {
+      "id": "w24",
+      "text": "return",
+      "start": 8.197375,
+      "end": 8.60525
+    },
+    {
+      "id": "w25",
+      "text": "through",
+      "start": 8.60525,
+      "end": 8.763125
+    },
+    {
+      "id": "w26",
+      "text": "their",
+      "start": 8.776333,
+      "end": 8.907874
+    },
+    {
+      "id": "w27",
+      "text": "history.",
+      "start": 8.907875,
+      "end": 9.4605
+    },
+    {
+      "id": "w28",
+      "text": "By",
+      "start": 9.89475,
+      "end": 10.0
+    },
+    {
+      "id": "w29",
+      "text": "that",
+      "start": 10.013166,
+      "end": 10.210541
+    },
+    {
+      "id": "w30",
+      "text": "report,",
+      "start": 10.223666,
+      "end": 10.697332
+    },
+    {
+      "id": "w31",
+      "text": "they",
+      "start": 10.710541,
+      "end": 10.828957
+    },
+    {
+      "id": "w32",
+      "text": "couldn't.",
+      "start": 10.828958,
+      "end": 11.276333
+    },
+    {
+      "id": "w33",
+      "text": "Having",
+      "start": 11.684208,
+      "end": 11.921041
+    },
+    {
+      "id": "w34",
+      "text": "obtained",
+      "start": 11.921041,
+      "end": 12.434207
+    },
+    {
+      "id": "w35",
+      "text": "P.T.",
+      "start": 12.447375,
+      "end": 13.026333
+    },
+    {
+      "id": "w36",
+      "text": "before",
+      "start": 13.026333,
+      "end": 13.434208
+    },
+    {
+      "id": "w37",
+      "text": "was",
+      "start": 13.434208,
+      "end": 13.578958
+    },
+    {
+      "id": "w38",
+      "text": "no",
+      "start": 13.578958,
+      "end": 13.881583
+    },
+    {
+      "id": "w39",
+      "text": "longer",
+      "start": 13.89475,
+      "end": 14.263166
+    },
+    {
+      "id": "w40",
+      "text": "the",
+      "start": 14.263166,
+      "end": 14.342124
+    },
+    {
+      "id": "w41",
+      "text": "same",
+      "start": 14.342125,
+      "end": 14.868458
+    },
+    {
+      "id": "w42",
+      "text": "as",
+      "start": 15.10525,
+      "end": 15.223666
+    },
+    {
+      "id": "w43",
+      "text": "having",
+      "start": 15.223666,
+      "end": 15.631541
+    },
+    {
+      "id": "w44",
+      "text": "a",
+      "start": 15.736833,
+      "end": 15.776291
+    },
+    {
+      "id": "w45",
+      "text": "fresh",
+      "start": 15.776333,
+      "end": 16.289499
+    },
+    {
+      "id": "w46",
+      "text": "download",
+      "start": 16.302625,
+      "end": 16.723666
+    },
+    {
+      "id": "w47",
+      "text": "available.",
+      "start": 16.736833,
+      "end": 17.315791
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.44",
+      "input_tp": "-3.44",
+      "input_lra": "4.80",
+      "input_thresh": "-32.18",
+      "output_i": "-16.69",
+      "output_tp": "-1.50",
+      "output_lra": "3.30",
+      "output_thresh": "-27.36",
+      "normalization_type": "dynamic",
+      "target_offset": "0.69"
+    },
+    "output": {
+      "input_i": "-21.44",
+      "input_tp": "-3.44",
+      "input_lra": "4.80",
+      "input_thresh": "-32.18",
+      "output_i": "-16.09",
+      "output_tp": "-1.50",
+      "output_lra": "3.30",
+      "output_thresh": "-26.76",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    }
+  },
+  "fingerprint": "03fe1181a7ebd644f095c4dc8a1691a03bef0e58c86b8dd60419fc3369f363e0"
+}

@@ -1,0 +1,323 @@
+{
+  "id": "c02p02",
+  "text": "There isn't a familiar series name doing the selling. You don't get to arrive with a shopping list of things the sequel ought to do. You enter a house. There's a corridor, a corner, a few doors. The sort of place you'd walk through without remembering it.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-4%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c02p02.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c02p02.wav",
+  "duration": 15.672,
+  "words": [
+    {
+      "id": "w0",
+      "text": "There",
+      "start": 0.104166,
+      "end": 0.221374
+    },
+    {
+      "id": "w1",
+      "text": "isn't",
+      "start": 0.221375,
+      "end": 0.403666
+    },
+    {
+      "id": "w2",
+      "text": "a",
+      "start": 0.403666,
+      "end": 0.4427069
+    },
+    {
+      "id": "w3",
+      "text": "familiar",
+      "start": 0.442708,
+      "end": 1.119791
+    },
+    {
+      "id": "w4",
+      "text": "series",
+      "start": 1.119791,
+      "end": 1.640624
+    },
+    {
+      "id": "w5",
+      "text": "name",
+      "start": 1.640625,
+      "end": 2.070333
+    },
+    {
+      "id": "w6",
+      "text": "doing",
+      "start": 2.200541,
+      "end": 2.499999
+    },
+    {
+      "id": "w7",
+      "text": "the",
+      "start": 2.5,
+      "end": 2.565125
+    },
+    {
+      "id": "w8",
+      "text": "selling.",
+      "start": 2.565125,
+      "end": 3.020875
+    },
+    {
+      "id": "w9",
+      "text": "You",
+      "start": 3.450541,
+      "end": 3.489624
+    },
+    {
+      "id": "w10",
+      "text": "don't",
+      "start": 3.502625,
+      "end": 3.632833
+    },
+    {
+      "id": "w11",
+      "text": "get",
+      "start": 3.632833,
+      "end": 3.736999
+    },
+    {
+      "id": "w12",
+      "text": "to",
+      "start": 3.737,
+      "end": 3.828125
+    },
+    {
+      "id": "w13",
+      "text": "arrive",
+      "start": 3.828125,
+      "end": 4.335958
+    },
+    {
+      "id": "w14",
+      "text": "with",
+      "start": 4.348958,
+      "end": 4.479166
+    },
+    {
+      "id": "w15",
+      "text": "a",
+      "start": 4.479166,
+      "end": 4.505207
+    },
+    {
+      "id": "w16",
+      "text": "shopping",
+      "start": 4.51825,
+      "end": 5.065125
+    },
+    {
+      "id": "w17",
+      "text": "list",
+      "start": 5.065125,
+      "end": 5.377625
+    },
+    {
+      "id": "w18",
+      "text": "of",
+      "start": 5.390625,
+      "end": 5.481791
+    },
+    {
+      "id": "w19",
+      "text": "things",
+      "start": 5.494791,
+      "end": 5.885416
+    },
+    {
+      "id": "w20",
+      "text": "the",
+      "start": 5.898458,
+      "end": 5.989583
+    },
+    {
+      "id": "w21",
+      "text": "sequel",
+      "start": 5.989583,
+      "end": 6.497416
+    },
+    {
+      "id": "w22",
+      "text": "ought",
+      "start": 6.640625,
+      "end": 6.835958
+    },
+    {
+      "id": "w23",
+      "text": "to",
+      "start": 6.835958,
+      "end": 6.914083
+    },
+    {
+      "id": "w24",
+      "text": "do.",
+      "start": 6.927083,
+      "end": 7.291666
+    },
+    {
+      "id": "w25",
+      "text": "You",
+      "start": 7.721375,
+      "end": 7.838541
+    },
+    {
+      "id": "w26",
+      "text": "enter",
+      "start": 7.838541,
+      "end": 8.020832
+    },
+    {
+      "id": "w27",
+      "text": "a",
+      "start": 8.033875,
+      "end": 8.059916
+    },
+    {
+      "id": "w28",
+      "text": "house.",
+      "start": 8.059916,
+      "end": 8.580749
+    },
+    {
+      "id": "w29",
+      "text": "There's",
+      "start": 8.984375,
+      "end": 9.088541
+    },
+    {
+      "id": "w30",
+      "text": "a",
+      "start": 9.088541,
+      "end": 9.153666
+    },
+    {
+      "id": "w31",
+      "text": "corridor,",
+      "start": 9.166666,
+      "end": 9.843749
+    },
+    {
+      "id": "w32",
+      "text": "a",
+      "start": 10.260416,
+      "end": 10.325541
+    },
+    {
+      "id": "w33",
+      "text": "corner,",
+      "start": 10.325541,
+      "end": 10.833374
+    },
+    {
+      "id": "w34",
+      "text": "a",
+      "start": 11.09375,
+      "end": 11.119791
+    },
+    {
+      "id": "w35",
+      "text": "few",
+      "start": 11.132833,
+      "end": 11.432291
+    },
+    {
+      "id": "w36",
+      "text": "doors.",
+      "start": 11.432291,
+      "end": 12.018249
+    },
+    {
+      "id": "w37",
+      "text": "The",
+      "start": 12.447916,
+      "end": 12.513041
+    },
+    {
+      "id": "w38",
+      "text": "sort",
+      "start": 12.513041,
+      "end": 12.643249
+    },
+    {
+      "id": "w39",
+      "text": "of",
+      "start": 12.64325,
+      "end": 12.708333
+    },
+    {
+      "id": "w40",
+      "text": "place",
+      "start": 12.708333,
+      "end": 13.007833
+    },
+    {
+      "id": "w41",
+      "text": "you'd",
+      "start": 13.020833,
+      "end": 13.203124
+    },
+    {
+      "id": "w42",
+      "text": "walk",
+      "start": 13.203125,
+      "end": 13.59375
+    },
+    {
+      "id": "w43",
+      "text": "through",
+      "start": 13.59375,
+      "end": 14.010416
+    },
+    {
+      "id": "w44",
+      "text": "without",
+      "start": 14.101583,
+      "end": 14.544291
+    },
+    {
+      "id": "w45",
+      "text": "remembering",
+      "start": 14.557291,
+      "end": 15.091166
+    },
+    {
+      "id": "w46",
+      "text": "it.",
+      "start": 15.104166,
+      "end": 15.299499
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.80",
+      "input_tp": "-3.10",
+      "input_lra": "1.10",
+      "input_thresh": "-31.48",
+      "output_i": "-16.73",
+      "output_tp": "-1.50",
+      "output_lra": "1.30",
+      "output_thresh": "-27.36",
+      "normalization_type": "dynamic",
+      "target_offset": "0.73"
+    },
+    "output": {
+      "input_i": "-20.80",
+      "input_tp": "-3.10",
+      "input_lra": "1.10",
+      "input_thresh": "-31.48",
+      "output_i": "-16.16",
+      "output_tp": "-1.50",
+      "output_lra": "1.30",
+      "output_thresh": "-26.76",
+      "normalization_type": "dynamic",
+      "target_offset": "0.16"
+    }
+  },
+  "fingerprint": "81c4320f1fe00f8346357339b109716345782107a3981b62f5cd08278a08e037"
+}

@@ -1,0 +1,323 @@
+{
+  "id": "c07p04",
+  "text": "To be precise: Konami did not remotely wipe every installed copy. P.T. did not cease to exist. That distinction makes the situation stranger. The experience survived, but access was uneven. The hallway was still there. The door depended on which console you were standing in front of.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-5%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c07p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c07p04.wav",
+  "duration": 19.584,
+  "words": [
+    {
+      "id": "w0",
+      "text": "To",
+      "start": 0.092125,
+      "end": 0.157875
+    },
+    {
+      "id": "w1",
+      "text": "be",
+      "start": 0.157875,
+      "end": 0.289458
+    },
+    {
+      "id": "w2",
+      "text": "precise:",
+      "start": 0.289458,
+      "end": 1.105249
+    },
+    {
+      "id": "w3",
+      "text": "Konami",
+      "start": 1.407875,
+      "end": 1.868416
+    },
+    {
+      "id": "w4",
+      "text": "did",
+      "start": 1.868416,
+      "end": 2.013166
+    },
+    {
+      "id": "w5",
+      "text": "not",
+      "start": 2.026333,
+      "end": 2.342124
+    },
+    {
+      "id": "w6",
+      "text": "remotely",
+      "start": 2.35525,
+      "end": 2.842083
+    },
+    {
+      "id": "w7",
+      "text": "wipe",
+      "start": 2.842125,
+      "end": 3.2895
+    },
+    {
+      "id": "w8",
+      "text": "every",
+      "start": 3.460541,
+      "end": 3.736832
+    },
+    {
+      "id": "w9",
+      "text": "installed",
+      "start": 3.736833,
+      "end": 4.144708
+    },
+    {
+      "id": "w10",
+      "text": "copy.",
+      "start": 4.157875,
+      "end": 4.644708
+    },
+    {
+      "id": "w11",
+      "text": "P.T.",
+      "start": 5.065791,
+      "end": 5.539457
+    },
+    {
+      "id": "w12",
+      "text": "did",
+      "start": 5.552625,
+      "end": 5.697375
+    },
+    {
+      "id": "w13",
+      "text": "not",
+      "start": 5.697375,
+      "end": 5.947375
+    },
+    {
+      "id": "w14",
+      "text": "cease",
+      "start": 5.947375,
+      "end": 6.460541
+    },
+    {
+      "id": "w15",
+      "text": "to",
+      "start": 6.473666,
+      "end": 6.631541
+    },
+    {
+      "id": "w16",
+      "text": "exist.",
+      "start": 6.631583,
+      "end": 7.236833
+    },
+    {
+      "id": "w17",
+      "text": "That",
+      "start": 7.657875,
+      "end": 7.81575
+    },
+    {
+      "id": "w18",
+      "text": "distinction",
+      "start": 7.815791,
+      "end": 8.526332
+    },
+    {
+      "id": "w19",
+      "text": "makes",
+      "start": 8.75,
+      "end": 8.973666
+    },
+    {
+      "id": "w20",
+      "text": "the",
+      "start": 8.973666,
+      "end": 9.065791
+    },
+    {
+      "id": "w21",
+      "text": "situation",
+      "start": 9.065791,
+      "end": 9.763166
+    },
+    {
+      "id": "w22",
+      "text": "stranger.",
+      "start": 9.776333,
+      "end": 10.421083
+    },
+    {
+      "id": "w23",
+      "text": "The",
+      "start": 10.842125,
+      "end": 10.89475
+    },
+    {
+      "id": "w24",
+      "text": "experience",
+      "start": 10.89475,
+      "end": 11.578958
+    },
+    {
+      "id": "w25",
+      "text": "survived,",
+      "start": 11.592125,
+      "end": 12.25
+    },
+    {
+      "id": "w26",
+      "text": "but",
+      "start": 12.486833,
+      "end": 12.697374
+    },
+    {
+      "id": "w27",
+      "text": "access",
+      "start": 12.710541,
+      "end": 13.263166
+    },
+    {
+      "id": "w28",
+      "text": "was",
+      "start": 13.276333,
+      "end": 13.539499
+    },
+    {
+      "id": "w29",
+      "text": "uneven.",
+      "start": 13.552625,
+      "end": 14.157875
+    },
+    {
+      "id": "w30",
+      "text": "The",
+      "start": 14.578958,
+      "end": 14.618416
+    },
+    {
+      "id": "w31",
+      "text": "hallway",
+      "start": 14.618416,
+      "end": 15.039457
+    },
+    {
+      "id": "w32",
+      "text": "was",
+      "start": 15.052625,
+      "end": 15.184208
+    },
+    {
+      "id": "w33",
+      "text": "still",
+      "start": 15.184208,
+      "end": 15.473666
+    },
+    {
+      "id": "w34",
+      "text": "there.",
+      "start": 15.473666,
+      "end": 15.815791
+    },
+    {
+      "id": "w35",
+      "text": "The",
+      "start": 16.25,
+      "end": 16.315791
+    },
+    {
+      "id": "w36",
+      "text": "door",
+      "start": 16.315791,
+      "end": 16.552624
+    },
+    {
+      "id": "w37",
+      "text": "depended",
+      "start": 16.552625,
+      "end": 16.881583
+    },
+    {
+      "id": "w38",
+      "text": "on",
+      "start": 16.881583,
+      "end": 16.999999
+    },
+    {
+      "id": "w39",
+      "text": "which",
+      "start": 17.0,
+      "end": 17.236833
+    },
+    {
+      "id": "w40",
+      "text": "console",
+      "start": 17.236833,
+      "end": 17.947374
+    },
+    {
+      "id": "w41",
+      "text": "you",
+      "start": 17.960541,
+      "end": 18.092124
+    },
+    {
+      "id": "w42",
+      "text": "were",
+      "start": 18.10525,
+      "end": 18.197375
+    },
+    {
+      "id": "w43",
+      "text": "standing",
+      "start": 18.210541,
+      "end": 18.552624
+    },
+    {
+      "id": "w44",
+      "text": "in",
+      "start": 18.552625,
+      "end": 18.631583
+    },
+    {
+      "id": "w45",
+      "text": "front",
+      "start": 18.64475,
+      "end": 18.921041
+    },
+    {
+      "id": "w46",
+      "text": "of.",
+      "start": 18.921041,
+      "end": 19.184207
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.18",
+      "input_tp": "-4.18",
+      "input_lra": "2.80",
+      "input_thresh": "-31.75",
+      "output_i": "-16.63",
+      "output_tp": "-1.50",
+      "output_lra": "2.00",
+      "output_thresh": "-27.25",
+      "normalization_type": "dynamic",
+      "target_offset": "0.63"
+    },
+    "output": {
+      "input_i": "-21.18",
+      "input_tp": "-4.18",
+      "input_lra": "2.80",
+      "input_thresh": "-31.75",
+      "output_i": "-16.09",
+      "output_tp": "-1.50",
+      "output_lra": "1.90",
+      "output_thresh": "-26.69",
+      "normalization_type": "dynamic",
+      "target_offset": "0.09"
+    }
+  },
+  "fingerprint": "cdd9b6cf11ca2875c4603f0162a3b10d5e374203812247056a4f05d92811a9a3"
+}

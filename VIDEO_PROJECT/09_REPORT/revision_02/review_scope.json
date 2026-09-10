@@ -1,0 +1,14 @@
+{
+  "check_passed": true,
+  "warnings_reviewed": {
+    "nested_media_start_basis_ambiguous": "All 27 are intentional composition-local times; no parent clip adds the same offset. Snapshots show the correct source frames.",
+    "duplicate_media_discovery_risk": "Repeated static game/installation symbols occur in different explanatory contexts. Video source excerpts have no overlaps. Legacy compositions remain preserved but are not mounted.",
+    "timeline_track_too_dense": "Many warnings originate from preserved V1; the active project mounts ten scenes, with shot durations determined by each passage.",
+    "gsap_timeline_set_initial_hide": "Four planned later reveals initialize hidden; snapshots verified they become visible at the intended times.",
+    "contrast": "The fading retry indicator represents an unavailable action; essential explanatory text retains contrast."
+  },
+  "final_mix_sha256": "fc4c22727a504433b4947c58599100c9c39fd0d02ce9721b0e79ab3059fa492e",
+  "final_mix_bytes": 119469482,
+  "full_listening_review": false,
+  "uninterrupted_viewer_review": false
+}

@@ -1,0 +1,1340 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.4,
+    "text": " Imagine deleting a free game to make room on your console.",
+    "average_log_probability": -0.09616283806306976
+  },
+  {
+    "start": 4.4,
+    "end": 9.12,
+    "text": " Nothing dramatic. You need the space. You'll download it again later.",
+    "average_log_probability": -0.09616283806306976
+  },
+  {
+    "start": 9.12,
+    "end": 12.4,
+    "text": " Except when you go back, the download is gone.",
+    "average_log_probability": -0.09616283806306976
+  },
+  {
+    "start": 12.4,
+    "end": 15.52,
+    "text": " The game is still sitting on somebody else's hard drive.",
+    "average_log_probability": -0.09616283806306976
+  },
+  {
+    "start": 15.52,
+    "end": 19.04,
+    "text": " Yours is just missing. That happened with PT,",
+    "average_log_probability": -0.09616283806306976
+  },
+  {
+    "start": 19.04,
+    "end": 22.32,
+    "text": " a horror game built around a hallway you couldn't escape.",
+    "average_log_probability": -0.09616283806306976
+  },
+  {
+    "start": 22.32,
+    "end": 25.12,
+    "text": " Then its publisher removed the way back in.",
+    "average_log_probability": -0.09616283806306976
+  },
+  {
+    "start": 25.12,
+    "end": 29.28,
+    "text": " A tiny advertisement became something players were afraid to lose.",
+    "average_log_probability": -0.07709567821243914
+  },
+  {
+    "start": 30.08,
+    "end": 33.28,
+    "text": " And years after the game had advertised was cancelled,",
+    "average_log_probability": -0.07709567821243914
+  },
+  {
+    "start": 33.28,
+    "end": 36.56,
+    "text": " someone moved the camera where you were never meant to look.",
+    "average_log_probability": -0.07709567821243914
+  },
+  {
+    "start": 36.56,
+    "end": 38.24,
+    "text": " There was still something behind you.",
+    "average_log_probability": -0.07709567821243914
+  },
+  {
+    "start": 38.8,
+    "end": 43.28,
+    "text": " To understand why people cared this much about a free download,",
+    "average_log_probability": -0.07709567821243914
+  },
+  {
+    "start": 43.28,
+    "end": 46.48,
+    "text": " we need to go back to the night it was pretending to be something else.",
+    "average_log_probability": -0.07709567821243914
+  },
+  {
+    "start": 47.44,
+    "end": 50.08,
+    "text": " August 12, 2014.",
+    "average_log_probability": -0.11481762148959693
+  },
+  {
+    "start": 50.08,
+    "end": 55.52,
+    "text": " Sony's Gamescom presentation introduces a horror project called PT.",
+    "average_log_probability": -0.11481762148959693
+  },
+  {
+    "start": 55.52,
+    "end": 58.88,
+    "text": " You can download it on PlayStation 4. It's free.",
+    "average_log_probability": -0.11481762148959693
+  },
+  {
+    "start": 58.88,
+    "end": 64.88,
+    "text": " The studio name is 7780S, which tells you approximately nothing.",
+    "average_log_probability": -0.11481762148959693
+  },
+  {
+    "start": 65.44,
+    "end": 68.72,
+    "text": " There isn't a familiar series name doing the selling.",
+    "average_log_probability": -0.11481762148959693
+  },
+  {
+    "start": 68.72,
+    "end": 73.04,
+    "text": " You don't get to arrive with a shopping list of things the sequel ought to do.",
+    "average_log_probability": -0.11481762148959693
+  },
+  {
+    "start": 73.04,
+    "end": 77.76,
+    "text": " You enter a house. There's a corridor, a corner, a few doors.",
+    "average_log_probability": -0.07533131474465654
+  },
+  {
+    "start": 77.76,
+    "end": 80.72,
+    "text": " The sort of place you'd walk through without remembering it.",
+    "average_log_probability": -0.07533131474465654
+  },
+  {
+    "start": 81.28,
+    "end": 84.08,
+    "text": " Walk to the end, go through the door, and you're back.",
+    "average_log_probability": -0.07533131474465654
+  },
+  {
+    "start": 84.64,
+    "end": 86.96,
+    "text": " Same corridor. That's the trick.",
+    "average_log_probability": -0.07533131474465654
+  },
+  {
+    "start": 86.96,
+    "end": 92.32,
+    "text": " The game gives you so little space that you start paying attention to every piece of it.",
+    "average_log_probability": -0.07533131474465654
+  },
+  {
+    "start": 92.32,
+    "end": 96.32,
+    "text": " A photo. A lamp. A doorway you really don't want to inspect.",
+    "average_log_probability": -0.07533131474465654
+  },
+  {
+    "start": 97.04,
+    "end": 101.12,
+    "text": " PT doesn't need to show you a giant monster immediately.",
+    "average_log_probability": -0.07533131474465654
+  },
+  {
+    "start": 101.12,
+    "end": 105.44,
+    "text": " It makes you suspicious of the furniture. Very economical.",
+    "average_log_probability": -0.052585011103538554
+  },
+  {
+    "start": 105.44,
+    "end": 111.68,
+    "text": " Extremely unpleasant. And the more familiar the room becomes, the less comfortable you are in it.",
+    "average_log_probability": -0.052585011103538554
+  },
+  {
+    "start": 112.56,
+    "end": 115.92,
+    "text": " In most games, knowing the map makes you safer.",
+    "average_log_probability": -0.052585011103538554
+  },
+  {
+    "start": 115.92,
+    "end": 119.52,
+    "text": " You remember the route. You know where the enemies can come from.",
+    "average_log_probability": -0.052585011103538554
+  },
+  {
+    "start": 119.52,
+    "end": 122.72,
+    "text": " Here, familiarity gives the game a weapon.",
+    "average_log_probability": -0.052585011103538554
+  },
+  {
+    "start": 122.72,
+    "end": 124.96,
+    "text": " You know what the hallway looked like last time.",
+    "average_log_probability": -0.052585011103538554
+  },
+  {
+    "start": 124.96,
+    "end": 127.68,
+    "text": " So a small change suddenly feels enormous.",
+    "average_log_probability": -0.052585011103538554
+  },
+  {
+    "start": 128.48,
+    "end": 132.8,
+    "text": " The official survival tips actually tell players to inspect things",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 132.8,
+    "end": 134.96,
+    "text": " and notice what's different between loops.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 135.52,
+    "end": 138.72,
+    "text": " Think about that instruction inside a horror game.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 138.72,
+    "end": 142.88,
+    "text": " To progress, you have to stop avoiding the strange detail.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 142.88,
+    "end": 145.52,
+    "text": " You have to go closer. Congratulations.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 146.08,
+    "end": 148.56,
+    "text": " Curiosity is now a health hazard.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 149.2,
+    "end": 150.96,
+    "text": " The corner does a lot of work.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 150.96,
+    "end": 153.36,
+    "text": " You can't see everything at once.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 153.36,
+    "end": 154.96,
+    "text": " The door does even more.",
+    "average_log_probability": -0.06249505910091102
+  },
+  {
+    "start": 155.04,
+    "end": 159.12,
+    "text": " A closed door is a promise that there is something on the other side",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 159.12,
+    "end": 162.48,
+    "text": " and the game keeps making you decide whether you're ready to find out.",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 163.12,
+    "end": 167.76,
+    "text": " That's why merely describing the layout makes PT sound smaller than it feels.",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 168.32,
+    "end": 172.08,
+    "text": " The important space is the bit you can't currently see.",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 172.08,
+    "end": 174.08,
+    "text": " The corridor is limited.",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 174.08,
+    "end": 177.2,
+    "text": " Your imagination has no budget limit.",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 177.2,
+    "end": 179.92,
+    "text": " And then the game adds another problem.",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 179.92,
+    "end": 181.92,
+    "text": " You're not even sure what it wants you to do.",
+    "average_log_probability": -0.048705813351948304
+  },
+  {
+    "start": 182.88,
+    "end": 187.92,
+    "text": " PT makes observation feel useful, but it doesn't hand you a friendly checklist.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 187.92,
+    "end": 189.68,
+    "text": " The audio contains clues.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 190.24,
+    "end": 192.08,
+    "text": " Some speech is reversed.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 192.08,
+    "end": 193.52,
+    "text": " Some isn't in English.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 193.52,
+    "end": 198.16,
+    "text": " You're dealing with a space that changes information you may not understand",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 198.16,
+    "end": 201.04,
+    "text": " and the possibility that you missed a trigger three loops ago.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 201.6,
+    "end": 204.8,
+    "text": " So the experience spills out of the console.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 204.8,
+    "end": 206.4,
+    "text": " People compare attempts.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 206.4,
+    "end": 207.84,
+    "text": " Someone gets further.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 207.84,
+    "end": 210.08,
+    "text": " Somebody else tries to reproduce it.",
+    "average_log_probability": -0.04892757650717948
+  },
+  {
+    "start": 210.08,
+    "end": 212.64,
+    "text": " A successful action becomes a theory.",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 212.64,
+    "end": 214.4,
+    "text": " A theory becomes a ritual.",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 214.4,
+    "end": 219.28,
+    "text": " And a ritual can spread faster than anybody checks whether it was necessary.",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 219.84,
+    "end": 221.44,
+    "text": " That last part matters.",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 221.44,
+    "end": 226.96,
+    "text": " The community having a method doesn't mean every step in a method causes something.",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 226.96,
+    "end": 232.0,
+    "text": " When the rules are hidden, it's easy to confuse the thing you did before progress",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 232.0,
+    "end": 233.68,
+    "text": " with the thing that produced progress.",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 234.32,
+    "end": 238.24,
+    "text": " PT is a wonderful machine for creating that uncertainty.",
+    "average_log_probability": -0.057356494031846526
+  },
+  {
+    "start": 238.8,
+    "end": 245.04,
+    "text": " Contemporary reporting says Kojima expected the mystery to take at least a week to solve.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 245.04,
+    "end": 247.44,
+    "text": " Players broke through within hours.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 247.44,
+    "end": 252.0,
+    "text": " Imagine setting a puzzle for the internet and expecting the internet to go to bed.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 252.0,
+    "end": 254.88,
+    "text": " The reward for finishing wasn't just an exit.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 254.88,
+    "end": 255.52,
+    "text": " It was a name.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 256.48,
+    "end": 259.92,
+    "text": " At the end, a man walks through a deserted street.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 259.92,
+    "end": 262.24,
+    "text": " His face is Norman Reedus.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 262.24,
+    "end": 267.28,
+    "text": " The credits connect the project to Hideo Kojima and Guillermo del Toro.",
+    "average_log_probability": -0.041668439995158804
+  },
+  {
+    "start": 267.28,
+    "end": 268.8,
+    "text": " Then comes Silent Hills.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 269.36,
+    "end": 274.24,
+    "text": " Suddenly, the strange little download is an announcement for something much bigger.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 274.88,
+    "end": 277.6,
+    "text": " That reveal changes your memory of the room.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 277.6,
+    "end": 282.56,
+    "text": " What looked like an unknown studio's experiment is now a demonstration attached",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 282.56,
+    "end": 284.48,
+    "text": " to people with reputations.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 284.48,
+    "end": 289.12,
+    "text": " It's a sales pitch delivered after you've already felt the thing it's selling.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 289.12,
+    "end": 290.88,
+    "text": " No trailer narrator needed.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 290.88,
+    "end": 292.72,
+    "text": " Your nervous system has seen enough.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 293.36,
+    "end": 296.56,
+    "text": " But there's a warning tucked into this excitement.",
+    "average_log_probability": -0.07675738478044294
+  },
+  {
+    "start": 296.56,
+    "end": 299.92,
+    "text": " The teaser says it has no direct relation to the main title,",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 299.92,
+    "end": 304.64,
+    "text": " so we cannot treat the corridor as a slice cut from a finished Silent Hills.",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 304.64,
+    "end": 307.44,
+    "text": " We don't know that the larger game would have kept this house,",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 307.44,
+    "end": 310.24,
+    "text": " this structure, or this exact kind of fear.",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 310.88,
+    "end": 314.24,
+    "text": " What players had was a real, playable experience.",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 314.24,
+    "end": 316.8,
+    "text": " What they were promised was a future project.",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 316.8,
+    "end": 319.92,
+    "text": " Those two things are easy to merge when you're excited.",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 319.92,
+    "end": 323.84,
+    "text": " They become much harder to separate when the future project disappears.",
+    "average_log_probability": -0.04341980713632023
+  },
+  {
+    "start": 324.8,
+    "end": 329.36,
+    "text": " By late April 2015, the news had changed completely.",
+    "average_log_probability": -0.04848437996088773
+  },
+  {
+    "start": 329.36,
+    "end": 335.44,
+    "text": " On April 27, Konami confirmed that the Silent Hills project would not continue.",
+    "average_log_probability": -0.04848437996088773
+  },
+  {
+    "start": 335.44,
+    "end": 338.72,
+    "text": " The same statement described it as embryonic.",
+    "average_log_probability": -0.04848437996088773
+  },
+  {
+    "start": 338.72,
+    "end": 342.88,
+    "text": " That's a pretty substantial detail when this story gets retold",
+    "average_log_probability": -0.04848437996088773
+  },
+  {
+    "start": 342.88,
+    "end": 345.6,
+    "text": " as a finished masterpiece being thrown away.",
+    "average_log_probability": -0.04848437996088773
+  },
+  {
+    "start": 346.24,
+    "end": 348.4,
+    "text": " We can mourn what might have been.",
+    "average_log_probability": -0.04848437996088773
+  },
+  {
+    "start": 348.4,
+    "end": 351.28,
+    "text": " We cannot review a game that never arrived.",
+    "average_log_probability": -0.04848437996088773
+  },
+  {
+    "start": 351.36,
+    "end": 357.44,
+    "text": " There is no completed Silent Hills here for us to compare against the version in everyone's head.",
+    "average_log_probability": -0.10622102310580592
+  },
+  {
+    "start": 357.44,
+    "end": 360.8,
+    "text": " The imaginary version gets to be perfect forever.",
+    "average_log_probability": -0.10622102310580592
+  },
+  {
+    "start": 361.36,
+    "end": 363.76,
+    "text": " Actual games rarely get that luxury.",
+    "average_log_probability": -0.10622102310580592
+  },
+  {
+    "start": 364.32,
+    "end": 367.44,
+    "text": " And we don't need to invent a secret conversation",
+    "average_log_probability": -0.10622102310580592
+  },
+  {
+    "start": 367.44,
+    "end": 371.04,
+    "text": " inside Konami to make the cancellation hurt.",
+    "average_log_probability": -0.10622102310580592
+  },
+  {
+    "start": 371.04,
+    "end": 374.8,
+    "text": " Kojima, Del Toro, Redust, that hallway.",
+    "average_log_probability": -0.10622102310580592
+  },
+  {
+    "start": 375.36,
+    "end": 379.68,
+    "text": " The public had enough pieces to imagine a remarkable collaboration.",
+    "average_log_probability": -0.10622102310580592
+  },
+  {
+    "start": 379.68,
+    "end": 383.04,
+    "text": " The announcement shut down that particular future.",
+    "average_log_probability": -0.04854273796081543
+  },
+  {
+    "start": 383.04,
+    "end": 385.76,
+    "text": " It did not cancel the entire Silent Hill series.",
+    "average_log_probability": -0.04854273796081543
+  },
+  {
+    "start": 386.56,
+    "end": 390.64,
+    "text": " Normally, the teaser could remain as an odd souvenir.",
+    "average_log_probability": -0.04854273796081543
+  },
+  {
+    "start": 390.64,
+    "end": 394.32,
+    "text": " A little demonstration from a project that didn't work out.",
+    "average_log_probability": -0.04854273796081543
+  },
+  {
+    "start": 394.32,
+    "end": 399.04,
+    "text": " You could show a friend, explain the context, and let them experience it.",
+    "average_log_probability": -0.04854273796081543
+  },
+  {
+    "start": 399.04,
+    "end": 402.56,
+    "text": " But a notice had already put a deadline on that possibility.",
+    "average_log_probability": -0.04854273796081543
+  },
+  {
+    "start": 403.36,
+    "end": 408.16,
+    "text": " The notice said PT's distribution would end on April 29.",
+    "average_log_probability": -0.04854273796081543
+  },
+  {
+    "start": 408.16,
+    "end": 410.8,
+    "text": " That date matters, so it is the next step",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 410.8,
+    "end": 414.24,
+    "text": " because these are often squeezed into one event.",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 414.24,
+    "end": 416.8,
+    "text": " First, the teaser left the store.",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 416.8,
+    "end": 421.76,
+    "text": " Then, the normal route for previous downloaders to get it again stopped working too.",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 422.48,
+    "end": 426.4,
+    "text": " Reporting on May 6 described the change in North America.",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 426.4,
+    "end": 428.48,
+    "text": " For a short time after removal,",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 428.48,
+    "end": 432.24,
+    "text": " people who had already downloaded it could still return through their history.",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 432.24,
+    "end": 434.08,
+    "text": " By that report, they couldn't.",
+    "average_log_probability": -0.08300321527046732
+  },
+  {
+    "start": 434.08,
+    "end": 439.68,
+    "text": " Having obtained PT before was no longer the same as having a fresh download available.",
+    "average_log_probability": -0.03379379030554853
+  },
+  {
+    "start": 440.24,
+    "end": 443.68,
+    "text": " That is a very different problem from missing a promotion.",
+    "average_log_probability": -0.03379379030554853
+  },
+  {
+    "start": 443.68,
+    "end": 446.56,
+    "text": " If the game is installed, you can play your copy.",
+    "average_log_probability": -0.03379379030554853
+  },
+  {
+    "start": 446.56,
+    "end": 452.08,
+    "text": " If you delete that installation, the ordinary recovery path you expected may be gone.",
+    "average_log_probability": -0.03379379030554853
+  },
+  {
+    "start": 452.08,
+    "end": 456.96,
+    "text": " A routine storage decision has acquired an unpleasant amount of consequence.",
+    "average_log_probability": -0.03379379030554853
+  },
+  {
+    "start": 457.6,
+    "end": 462.72,
+    "text": " To be precise, Konami did not remotely wipe every installed copy.",
+    "average_log_probability": -0.03379379030554853
+  },
+  {
+    "start": 462.72,
+    "end": 465.28,
+    "text": " PT did not cease to exist.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 465.28,
+    "end": 468.4,
+    "text": " That distinction makes the situation stranger.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 468.4,
+    "end": 472.16,
+    "text": " The experience survived, but access was uneven.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 472.16,
+    "end": 473.84,
+    "text": " The hallway was still there.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 473.84,
+    "end": 476.8,
+    "text": " The door depended on which console you were standing in front of.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 477.76,
+    "end": 484.32,
+    "text": " This is the point where an ordinary console starts to feel like a container for something fragile.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 484.32,
+    "end": 486.8,
+    "text": " Not because the plastic has changed.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 486.8,
+    "end": 488.88,
+    "text": " Because of what's still on the drive.",
+    "average_log_probability": -0.0595700953631325
+  },
+  {
+    "start": 488.88,
+    "end": 495.92,
+    "text": " A digital object, which once seemed endlessly replaceable, suddenly has a very physical address.",
+    "average_log_probability": -0.07621741600334644
+  },
+  {
+    "start": 496.8,
+    "end": 500.0,
+    "text": " Notice how neatly that reverses the original game.",
+    "average_log_probability": -0.07621741600334644
+  },
+  {
+    "start": 500.0,
+    "end": 501.84,
+    "text": " In the hallway, you wanted to leave.",
+    "average_log_probability": -0.07621741600334644
+  },
+  {
+    "start": 502.4,
+    "end": 504.88,
+    "text": " Outside it, people want a way back.",
+    "average_log_probability": -0.07621741600334644
+  },
+  {
+    "start": 504.88,
+    "end": 509.12,
+    "text": " The thing you couldn't escape became the thing you might never get to enter.",
+    "average_log_probability": -0.07621741600334644
+  },
+  {
+    "start": 509.12,
+    "end": 512.96,
+    "text": " There's a pretty good horror story in that, without adding a single ghost.",
+    "average_log_probability": -0.07621741600334644
+  },
+  {
+    "start": 513.68,
+    "end": 516.0,
+    "text": " A recording preserves a lot.",
+    "average_log_probability": -0.07621741600334644
+  },
+  {
+    "start": 516.0,
+    "end": 519.84,
+    "text": " The lighting, the sounds, the surprise at the ending.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 519.84,
+    "end": 522.56,
+    "text": " But the video decides when to turn the corner.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 522.56,
+    "end": 524.24,
+    "text": " Playing asks you to turn it.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 524.24,
+    "end": 526.32,
+    "text": " That hesitation belongs to you.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 526.32,
+    "end": 532.4,
+    "text": " A clip of somebody else being afraid cannot completely preserve the decision that made them afraid.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 533.04,
+    "end": 536.4,
+    "text": " And keeping the software matters for another reason.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 536.4,
+    "end": 538.72,
+    "text": " A recording shows what somebody happened to see.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 539.28,
+    "end": 544.16,
+    "text": " The software may contain something that nobody has looked at properly yet.",
+    "average_log_probability": -0.07441783748050727
+  },
+  {
+    "start": 544.16,
+    "end": 546.88,
+    "text": " In 2019, that difference paid off.",
+    "average_log_probability": -0.08687007952142846
+  },
+  {
+    "start": 547.92,
+    "end": 553.04,
+    "text": " Lance McDonald investigated PT by changing how its camera behaved.",
+    "average_log_probability": -0.08687007952142846
+  },
+  {
+    "start": 553.04,
+    "end": 557.2,
+    "text": " In the sequence he demonstrated, after the flashlight encounter,",
+    "average_log_probability": -0.08687007952142846
+  },
+  {
+    "start": 557.2,
+    "end": 560.56,
+    "text": " Lisa's character model follows behind the player.",
+    "average_log_probability": -0.08687007952142846
+  },
+  {
+    "start": 560.56,
+    "end": 563.04,
+    "text": " The camera normally moves with you.",
+    "average_log_probability": -0.08687007952142846
+  },
+  {
+    "start": 563.04,
+    "end": 568.8,
+    "text": " McDonald separated the viewpoint from that movement and exposed what was happening out of sight.",
+    "average_log_probability": -0.08687007952142846
+  },
+  {
+    "start": 569.36,
+    "end": 573.12,
+    "text": " After that flashlight encounter, the model follows you.",
+    "average_log_probability": -0.08687007952142846
+  },
+  {
+    "start": 573.12,
+    "end": 578.48,
+    "text": " Turn around normally and your viewpoint moves with the character, keeping the trick hidden.",
+    "average_log_probability": -0.04655021749516969
+  },
+  {
+    "start": 578.48,
+    "end": 583.2,
+    "text": " McDonald's detached camera lets us see what an ordinary turn cannot.",
+    "average_log_probability": -0.04655021749516969
+  },
+  {
+    "start": 583.76,
+    "end": 586.64,
+    "text": " The distinction doesn't make it less creepy.",
+    "average_log_probability": -0.04655021749516969
+  },
+  {
+    "start": 586.64,
+    "end": 590.88,
+    "text": " You're looking at a system designed around your limited viewpoint.",
+    "average_log_probability": -0.04655021749516969
+  },
+  {
+    "start": 590.88,
+    "end": 596.64,
+    "text": " Some of the unsettling shadows and sounds now have a visible explanation.",
+    "average_log_probability": -0.04655021749516969
+  },
+  {
+    "start": 596.64,
+    "end": 602.64,
+    "text": " The feeling that something is nearby has an actual piece of game machinery behind it.",
+    "average_log_probability": -0.04655021749516969
+  },
+  {
+    "start": 602.72,
+    "end": 604.64,
+    "text": " Literally behind it, in this case.",
+    "average_log_probability": -0.07044928823853587
+  },
+  {
+    "start": 605.6,
+    "end": 610.48,
+    "text": " Four years after the cancellation, the teaser still had a reveal left.",
+    "average_log_probability": -0.07044928823853587
+  },
+  {
+    "start": 610.48,
+    "end": 614.24,
+    "text": " A new one came from looking at the old software differently.",
+    "average_log_probability": -0.07044928823853587
+  },
+  {
+    "start": 614.24,
+    "end": 619.44,
+    "text": " That is what gets lost when we reduce preservation to keeping a video of the ending.",
+    "average_log_probability": -0.07044928823853587
+  },
+  {
+    "start": 619.44,
+    "end": 622.24,
+    "text": " Sometimes the interesting part isn't in the ending.",
+    "average_log_probability": -0.07044928823853587
+  },
+  {
+    "start": 622.24,
+    "end": 623.6,
+    "text": " It's just outside the frame.",
+    "average_log_probability": -0.07044928823853587
+  },
+  {
+    "start": 624.48,
+    "end": 627.12,
+    "text": " Then the next console generation arrived.",
+    "average_log_probability": -0.07044928823853587
+  },
+  {
+    "start": 627.12,
+    "end": 633.68,
+    "text": " In 2020, reviewers reported that PT could initially be transferred to early PlayStation",
+    "average_log_probability": -0.07023794637931573
+  },
+  {
+    "start": 633.68,
+    "end": 636.4,
+    "text": " 5 review hardware and played there.",
+    "average_log_probability": -0.07023794637931573
+  },
+  {
+    "start": 636.4,
+    "end": 640.08,
+    "text": " For a moment, the hallway appeared to have made the jump.",
+    "average_log_probability": -0.07023794637931573
+  },
+  {
+    "start": 640.08,
+    "end": 641.68,
+    "text": " Later, that stopped working.",
+    "average_log_probability": -0.07023794637931573
+  },
+  {
+    "start": 642.32,
+    "end": 646.48,
+    "text": " Sony told Polygon that blocking it was a publisher decision.",
+    "average_log_probability": -0.07023794637931573
+  },
+  {
+    "start": 646.48,
+    "end": 650.72,
+    "text": " Buying a newer console hadn't opened a permanent way back into the hallway.",
+    "average_log_probability": -0.07023794637931573
+  },
+  {
+    "start": 651.36,
+    "end": 654.32,
+    "text": " Think about the expectation being interrupted.",
+    "average_log_probability": -0.07023794637931573
+  },
+  {
+    "start": 654.4,
+    "end": 657.92,
+    "text": " A new console is supposed to move your library forward.",
+    "average_log_probability": -0.06421163432545714
+  },
+  {
+    "start": 657.92,
+    "end": 663.36,
+    "text": " In this case, the surviving installation on the older machine remained important.",
+    "average_log_probability": -0.06421163432545714
+  },
+  {
+    "start": 663.36,
+    "end": 668.72,
+    "text": " Upgrading the hardware and preserving this experience were no longer automatically the",
+    "average_log_probability": -0.06421163432545714
+  },
+  {
+    "start": 668.72,
+    "end": 669.36,
+    "text": " same thing.",
+    "average_log_probability": -0.06421163432545714
+  },
+  {
+    "start": 670.08,
+    "end": 673.52,
+    "text": " Those were tests on review hardware in 2020.",
+    "average_log_probability": -0.06421163432545714
+  },
+  {
+    "start": 673.52,
+    "end": 677.36,
+    "text": " Fan recreations and recovery methods are another story.",
+    "average_log_probability": -0.06421163432545714
+  },
+  {
+    "start": 677.36,
+    "end": 681.28,
+    "text": " The ordinary option, sending a friend to store a link, was gone.",
+    "average_log_probability": -0.06421163432545714
+  },
+  {
+    "start": 682.16,
+    "end": 686.0,
+    "text": " By now, there are really two PT stories.",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 686.0,
+    "end": 688.0,
+    "text": " One is the thing people played.",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 688.0,
+    "end": 692.4,
+    "text": " A finite set of rooms, tricks, sounds, and puzzles.",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 692.4,
+    "end": 695.76,
+    "text": " The other is the future people built around it.",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 695.76,
+    "end": 697.12,
+    "text": " Silent Hills.",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 697.12,
+    "end": 700.8,
+    "text": " Imagine from a few names and a very effective nightmare.",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 701.44,
+    "end": 704.24,
+    "text": " The second story can swallow the first.",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 704.24,
+    "end": 709.92,
+    "text": " Every time somebody calls the canceled project the greatest horror game we never got,",
+    "average_log_probability": -0.11556239018314764
+  },
+  {
+    "start": 709.92,
+    "end": 712.64,
+    "text": " the imagined version gets a little bigger.",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 712.64,
+    "end": 717.44,
+    "text": " Meanwhile, the actual teaser is sitting there doing something more interesting than being",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 717.44,
+    "end": 718.0,
+    "text": " a promise.",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 718.56,
+    "end": 721.2,
+    "text": " It works as an experience you can discuss on its own.",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 721.84,
+    "end": 727.04,
+    "text": " The corridor, the unreliable familiarity, the need to look closer.",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 727.04,
+    "end": 729.04,
+    "text": " Those are concrete choices.",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 729.04,
+    "end": 732.16,
+    "text": " You can argue about whether the puzzles are satisfying.",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 732.16,
+    "end": 736.96,
+    "text": " You can find the atmosphere effective and the final triggers frustrating.",
+    "average_log_probability": -0.06614329971765218
+  },
+  {
+    "start": 736.96,
+    "end": 741.76,
+    "text": " It doesn't have to be flawless to deserve a future beyond somebody's memory of it.",
+    "average_log_probability": -0.07880941602621186
+  },
+  {
+    "start": 742.32,
+    "end": 748.24,
+    "text": " And the camera investigation gives us a better reason to care than nostalgia alone.",
+    "average_log_probability": -0.07880941602621186
+  },
+  {
+    "start": 748.24,
+    "end": 754.32,
+    "text": " Preserving an interactive work keeps the possibility of discovering something new in it.",
+    "average_log_probability": -0.07880941602621186
+  },
+  {
+    "start": 754.32,
+    "end": 757.44,
+    "text": " Even when the advertising campaign is over.",
+    "average_log_probability": -0.07880941602621186
+  },
+  {
+    "start": 757.44,
+    "end": 760.8,
+    "text": " Even when the thing being advertised is never coming out.",
+    "average_log_probability": -0.07880941602621186
+  },
+  {
+    "start": 761.76,
+    "end": 764.32,
+    "text": " PT began by hiding what it was.",
+    "average_log_probability": -0.07880941602621186
+  },
+  {
+    "start": 764.32,
+    "end": 770.88,
+    "text": " It ended up showing us how easily access to a digital experience can become uncertain.",
+    "average_log_probability": -0.06694115145822589
+  },
+  {
+    "start": 770.88,
+    "end": 773.68,
+    "text": " The mystery inside the house had an answer.",
+    "average_log_probability": -0.06694115145822589
+  },
+  {
+    "start": 773.68,
+    "end": 779.2,
+    "text": " The fate of the project outside, it was something players couldn't solve by staring at another",
+    "average_log_probability": -0.06694115145822589
+  },
+  {
+    "start": 779.2,
+    "end": 779.84,
+    "text": " photograph.",
+    "average_log_probability": -0.06694115145822589
+  },
+  {
+    "start": 780.56,
+    "end": 783.12,
+    "text": " That is why the deletion story sticks.",
+    "average_log_probability": -0.06694115145822589
+  },
+  {
+    "start": 783.12,
+    "end": 785.76,
+    "text": " Not because every copy was erased.",
+    "average_log_probability": -0.06694115145822589
+  },
+  {
+    "start": 785.76,
+    "end": 789.76,
+    "text": " Because a game could still exist and still be out of reach.",
+    "average_log_probability": -0.06694115145822589
+  },
+  {
+    "start": 789.76,
+    "end": 795.76,
+    "text": " Its survival depended, in part, on people keeping an old installation instead of trusting",
+    "average_log_probability": -0.07935473547186903
+  },
+  {
+    "start": 795.76,
+    "end": 798.16,
+    "text": " that another download would always be waiting.",
+    "average_log_probability": -0.07935473547186903
+  },
+  {
+    "start": 798.72,
+    "end": 802.16,
+    "text": " The promise of Silent Hills remains a what if.",
+    "average_log_probability": -0.07935473547186903
+  },
+  {
+    "start": 802.16,
+    "end": 808.96,
+    "text": " The teaser is something people actually made, actually played, and kept finding things inside.",
+    "average_log_probability": -0.07935473547186903
+  },
+  {
+    "start": 808.96,
+    "end": 814.24,
+    "text": " It deserves to be remembered as more than a trailer for an imaginary perfect game.",
+    "average_log_probability": -0.07935473547186903
+  },
+  {
+    "start": 814.88,
+    "end": 817.28,
+    "text": " So here's the question I'd leave in that hallway.",
+    "average_log_probability": -0.07935473547186903
+  },
+  {
+    "start": 817.92,
+    "end": 823.28,
+    "text": " If you could preserve only one thing, would you keep the original playable experience",
+    "average_log_probability": -0.15337858729892306
+  },
+  {
+    "start": 823.28,
+    "end": 828.32,
+    "text": " or accept a perfect recording of everything we currently know is in it?",
+    "average_log_probability": -0.15337858729892306
+  },
+  {
+    "start": 828.32,
+    "end": 831.04,
+    "text": " After Lisa, I'm keeping the controller.",
+    "average_log_probability": -0.15337858729892306
+  }
+]

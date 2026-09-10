@@ -1,0 +1,197 @@
+{
+  "id": "c01p03",
+  "text": "And years after the game it advertised was cancelled, someone moved the camera where you were never meant to look. There was still something behind you.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c01p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c01p03.wav",
+  "duration": 8.616,
+  "words": [
+    {
+      "id": "w0",
+      "text": "And",
+      "start": 0.106375,
+      "end": 0.239333
+    },
+    {
+      "id": "w1",
+      "text": "years",
+      "start": 0.239375,
+      "end": 0.758
+    },
+    {
+      "id": "w2",
+      "text": "after",
+      "start": 0.771291,
+      "end": 0.997332
+    },
+    {
+      "id": "w3",
+      "text": "the",
+      "start": 0.997333,
+      "end": 1.077124
+    },
+    {
+      "id": "w4",
+      "text": "game",
+      "start": 1.090416,
+      "end": 1.356374
+    },
+    {
+      "id": "w5",
+      "text": "it",
+      "start": 1.356375,
+      "end": 1.409583
+    },
+    {
+      "id": "w6",
+      "text": "advertised",
+      "start": 1.409583,
+      "end": 2.127666
+    },
+    {
+      "id": "w7",
+      "text": "was",
+      "start": 2.127666,
+      "end": 2.260624
+    },
+    {
+      "id": "w8",
+      "text": "cancelled,",
+      "start": 2.273916,
+      "end": 2.845707
+    },
+    {
+      "id": "w9",
+      "text": "someone",
+      "start": 3.271291,
+      "end": 3.643624
+    },
+    {
+      "id": "w10",
+      "text": "moved",
+      "start": 3.643625,
+      "end": 3.962791
+    },
+    {
+      "id": "w11",
+      "text": "the",
+      "start": 3.976083,
+      "end": 4.055833
+    },
+    {
+      "id": "w12",
+      "text": "camera",
+      "start": 4.055833,
+      "end": 4.614333
+    },
+    {
+      "id": "w13",
+      "text": "where",
+      "start": 4.813833,
+      "end": 4.960124
+    },
+    {
+      "id": "w14",
+      "text": "you",
+      "start": 4.973416,
+      "end": 5.066499
+    },
+    {
+      "id": "w15",
+      "text": "were",
+      "start": 5.0665,
+      "end": 5.146291
+    },
+    {
+      "id": "w16",
+      "text": "never",
+      "start": 5.159583,
+      "end": 5.518624
+    },
+    {
+      "id": "w17",
+      "text": "meant",
+      "start": 5.518625,
+      "end": 5.757958
+    },
+    {
+      "id": "w18",
+      "text": "to",
+      "start": 5.757958,
+      "end": 5.837749
+    },
+    {
+      "id": "w19",
+      "text": "look.",
+      "start": 5.83775,
+      "end": 6.263291
+    },
+    {
+      "id": "w20",
+      "text": "There",
+      "start": 6.702125,
+      "end": 6.755333
+    },
+    {
+      "id": "w21",
+      "text": "was",
+      "start": 6.755333,
+      "end": 6.874999
+    },
+    {
+      "id": "w22",
+      "text": "still",
+      "start": 6.888291,
+      "end": 7.234041
+    },
+    {
+      "id": "w23",
+      "text": "something",
+      "start": 7.234041,
+      "end": 7.579791
+    },
+    {
+      "id": "w24",
+      "text": "behind",
+      "start": 7.579791,
+      "end": 8.005332
+    },
+    {
+      "id": "w25",
+      "text": "you.",
+      "start": 8.005333,
+      "end": 8.257999
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.29",
+      "input_tp": "-6.14",
+      "input_lra": "1.60",
+      "input_thresh": "-32.23",
+      "output_i": "-15.58",
+      "output_tp": "-1.50",
+      "output_lra": "0.60",
+      "output_thresh": "-26.19",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.42"
+    },
+    "output": {
+      "input_i": "-21.29",
+      "input_tp": "-6.14",
+      "input_lra": "1.60",
+      "input_thresh": "-32.23",
+      "output_i": "-15.92",
+      "output_tp": "-1.50",
+      "output_lra": "0.70",
+      "output_thresh": "-26.53",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.08"
+    }
+  },
+  "fingerprint": "d1f6c71c262d3a0303426cae38ab83bc080e74afcae93201e0c0bdbf839cd92d"
+}

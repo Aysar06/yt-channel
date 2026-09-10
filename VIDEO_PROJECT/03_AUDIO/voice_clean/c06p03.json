@@ -1,0 +1,329 @@
+{
+  "id": "c06p03",
+  "text": "And we don't need to invent a secret conversation inside Konami to make the cancellation hurt. Kojima, del Toro, Reedus, that hallway: the public had enough pieces to imagine a remarkable collaboration. The announcement shut down that particular future. It did not cancel the entire Silent Hill series.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c06p03.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c06p03.wav",
+  "duration": 21.96,
+  "words": [
+    {
+      "id": "w0",
+      "text": "And",
+      "start": 0.106375,
+      "end": 0.186166
+    },
+    {
+      "id": "w1",
+      "text": "we",
+      "start": 0.186166,
+      "end": 0.279249
+    },
+    {
+      "id": "w2",
+      "text": "don't",
+      "start": 0.292541,
+      "end": 0.465416
+    },
+    {
+      "id": "w3",
+      "text": "need",
+      "start": 0.465416,
+      "end": 0.651582
+    },
+    {
+      "id": "w4",
+      "text": "to",
+      "start": 0.664875,
+      "end": 0.757958
+    },
+    {
+      "id": "w5",
+      "text": "invent",
+      "start": 0.757958,
+      "end": 1.263291
+    },
+    {
+      "id": "w6",
+      "text": "a",
+      "start": 1.382958,
+      "end": 1.449458
+    },
+    {
+      "id": "w7",
+      "text": "secret",
+      "start": 1.569166,
+      "end": 2.114374
+    },
+    {
+      "id": "w8",
+      "text": "conversation",
+      "start": 2.114375,
+      "end": 2.992041
+    },
+    {
+      "id": "w9",
+      "text": "inside",
+      "start": 3.0585,
+      "end": 3.710083
+    },
+    {
+      "id": "w10",
+      "text": "Konami",
+      "start": 3.710125,
+      "end": 4.361708
+    },
+    {
+      "id": "w11",
+      "text": "to",
+      "start": 4.667541,
+      "end": 4.760624
+    },
+    {
+      "id": "w12",
+      "text": "make",
+      "start": 4.760625,
+      "end": 5.066458
+    },
+    {
+      "id": "w13",
+      "text": "the",
+      "start": 5.0665,
+      "end": 5.133
+    },
+    {
+      "id": "w14",
+      "text": "cancellation",
+      "start": 5.146291,
+      "end": 5.864374
+    },
+    {
+      "id": "w15",
+      "text": "hurt.",
+      "start": 5.877666,
+      "end": 6.316499
+    },
+    {
+      "id": "w16",
+      "text": "Kojima,",
+      "start": 6.728708,
+      "end": 7.393583
+    },
+    {
+      "id": "w17",
+      "text": "del",
+      "start": 7.699458,
+      "end": 7.952124
+    },
+    {
+      "id": "w18",
+      "text": "Toro,",
+      "start": 7.952125,
+      "end": 8.510625
+    },
+    {
+      "id": "w19",
+      "text": "Reedus,",
+      "start": 8.803208,
+      "end": 9.468083
+    },
+    {
+      "id": "w20",
+      "text": "that",
+      "start": 9.694166,
+      "end": 9.893624
+    },
+    {
+      "id": "w21",
+      "text": "hallway:",
+      "start": 9.906916,
+      "end": 10.571791
+    },
+    {
+      "id": "w22",
+      "text": "the",
+      "start": 11.090416,
+      "end": 11.170207
+    },
+    {
+      "id": "w23",
+      "text": "public",
+      "start": 11.1835,
+      "end": 11.569125
+    },
+    {
+      "id": "w24",
+      "text": "had",
+      "start": 11.569166,
+      "end": 11.755332
+    },
+    {
+      "id": "w25",
+      "text": "enough",
+      "start": 11.768625,
+      "end": 12.167541
+    },
+    {
+      "id": "w26",
+      "text": "pieces",
+      "start": 12.167541,
+      "end": 12.659582
+    },
+    {
+      "id": "w27",
+      "text": "to",
+      "start": 12.659583,
+      "end": 12.819166
+    },
+    {
+      "id": "w28",
+      "text": "imagine",
+      "start": 12.819166,
+      "end": 13.377666
+    },
+    {
+      "id": "w29",
+      "text": "a",
+      "start": 13.390958,
+      "end": 13.457458
+    },
+    {
+      "id": "w30",
+      "text": "remarkable",
+      "start": 13.457458,
+      "end": 14.175541
+    },
+    {
+      "id": "w31",
+      "text": "collaboration.",
+      "start": 14.175541,
+      "end": 15.053207
+    },
+    {
+      "id": "w32",
+      "text": "The",
+      "start": 15.478708,
+      "end": 15.545208
+    },
+    {
+      "id": "w33",
+      "text": "announcement",
+      "start": 15.545208,
+      "end": 16.090416
+    },
+    {
+      "id": "w34",
+      "text": "shut",
+      "start": 16.103708,
+      "end": 16.436166
+    },
+    {
+      "id": "w35",
+      "text": "down",
+      "start": 16.436166,
+      "end": 16.874999
+    },
+    {
+      "id": "w36",
+      "text": "that",
+      "start": 17.127666,
+      "end": 17.287249
+    },
+    {
+      "id": "w37",
+      "text": "particular",
+      "start": 17.28725,
+      "end": 17.792541
+    },
+    {
+      "id": "w38",
+      "text": "future.",
+      "start": 17.792541,
+      "end": 18.404249
+    },
+    {
+      "id": "w39",
+      "text": "It",
+      "start": 18.829791,
+      "end": 18.882957
+    },
+    {
+      "id": "w40",
+      "text": "did",
+      "start": 18.882958,
+      "end": 18.989333
+    },
+    {
+      "id": "w41",
+      "text": "not",
+      "start": 18.989375,
+      "end": 19.202125
+    },
+    {
+      "id": "w42",
+      "text": "cancel",
+      "start": 19.202125,
+      "end": 19.65425
+    },
+    {
+      "id": "w43",
+      "text": "the",
+      "start": 19.65425,
+      "end": 19.734041
+    },
+    {
+      "id": "w44",
+      "text": "entire",
+      "start": 19.734041,
+      "end": 20.319166
+    },
+    {
+      "id": "w45",
+      "text": "Silent",
+      "start": 20.319166,
+      "end": 20.718082
+    },
+    {
+      "id": "w46",
+      "text": "Hill",
+      "start": 20.731375,
+      "end": 20.890958
+    },
+    {
+      "id": "w47",
+      "text": "series.",
+      "start": 20.890958,
+      "end": 21.582458
+    }
+  ],
+  "gap_after": 0.16,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-21.30",
+      "input_tp": "-4.53",
+      "input_lra": "2.70",
+      "input_thresh": "-31.72",
+      "output_i": "-16.83",
+      "output_tp": "-1.50",
+      "output_lra": "2.30",
+      "output_thresh": "-27.29",
+      "normalization_type": "dynamic",
+      "target_offset": "0.83"
+    },
+    "output": {
+      "input_i": "-21.30",
+      "input_tp": "-4.53",
+      "input_lra": "2.70",
+      "input_thresh": "-31.72",
+      "output_i": "-16.10",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-26.56",
+      "normalization_type": "dynamic",
+      "target_offset": "0.10"
+    }
+  },
+  "fingerprint": "5bb1d3fc55d31fbcc82b4844698c3c017d6730954f1b7ca1a77732aa996e67b3"
+}

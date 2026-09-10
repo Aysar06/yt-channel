@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 831.25,
+  "video": {
+    "codec": "h264",
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "pixel_format": "yuv420p",
+    "bit_rate": "6416686"
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "integrated_lufs": -16.13,
+    "true_peak_dbtp": -4.38
+  },
+  "full_decode_exit_code": 0,
+  "sampled_shots": 142,
+  "subtitle_cues": 269,
+  "subtitle_timing_valid": true,
+  "black_events": [],
+  "silence_events": [],
+  "contact_sheet_visual_review": "All 142 encoded shot midpoints inspected. No missing image frames or clipped editorial text found.",
+  "human_listening_review": false,
+  "file_bytes": 687187342
+}

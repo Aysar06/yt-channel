@@ -1,0 +1,353 @@
+{
+  "id": "c09p04",
+  "text": "Four years after the cancellation, the teaser still had a reveal left. A new one came from looking at the old software differently. That is what gets lost when we reduce preservation to keeping a video of the ending. Sometimes the interesting part isn't in the ending. It's just outside the frame.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "-6%",
+  "pitch": "+0Hz",
+  "raw": "VIDEO_PROJECT/03_AUDIO/voice_raw/c09p04.mp3",
+  "clean": "VIDEO_PROJECT/03_AUDIO/voice_clean/c09p04.wav",
+  "duration": 18.648,
+  "words": [
+    {
+      "id": "w0",
+      "text": "Four",
+      "start": 0.172875,
+      "end": 0.372333
+    },
+    {
+      "id": "w1",
+      "text": "years",
+      "start": 0.372333,
+      "end": 0.877666
+    },
+    {
+      "id": "w2",
+      "text": "after",
+      "start": 0.890958,
+      "end": 1.117041
+    },
+    {
+      "id": "w3",
+      "text": "the",
+      "start": 1.117041,
+      "end": 1.170249
+    },
+    {
+      "id": "w4",
+      "text": "cancellation,",
+      "start": 1.1835,
+      "end": 1.941458
+    },
+    {
+      "id": "w5",
+      "text": "the",
+      "start": 2.327125,
+      "end": 2.420208
+    },
+    {
+      "id": "w6",
+      "text": "teaser",
+      "start": 2.4335,
+      "end": 2.872333
+    },
+    {
+      "id": "w7",
+      "text": "still",
+      "start": 2.885625,
+      "end": 3.377666
+    },
+    {
+      "id": "w8",
+      "text": "had",
+      "start": 3.390958,
+      "end": 3.710124
+    },
+    {
+      "id": "w9",
+      "text": "a",
+      "start": 3.723416,
+      "end": 3.736707
+    },
+    {
+      "id": "w10",
+      "text": "reveal",
+      "start": 3.736708,
+      "end": 4.228749
+    },
+    {
+      "id": "w11",
+      "text": "left.",
+      "start": 4.242041,
+      "end": 4.720749
+    },
+    {
+      "id": "w12",
+      "text": "A",
+      "start": 5.146291,
+      "end": 5.186166
+    },
+    {
+      "id": "w13",
+      "text": "new",
+      "start": 5.199458,
+      "end": 5.452124
+    },
+    {
+      "id": "w14",
+      "text": "one",
+      "start": 5.452125,
+      "end": 5.771291
+    },
+    {
+      "id": "w15",
+      "text": "came",
+      "start": 5.784583,
+      "end": 6.023958
+    },
+    {
+      "id": "w16",
+      "text": "from",
+      "start": 6.03725,
+      "end": 6.25
+    },
+    {
+      "id": "w17",
+      "text": "looking",
+      "start": 6.25,
+      "end": 6.609041
+    },
+    {
+      "id": "w18",
+      "text": "at",
+      "start": 6.622333,
+      "end": 6.702124
+    },
+    {
+      "id": "w19",
+      "text": "the",
+      "start": 6.702125,
+      "end": 6.8085
+    },
+    {
+      "id": "w20",
+      "text": "old",
+      "start": 6.888291,
+      "end": 7.167541
+    },
+    {
+      "id": "w21",
+      "text": "software",
+      "start": 7.180833,
+      "end": 7.805833
+    },
+    {
+      "id": "w22",
+      "text": "differently.",
+      "start": 7.819166,
+      "end": 8.523957
+    },
+    {
+      "id": "w23",
+      "text": "That",
+      "start": 8.96275,
+      "end": 9.069125
+    },
+    {
+      "id": "w24",
+      "text": "is",
+      "start": 9.082458,
+      "end": 9.175541
+    },
+    {
+      "id": "w25",
+      "text": "what",
+      "start": 9.175541,
+      "end": 9.308499
+    },
+    {
+      "id": "w26",
+      "text": "gets",
+      "start": 9.3085,
+      "end": 9.494666
+    },
+    {
+      "id": "w27",
+      "text": "lost",
+      "start": 9.494666,
+      "end": 10.199457
+    },
+    {
+      "id": "w28",
+      "text": "when",
+      "start": 10.27925,
+      "end": 10.425541
+    },
+    {
+      "id": "w29",
+      "text": "we",
+      "start": 10.425541,
+      "end": 10.585124
+    },
+    {
+      "id": "w30",
+      "text": "reduce",
+      "start": 10.585125,
+      "end": 11.050541
+    },
+    {
+      "id": "w31",
+      "text": "preservation",
+      "start": 11.050541,
+      "end": 11.835124
+    },
+    {
+      "id": "w32",
+      "text": "to",
+      "start": 12.007958,
+      "end": 12.101041
+    },
+    {
+      "id": "w33",
+      "text": "keeping",
+      "start": 12.101083,
+      "end": 12.446791
+    },
+    {
+      "id": "w34",
+      "text": "a",
+      "start": 12.446791,
+      "end": 12.486666
+    },
+    {
+      "id": "w35",
+      "text": "video",
+      "start": 12.486708,
+      "end": 12.965416
+    },
+    {
+      "id": "w36",
+      "text": "of",
+      "start": 12.978708,
+      "end": 13.085083
+    },
+    {
+      "id": "w37",
+      "text": "the",
+      "start": 13.085125,
+      "end": 13.164875
+    },
+    {
+      "id": "w38",
+      "text": "ending.",
+      "start": 13.164875,
+      "end": 13.656916
+    },
+    {
+      "id": "w39",
+      "text": "Sometimes",
+      "start": 14.109041,
+      "end": 14.521291
+    },
+    {
+      "id": "w40",
+      "text": "the",
+      "start": 14.534583,
+      "end": 14.601083
+    },
+    {
+      "id": "w41",
+      "text": "interesting",
+      "start": 14.601083,
+      "end": 15.079791
+    },
+    {
+      "id": "w42",
+      "text": "part",
+      "start": 15.093083,
+      "end": 15.438833
+    },
+    {
+      "id": "w43",
+      "text": "isn't",
+      "start": 15.5585,
+      "end": 15.864333
+    },
+    {
+      "id": "w44",
+      "text": "in",
+      "start": 15.877666,
+      "end": 15.970749
+    },
+    {
+      "id": "w45",
+      "text": "the",
+      "start": 15.984041,
+      "end": 16.037249
+    },
+    {
+      "id": "w46",
+      "text": "ending.",
+      "start": 16.03725,
+      "end": 16.502666
+    },
+    {
+      "id": "w47",
+      "text": "It's",
+      "start": 16.9415,
+      "end": 17.021291
+    },
+    {
+      "id": "w48",
+      "text": "just",
+      "start": 17.034583,
+      "end": 17.234041
+    },
+    {
+      "id": "w49",
+      "text": "outside",
+      "start": 17.234041,
+      "end": 17.752666
+    },
+    {
+      "id": "w50",
+      "text": "the",
+      "start": 17.752666,
+      "end": 17.805874
+    },
+    {
+      "id": "w51",
+      "text": "frame.",
+      "start": 17.819166,
+      "end": 18.257999
+    }
+  ],
+  "gap_after": 0.45,
+  "punctuation_match": 1.0,
+  "loudness": {
+    "input": {
+      "input_i": "-20.77",
+      "input_tp": "-3.02",
+      "input_lra": "3.50",
+      "input_thresh": "-31.72",
+      "output_i": "-16.42",
+      "output_tp": "-1.50",
+      "output_lra": "2.10",
+      "output_thresh": "-27.28",
+      "normalization_type": "dynamic",
+      "target_offset": "0.42"
+    },
+    "output": {
+      "input_i": "-20.77",
+      "input_tp": "-3.02",
+      "input_lra": "3.50",
+      "input_thresh": "-31.72",
+      "output_i": "-16.07",
+      "output_tp": "-1.50",
+      "output_lra": "2.20",
+      "output_thresh": "-26.90",
+      "normalization_type": "dynamic",
+      "target_offset": "0.07"
+    }
+  },
+  "fingerprint": "c9c2fc83d7e7071263f4fcd8a5ce925a3aa33645f23330222741950891b4b47a"
+}
